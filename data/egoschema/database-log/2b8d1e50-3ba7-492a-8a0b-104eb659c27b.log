@@ -1,0 +1,540 @@
+1 #O person B holds the card
+
+
+2 #O A woman X holds the pen
+
+
+3 #O woman X checks the card.
+
+
+4 #O person X checks a card.
+
+
+5 #O woman X holds a booklet
+
+
+6 #O person A  opens the card
+
+
+7 #C C picks a paper from the keyboard 
+
+
+8 #C C uses laptop
+
+
+9 #C C operates the laptop
+
+
+10 #C C scrolls on the laptop
+
+
+11 #C C uses the laptop
+
+
+12 #C C presses keyboard
+
+
+13 #C C operates the computer
+
+
+14 #O person Y holds a pen
+
+
+15 #C C opens the packet of the card.
+
+
+16 #C C touches a keyboard
+
+
+17 #C C uses laptop
+
+
+18 #O man X operates the desktop
+
+
+19 #C C touches keyboard
+
+
+20 #C C operates the computer
+
+
+21 #C C uses a laptop
+
+
+22 #C C holds a paper
+
+
+23 #C C holds a card
+
+
+24 #C C holds a pen in hand
+
+
+25 #O person X holds the power bank.
+
+
+26 #O Woman B Looks at the shelf
+
+
+27 #O woman X looks at the guitar.
+
+
+28 #O person X holds the box
+
+
+29 #O woman X picks the music from the stand
+
+
+30 #C C looks at the computer
+
+
+31 #O Woman A Moves the pen
+
+
+32 #O Woman A picks a speaker
+
+
+33 #O person Y adjusts the papers.
+
+
+34 #O woman X points at a paper
+
+
+35 #O person X holds the paper
+
+
+36 #O person Q holds the box
+
+
+37 #O person Y holds the paper.
+
+
+38 #C C checks the computer
+
+
+39 #C C holds the paper.
+
+
+40 #C C looks at the phone
+
+
+41 #O person X holds the card.
+
+
+42 #C C opens the box
+
+
+43 #C C holds the card
+
+
+44 #O person X holds the phone
+
+
+45 #O person X picks the phone
+
+
+46 #C C  holds the cards
+
+
+47 #C C holds the card
+
+
+48 #C C picks the paper
+
+
+49 #C C picks the  mouse 
+
+
+50 #C C puts the hand in his pocket
+
+
+51 #C C wipes the hands on the shirt
+
+
+52 #C C holds the card
+
+
+53 #O woman X picks the card
+
+
+54 #O woman X holds a bottle
+
+
+55 #O person Q picks a box of brazier
+
+
+56 #O woman X moves the brush
+
+
+57 #O woman X holds a container
+
+
+58 #O woman J picks a glass from the tray
+
+
+59 #O person T picks the cup of ice cream
+
+
+60 #O Woman Y Picks a camera
+
+
+61 #C C looks around the house
+
+
+62 #O A woman Y drops a fabric
+
+
+63 #O a girl X places a piece of cloth on the floor
+
+
+64 #C C looks at the shoes
+
+
+65 #O woman X picks a phone from the table
+
+
+66 #C C separates the air cleaner cable
+
+
+67 #C C fixes the star mini knife 
+
+
+68 #C C picks the charger
+
+
+69 #C C puts the cord in the socket
+
+
+70 #C C moves the computer with the right hand
+
+
+71 #X person o picks up the paper
+
+
+72 #O man T picks a black phone from the stand
+
+
+73 #O A woman K holds a box
+
+
+74 #O woman K holds a box
+
+
+75 #O woman K holds a box
+
+
+76 #O a woman P holds a cup
+
+
+77 #O woman K walks to the wall
+
+
+78 #O person X holds  a box of keys
+
+
+79 #C C picks a charger
+
+
+80 #C C touches the laptop
+
+
+81 #C C pulls out cable
+
+
+82 #C C pulls cables
+
+
+83 #C C holds the speaker
+
+
+84 #C C removes a cable from the cable
+
+
+85 #C C connects the cable with the cable
+
+
+86 #C C connects the cable to the cable connector
+
+
+87 #C C picks the cable
+
+
+88 #C C opens the strip lights
+
+
+89 #C C picks a cable
+
+
+90 #C C attaches the cable with a cable
+
+
+91 #C C fixes the cables on the cable in the socket
+
+
+92 #C C opens a cable
+
+
+93 #C C inserts cable on the usb port
+
+
+94 #C C picks a cable
+
+
+95 #C C picks a cable
+
+
+96 #C C puts the cables in the earphones
+
+
+97 #C C picks the cable
+
+
+98 #C C fixes the wire on the adapter
+
+
+99 #C C holds the laptop charger
+
+
+100 #C C moves the head down
+
+
+101 #C C picks up the charger
+
+
+102 #C C touches the wires on the table
+
+
+103 #C C unscrews the cable from the cable holder
+
+
+104 #C C fixes the cable on the laptop
+
+
+105 #C C removes the rubber from the charger
+
+
+106 #C C picks the charger 
+
+
+107 #C C  pulls the cable
+
+
+108 #C C picks the charger
+
+
+109 #C C picks the laptop
+
+
+110 #C C fixes the cable
+
+
+111 #C C  adjusts the cable
+
+
+112 #C C touches the laptop 
+
+
+113 #C C removes a cable from the table
+
+
+114 #C C switches on the router
+
+
+115 #C C holds the table
+
+
+116 #C C touches a power cable 
+
+
+117 #C C moves the hand.
+
+
+118 #C C puts the laptop charger in the power cable
+
+
+119 #C C holds the laptop charger
+
+
+120 #C C touches the air compressor
+
+
+121 #C C holds the electric socket 
+
+
+122 #C C holds the charger
+
+
+123 #C C operates the computer
+
+
+124 #C C operates the computer
+
+
+125 #C C operates the desktop
+
+
+126 #C C uses the keyboard 
+
+
+127 #C C presses the keyboard
+
+
+128 #C C operates the keyboard
+
+
+129 #C C operates a computer
+
+
+130 #C C picks a guitar
+
+
+131 #C C picks a phone
+
+
+132 #C C moves a black shelf
+
+
+133 #C C pushes the back of the cabinet
+
+
+134 #C C picks the guitar
+
+
+135 #C C picks a charger
+
+
+136 #O A woman X holds the microphone
+
+
+137 #O person X puts hands together
+
+
+138 #C C switches the mouse
+
+
+139 #C C looks at the screw gun
+
+
+140 #C C removes the cable from the laptop 
+
+
+141 #C C holds the cable
+
+
+142 #O woman Y picks a speaker
+
+
+143 #C C cuts the cable
+
+
+144 #O woman X drops the cable
+
+
+145 #C C holds the speaker
+
+
+146 #C C opens the metal box
+
+
+147 #C C holds the cables
+
+
+148 #C C picks the charger
+
+
+149 #C C presses the laptop
+
+
+150 #C C holds a charger
+
+
+151 #C C holds the guitar
+
+
+152 #C C puts a cable on the mixer
+
+
+153 #C C drops the phone on a lap
+
+
+154 #C C touches the speakers
+
+
+155 #C C puts the guitar on the lap
+
+
+156 #C C  folds the hand
+
+
+157 #C C holds the computer case
+
+
+158 #C C picks a phone on the table
+
+
+159 #C C touches the guitar
+
+
+160 #C C picks the phone from the table
+
+
+161 #C C presses the phone
+
+
+162 #C C picks the device
+
+
+163 #C C holds the laptop
+
+
+164 #C C picks up a keyboard
+
+
+165 #C C touches the face
+
+
+166 #C C holds a worm
+
+
+167 #O person X picks a phone.
+
+
+168 #C C touches the  microphone
+
+
+169 #C C picks a packet of paper from the table
+
+
+170 #C C removes a adapter from the cable
+
+
+171 #C C puts the charger in the cupboard
+
+
+172 #C C places the adapter in a box
+
+
+173 #C C picks a cable
+
+
+174 #C C picks a plug socket
+
+
+175 #C C picks a plug
+
+
+176 #C C picks the laptop
+
+
+177 #C C operates the computer
+
+
+178 #C C presses the keyboard
+
+
+179 #C C puts the mouse on the table
+
+
+180 #C C touches the mouse
+
+

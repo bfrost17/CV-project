@@ -1,0 +1,540 @@
+1 #O A man Y walks in the room
+
+
+2 #C C walks around the house
+
+
+3 #C C walks around
+
+
+4 #C C walks around the kitchen
+
+
+5 #O person W stands in the room 
+
+
+6 #C C puts the paper on the kitchen counter
+
+
+7 #C C puts the container on the table 
+
+
+8 #C C reads the paper 
+
+
+9 #C C reads on the phone
+
+
+10 #C C moves the hands
+
+
+11 #C C moves the camera
+
+
+12 #C C moves the phone 
+
+
+13 #C C looks at the phone
+
+
+14 #C C touches the phone.
+
+
+15 #C C looks at the tablet
+
+
+16 #C C looks at the phone
+
+
+17 #C C moves the table
+
+
+18 #C C picks up the cup from the kitchen counter
+
+
+19 #O A man Y picks a kitchen lid 
+
+
+20 #C C walks towards the sink
+
+
+21 #C C looks at the kitchen table
+
+
+22 #C C looks around the kitchen
+
+
+23 #C C  stares at the phone
+
+
+24 #C C stares at the phone
+
+
+25 #C C looks around the room
+
+
+26 #C C looks around the room
+
+
+27 #C C talks to a man X 
+
+
+28 #C C looks around the kitchen
+
+
+29 #C C looks around the kitchen
+
+
+30 #C C looks around the room
+
+
+31 #C C moves the bag 
+
+
+32 #C C picks a paper
+
+
+33 #C C scoops the mixture 
+
+
+34 #C C picks a plate
+
+
+35 #C C moves the container.
+
+
+36 #C C walks towards the sink
+
+
+37 #O A man Y walks around the room 
+
+
+38 #C C walks around the kitchen
+
+
+39 #C C puts the cup on the sink
+
+
+40 #C C walks towards the kitchen
+
+
+41 #C C opens the kitchen cabinet
+
+
+42 #C C moves a hand
+
+
+43 #C C puts washing cloth on the sink 
+
+
+44 #C C walks around the house
+
+
+45 #C C walks towards the cupboard
+
+
+46 #C C walks towards a building.
+
+
+47 #C C  picks a bag
+
+
+48 #C C picks cloths from the shelf
+
+
+49 #C C picks up a cloth
+
+
+50 #C C walks around the house
+
+
+51 #C C walks around the house
+
+
+52 #C C walks to a dining room.
+
+
+53 #C C walks around
+
+
+54 #C C walks in the house
+
+
+55 #O A woman X speaks to C
+
+
+56 #C C looks around
+
+
+57 #C C moves the hand
+
+
+58 #C C looks around the kitchen
+
+
+59 #C C looks around
+
+
+60 #C C walks around the room
+
+
+61 #C C walks towards the chair.
+
+
+62 #C C walks to the chair 
+
+
+63 #C C walks to a kitchen.
+
+
+64 #C C converses with a woman Y.
+
+
+65 #C C stares at the window
+
+
+66 #C C stares at the house
+
+
+67 #C C walks around the house
+
+
+68 #C C moves around the kitchen
+
+
+69 #O person X walks in the kitchen
+
+
+70 #O a man Y stands in the kitchen
+
+
+71 #C C walks in the kitchen
+
+
+72 #O man X walks
+
+
+73 #C C walks towards the sink
+
+
+74 #C C walks towards the cooker 
+
+
+75 #C C walks to the cooker
+
+
+76 #C C picks a cooking pot 
+
+
+77 #C C turns on the cooker
+
+
+78 #C C adjusts the cooker knob 
+
+
+79 #C C adjusts the cooker's hot water
+
+
+80 #C C adjusts the cooker.
+
+
+81 #C C touches cooker
+
+
+82 #C C drops the cooking pan.
+
+
+83 #C C puts the bottle of vinegar on the counter
+
+
+84 #C C throws the paper bag on the ground
+
+
+85 #C C puts a packet of soap on a rack
+
+
+86 #C C ties the speaker's cable
+
+
+87 #C C picks a bowl.
+
+
+88 #C C closes the drawer.
+
+
+89 #C C picks a pack of spices
+
+
+90 #C C walks around the kitchen
+
+
+91 #C C walks around.
+
+
+92 #C C looks at the kitchen
+
+
+93 #C C moves towards the sink
+
+
+94 #C C walks to the oven
+
+
+95 #C C opens a oven
+
+
+96 #C C pushes the microwave door
+
+
+97 #C C puts the packet in the oven
+
+
+98 #C C moves the plate in the oven
+
+
+99 #C C takes the oven tray
+
+
+100 #C C looks at the plate 
+
+
+101 #C C picks a pan from the cooker
+
+
+102 #C C looks at the food
+
+
+103 #C C stares at the pan
+
+
+104 #C C picks a baking pan
+
+
+105 #C C picks a wooden spoon
+
+
+106 #C C picks a cooking pot
+
+
+107 #C C moves the hand 
+
+
+108 #C C picks a piece of cloth
+
+
+109 #C C adjusts a socks
+
+
+110 #C C removes the socks
+
+
+111 #C C walks to the oven 
+
+
+112 #C C picks a spoon
+
+
+113 #C C puts the cooking pan on the cooker
+
+
+114 #C C picks up a potato
+
+
+115 #C C puts the breakfast down
+
+
+116 #C C picks a tray
+
+
+117 #C C lifts the bread
+
+
+118 #C C places a pan on a cooking gas
+
+
+119 #C C picks the plate.
+
+
+120 #C C puts the bowl on the counter
+
+
+121 #C C moves the washing sponge 
+
+
+122 #C C holds pan.
+
+
+123 #C C picks the cooking pan.
+
+
+124 #C C puts the  eggs on the counter top 
+
+
+125 #C C picks the pan from the counter.
+
+
+126 #C C puts the cooking spoon on the cooking pot
+
+
+127 #C C lifts the cheese.
+
+
+128 #C C holds the pan
+
+
+129 #C C lifts the pan.
+
+
+130 #C C picks a cooking pan.
+
+
+131 #C C shakes the pan.
+
+
+132 #C C picks the pan.
+
+
+133 #C C picks the cooking pot.
+
+
+134 #C C walks around
+
+
+135 #C C looks around the kitchen
+
+
+136 #C C picks the cooking spoon
+
+
+137 #C C walks to the table 
+
+
+138 #O lady Y walks around the kitchen
+
+
+139 #C C walks towards the table.
+
+
+140 #C C picks a plate
+
+
+141 #C C picks a cake.
+
+
+142 #C C walks around the kitchen
+
+
+143 #C C walks towards the kitchen
+
+
+144 #O A man X picks a cup 
+
+
+145 #O woman T walks
+
+
+146 #O A woman Y walks around the kitchen
+
+
+147 #C C walks towards the fridge
+
+
+148 #O man Y talks to C
+
+
+149 #O Man T walks in the room
+
+
+150 #C C turns to the left
+
+
+151 #C C walks towards the refrigerator
+
+
+152 #C C walks to the sink.
+
+
+153 #O A man Z walks around the kitchen
+
+
+154 #O A man Z stands beside the sink
+
+
+155 #C C looks at the child
+
+
+156 #C C walks to the table
+
+
+157 #C C walks to the sink
+
+
+158 #C C walks towards the sink
+
+
+159 #C C walks towards the counter
+
+
+160 #C C walks towards the sink
+
+
+161 #O man X interacts with C
+
+
+162 #O person B  looks at C.
+
+
+163 #O person R eats food.
+
+
+164 #O person X touches the face
+
+
+165 #O person D  eats
+
+
+166 #O man T touches his face.
+
+
+167 #O person A holds a spoon 
+
+
+168 #O man X picks the plate of food
+
+
+169 #C C walks towards a kitchen.
+
+
+170 #O Man X walks around
+
+
+171 #O Person X walks on the floor
+
+
+172 #O Man X walks around
+
+
+173 #C C   points on the phone
+
+
+174 #O man P picks a cup
+
+
+175 #O man T takes the cake
+
+
+176 #O Man Y walks
+
+
+177 #O man D puts a bowl on the kitchen counter
+
+
+178 #O man T walks
+
+
+179 #O man Y walks around
+
+
+180 #C C walks around the kitchen
+
+

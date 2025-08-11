@@ -1,0 +1,540 @@
+1 #O person X holds a card
+
+
+2 #O The woman X drops the tray in her right hand in the stack of cards.
+
+
+3 #C C gives a card to a man X
+
+
+4 #O person Y takes the plate. 
+
+
+5 #O A woman X cuts a piece of paper.
+
+
+6 #O A woman X holds the plate
+
+
+7 #O A man X gives C a plate
+
+
+8 #O A man X  takes a card
+
+
+9 #O A man X passes card to C
+
+
+10 #O A man X takes the plate
+
+
+11 #O A man X puts the plate down
+
+
+12 #O person X picks the cards from person Y. 
+
+
+13 #O person X  picks up the plate
+
+
+14 #O person X takes the plate
+
+
+15 #O person X picks a plate
+
+
+16 #O a woman X puts the card on the table
+
+
+17 #O person X picks the card. 
+
+
+18 #O The woman X picks the cards from the table with her right hand.
+
+
+19 #O person X  picks the card
+
+
+20 #O A woman X picks the plate
+
+
+21 #O A woman X hands a man C a card
+
+
+22 #O A man Y hands C the cards
+
+
+23 #O A man X holds a card
+
+
+24 #O A woman X takes the cards from woman Y
+
+
+25 #O A woman X plays card 
+
+
+26 #O A man X holds the cards
+
+
+27 #O woman X removes the plate of play cards with her hands
+
+
+28 #O A woman X picks the plate on the table
+
+
+29 #O woman X arranges the plates.
+
+
+30 #O A woman X picks up the plate
+
+
+31 #O A woman X picks a plate from C.
+
+
+32 #O The woman X puts the plate on the table.
+
+
+33 #O A woman X holds the card
+
+
+34 #O The lady A puts the butterfly eggplant in the plate with her right hand.
+
+
+35 #O person X takes a plate of cards from C.
+
+
+36 #O A woman X takes a card from a woman X
+
+
+37 #O person X puts down the play card
+
+
+38 #O person X plays card game
+
+
+39 #O woman X holds the cards
+
+
+40 #O person X takes the play card from the table
+
+
+41 #O woman X points the bowl of cards with her right hand.
+
+
+42 #O person X takes food from the plate. 
+
+
+43 #O person X picks the plate
+
+
+44 #O person X takes a card
+
+
+45 #O Woman X drops a card on the table
+
+
+46 #O Woman A puts a card on the table
+
+
+47 #O woman X puts the dice on the table.
+
+
+48 #O woman X takes a card from the table
+
+
+49 #O woman X touches a card on the table
+
+
+50 #O Woman A drops the cards in her right hand on the table.
+
+
+51 #O person X plays the card game
+
+
+52 #C C picks the cover
+
+
+53 #C C picks the clams
+
+
+54 #C C picks the cups
+
+
+55 #C C puts the spoon in the cup
+
+
+56 #C C picks the tin
+
+
+57 #C C scoops the drink with the spoon
+
+
+58 #C C holds the cup
+
+
+59 #C C holds the can
+
+
+60 #C C takes a glass of water 
+
+
+61 #C C puts the sauce on the cup
+
+
+62 #C C puts the water into the cup
+
+
+63 #C C stirs the tea with the pot cover
+
+
+64 #C C scoops sweet from the cup
+
+
+65 #O A woman Y picks the basket
+
+
+66 #O Man X walks towards the dog
+
+
+67 #O A man X stands
+
+
+68 #O A man Y walks towards a door
+
+
+69 #C C puts the bowl of food in the bucket
+
+
+70 #C C puts the container on the floor
+
+
+71 #C C picks the container of the milk
+
+
+72 #C C opens the container with the spoon 
+
+
+73 #C C puts the drink into a container
+
+
+74 #C C looks at the table
+
+
+75 #C C looks at the table
+
+
+76 #C C moves his hands
+
+
+77 #C C closes the cup
+
+
+78 #C C pours the the milk on the bowl
+
+
+79 #O woman Y picks a cup
+
+
+80 #O person X puts spoon on a bowl
+
+
+81 #O man X puts the lid of the cup down
+
+
+82 #O woman X moves a cloth on the table
+
+
+83 #C C sits on a chair
+
+
+84 #O person Y interacts with C
+
+
+85 #O A lady Y picks the bag of cloth from the floor
+
+
+86 #C C picks the lid from the table
+
+
+87 #C C scoops some tea
+
+
+88 #C C picks a tin
+
+
+89 #C C puts the mug in the cup
+
+
+90 #C C takes tea
+
+
+91 #C C puts the cup of water in the seat 
+
+
+92 #O a woman X drinks from the glass
+
+
+93 #C C eats the sugar
+
+
+94 #C C picks a card from the table
+
+
+95 #O person X  picks the bottle
+
+
+96 #C C closes the tea
+
+
+97 #C C touches the water bottle
+
+
+98 #C C picks a cup
+
+
+99 #O man X puts the paper down 
+
+
+100 #O man Y takes the box from the table
+
+
+101 #O man Y picks a bowl 
+
+
+102 #O man A moves a bowl of cards on the table
+
+
+103 #C C picks the paper from man Y
+
+
+104 #O man Y puts the cards down
+
+
+105 #O man y takes the poster from C
+
+
+106 #O Person A puts the box on the couch
+
+
+107 #O person B points at the man A
+
+
+108 #O man Y talks to C
+
+
+109 #O man y touches the box of a toy
+
+
+110 #C C looks at man X
+
+
+111 #O A man X holds the bottle
+
+
+112 #O A man X picks the phone from the table
+
+
+113 #O a man X places the cup on the table
+
+
+114 #O A man X touches the foil
+
+
+115 #O A man X holds the robo green and the cards
+
+
+116 #O A man Y places the card on the table
+
+
+117 #O person X picks the cover of the card on the table 
+
+
+118 #O A man X holds the cards on the table
+
+
+119 #O person X moves the table 
+
+
+120 #O A man X picks up the cards
+
+
+121 #O person Y touches the board game cards on the table
+
+
+122 #O man X lifts the  box
+
+
+123 #O man Y puts the box aside
+
+
+124 #O person Y moves the table
+
+
+125 #O A man X picks the  poster
+
+
+126 #O A man Y moves the hand
+
+
+127 #O A man X picks the cover of the book
+
+
+128 #O A man X holds the cards on the table
+
+
+129 #O A man X moves the cards on the table
+
+
+130 #C C gives man X a picture
+
+
+131 #C C holds the table
+
+
+132 #O person X picks up the tray
+
+
+133 #C C moves the board on the table
+
+
+134 #O A man X picks up a board
+
+
+135 #C C moves the table
+
+
+136 #O person Y holds the table
+
+
+137 #C C holds a paper
+
+
+138 #C C moves the table
+
+
+139 #O Y takes a paper
+
+
+140 #C C moves the table
+
+
+141 #C C moves the table
+
+
+142 #C C moves the board with the cards 
+
+
+143 #C C moves the card on the table 
+
+
+144 #O person X holds the table
+
+
+145 #O person X picks the card
+
+
+146 #C C holds the box
+
+
+147 #C C picks the cards
+
+
+148 #C C picks the cards from the table
+
+
+149 #O A man X picks cards
+
+
+150 #O person Y picks the bowl.
+
+
+151 #O person X holds the plate
+
+
+152 #O A woman X picks a plate of food from the table 
+
+
+153 #C C picks the plate of cards
+
+
+154 #O A man X picks up the plate
+
+
+155 #O person X takes a plate.
+
+
+156 #C C puts the plate on the table.
+
+
+157 #C C moves the plate of cards to the left hand.
+
+
+158 #O A woman X picks the plate.
+
+
+159 #O A woman X holds the plates with both hands.
+
+
+160 #C C takes plates from woman X
+
+
+161 #O A woman X picks the plate.
+
+
+162 #O person X scoops food with a plate.
+
+
+163 #O person Y touches the plates.
+
+
+164 #O person X takes the plate of chips.
+
+
+165 #C C picks the plate on the table
+
+
+166 #O person B picks the plate from the table 
+
+
+167 #O woman X picks a plate. 
+
+
+168 #C C picks a plate of snacks from the table 
+
+
+169 #O person X takes the plate from person C
+
+
+170 #C C picks the plate.
+
+
+171 #C C picks the plate with cheese
+
+
+172 #C C picks a plate of cards from a table.
+
+
+173 #O person Y takes a plate.
+
+
+174 #O person Y picks up the plate of rhinestone from the table.
+
+
+175 #O person X cuts the food with the knife. 
+
+
+176 #O A woman X picks the cards from the table.
+
+
+177 #O person X holds the plates.
+
+
+178 #O person X gives person C a plate of cards
+
+
+179 #O person X picks up a plate
+
+
+180 #O person X picks a plate of cards. 
+
+

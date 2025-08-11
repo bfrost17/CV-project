@@ -1,0 +1,540 @@
+1 #O person Y puts the cards on the table
+
+
+2 #O Woman X touches her face
+
+
+3 #O person Y takes the cards on the table
+
+
+4 #O The woman X picks up the cards on the table with her right hand.
+
+
+5 #O Woman X drops the cards on the table with her right hand.
+
+
+6 #O The woman X moves a card from her cards with her right hand.
+
+
+7 #O The woman X places her hands on the table.
+
+
+8 #C C drops the cards in his left hand on the table.
+
+
+9 #O Woman Y holds the glasses on her face with her left hand.
+
+
+10 #C C places the cards on the table with her left hand.
+
+
+11 #O Woman X puts the card on the table
+
+
+12 #O the woman X picks up her card from the table with her right hand.
+
+
+13 #O woman X picks the cards from the table.
+
+
+14 #O Woman X packs the cards from the table with her hands.
+
+
+15 #O The woman X picks up the cards from the table with her hands.
+
+
+16 #C C places the card on the cards beside the cards.
+
+
+17 #O The woman X picks up a card from the table with her right hand.
+
+
+18 #O Woman X picks a card from the table
+
+
+19 #O Woman X picks the cards from the table
+
+
+20 #C C moves the cards on the table with his right hand.
+
+
+21 #O The woman X picks up a card from the table with her left hand.
+
+
+22 #O Woman X picks the cards from the table with her hands.
+
+
+23 #C C packs some cards from the table with his left hand.
+
+
+24 #O the woman X packs the card from the table with her right hand.
+
+
+25 #O The woman X packs the cards from the table with her hands.
+
+
+26 #O Woman X packs the cards from the table with both hands.
+
+
+27 #O Woman X picks up the cards from the table with her right hand.
+
+
+28 #O The woman X packs the cards from the table with her hands.
+
+
+29 #O woman X picks up the cards
+
+
+30 #O woman X picks up the cards from the table with her right hand.
+
+
+31 #O Woman X picks up the cards from the table with her right hand.
+
+
+32 #O The woman X picks the pen with her right hand.
+
+
+33 #O The woman X picks up the pen from the table with her right hand.
+
+
+34 #C C moves the book on the table with his right hand.
+
+
+35 #O The woman X picks a pen from the table with her right hand.
+
+
+36 #C C moves the cards with his right hand.
+
+
+37 #C C moves the book with his hands.
+
+
+38 #O person Y touches the table
+
+
+39 #O The woman X holds the book with both hands.
+
+
+40 #O The woman X adjusts the book with her hands.
+
+
+41 #C C holds the cards with her hands
+
+
+42 #C C picks up a card from the table with his right hand.
+
+
+43 #C C moves the cards on the table with his hands.
+
+
+44 #C C talks to person Y
+
+
+45 #C C picks up the pen from the table
+
+
+46 #C C picks up the pen.
+
+
+47 #C C picks up the pen.
+
+
+48 #C C picks the pen from the table with her right hand.
+
+
+49 #C C puts the card on the table.
+
+
+50 #O person X writes on the book
+
+
+51 #C C holds the game sheet with both hands.
+
+
+52 #C C picks up the cards from the table with his hands.
+
+
+53 #C C writes on the book with the pen in his left hand.
+
+
+54 #O The woman X picks up the phone with her left hand.
+
+
+55 #O person X drinks from a bottle
+
+
+56 #C C stares around
+
+
+57 #C C picks the cards from the table.
+
+
+58 #C C moves the card on his hand
+
+
+59 #O person Y picks the cards from the table
+
+
+60 #C C moves the cards on the table.
+
+
+61 #O The woman Y picks up the cards from the table with her left hand.
+
+
+62 #O woman X holds the phone.
+
+
+63 #O woman X holds the phone.
+
+
+64 #C C holds cards
+
+
+65 #O person X scratches the face
+
+
+66 #O person Y holds the cards 
+
+
+67 #O person Y holds cards
+
+
+68 #C C holds the cards 
+
+
+69 #O person Y touches the phone
+
+
+70 #O person X  holds the cards
+
+
+71 #O person Y holds the cards
+
+
+72 #C C places the card on the table.
+
+
+73 #O person X holds the phone
+
+
+74 #O person Y picks up the card
+
+
+75 #O person Y arranges the cards
+
+
+76 #O person Y picks up the phone from the table.
+
+
+77 #C C picks up a pen
+
+
+78 #C C puts the cards together.
+
+
+79 #O person Y picks up the book
+
+
+80 #O person Y holds the playing cards
+
+
+81 #O woman X holds the phone with her left hand.
+
+
+82 #C C holds the bottle
+
+
+83 #C C picks the cards
+
+
+84 #O Man Y Picks a piece of paper from a floor
+
+
+85 #O man X fixes the guitar
+
+
+86 #O A woman X picks a phone from the floor
+
+
+87 #O woman X holds the box
+
+
+88 #O The woman X sits on the chair.
+
+
+89 #O person Y holds the cards
+
+
+90 #C C moves his hands
+
+
+91 #O Woman X holds cards
+
+
+92 #O person Y holds the bottle
+
+
+93 #O person Y picks the cards
+
+
+94 #O person Y holds the cards.
+
+
+95 #O person Y picks a bottle of water. 
+
+
+96 #C C talks to person Y 
+
+
+97 #O Woman Y holds the cards
+
+
+98 #O person X holds the card
+
+
+99 #C C looks at woman X
+
+
+100 #C C talks to person Y
+
+
+101 #O person Y arranges the cards
+
+
+102 #O person Y picks up the cards
+
+
+103 #O person P picks cards from the table
+
+
+104 #O the woman Y holds the cards with both hands.
+
+
+105 #O Woman X holds the cards with her left hand.
+
+
+106 #O person Y holds cards
+
+
+107 #O person X puts cards on the table
+
+
+108 #O The woman X holds the cards in her hands.
+
+
+109 #O person Y picks the cards
+
+
+110 #O person Y pulls the hand off the mouth
+
+
+111 #O person Y picks the cards from the table
+
+
+112 #O person Y holds the cards
+
+
+113 #C C shakes the deck of cards in his hands.
+
+
+114 #C C picks a piece of paper from the table with his right hand.
+
+
+115 #C C puts the hand down
+
+
+116 #C C holds the cards
+
+
+117 #C C picks up the card from the table.
+
+
+118 #C C spreads the cards in her hands.
+
+
+119 #C C arranges the cards
+
+
+120 #C C arranges the card game materials
+
+
+121 #O woman X scratches the table with her hand.
+
+
+122 #O person Y pulls her hand off the cards
+
+
+123 #O Woman Y Moves her hands 
+
+
+124 #O person X holds the cards
+
+
+125 #C C stares at his cards
+
+
+126 #C C touches the cards with both hands.
+
+
+127 #C C picks a card 
+
+
+128 #O person Y moves towards the table
+
+
+129 #O the woman X picks up the headphones from the table with her right hand.
+
+
+130 #O person Y picks the pen.
+
+
+131 #O person Y picks the phone
+
+
+132 #C C picks up the cards from the table with his left hand.
+
+
+133 #C C picks up the pen from the table
+
+
+134 #O person Y scratches the head
+
+
+135 #C C picks up the cards from the table.
+
+
+136 #O The woman X holds the pair of glasses with both hands.
+
+
+137 #O The woman X picks up her glasses from her face with her right hand.
+
+
+138 #O woman A touches the glasses
+
+
+139 #O woman X moves her cloth.
+
+
+140 #O Woman Y holds her glasses
+
+
+141 #C C opens a camera.
+
+
+142 #O woman X touches the glasses.
+
+
+143 #O Woman Y Ties a camera on her head 
+
+
+144 #O lady X wears the glasses
+
+
+145 #O person P touches glasses 
+
+
+146 #O person X holds her phone.
+
+
+147 #O person Y puts the phone in the pocket.
+
+
+148 #O person X puts hands on the table.
+
+
+149 #O person X removes the phone from the mouth.
+
+
+150 #O person Y holds the phone
+
+
+151 #O person Y picks the phone from the table. 
+
+
+152 #O woman X picks the pen from the table
+
+
+153 #O woman X picks cards
+
+
+154 #O woman X spreads the cards
+
+
+155 #O The woman X drops the deck of cards on the table.
+
+
+156 #O person Y plays cards
+
+
+157 #O The woman X drops her hands.
+
+
+158 #C C picks up the cards
+
+
+159 #O Woman Y puts a card on the table
+
+
+160 #O Woman X picks the cards from the table
+
+
+161 #O the woman X picks up a card from the table.
+
+
+162 #C C picks cards
+
+
+163 #O Woman X picks up the cards
+
+
+164 #O the woman Y holds the bottle with her right hand.
+
+
+165 #O The woman X picks up some cards from the deck of cards with her right hand.
+
+
+166 #O The woman X picks up the cards from the table with her right hand.
+
+
+167 #C C picks the cards from her left hand with her right hand.
+
+
+168 #O The woman X drops the cards in her hands on the table.
+
+
+169 #O Woman X holds cards
+
+
+170 #O woman X shuffles cards
+
+
+171 #O Woman X Shuffle cards
+
+
+172 #O Woman Y Holds the cards with hands
+
+
+173 #C C turns to the side
+
+
+174 #O Woman X draws on her cards
+
+
+175 #C C spreads cards
+
+
+176 #C C places cards in the hand
+
+
+177 #C C puts the cards on the table.
+
+
+178 #C C holds the cards with her hands.
+
+
+179 #C C looks at D.
+
+
+180 #O Woman Y looks at C
+
+

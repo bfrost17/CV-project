@@ -1,0 +1,540 @@
+1 #C C holds the cards
+
+
+2 #C C picks the cards
+
+
+3 #O man X shuffles cards
+
+
+4 #C C picks cards from the table
+
+
+5 #C C picks the cards
+
+
+6 #C C holds the cards
+
+
+7 #C C picks the cards
+
+
+8 #C C picks the card from the table
+
+
+9 #C C picks the card 
+
+
+10 #C C picks the cards
+
+
+11 #C C touches the card
+
+
+12 #C C  picks up a card.
+
+
+13 #C C picks the cards
+
+
+14 #C C plays the game.
+
+
+15 #C C moves the card.
+
+
+16 #C C plays the card game
+
+
+17 #C C picks the cards
+
+
+18 #C C picks up the cards.
+
+
+19 #C C  plays card game
+
+
+20 #C C plays the poker card
+
+
+21 #C C plays  the card game.
+
+
+22 #C C plays 
+
+
+23 #C C looks at the card
+
+
+24 #C C looks at the card
+
+
+25 #C C plays  the card 
+
+
+26 #C C plays 
+
+
+27 #C C  plays  poker.
+
+
+28 #C C holds the cards
+
+
+29 #C C plays with a card 
+
+
+30 #C C moves the cards
+
+
+31 #C C holds the cards
+
+
+32 #O A man X arranges the cards
+
+
+33 #O a man X  plays card
+
+
+34 #O a man X picks a card 
+
+
+35 #O person A moves the token on the card
+
+
+36 #O a man X plays the game
+
+
+37 #O man A  holds a card.
+
+
+38 #C C holds the cards
+
+
+39 #O person X plays a game
+
+
+40 #O person Y plays 
+
+
+41 #O A man X holds the cards
+
+
+42 #C C plays 
+
+
+43 #C C  picks up a card.
+
+
+44 #O a lady X plays Carcassonne board game with a meeple 
+
+
+45 #C C plays 
+
+
+46 #O man A holds the card with both hands
+
+
+47 #C C plays a card 
+
+
+48 #O A man X plays 
+
+
+49 #O A man A  picks up the card.
+
+
+50 #C C picks the card.
+
+
+51 #C C plays cards
+
+
+52 #O A woman X picks the card.
+
+
+53 #O a lady X plays  the card 
+
+
+54 #O a lady X  places down the card 
+
+
+55 #C C plays 
+
+
+56 #O person Y picks a card
+
+
+57 #C C plays the meeple on the table
+
+
+58 #C C holds the cards
+
+
+59 #O A man Y talks with C 
+
+
+60 #C C holds the cards with both hands
+
+
+61 #O A man P plays cards
+
+
+62 #O person X plays 
+
+
+63 #O A man A  plays the  game.
+
+
+64 #O A woman X plays 
+
+
+65 #C C touches the card
+
+
+66 #C C moves the cards.
+
+
+67 #C C plays 
+
+
+68 #C C talks with a lady X
+
+
+69 #C C plays  the card.
+
+
+70 #C C plays the card.
+
+
+71 #C C looks at the card
+
+
+72 #C C plays 
+
+
+73 #C C looks at the cards
+
+
+74 #C C moves the cards
+
+
+75 #C C looks at the card
+
+
+76 #O A woman A reads the card
+
+
+77 #C C touches the cards
+
+
+78 #C C touches the card
+
+
+79 #C C holds the card 
+
+
+80 #C C holds the card
+
+
+81 #C C touches the cards
+
+
+82 #C C plays 
+
+
+83 #C C looks at the card
+
+
+84 #C C plays 
+
+
+85 #C C plays 
+
+
+86 #C C plays  the card.
+
+
+87 #C C looks at the card
+
+
+88 #C C talks with lady X 
+
+
+89 #C C looks at the cards
+
+
+90 #C C plays  the card.
+
+
+91 #C C picks the cards
+
+
+92 #C C plays the card 
+
+
+93 #C C picks the card
+
+
+94 #C C moves the cards
+
+
+95 #C C picks the card.
+
+
+96 #C C touches the token.
+
+
+97 #O A man Y moves the cards
+
+
+98 #C C moves the cards.
+
+
+99 #C C moves the card
+
+
+100 #C C picks the card
+
+
+101 #O A woman X picks up a card
+
+
+102 #O man A shuffles cards
+
+
+103 #O person X plays with C 
+
+
+104 #O a man X plays 
+
+
+105 #O A man X picks the card.
+
+
+106 #O a lady X plays the card
+
+
+107 #O A man X stares at the card
+
+
+108 #C C moves the card
+
+
+109 #C C plays the card.
+
+
+110 #C C looks at the card
+
+
+111 #C C plays the card 
+
+
+112 #C C plays 
+
+
+113 #C C plays 
+
+
+114 #C C picks the card
+
+
+115 #C C plays 
+
+
+116 #C C touches the cards
+
+
+117 #C C  plays 
+
+
+118 #C C plays the card 
+
+
+119 #C C plays cards
+
+
+120 #C C picks up the cards
+
+
+121 #C C plays 
+
+
+122 #O A woman X  holds the card
+
+
+123 #O person Y touches the cards
+
+
+124 #O person X holds the cards
+
+
+125 #O person X plays 
+
+
+126 #C C  plays the cards.
+
+
+127 #C C plays 
+
+
+128 #C C picks the cards.
+
+
+129 #C C plays 
+
+
+130 #C C plays the Carcassonne game with person X 
+
+
+131 #C C moves the card.
+
+
+132 #C C plays  card
+
+
+133 #C C plays 
+
+
+134 #O A man A  plays the game.
+
+
+135 #O person X plays 
+
+
+136 #O person D touches the card
+
+
+137 #O person L plays a card
+
+
+138 #O person I moves the card
+
+
+139 #O A man X holds the token
+
+
+140 #C C  plays  a game.
+
+
+141 #O A woman X holds the token
+
+
+142 #C C picks the cards
+
+
+143 #O a lady X plays 
+
+
+144 #C C touches the token
+
+
+145 #O person A  plays
+
+
+146 #O person B places the cards on the table
+
+
+147 #O person X plays 
+
+
+148 #O person A  plays 
+
+
+149 #O a man X picks up the token
+
+
+150 #O A man Y picks up the token
+
+
+151 #O A man Y plays the game.
+
+
+152 #O a man Y touches his chin
+
+
+153 #C C scratches his face
+
+
+154 #C C moves hands
+
+
+155 #O A woman Q holds her hands together
+
+
+156 #C C holds cards with the right hand
+
+
+157 #O woman  X holds her hand 
+
+
+158 #O A woman Q moves the cards on the hand
+
+
+159 #C C moves the cards
+
+
+160 #C C moves the cards 
+
+
+161 #C C shakes the tokens
+
+
+162 #O woman  X reshuffles the cards 
+
+
+163 #O woman X touches her face 
+
+
+164 #C C moves the card
+
+
+165 #C C plays  another game 
+
+
+166 #C C plays 
+
+
+167 #C C touches card
+
+
+168 #C C moves the token point
+
+
+169 #O person X moves the token
+
+
+170 #O A woman X picks the token
+
+
+171 #C C moves the token on the board 
+
+
+172 #O A woman X plays the  game.
+
+
+173 #C C moves the cards.
+
+
+174 #C C looks at the cards
+
+
+175 #O a lady X plays 
+
+
+176 #C C plays 
+
+
+177 #C C plays the poker game 
+
+
+178 #O person  X plays 
+
+
+179 #O person  A  plays 
+
+
+180 #O man B shakes the cards 
+
+

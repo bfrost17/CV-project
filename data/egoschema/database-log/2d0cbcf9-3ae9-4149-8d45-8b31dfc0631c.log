@@ -1,0 +1,540 @@
+1 #C C moves the machine.
+
+
+2 #C C picks the rolling pin
+
+
+3 #C C puts the dough cutter on the dough roller
+
+
+4 #C C adjusts the rolling machine
+
+
+5 #C C picks dough from the dough sheeter table with both hands.
+
+
+6 #C C drops dough on a table
+
+
+7 #C C picks the dough from the table with his hands.
+
+
+8 #C C drops dough on the dough roller
+
+
+9 #C C drops dough on dough roller
+
+
+10 #C C picks the doughs from the table
+
+
+11 #C C walks to the dough mixer
+
+
+12 #C C opens the dough roller tray
+
+
+13 #C C picks dough from dough roller 
+
+
+14 #C C picks up the doughs from the work table with his hands.
+
+
+15 #C C picks the dough from the baking table with his hands.
+
+
+16 #C C turns to the table with a dough with his left hand.
+
+
+17 #C C picks dough from dough sheeter machine
+
+
+18 #C C puts the dough on the dough divider machine 
+
+
+19 #C C rolls the dough on the dough press machine 
+
+
+20 #C C moves the dough on the dough sheeter with both hands.
+
+
+21 #C C walks towards the baking table
+
+
+22 #C C moves the dough sheeter machine forward with his right hand
+
+
+23 #C C puts the dough on the dough shaping machine 
+
+
+24 #C C makes a dough 
+
+
+25 #C C presses dough
+
+
+26 #C C picks dough from the dough sheeter
+
+
+27 #C C opens the dough press machine
+
+
+28 #C C moves the dough press lever
+
+
+29 #C C walks towards the dough roller
+
+
+30 #C C pushes the dough press lever with his right hand.
+
+
+31 #C C puts the dough press machine aside
+
+
+32 #C C closes the dough press machine
+
+
+33 #C C moves the dough cutter machine
+
+
+34 #C C moves towards the dough roller
+
+
+35 #C C moves towards the dough roller
+
+
+36 #C C puts the plastic bag of flour in his left hand into the paper bag on the table.
+
+
+37 #C C drops the baking paper
+
+
+38 #C C puts the bucket of water in his left hand on the floor. 
+
+
+39 #C C walks to the other side of the workshop.
+
+
+40 #C C moves the dustbin towards the table.
+
+
+41 #C C drops the paper on the table. 
+
+
+42 #C C places the dough on the flour
+
+
+43 #C C drops the bowl in the container of flour
+
+
+44 #C C places the brown bag on the table
+
+
+45 #C C puts the paper in the bag
+
+
+46 #C C removes a piece of paper from the pack with his left hand.
+
+
+47 #C C walks towards the shelf
+
+
+48 #C C takes the flour
+
+
+49 #C C puts the dough on the scale.
+
+
+50 #C C walks towards a waste bin.
+
+
+51 #C C walks around
+
+
+52 #C C picks a dough from the table
+
+
+53 #C C puts the dough on the baking table
+
+
+54 #C C places the dough on the baking table
+
+
+55 #C C picks a dough from the baking flour.
+
+
+56 #C C moves the dough roll towards the baking peel.
+
+
+57 #C C picks a dough roll
+
+
+58 #C C takes the tray from the table
+
+
+59 #C C lifts up a tray from the table
+
+
+60 #C C throws the dough on the tray
+
+
+61 #C C moves hand along dough
+
+
+62 #C C holds the baking peel with his left hand.
+
+
+63 #C C picks dough from the baking table with his right hand.
+
+
+64 #C C wipes the baking table with his right hand.
+
+
+65 #C C picks the doughs from the table with both hands.
+
+
+66 #C C rolls a dough on the baking table with both hands.
+
+
+67 #C C wipes the chopping board with his hands
+
+
+68 #C C spreads the flour on the table with both hands.
+
+
+69 #C C rolls the doughs on the table with both hands.
+
+
+70 #C C rolls the doughs on the table with his hands.
+
+
+71 #C C picks the dough
+
+
+72 #C C picks up the dough
+
+
+73 #C C picks a dough from the table with his left hand.
+
+
+74 #C C picks a dough from the table with his hands.
+
+
+75 #C C rolls the doughs on the table with both hands.
+
+
+76 #C C rolls the doughs on the baking table with both hands.
+
+
+77 #C C drops the doughs on the tray with his hands.
+
+
+78 #C C rolls the doughs on the table with both hands.
+
+
+79 #C C takes a dough from the table with his right hand.
+
+
+80 #C C picks up the dough
+
+
+81 #C C picks up the doughs on the baking table with his hands.
+
+
+82 #C C picks the doughs on the table with both hands.
+
+
+83 #C C rolls the doughs on the table with both hands.
+
+
+84 #C C wipes the baking table with his hand.
+
+
+85 #C C moves the doughs on the table
+
+
+86 #C C rolls the dough on the table with both hands.
+
+
+87 #C C picks dough from the baking table with his right hand.
+
+
+88 #C C puts the dough on the cutting board
+
+
+89 #C C picks the dough
+
+
+90 #C C picks a dough from the baking table with both hands.
+
+
+91 #C C rolls the doughs on the table with both hands.
+
+
+92 #C C lifts the dough from the table
+
+
+93 #C C presses the doughs on the table with his hands.
+
+
+94 #C C rolls the dough on the table with his hands.
+
+
+95 #C C picks dough from the work table with his hands.
+
+
+96 #C C puts the dough on the baking table.
+
+
+97 #C C picks the dough from the table with his left hand.
+
+
+98 #C C picks the doughs from the work table with his hands.
+
+
+99 #C C picks the dough
+
+
+100 #C C puts the dough on the baking table
+
+
+101 #C C picks dough from the work table with his hands.
+
+
+102 #C C drops the dough on the table with his right hand.
+
+
+103 #C C picks up a dough from the work table with his both hands.
+
+
+104 #C C picks a piece of dough
+
+
+105 #C C rolls the dough on the table with his hands.
+
+
+106 #C C puts the dough down
+
+
+107 #C C picks dough
+
+
+108 #C C drops the doughs on the table with his hands.
+
+
+109 #C C moves the dough on the baking table with his hands.
+
+
+110 #C C picks the dough
+
+
+111 #C C picks the dough from the baking table with his hands.
+
+
+112 #C C rubs the dough on the work table with his hands.
+
+
+113 #C C picks dough from the table
+
+
+114 #C C rolls a dough on the baking table with his hands.
+
+
+115 #C C rolls the dough on the table
+
+
+116 #C C rolls the doughs on the table
+
+
+117 #C C rolls dough on the table
+
+
+118 #C C rolls the dough on the table with his hands.
+
+
+119 #C C rolls the doughs on the table with his hands.
+
+
+120 #C C picks dough from the work table with his hands.
+
+
+121 #C C drops the doughs on the baking sheet.
+
+
+122 #C C picks the dough from the work table with his right hand.
+
+
+123 #C C picks the doughs from the table with both hands.
+
+
+124 #C C picks a dough from the baking table with his right hand.
+
+
+125 #C C drops the doughs on the table with his hands.
+
+
+126 #C C picks up the doughs from the work table with his hands.
+
+
+127 #C C rolls the doughs on the table with both hands.
+
+
+128 #C C rolls the doughs on the table with both hands.
+
+
+129 #C C rolls the doughs on the table with both hands.
+
+
+130 #C C rolls a dough on the table with both hands.
+
+
+131 #C C puts the doughs on the table with both hands.
+
+
+132 #C C throws the dough on the baking tray
+
+
+133 #C C drops the doughs on the table with his hands.
+
+
+134 #C C picks up a piece of dough
+
+
+135 #C C rolls the dough on the baking table with his hands.
+
+
+136 #C C rolls the dough on the table with his hands.
+
+
+137 #C C rolls the dough on the table with both hands.
+
+
+138 #C C spreads the doughs on the work table with both hands.
+
+
+139 #C C rolls the doughs on the table with his hands.
+
+
+140 #C C places the doughs on the baking table with both hands.
+
+
+141 #C C places the doughs on the baking sheet
+
+
+142 #C C picks the dough
+
+
+143 #C C puts the dough on the baking table
+
+
+144 #C C rolls the dough on the table with both hands.
+
+
+145 #C C rolls the doughs in his hands on the baking table.
+
+
+146 #C C rolls the dough on the table with his hands.
+
+
+147 #C C picks the dough from the table with both hands.
+
+
+148 #C C puts the dough on the baking table.
+
+
+149 #C C picks up the dough from the table
+
+
+150 #C C puts the dough on the baking table 
+
+
+151 #C C throws the dough on the work table with his right hand.
+
+
+152 #C C rolls the dough on the work table with his hands.
+
+
+153 #C C picks the dough from the work table with his hands.
+
+
+154 #C C picks a dough from the baking table with his right hand.
+
+
+155 #C C rolls the dough on the table with his hands.
+
+
+156 #C C rolls the dough on the table with his hands.
+
+
+157 #C C rolls the dough on the table with both hands.
+
+
+158 #C C places the doughs on the table
+
+
+159 #C C puts the doughs on the baking table with both hands.
+
+
+160 #C C picks the doughs from the table with his hands.
+
+
+161 #C C moves the doughs on the table with his hands.
+
+
+162 #C C rolls the dough on the table with his hands.
+
+
+163 #C C hits the table with his hands
+
+
+164 #C C picks the dough from the table
+
+
+165 #C C picks up the dough from the table with his hands.
+
+
+166 #C C picks the dough from the table with his hands.
+
+
+167 #C C picks the doughs from the tray with both hands.
+
+
+168 #C C picks the doughs from the table with both hands.
+
+
+169 #C C picks up the doughs from the work table with his hands.
+
+
+170 #C C drops the doughs on the work table with his hands.
+
+
+171 #C C picks the doughs from the work table with his hands.
+
+
+172 #C C rolls the doughs on the table with his hands.
+
+
+173 #C C rolls the dough on the table
+
+
+174 #C C rolls the dough on the table
+
+
+175 #C C puts the dough on the baking table
+
+
+176 #C C picks the dough from the table with his hands.
+
+
+177 #C C puts dough on the baking sheet
+
+
+178 #C C moves the dough scraper with his right hand.
+
+
+179 #C C drops the piece of dough on the work table with his left hand.
+
+
+180 #C C puts the dough on the table
+
+

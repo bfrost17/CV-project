@@ -1,0 +1,724 @@
+{
+  "messages": [
+    {
+      "content": "1 #c c closes the paint tube with the paint",
+      "time": 1
+    },
+    {
+      "content": "2 #c c picks a paint tube",
+      "time": 2
+    },
+    {
+      "content": "3 #C C stares at the paint brush",
+      "time": 3
+    },
+    {
+      "content": "4 #c c continues painting the stone",
+      "time": 4
+    },
+    {
+      "content": "5 #c c continues painting the stones",
+      "time": 5
+    },
+    {
+      "content": "6 #c c continues painting the stones",
+      "time": 6
+    },
+    {
+      "content": "7 #c c continues painting the stone",
+      "time": 7
+    },
+    {
+      "content": "8 #c c continues painting the stone",
+      "time": 8
+    },
+    {
+      "content": "9 #c c stops painting and picks the paint brush",
+      "time": 9
+    },
+    {
+      "content": "10 #c c continues painting the stone",
+      "time": 10
+    },
+    {
+      "content": "11 #C C paints the watercolor on the stone with a paint brush ",
+      "time": 11
+    },
+    {
+      "content": "12 #C C paints on the stone with the paint brush ",
+      "time": 12
+    },
+    {
+      "content": "13 #C C paints on the stone with a paint brush ",
+      "time": 13
+    },
+    {
+      "content": "14 #c c continues painting",
+      "time": 14
+    },
+    {
+      "content": "15 #c c continues painting the stone",
+      "time": 15
+    },
+    {
+      "content": "16 #c c continues painting the stone",
+      "time": 16
+    },
+    {
+      "content": "17 #C C paints the watercolor on the stone with a paint brush ",
+      "time": 17
+    },
+    {
+      "content": "18 #c c continues painting the stone",
+      "time": 18
+    },
+    {
+      "content": "19 #c c continues painting the stone",
+      "time": 19
+    },
+    {
+      "content": "20 #C C paints a watercolor on a stone with a paint brush ",
+      "time": 20
+    },
+    {
+      "content": "21 #C C continues painting the stone with the paint brush.",
+      "time": 21
+    },
+    {
+      "content": "22 #c c continues painting the stone",
+      "time": 22
+    },
+    {
+      "content": "23 #c c continue painting the stones",
+      "time": 23
+    },
+    {
+      "content": "24 #c c continues painting the stone",
+      "time": 24
+    },
+    {
+      "content": "25 #C C paints a watercolor on a stone with a paint brush ",
+      "time": 25
+    },
+    {
+      "content": "26 #C C paints the stone with a paint brush ",
+      "time": 26
+    },
+    {
+      "content": "27 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 27
+    },
+    {
+      "content": "28 #C C paints the stone with a paint brush ",
+      "time": 28
+    },
+    {
+      "content": "29 #c c continues painting the stone",
+      "time": 29
+    },
+    {
+      "content": "30 #c c continues painting the stone",
+      "time": 30
+    },
+    {
+      "content": "31 #C C paints the watercolor on the stone with the paint brush",
+      "time": 31
+    },
+    {
+      "content": "32 #c c continues painting the stone",
+      "time": 32
+    },
+    {
+      "content": "33 #C C lifts the paint brush from the table ",
+      "time": 33
+    },
+    {
+      "content": "34 #c c continues painting the stones",
+      "time": 34
+    },
+    {
+      "content": "35 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 35
+    },
+    {
+      "content": "36 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 36
+    },
+    {
+      "content": "37 #C C holds the paint tube top ",
+      "time": 37
+    },
+    {
+      "content": "38 #C C picks up a small plastic tube from the table ",
+      "time": 38
+    },
+    {
+      "content": "39 #C C opens the tube",
+      "time": 39
+    },
+    {
+      "content": "40 #C C opens the tube with the lid",
+      "time": 40
+    },
+    {
+      "content": "41 #C C presses paint from the plastic tin",
+      "time": 41
+    },
+    {
+      "content": "42 #C C presses the tube with his hands",
+      "time": 42
+    },
+    {
+      "content": "43 #C C opens the lid of the tube top",
+      "time": 43
+    },
+    {
+      "content": "44 #C C picks up the paint tube from the table",
+      "time": 44
+    },
+    {
+      "content": "45 #C C picks the paint ",
+      "time": 45
+    },
+    {
+      "content": "46 #C C dips the paint brush in the paint tube",
+      "time": 46
+    },
+    {
+      "content": "47 #c c puts the paint brush in the paint",
+      "time": 47
+    },
+    {
+      "content": "48 #C C dips paint brush into the water",
+      "time": 48
+    },
+    {
+      "content": "49 #c c puts the paint brush in the bottle",
+      "time": 49
+    },
+    {
+      "content": "50 #C C dips the paint brush in the glass of water",
+      "time": 50
+    },
+    {
+      "content": "51 #C C dips the paint brush in the paint",
+      "time": 51
+    },
+    {
+      "content": "52 #C C opens the tube ",
+      "time": 52
+    },
+    {
+      "content": "53 #C C moves the paint tube cap to his right hand",
+      "time": 53
+    },
+    {
+      "content": "54 #c c press the paint tube together",
+      "time": 54
+    },
+    {
+      "content": "55 #c c closes the paint tube with a lid",
+      "time": 55
+    },
+    {
+      "content": "56 #C C opens the paint tube top ",
+      "time": 56
+    },
+    {
+      "content": "57 #C C puts the paint on the paint tube ",
+      "time": 57
+    },
+    {
+      "content": "58 #C C closes the tube with the lid",
+      "time": 58
+    },
+    {
+      "content": "59 #C C puts down the brush",
+      "time": 59
+    },
+    {
+      "content": "60 #C C moves the paint brush to the right hand ",
+      "time": 60
+    },
+    {
+      "content": "61 #c c continues painting the stone",
+      "time": 61
+    },
+    {
+      "content": "62 #c c continues painting",
+      "time": 62
+    },
+    {
+      "content": "63 #c c continue painting the stone",
+      "time": 63
+    },
+    {
+      "content": "64 #c c continues painting the stone",
+      "time": 64
+    },
+    {
+      "content": "65 #C C paints a watercolor on the stone with a paint brush ",
+      "time": 65
+    },
+    {
+      "content": "66 #c c continues painting the stone",
+      "time": 66
+    },
+    {
+      "content": "67 #C C paints the watercolor on the stone with the paint brush in his right hand",
+      "time": 67
+    },
+    {
+      "content": "68 #c c continues painting the stone",
+      "time": 68
+    },
+    {
+      "content": "69 #c c continues painting the stone",
+      "time": 69
+    },
+    {
+      "content": "70 #C C stops painting the stone",
+      "time": 70
+    },
+    {
+      "content": "71 #c c continues painting the stone",
+      "time": 71
+    },
+    {
+      "content": "72 #c c continues painting the stone",
+      "time": 72
+    },
+    {
+      "content": "73 #c c continues painting the stone",
+      "time": 73
+    },
+    {
+      "content": "74 #C C paints a watercolor on a stone with a paint brush ",
+      "time": 74
+    },
+    {
+      "content": "75 #C C paints the watercolor on the stone with a paint brush ",
+      "time": 75
+    },
+    {
+      "content": "76 #C C paints a watercolor on the stone with a paint brush ",
+      "time": 76
+    },
+    {
+      "content": "77 #C C paints a watercolor on a painting with a paint brush ",
+      "time": 77
+    },
+    {
+      "content": "78 #C C paints a watercolor on a stone with a paint brush ",
+      "time": 78
+    },
+    {
+      "content": "79 #c c continues painting the stone",
+      "time": 79
+    },
+    {
+      "content": "80 #c c continues painting the stone",
+      "time": 80
+    },
+    {
+      "content": "81 #C C paints the watercolor on the stone with the paint brush.",
+      "time": 81
+    },
+    {
+      "content": "82 #c c continues painting the stone",
+      "time": 82
+    },
+    {
+      "content": "83 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 83
+    },
+    {
+      "content": "84 #C C paints a watercolor on a paint board ",
+      "time": 84
+    },
+    {
+      "content": "85 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 85
+    },
+    {
+      "content": "86 #c c continues painting the stone",
+      "time": 86
+    },
+    {
+      "content": "87 #c c continues painting the stone",
+      "time": 87
+    },
+    {
+      "content": "88 #c c continues painting the stone",
+      "time": 88
+    },
+    {
+      "content": "89 #c c continues painting the watercolor on the paint brush",
+      "time": 89
+    },
+    {
+      "content": "90 #C C closes the watercolor tube lid with a paint tube lid",
+      "time": 90
+    },
+    {
+      "content": "91 #C C picks up the glass lid",
+      "time": 91
+    },
+    {
+      "content": "92 #C C closes the tube of watercolor with a lid",
+      "time": 92
+    },
+    {
+      "content": "93 #C C closes the tube of paint.",
+      "time": 93
+    },
+    {
+      "content": "94 #C C closes the paint tube with the lid",
+      "time": 94
+    },
+    {
+      "content": "95 #C C takes a paint brush from the bottle",
+      "time": 95
+    },
+    {
+      "content": "96 #c c puts the paint brush in the glass",
+      "time": 96
+    },
+    {
+      "content": "97 #C C puts the paint tube in the paint case",
+      "time": 97
+    },
+    {
+      "content": "98 #C C picks the watercolor tube",
+      "time": 98
+    },
+    {
+      "content": "99 #C C picks the paint tube ",
+      "time": 99
+    },
+    {
+      "content": "100 #C C picks up the paint tube",
+      "time": 100
+    },
+    {
+      "content": "101 #C C opens the paint tube with the lid",
+      "time": 101
+    },
+    {
+      "content": "102 #C C opens the watercolor tube lid with a watercolor paint brush ",
+      "time": 102
+    },
+    {
+      "content": "103 #C C picks a paint tube",
+      "time": 103
+    },
+    {
+      "content": "104 #c c continues painting the stone",
+      "time": 104
+    },
+    {
+      "content": "105 #C C paints the watercolor on the paint brush ",
+      "time": 105
+    },
+    {
+      "content": "106 #c c continues painting the stone",
+      "time": 106
+    },
+    {
+      "content": "107 #c c continues painting the stone",
+      "time": 107
+    },
+    {
+      "content": "108 #c c continues painting the wall",
+      "time": 108
+    },
+    {
+      "content": "109 #c c continues painting the stone",
+      "time": 109
+    },
+    {
+      "content": "110 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 110
+    },
+    {
+      "content": "111 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 111
+    },
+    {
+      "content": "112 #c c continues painting the stone",
+      "time": 112
+    },
+    {
+      "content": "113 #C C paints a watercolor on a wooden piece",
+      "time": 113
+    },
+    {
+      "content": "114 #C C paints a watercolor on the stone with a paint brush ",
+      "time": 114
+    },
+    {
+      "content": "115 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 115
+    },
+    {
+      "content": "116 #c c continues painting the stone",
+      "time": 116
+    },
+    {
+      "content": "117 #c c continues painting the wall",
+      "time": 117
+    },
+    {
+      "content": "118 #c c continues painting the stone",
+      "time": 118
+    },
+    {
+      "content": "119 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 119
+    },
+    {
+      "content": "120 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 120
+    },
+    {
+      "content": "121 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 121
+    },
+    {
+      "content": "122 #c c continues painting the stone",
+      "time": 122
+    },
+    {
+      "content": "123 #c c continues painting the stone",
+      "time": 123
+    },
+    {
+      "content": "124 #c c continues painting the wall of the room",
+      "time": 124
+    },
+    {
+      "content": "125 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 125
+    },
+    {
+      "content": "126 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 126
+    },
+    {
+      "content": "127 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 127
+    },
+    {
+      "content": "128 #C C dips paint brush into watercolor",
+      "time": 128
+    },
+    {
+      "content": "129 #c c continue painting the stone",
+      "time": 129
+    },
+    {
+      "content": "130 #c c continues painting the wall using a paint brush",
+      "time": 130
+    },
+    {
+      "content": "131 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 131
+    },
+    {
+      "content": "132 #c c continues painting the stone",
+      "time": 132
+    },
+    {
+      "content": "133 #C C paints a watercolor on a paint bottle ",
+      "time": 133
+    },
+    {
+      "content": "134 #C C paints the watercolor on the stone with a paint brush ",
+      "time": 134
+    },
+    {
+      "content": "135 #C C stops painting the stone",
+      "time": 135
+    },
+    {
+      "content": "136 #C C holds the paint brush on the table",
+      "time": 136
+    },
+    {
+      "content": "137 #C C dips the paint brush into a paint tube",
+      "time": 137
+    },
+    {
+      "content": "138 #C C dips paintbrush in the water ",
+      "time": 138
+    },
+    {
+      "content": "139 #C C stops painting the wall",
+      "time": 139
+    },
+    {
+      "content": "140 #C C dips the paint brush into the paint",
+      "time": 140
+    },
+    {
+      "content": "141 #c c continues painting the stone",
+      "time": 141
+    },
+    {
+      "content": "142 #C C paints the watercolor on the stone with the paint brush.",
+      "time": 142
+    },
+    {
+      "content": "143 #C C paints the watercolor on the stone with a paint brush ",
+      "time": 143
+    },
+    {
+      "content": "144 #C C paints the watercolor on the stone with the paint brush",
+      "time": 144
+    },
+    {
+      "content": "145 #C C dips the paint brush in the paint ",
+      "time": 145
+    },
+    {
+      "content": "146 #C C paints the watercolor on the stone with the paint brush",
+      "time": 146
+    },
+    {
+      "content": "147 #c c continues painting the stone",
+      "time": 147
+    },
+    {
+      "content": "148 #c c continues painting the stone",
+      "time": 148
+    },
+    {
+      "content": "149 #C C dips the paint brush in water ",
+      "time": 149
+    },
+    {
+      "content": "150 #C C stops painting the stone",
+      "time": 150
+    },
+    {
+      "content": "151 #C C paints the watercolor on the stone with a paint brush ",
+      "time": 151
+    },
+    {
+      "content": "152 #C C stops painting",
+      "time": 152
+    },
+    {
+      "content": "153 #c c continues painting the stone",
+      "time": 153
+    },
+    {
+      "content": "154 #c c continues painting the stone",
+      "time": 154
+    },
+    {
+      "content": "155 #C C paints the stone with a paint brush ",
+      "time": 155
+    },
+    {
+      "content": "156 #C C paints the watercolor on the stone with the paint brush ",
+      "time": 156
+    },
+    {
+      "content": "157 #c c continues painting the stone",
+      "time": 157
+    },
+    {
+      "content": "158 #C C dips paint brush in watercolor",
+      "time": 158
+    },
+    {
+      "content": "159 #C C dips the paint brush into the watercolor",
+      "time": 159
+    },
+    {
+      "content": "160 #C C dips the brush into the paint",
+      "time": 160
+    },
+    {
+      "content": "161 #C C moves the paint brush away from the watercolor",
+      "time": 161
+    },
+    {
+      "content": "162 #C C stares at the paint bottle",
+      "time": 162
+    },
+    {
+      "content": "163 #c c continues painting the stone",
+      "time": 163
+    },
+    {
+      "content": "164 #C C applies paint on the brush ",
+      "time": 164
+    },
+    {
+      "content": "165 #C C removes the paint tube from the watercolor",
+      "time": 165
+    },
+    {
+      "content": "166 #C C opens the paint tube lid ",
+      "time": 166
+    },
+    {
+      "content": "167 #C C dips the brush into the liquid in the glass cup with water",
+      "time": 167
+    },
+    {
+      "content": "168 #c c takes a brush",
+      "time": 168
+    },
+    {
+      "content": "169 #C C picks up the paint tube from the table",
+      "time": 169
+    },
+    {
+      "content": "170 #C C picks a paint tube lid",
+      "time": 170
+    },
+    {
+      "content": "171 #c c opens the paint tube lid",
+      "time": 171
+    },
+    {
+      "content": "172 #C C closes the tube",
+      "time": 172
+    },
+    {
+      "content": "173 #c c picks a paint tube",
+      "time": 173
+    },
+    {
+      "content": "174 #C C drops the paint tube.",
+      "time": 174
+    },
+    {
+      "content": "175 #c c returns paint tube",
+      "time": 175
+    },
+    {
+      "content": "176 #C C moves the brush to the left hand",
+      "time": 176
+    },
+    {
+      "content": "177 #C C looks at the  camera",
+      "time": 177
+    },
+    {
+      "content": "178 #C C stares at the watercolor ",
+      "time": 178
+    },
+    {
+      "content": "179 #c c picks a stone on the table",
+      "time": 179
+    },
+    {
+      "content": "180 #C C removes the paint tube from the table ",
+      "time": 180
+    }
+  ]
+}

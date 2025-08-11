@@ -1,0 +1,540 @@
+1 #C C converses with woman Y
+
+
+2 #C C walks in the room
+
+
+3 #C C opens door
+
+
+4 #O woman Y walks around
+
+
+5 #C C walks around the room
+
+
+6 #O Lady X moves a hand
+
+
+7 #C C walks around the house
+
+
+8 #C C talks to man D.
+
+
+9 #C C talks with man D
+
+
+10 #C C walks around the house
+
+
+11 #C C looks around the house
+
+
+12 #C C walks around the room
+
+
+13 #C C talks to person A
+
+
+14 #O man B walks in the house.
+
+
+15 #C C converses with man D
+
+
+16 #C C walks around the house
+
+
+17 #C C moves around the room
+
+
+18 #C C converses with woman X
+
+
+19 #C C walks around the house.
+
+
+20 #C C converses with a man X.
+
+
+21 #C C talks to a man X
+
+
+22 #C C converses with woman Y
+
+
+23 #C C moves towards the wall
+
+
+24 #C C moves to the table
+
+
+25 #C C looks at the piano
+
+
+26 #C C looks around the room
+
+
+27 #O person X stands in the house
+
+
+28 #O person X talks with C
+
+
+29 #C C plays the piano
+
+
+30 #O Woman X talks to C
+
+
+31 #O woman X holds a phone 
+
+
+32 #O person X holds a lamp
+
+
+33 #O woman X walks around
+
+
+34 #C C walks around the house
+
+
+35 #O A woman Y operates a phone 
+
+
+36 #C C walks around the room
+
+
+37 #C C walks around the room
+
+
+38 #C C walks around the house
+
+
+39 #C C walks towards a picture frame on the table.
+
+
+40 #C C walks around the house
+
+
+41 #C C walks around the house
+
+
+42 #C C picks a pen
+
+
+43 #C C looks around the house 
+
+
+44 #C C walks around
+
+
+45 #C C moves around.
+
+
+46 #C C looks around the house
+
+
+47 #C C walks towards a room.
+
+
+48 #C C walks towards the wall
+
+
+49 #C C walks around the house 
+
+
+50 #C C walks around the room
+
+
+51 #C C moves around the room 
+
+
+52 #C C walks around the house
+
+
+53 #C C stands besides a shelf
+
+
+54 #C C moves around
+
+
+55 #C C walks around
+
+
+56 #C C walks in the room
+
+
+57 #C C walks around the house
+
+
+58 #C C moves around the house 
+
+
+59 #O Woman Q talks to C
+
+
+60 #C C walks around the room
+
+
+61 #O woman B stands in the room
+
+
+62 #C C walks towards the sofa
+
+
+63 #C C looks around the house
+
+
+64 #O A man X stands up 
+
+
+65 #C C talks to person X
+
+
+66 #O man D converses with C
+
+
+67 #C C walks around
+
+
+68 #C C converses with Man A
+
+
+69 #C C looks around the house
+
+
+70 #C C talks to man D
+
+
+71 #O person B walks around the house
+
+
+72 #C C stares at a woman B
+
+
+73 #C C looks around the room
+
+
+74 #C C picks a cup
+
+
+75 #C C puts the paper towel on the table
+
+
+76 #C C picks the plate
+
+
+77 #C C walks in the room
+
+
+78 #C C walks around the room
+
+
+79 #C C picks the decoration from the window 
+
+
+80 #C C picks the decorative materials
+
+
+81 #C C picks the floating balloon
+
+
+82 #C C picks the balloon
+
+
+83 #C C walks around the house
+
+
+84 #C C picks a cushion
+
+
+85 #C C moves the dumbbells on the floor
+
+
+86 #C C puts the dumbbells on the chair
+
+
+87 #O man Q walks to C
+
+
+88 #O man B walks in the house
+
+
+89 #C C talks to person X 
+
+
+90 #C C talks 
+
+
+91 #O person B holds a paper on a table
+
+
+92 #O person B holds the camera
+
+
+93 #O O talks to C
+
+
+94 #O A man Q speaks 
+
+
+95 #C C talks to a man X
+
+
+96 #O man X talks to C
+
+
+97 #O man B walks
+
+
+98 #C C converses with man D 
+
+
+99 #C C converses with man X
+
+
+100 #O A man X walks towards the door
+
+
+101 #C C walks around
+
+
+102 #C C walks to the living room.
+
+
+103 #C C picks a fabric
+
+
+104 #C C drills the  dumbbells
+
+
+105 #C C moves the dumbbells
+
+
+106 #O person A sits on the chair
+
+
+107 #O A woman Y stands in the house
+
+
+108 #C C walks towards a table
+
+
+109 #C C walks around the house
+
+
+110 #C C moves around
+
+
+111 #C C walks towards the television stand
+
+
+112 #C C looks at the floor
+
+
+113 #C C raises the hand
+
+
+114 #C C talks to a woman X
+
+
+115 #C C talks to a woman X
+
+
+116 #C C walks around the house
+
+
+117 #C C walks around the house
+
+
+118 #O man A talks with C
+
+
+119 #O man D converses with C
+
+
+120 #C C picks a pillow 
+
+
+121 #C C walks around the house 
+
+
+122 #C C stares at the wall
+
+
+123 #C C looks around the apartment
+
+
+124 #C C looks around the room
+
+
+125 #C C picks a bag from the floor
+
+
+126 #C C looks at a woman X
+
+
+127 #O person A converses with C
+
+
+128 #O man Y stands close to C 
+
+
+129 #O woman T  holds a camera.
+
+
+130 #O woman R laughs at C.
+
+
+131 #O a woman S talks to C
+
+
+132 #O person X touches the camera
+
+
+133 #O person X touches the camera
+
+
+134 #O woman X drops a chair
+
+
+135 #O woman Y holds a book
+
+
+136 #O woman S picks a book from C
+
+
+137 #O woman G touches the head
+
+
+138 #O woman Y holds a camera
+
+
+139 #O woman X touches the camera
+
+
+140 #O lady X holds a camera
+
+
+141 #O woman J picks a bag of snacks
+
+
+142 #O woman X holds a camera
+
+
+143 #O man X holds a camera
+
+
+144 #C C walks around the room
+
+
+145 #C C walks around the house
+
+
+146 #C C looks around
+
+
+147 #C C moves around
+
+
+148 #C C looks around the house
+
+
+149 #O a lady X walks towards C
+
+
+150 #C C walks towards a door.
+
+
+151 #C C walks in the house
+
+
+152 #C C looks at the window
+
+
+153 #C C walks around
+
+
+154 #C C picks the lamp stand
+
+
+155 #C C picks the kitchen towel
+
+
+156 #C C walks towards the window
+
+
+157 #C C walks towards a window sill.
+
+
+158 #O man A walks in the house 
+
+
+159 #C C picks the dustpan
+
+
+160 #C C walks around the room
+
+
+161 #C C walks around the room
+
+
+162 #C C looks around the house
+
+
+163 #C C walks around the room 
+
+
+164 #C C walks around the room
+
+
+165 #C C walks around 
+
+
+166 #O woman X walks around 
+
+
+167 #C C looks around the room
+
+
+168 #C C looks around the clothes store
+
+
+169 #C C walks around the room
+
+
+170 #C C picks a cloth
+
+
+171 #C C picks cloths from the hanger stand
+
+
+172 #C C talks to man D
+
+
+173 #C C talks to woman X
+
+
+174 #O woman Y sits on the couch.
+
+
+175 #C C picks the cloth
+
+
+176 #C C holds a cloth
+
+
+177 #C C pulls the clothe
+
+
+178 #C C looks around the room 
+
+
+179 #C C turns the shirt on the hanger
+
+
+180 #C C holds a shirt
+
+

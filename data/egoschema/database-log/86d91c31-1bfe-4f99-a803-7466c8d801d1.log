@@ -1,0 +1,540 @@
+1 #C C turns to the paper
+
+
+2 #C C holds the paper
+
+
+3 #C C puts the paper in the paper
+
+
+4 #C C holds a paper
+
+
+5 #C C puts the paper on the paper roll.
+
+
+6 #C C walks infront of the trolley
+
+
+7 #C C walks with baby X along the pavement.
+
+
+8 #C C walks with baby X in the carriage
+
+
+9 #C C walks along the tarmac road
+
+
+10 #C C walks around the parking lot
+
+
+11 #C C looks at the cars
+
+
+12 #C C looks at the trolley
+
+
+13 #C C looks at the car
+
+
+14 #C C looks at the cars
+
+
+15 #C C looks at the road
+
+
+16 #C C rides the scooter 
+
+
+17 #C C stops the car
+
+
+18 #C C stops the bike
+
+
+19 #C C stops the baby stroller
+
+
+20 #C C pushes the trolley forward
+
+
+21 #C C walks around the parking lot
+
+
+22 #C C moves the trolley forward.
+
+
+23 #C C walks with the child X.
+
+
+24 #C C looks around the supermarket.
+
+
+25 #C C moves the sled with his right hand.
+
+
+26 #C C stops the car
+
+
+27 #C C stops the car
+
+
+28 #C C walks with child X
+
+
+29 #C C looks at person X
+
+
+30 #C C walks towards the trolley
+
+
+31 #C C walks in the trolley.
+
+
+32 #C C rides the trolley forward
+
+
+33 #C C looks at the trolley
+
+
+34 #C C looks at the dog
+
+
+35 #C C looks around the parking lot.
+
+
+36 #C C pulls the trolley
+
+
+37 #C C pushes the trolley forward
+
+
+38 #C C takes a turn with the baby stroller
+
+
+39 #C C looks at the trolley
+
+
+40 #C C pulls a trolley
+
+
+41 #C C looks around the road.
+
+
+42 #C C stops the car.
+
+
+43 #C C looks around the supermarket.
+
+
+44 #C C pulls a phone out of the pocket
+
+
+45 #C C walks along the tarmac road.
+
+
+46 #C C stops walking
+
+
+47 #C C enters the car
+
+
+48 #C C walks towards the car
+
+
+49 #C C walks towards a vehicle
+
+
+50 #C C walks around
+
+
+51 #C C places the bag in the car boot
+
+
+52 #C C removes the car boot
+
+
+53 #C C holds the car boot
+
+
+54 #C C opens a car boot
+
+
+55 #C C touches the car boot
+
+
+56 #C C pulls a car boot
+
+
+57 #C C opens the car door
+
+
+58 #C C opens a car door
+
+
+59 #C C opens the car door
+
+
+60 #C C walks towards the trolley.
+
+
+61 #C C looks around.
+
+
+62 #C C pushes the trolley
+
+
+63 #C C pushes the trolley towards the trolley
+
+
+64 #C C stops the bicycle
+
+
+65 #O man X walks on the road
+
+
+66 #C C walks on the pavement
+
+
+67 #C C walks forward
+
+
+68 #C C walks around the supermarket.
+
+
+69 #C C picks the carrier bag
+
+
+70 #C C walks around the street
+
+
+71 #C C walks around the parking lot
+
+
+72 #C C takes out a bag from the car seat
+
+
+73 #C C puts the paper on the car door
+
+
+74 #C C opens the car door.
+
+
+75 #C C walks with the shopping bag.
+
+
+76 #C C looks at the plastic paper
+
+
+77 #C C opens the car seat
+
+
+78 #C C walks around the parking lot.
+
+
+79 #C C opens the car boot
+
+
+80 #C C puts the bag in the car.
+
+
+81 #C C puts the shopping trolley on the trolley.
+
+
+82 #C C pushes the shopping bag
+
+
+83 #C C pushes the bushy
+
+
+84 #C C takes the plastic bag from her right hand
+
+
+85 #C C puts the car in the car
+
+
+86 #C C puts the bag on the car
+
+
+87 #C C takes a phone from the trunk
+
+
+88 #C C walks on the road
+
+
+89 #C C puts the paper in the trolley
+
+
+90 #C C looks around
+
+
+91 #C C opens the box
+
+
+92 #C C walks around
+
+
+93 #C C walks on the pavement
+
+
+94 #C C walks on the pavement
+
+
+95 #C C pushes the car
+
+
+96 #C C opens a door 
+
+
+97 #C C pushes the car seat
+
+
+98 #C C closes the car door
+
+
+99 #C C moves to the car
+
+
+100 #C C opens the car door
+
+
+101 #C C closes the car door
+
+
+102 #C C opens the door
+
+
+103 #C C moves the trolley
+
+
+104 #C C pushes the trolley forward
+
+
+105 #C C drives the trolley
+
+
+106 #C C pushes the trolley
+
+
+107 #O A man Y walks around the compound
+
+
+108 #C C rides the bicycle
+
+
+109 #C C pushes the trolley
+
+
+110 #C C walks around the parking lot
+
+
+111 #O A man Z drives the vehicle
+
+
+112 #C C moves the trolley forward
+
+
+113 #C C looks on the trolley
+
+
+114 #C C stops the bicycle
+
+
+115 #C C walks on the tarmac road
+
+
+116 #C C walks on the tarmac road
+
+
+117 #O A man S walks around the parking lot
+
+
+118 #C C takes the bus 
+
+
+119 #C C pushes the trolley forward
+
+
+120 #C C pushes the trolley forward
+
+
+121 #C C stops the trolley
+
+
+122 #C C pulls a trolley 
+
+
+123 #C C walks along the road
+
+
+124 #C C pushes the trolley to the right
+
+
+125 #C C walks along the pavement
+
+
+126 #C C walks ahead
+
+
+127 #C C looks at lady X
+
+
+128 #C C walks on the pavement
+
+
+129 #C C pushes the trolley forward
+
+
+130 #C C pushes the trolley forward
+
+
+131 #O Person M holds a shopping cart
+
+
+132 #C C walks infront of a man X
+
+
+133 #C C pulls trolley
+
+
+134 #C C holds the traffic light with both hands
+
+
+135 #C C walks on the parking lot
+
+
+136 #C C pushes the trolley forward
+
+
+137 #C C pushes a trolley forward
+
+
+138 #C C pushes the trolley
+
+
+139 #C C pushes the trolley forward
+
+
+140 #C C looks around the road
+
+
+141 #C C pushes the trolley
+
+
+142 #C C drives the trolley forward
+
+
+143 #C C pushes the trolley
+
+
+144 #C C pushes the trolley
+
+
+145 #C C walks in the supermarket
+
+
+146 #C C walks towards the trolley
+
+
+147 #C C looks at the car door
+
+
+148 #C C walks towards a door.
+
+
+149 #O person N walks around the parking lot
+
+
+150 #C C walks around the supermarket
+
+
+151 #C C walks around the supermarket
+
+
+152 #O man I walks in the supermarket
+
+
+153 #O Person D picks the shopping bag
+
+
+154 #O person U walks around
+
+
+155 #O person F walks around the supermarket
+
+
+156 #O person H puts the trolley in the trolley.
+
+
+157 #O person H walks around
+
+
+158 #O Person B walks around
+
+
+159 #O person B stands in the building
+
+
+160 #O a woman Y walks in the building
+
+
+161 #C C walks to the warehouse with the ice cream in his right hand.
+
+
+162 #C C holds a plastic container
+
+
+163 #C C removes the paper from the trashcan
+
+
+164 #O person Y walks around the shop
+
+
+165 #O lady B walks around
+
+
+166 #C C walks around the mall
+
+
+167 #O A lady f walks around
+
+
+168 #C C walks towards the exit
+
+
+169 #C C walks towards a door in the building.
+
+
+170 #C C walks around the parking lot
+
+
+171 #O A man Y walks around the building.
+
+
+172 #C C walks around the building
+
+
+173 #C C looks around the compound
+
+
+174 #C C walks along the pavement
+
+
+175 #C C looks around the road
+
+
+176 #C C turns left
+
+
+177 #C C looks at the road 
+
+
+178 #O A man K rides a bicycle on the road
+
+
+179 #C C walks along the road
+
+
+180 #C C turns to the right 
+
+

@@ -1,0 +1,540 @@
+1 #C C stares at the lawn mower
+
+
+2 #C C moves the hand.
+
+
+3 #C C moves towards the lawn mower
+
+
+4 #C C walks around.
+
+
+5 #C C walks around.
+
+
+6 #C C looks around the workshop
+
+
+7 #C C moves the hand to the metal
+
+
+8 #C C looks at the machine 
+
+
+9 #C C  adjusts the metal on the machine 
+
+
+10 #C C holds the metal
+
+
+11 #C C lifts the nut with the pliers
+
+
+12 #C C pulls the lawn mower blade 
+
+
+13 #C C fixes the metal on the lawn mower
+
+
+14 #C C holds the flame.
+
+
+15 #C C puts the torchlight on the lawn mower
+
+
+16 #C C walks to the lawnmower.
+
+
+17 #C C walks towards the lawn mower.
+
+
+18 #C C drops the white wire on the tool cabinet
+
+
+19 #C C puts a metal in a tool box
+
+
+20 #C C removes the bolt from the torque wrench.
+
+
+21 #C C walks to the machine
+
+
+22 #C C walks to the table.
+
+
+23 #C C holds the screwdriver
+
+
+24 #C C fixes the belt in the lawn tractor.
+
+
+25 #C C turns the lawn mower
+
+
+26 #C C fixes the wheel bolt with the pliers
+
+
+27 #C C puts the spanner on the engine
+
+
+28 #C C removes the spanner from the trunk of the car
+
+
+29 #C C picks a bolt on the lawn mower
+
+
+30 #C C walks around the garage
+
+
+31 #C C walks to the tools
+
+
+32 #C C picks up the screwdriver from the table.
+
+
+33 #C C drops the screw driver on the tool cabinet.
+
+
+34 #C C puts the compact router on the shelf
+
+
+35 #C C puts a drill driver on a table 
+
+
+36 #C C walks towards the metal tool cabinet
+
+
+37 #C C walks towards the table.
+
+
+38 #C C walks in the room
+
+
+39 #C C walks towards the floor
+
+
+40 #C C pushes a chair
+
+
+41 #C C walks away from the paper.
+
+
+42 #C C moves the paper on the floor.
+
+
+43 #C C picks up the piece of cloth
+
+
+44 #C C drops the paper on the floor
+
+
+45 #C C picks a cloth
+
+
+46 #C C walks towards the pile of paper pieces on the floor
+
+
+47 #C C walks towards the table saw
+
+
+48 #C C walks back to the stool.
+
+
+49 #C C picks the tool box from the floor
+
+
+50 #C C walks towards the vacuum cleaner
+
+
+51 #C C throws the dirt in the bucket
+
+
+52 #C C walks towards the lift door
+
+
+53 #C C looks around the workshop
+
+
+54 #C C turns around the room
+
+
+55 #C C looks at the machine 
+
+
+56 #C C operates a machine
+
+
+57 #C C looks at the table
+
+
+58 #C C moves towards the front of the mower.
+
+
+59 #C C looks at the workshop
+
+
+60 #C C looks around the workshop
+
+
+61 #C C holds a cable tie
+
+
+62 #C C looks around the garage 
+
+
+63 #C C looks at the machine 
+
+
+64 #O A man X walks in the room 
+
+
+65 #C C moves the hand to the metal
+
+
+66 #C C turns around
+
+
+67 #O man X walks on the floor
+
+
+68 #O A man X pulls the car lift.
+
+
+69 #C C looks at the lawn mower
+
+
+70 #C C looks around the workshop 
+
+
+71 #O X walks across the workshop
+
+
+72 #C C looks around the workshop
+
+
+73 #O man X walks in the workshop.
+
+
+74 #C C looks around the garage
+
+
+75 #C C looks around the workshop
+
+
+76 #C C looks around the workshop
+
+
+77 #C C looks around the garage 
+
+
+78 #C C looks around the workshop
+
+
+79 #C C adjusts the lawn mower part with his left hand
+
+
+80 #C C looks around the lawn mower 
+
+
+81 #C C moves the camera around
+
+
+82 #C C looks around the workshop
+
+
+83 #O X walks away from the lawn mower
+
+
+84 #C C moves around
+
+
+85 #C C looks around the workshop.
+
+
+86 #C C walks towards the lawn mower
+
+
+87 #C C looks around the workshop
+
+
+88 #C C looks around the garage
+
+
+89 #C C turns around the room
+
+
+90 #C C puts the screw on the lawn mower
+
+
+91 #C C wipes his face with his hand
+
+
+92 #C C lifts up his hand
+
+
+93 #C C looks around the workshop
+
+
+94 #C C looks around the workshop
+
+
+95 #C C looks around the workshop
+
+
+96 #C C looks around the workshop
+
+
+97 #C C stares around the workshop
+
+
+98 #C C looks around the room
+
+
+99 #C C looks around the workshop
+
+
+100 #C C looks around the workshop
+
+
+101 #C C looks around the workshop 
+
+
+102 #C C looks around the workshop
+
+
+103 #C C looks around the garage
+
+
+104 #C C looks around the room
+
+
+105 #C C looks around the room
+
+
+106 #C C stands near a lawn mower
+
+
+107 #C C looks around the workshop
+
+
+108 #C C looks around the workshop
+
+
+109 #C C holds the camera
+
+
+110 #C C moves his hand
+
+
+111 #C C looks around the room
+
+
+112 #C C walks towards the lawn mower
+
+
+113 #C C walks around the workshop
+
+
+114 #C C walks around the garage
+
+
+115 #C C walks to the shelf
+
+
+116 #C C walks to another rack.
+
+
+117 #C C walks around the room
+
+
+118 #C C moves around the shelf 
+
+
+119 #C C looks around the shelf
+
+
+120 #C C walks around the workshop
+
+
+121 #C C walks towards the table
+
+
+122 #C C walks around the room
+
+
+123 #C C walks around the workshop
+
+
+124 #C C walks towards the door
+
+
+125 #C C walks into the workshop
+
+
+126 #C C climbs down the stairs
+
+
+127 #C C walks down a staircase.
+
+
+128 #C C walks into the closet.
+
+
+129 #C C opens a door with her right hand.
+
+
+130 #C C walks around the room
+
+
+131 #C C walks to the table.
+
+
+132 #C C walks around the garage
+
+
+133 #C C picks the carton of tools with his left hand
+
+
+134 #C C picks the box on the floor
+
+
+135 #C C puts carton down
+
+
+136 #C C lifts the carton
+
+
+137 #C C picks a paper
+
+
+138 #C C walks towards the shelf
+
+
+139 #C C walks towards the table
+
+
+140 #C C walks towards a door
+
+
+141 #C C opens a door
+
+
+142 #C C opens a door
+
+
+143 #C C touches a metal bar.
+
+
+144 #C C walks down a stairs.
+
+
+145 #C C climbs a staircase.
+
+
+146 #C C walks around the room
+
+
+147 #C C walks towards a wall cabinet.
+
+
+148 #C C walks towards the door.
+
+
+149 #C C walks to a door.
+
+
+150 #C C walks around the workshop
+
+
+151 #C C walks around the workshop
+
+
+152 #C C walks away from the stack of pieces of wood.
+
+
+153 #C C walks to the rack
+
+
+154 #C C walks towards a door.
+
+
+155 #C C moves towards the metal.
+
+
+156 #C C walks to the other side of the lawn mower.
+
+
+157 #C C walks around the room
+
+
+158 #C C places the box of paper on the lift platform
+
+
+159 #C C picks the box
+
+
+160 #C C moves the cutout on the  metal strip.
+
+
+161 #C C adjusts the car chassis with his hands
+
+
+162 #C C picks the paper
+
+
+163 #C C drops the part of the lawn mower on the mower engine
+
+
+164 #C C picks the blades
+
+
+165 #C C puts the pack of paper on the mower stand
+
+
+166 #C C puts the pack of spare part on the lawn mower.
+
+
+167 #C C adjusts the lawn mower part on the floor with his hands
+
+
+168 #C C moves the second  trimmer engine from the workbench to the stacker with his hands.
+
+
+169 #C C picks a pack of nuts from the carton with his hands
+
+
+170 #C C picks a cable tie
+
+
+171 #C C drops the box of the lawn mower
+
+
+172 #C C picks the fuel tank
+
+
+173 #C C picks a box of screws.
+
+
+174 #C C picks a wire mesh
+
+
+175 #C C picks up a bag of fuel.
+
+
+176 #C C moves around the workshop
+
+
+177 #C C puts the mower on the lift
+
+
+178 #C C walks towards the lawn mower.
+
+
+179 #C C walks around.
+
+
+180 #C C moves the hand.
+
+

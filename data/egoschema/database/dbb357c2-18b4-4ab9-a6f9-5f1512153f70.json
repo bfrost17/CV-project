@@ -1,0 +1,724 @@
+{
+  "messages": [
+    {
+      "content": "1 #C C holds the metal structure",
+      "time": 1
+    },
+    {
+      "content": "2 #C C adjusts the metal",
+      "time": 2
+    },
+    {
+      "content": "3 #C C removes the bolt from the metal on the bench with his left hand.",
+      "time": 3
+    },
+    {
+      "content": "4 #C C pulls the belt",
+      "time": 4
+    },
+    {
+      "content": "5 #C C holds a welding machine",
+      "time": 5
+    },
+    {
+      "content": "6 #C C puts the hand in the pocket",
+      "time": 6
+    },
+    {
+      "content": "7 #C C holds the iron rod",
+      "time": 7
+    },
+    {
+      "content": "8 #C C sprays the lamp with the spray",
+      "time": 8
+    },
+    {
+      "content": "9 #C C presses the cable with a power cable",
+      "time": 9
+    },
+    {
+      "content": "10 #C C adjusts the wire",
+      "time": 10
+    },
+    {
+      "content": "11 #C C pulls the sleeves",
+      "time": 11
+    },
+    {
+      "content": "12 #C C fixes the cable in the mask",
+      "time": 12
+    },
+    {
+      "content": "13 #C C puts the mask in a container",
+      "time": 13
+    },
+    {
+      "content": "14 #C C lifts the hand",
+      "time": 14
+    },
+    {
+      "content": "15 #C C holds the metal",
+      "time": 15
+    },
+    {
+      "content": "16 #C C smoothens the metal",
+      "time": 16
+    },
+    {
+      "content": "17 #C C marks the metal",
+      "time": 17
+    },
+    {
+      "content": "18 #C C holds the metal",
+      "time": 18
+    },
+    {
+      "content": "19 #C C touches the metal",
+      "time": 19
+    },
+    {
+      "content": "20 #C C adjusts the sanding disc with both hands.",
+      "time": 20
+    },
+    {
+      "content": "21 #C C holds the timber with right hand ",
+      "time": 21
+    },
+    {
+      "content": "22 #C C puts the wood clamp on the wooden structure with left hand ",
+      "time": 22
+    },
+    {
+      "content": "23 #C C holds the wood with left hand",
+      "time": 23
+    },
+    {
+      "content": "24 #C C moves the step ",
+      "time": 24
+    },
+    {
+      "content": "25 #C C wipes the wood",
+      "time": 25
+    },
+    {
+      "content": "26 #C C holds the wall with his left hand.",
+      "time": 26
+    },
+    {
+      "content": "27 #C C wipes the handrail with the cloth",
+      "time": 27
+    },
+    {
+      "content": "28 #C C holds the pant with both hands",
+      "time": 28
+    },
+    {
+      "content": "29 #C C cleans the  saree on her left leg with her left hand.",
+      "time": 29
+    },
+    {
+      "content": "30 #C C removes the left hand from the face",
+      "time": 30
+    },
+    {
+      "content": "31 #C C holds the cloth",
+      "time": 31
+    },
+    {
+      "content": "32 #C C pulls the cloths",
+      "time": 32
+    },
+    {
+      "content": "33 #C C places the cloth on the chair",
+      "time": 33
+    },
+    {
+      "content": "34 #C C wipes the cloth with the cloth",
+      "time": 34
+    },
+    {
+      "content": "35 #C C applies glue on the trouser",
+      "time": 35
+    },
+    {
+      "content": "36 #C C wipes the trouser with her left hand",
+      "time": 36
+    },
+    {
+      "content": "37 #C C wipes the iron rod with his right hand.",
+      "time": 37
+    },
+    {
+      "content": "38 #C C wipes the cloth",
+      "time": 38
+    },
+    {
+      "content": "39 #C C wipes the iron with a cloth",
+      "time": 39
+    },
+    {
+      "content": "40 #C C presses the iron box",
+      "time": 40
+    },
+    {
+      "content": "41 #C C wipes the seat",
+      "time": 41
+    },
+    {
+      "content": "42 #C C folds a cloth",
+      "time": 42
+    },
+    {
+      "content": "43 #C C unfolds the fabric on the handrail with both hands.",
+      "time": 43
+    },
+    {
+      "content": "44 #C C puts on the cloth",
+      "time": 44
+    },
+    {
+      "content": "45 #C C stretches the cloth",
+      "time": 45
+    },
+    {
+      "content": "46 #C C holds the metal ",
+      "time": 46
+    },
+    {
+      "content": "47 #C C pulls the tape",
+      "time": 47
+    },
+    {
+      "content": "48 #C C pulls the protective shield",
+      "time": 48
+    },
+    {
+      "content": "49 #C C puts the bottle on the table",
+      "time": 49
+    },
+    {
+      "content": "50 #C C holds the table",
+      "time": 50
+    },
+    {
+      "content": "51 #C C pulls the table",
+      "time": 51
+    },
+    {
+      "content": "52 #C C moves the left hand ",
+      "time": 52
+    },
+    {
+      "content": "53 #C C pulls the hand off the shirt",
+      "time": 53
+    },
+    {
+      "content": "54 #C C holds the camera",
+      "time": 54
+    },
+    {
+      "content": "55 #C C wipes the table",
+      "time": 55
+    },
+    {
+      "content": "56 #C C removes the cloth",
+      "time": 56
+    },
+    {
+      "content": "57 #C C touches the handrail.",
+      "time": 57
+    },
+    {
+      "content": "58 #C C wipes the chair with the towel",
+      "time": 58
+    },
+    {
+      "content": "59 #C C removes the white cloth from the hole on the left shoe with the screw driver.",
+      "time": 59
+    },
+    {
+      "content": "60 #C C inserts the chuck in the hole on the cloth",
+      "time": 60
+    },
+    {
+      "content": "61 #C C presses the cord",
+      "time": 61
+    },
+    {
+      "content": "62 #C C presses the other hand with his right hand",
+      "time": 62
+    },
+    {
+      "content": "63 #C C holds the  gun with his right hand",
+      "time": 63
+    },
+    {
+      "content": "64 #C C removes the cloth from the neck",
+      "time": 64
+    },
+    {
+      "content": "65 #C C adjusts the cloth with his hands.",
+      "time": 65
+    },
+    {
+      "content": "66 #C C holds a wall trim on the wall with his right hand.",
+      "time": 66
+    },
+    {
+      "content": "67 #C C puts a mark on the wall with a paint brush",
+      "time": 67
+    },
+    {
+      "content": "68 #C C tightens the nut with a drill",
+      "time": 68
+    },
+    {
+      "content": "69 #C C removes the pipe clamp with the left hand",
+      "time": 69
+    },
+    {
+      "content": "70 #C C cuts the wall with a electric pipe cutter",
+      "time": 70
+    },
+    {
+      "content": "71 #C C tightens the screws with a screwdriver",
+      "time": 71
+    },
+    {
+      "content": "72 #C C holds the wall",
+      "time": 72
+    },
+    {
+      "content": "73 #C C fixes the wall.",
+      "time": 73
+    },
+    {
+      "content": "74 #C C wipes the wooden floor with the hand towel",
+      "time": 74
+    },
+    {
+      "content": "75 #C C moves the wall",
+      "time": 75
+    },
+    {
+      "content": "76 #C C wipes the wooden wall with the hand towel",
+      "time": 76
+    },
+    {
+      "content": "77 #C C touches the wood",
+      "time": 77
+    },
+    {
+      "content": "78 #C C holds the cooking pot",
+      "time": 78
+    },
+    {
+      "content": "79 #C C holds the wall top with left hand",
+      "time": 79
+    },
+    {
+      "content": "80 #C C scrubs the wooden furniture with the sandpaper",
+      "time": 80
+    },
+    {
+      "content": "81 #C C places her right hand on the bamboo strip of the bamboo strip of cloth.",
+      "time": 81
+    },
+    {
+      "content": "82 #C C picks the bamboo",
+      "time": 82
+    },
+    {
+      "content": "83 #C C cuts the cord with the electric tape in his right hand. ",
+      "time": 83
+    },
+    {
+      "content": "84 #C C removes the cloth from the wall with his left hand.",
+      "time": 84
+    },
+    {
+      "content": "85 #C C paints the wall with the paint roller in his right hand.",
+      "time": 85
+    },
+    {
+      "content": "86 #C C paints the wall with a paint roller",
+      "time": 86
+    },
+    {
+      "content": "87 #C C paints the wall with the paint roller",
+      "time": 87
+    },
+    {
+      "content": "88 #C C holds the wire with his left hand",
+      "time": 88
+    },
+    {
+      "content": "89 #C C holds the cloth with his left hand.",
+      "time": 89
+    },
+    {
+      "content": "90 #C C opens the top of the phone with his hands.",
+      "time": 90
+    },
+    {
+      "content": "91 #C C walks around",
+      "time": 91
+    },
+    {
+      "content": "92 #C C wipes the sponge with the towel",
+      "time": 92
+    },
+    {
+      "content": "93 #C C folds the sanding pad",
+      "time": 93
+    },
+    {
+      "content": "94 #C C adjusts the wood with his hands",
+      "time": 94
+    },
+    {
+      "content": "95 #C C holds the wood",
+      "time": 95
+    },
+    {
+      "content": "96 #C C holds the gun with both hands",
+      "time": 96
+    },
+    {
+      "content": "97 #C C holds the hand",
+      "time": 97
+    },
+    {
+      "content": "98 #C C folds the fabric",
+      "time": 98
+    },
+    {
+      "content": "99 #C C wipes the iron belt with the cloth",
+      "time": 99
+    },
+    {
+      "content": "100 #C C moves his hands",
+      "time": 100
+    },
+    {
+      "content": "101 #C C wipes the cloth with her hands",
+      "time": 101
+    },
+    {
+      "content": "102 #C C wipes the back of his shirt with his right hand",
+      "time": 102
+    },
+    {
+      "content": "103 #C C removes the tape measure from the pocket",
+      "time": 103
+    },
+    {
+      "content": "104 #C C unfolds the cloth with both hands.",
+      "time": 104
+    },
+    {
+      "content": "105 #C C wipes the pole with a cloth. ",
+      "time": 105
+    },
+    {
+      "content": "106 #C C pulls on the cloth",
+      "time": 106
+    },
+    {
+      "content": "107 #C C marks the wall with a pencil",
+      "time": 107
+    },
+    {
+      "content": "108 #C C moves the hand holding the wall",
+      "time": 108
+    },
+    {
+      "content": "109 #C C holds the wall",
+      "time": 109
+    },
+    {
+      "content": "110 #C C wipes the wall with his right hand",
+      "time": 110
+    },
+    {
+      "content": "111 #C C adjusts the camera",
+      "time": 111
+    },
+    {
+      "content": "112 #C C paints a wall with the paint roller in his right hand.",
+      "time": 112
+    },
+    {
+      "content": "113 #C C paints a wall with a paintbrush in his right hand.",
+      "time": 113
+    },
+    {
+      "content": "114 #C C touches the ladder",
+      "time": 114
+    },
+    {
+      "content": "115 #C C paints the wall of the house with the paintbrush in his right hand.",
+      "time": 115
+    },
+    {
+      "content": "116 #C C sprays the wall with a hand sanitizer",
+      "time": 116
+    },
+    {
+      "content": "117 #C C puts the lamp on the floor",
+      "time": 117
+    },
+    {
+      "content": "118 #C C puts the cloth down",
+      "time": 118
+    },
+    {
+      "content": "119 #C C moves the cloth on the wall",
+      "time": 119
+    },
+    {
+      "content": "120 #C C lifts a painting brush from the wall",
+      "time": 120
+    },
+    {
+      "content": "121 #C C puts the cloth on a ladder",
+      "time": 121
+    },
+    {
+      "content": "122 #C C looks at the floor",
+      "time": 122
+    },
+    {
+      "content": "123 #C C touches the brick",
+      "time": 123
+    },
+    {
+      "content": "124 #C C turns the wood",
+      "time": 124
+    },
+    {
+      "content": "125 #C C adjusts the cable",
+      "time": 125
+    },
+    {
+      "content": "126 #C C  adjusts the cable",
+      "time": 126
+    },
+    {
+      "content": "127 #C C removes the wood",
+      "time": 127
+    },
+    {
+      "content": "128 #C C cuts the wood with the sandpaper",
+      "time": 128
+    },
+    {
+      "content": "129 #C C adjusts the cloth",
+      "time": 129
+    },
+    {
+      "content": "130 #C C wears the jacket on his hands",
+      "time": 130
+    },
+    {
+      "content": "131 #C C fixes a cable on the fence",
+      "time": 131
+    },
+    {
+      "content": "132 #C C cuts the wood",
+      "time": 132
+    },
+    {
+      "content": "133 #C C holds the cloth on the ironing board with her hands.",
+      "time": 133
+    },
+    {
+      "content": "134 #C C holds the iron box with his left hand",
+      "time": 134
+    },
+    {
+      "content": "135 #C C adjusts the rope",
+      "time": 135
+    },
+    {
+      "content": "136 #C C adjusts a table",
+      "time": 136
+    },
+    {
+      "content": "137 #C C adjusts the fabric on her lap",
+      "time": 137
+    },
+    {
+      "content": "138 #C C holds a wall frame with his left hand.",
+      "time": 138
+    },
+    {
+      "content": "139 #C C holds the wall with his left hand",
+      "time": 139
+    },
+    {
+      "content": "140 #C C paints a wooden wall",
+      "time": 140
+    },
+    {
+      "content": "141 #C C paints the wall with the brush",
+      "time": 141
+    },
+    {
+      "content": "142 #C C touches the wooden board",
+      "time": 142
+    },
+    {
+      "content": "143 #C C picks a cable",
+      "time": 143
+    },
+    {
+      "content": "144 #C C picks the tape measure",
+      "time": 144
+    },
+    {
+      "content": "145 #C C holds the metal bar with his right hand.",
+      "time": 145
+    },
+    {
+      "content": "146 #C C lifts the brush",
+      "time": 146
+    },
+    {
+      "content": "147 #C C holds the curtain with both hands",
+      "time": 147
+    },
+    {
+      "content": "148 #C C turns the cloth",
+      "time": 148
+    },
+    {
+      "content": "149 #C C adjusts the cloth on the cloth rack with his hands",
+      "time": 149
+    },
+    {
+      "content": "150 #C C takes the sweater on the bed",
+      "time": 150
+    },
+    {
+      "content": "151 #C C removes the brush on the cloth",
+      "time": 151
+    },
+    {
+      "content": "152 #C C paints the wall with a paintbrush",
+      "time": 152
+    },
+    {
+      "content": "153 #C C paints the wall with the brush",
+      "time": 153
+    },
+    {
+      "content": "154 #C C paints a wall using the paint brush",
+      "time": 154
+    },
+    {
+      "content": "155 #C C stretches the hand",
+      "time": 155
+    },
+    {
+      "content": "156 #C C stretches the cloth",
+      "time": 156
+    },
+    {
+      "content": "157 #C C folds the cloth",
+      "time": 157
+    },
+    {
+      "content": "158 #C C fixes the fence",
+      "time": 158
+    },
+    {
+      "content": "159 #C C puts the cloth on the table",
+      "time": 159
+    },
+    {
+      "content": "160 #C C cleans the fabric with the cloth",
+      "time": 160
+    },
+    {
+      "content": "161 #C C adjusts his hands.",
+      "time": 161
+    },
+    {
+      "content": "162 #C C moves the metal on the bench with his right hand.",
+      "time": 162
+    },
+    {
+      "content": "163 #C C walks towards the metal table.",
+      "time": 163
+    },
+    {
+      "content": "164 #C C carries the metal rod from the ground with both hands.",
+      "time": 164
+    },
+    {
+      "content": "165 #C C holds the steel",
+      "time": 165
+    },
+    {
+      "content": "166 #C C pushes the metal",
+      "time": 166
+    },
+    {
+      "content": "167 #C C moves the metal",
+      "time": 167
+    },
+    {
+      "content": "168 #C C moves the hand",
+      "time": 168
+    },
+    {
+      "content": "169 #C C puts the hand on the fence",
+      "time": 169
+    },
+    {
+      "content": "170 #C C moves the rail",
+      "time": 170
+    },
+    {
+      "content": "171 #C C marks the metal",
+      "time": 171
+    },
+    {
+      "content": "172 #C C puts the hand on the door handle",
+      "time": 172
+    },
+    {
+      "content": "173 #C C picks the metal bar",
+      "time": 173
+    },
+    {
+      "content": "174 #C C holds a metal.",
+      "time": 174
+    },
+    {
+      "content": "175 #C C touches the metal",
+      "time": 175
+    },
+    {
+      "content": "176 #C C measures the wooden shelf",
+      "time": 176
+    },
+    {
+      "content": "177 #C C marks the steel",
+      "time": 177
+    },
+    {
+      "content": "178 #C C turns on the head of the cloth with his right hand",
+      "time": 178
+    },
+    {
+      "content": "179 #C C wipes the wood with a towel",
+      "time": 179
+    },
+    {
+      "content": "180 #C C touches the metal",
+      "time": 180
+    }
+  ]
+}

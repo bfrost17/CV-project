@@ -1,0 +1,724 @@
+{
+  "messages": [
+    {
+      "content": "1 #C C removes the metal from the brake caliper",
+      "time": 1
+    },
+    {
+      "content": "2 #C C removes the brake disc",
+      "time": 2
+    },
+    {
+      "content": "3 #C C sprays the  paint spray ",
+      "time": 3
+    },
+    {
+      "content": "4 #C C picks a rim",
+      "time": 4
+    },
+    {
+      "content": "5 #C C takes a rim",
+      "time": 5
+    },
+    {
+      "content": "6 #C C moves the tire",
+      "time": 6
+    },
+    {
+      "content": "7 #C C places the disc brake on the metal ",
+      "time": 7
+    },
+    {
+      "content": "8 #C C opens the brake pad",
+      "time": 8
+    },
+    {
+      "content": "9 #C C applies the paint on the caliper housing",
+      "time": 9
+    },
+    {
+      "content": "10 #C C drops the  liquid ink bottle ",
+      "time": 10
+    },
+    {
+      "content": "11 #C C picks the rim",
+      "time": 11
+    },
+    {
+      "content": "12 #C C lifts the wheel",
+      "time": 12
+    },
+    {
+      "content": "13 #C C picks the disc brake",
+      "time": 13
+    },
+    {
+      "content": "14 #C C turns the wheel disc",
+      "time": 14
+    },
+    {
+      "content": "15 #C C picks a disc brake",
+      "time": 15
+    },
+    {
+      "content": "16 #C C picks up the car disc",
+      "time": 16
+    },
+    {
+      "content": "17 #c c picks the paint spray",
+      "time": 17
+    },
+    {
+      "content": "18 #C C picks the tyre cover from the floor",
+      "time": 18
+    },
+    {
+      "content": "19 #C C puts the paint bucket on the floor",
+      "time": 19
+    },
+    {
+      "content": "20 #C C removes the brake disc",
+      "time": 20
+    },
+    {
+      "content": "21 #C C removes the filler",
+      "time": 21
+    },
+    {
+      "content": "22 #C C removes the paint with the brush",
+      "time": 22
+    },
+    {
+      "content": "23 #C C sprays the paint on the brake caliper with the spray paint ",
+      "time": 23
+    },
+    {
+      "content": "24 #C C puts the wheel on the floor",
+      "time": 24
+    },
+    {
+      "content": "25 #C C moves the rim to the rim",
+      "time": 25
+    },
+    {
+      "content": "26 #C C picks wheel",
+      "time": 26
+    },
+    {
+      "content": "27 #C C picks the rim",
+      "time": 27
+    },
+    {
+      "content": "28 #c c picks a spray",
+      "time": 28
+    },
+    {
+      "content": "29 #C C removes the rim on the wheel hub",
+      "time": 29
+    },
+    {
+      "content": "30 #C C puts the bottle in the car",
+      "time": 30
+    },
+    {
+      "content": "31 #C C drops the rim on the machine",
+      "time": 31
+    },
+    {
+      "content": "32 #C C lifts the wheel disc",
+      "time": 32
+    },
+    {
+      "content": "33 #C C moves a rim on the table ",
+      "time": 33
+    },
+    {
+      "content": "34 #C C puts the  spray bottle on the car wheel",
+      "time": 34
+    },
+    {
+      "content": "35 #c c fixes the toothpaste in the wheel hub",
+      "time": 35
+    },
+    {
+      "content": "36 #C C puts the rim on the rim",
+      "time": 36
+    },
+    {
+      "content": "37 #C C picks the rim",
+      "time": 37
+    },
+    {
+      "content": "38 #C C holds the spray bottle",
+      "time": 38
+    },
+    {
+      "content": "39 #C C Moves the tire",
+      "time": 39
+    },
+    {
+      "content": "40 #C C removes the seal of the tire",
+      "time": 40
+    },
+    {
+      "content": "41 #C C fixes the brake pad on the box",
+      "time": 41
+    },
+    {
+      "content": "42 #C C picks the brake pad",
+      "time": 42
+    },
+    {
+      "content": "43 #C C puts the tire down",
+      "time": 43
+    },
+    {
+      "content": "44 #C C moves the tire",
+      "time": 44
+    },
+    {
+      "content": "45 #C C rolls the tire",
+      "time": 45
+    },
+    {
+      "content": "46 #C C spins wheel",
+      "time": 46
+    },
+    {
+      "content": "47 #C C removes the wheel from the tire",
+      "time": 47
+    },
+    {
+      "content": "48 #C C removes the tire from the tire",
+      "time": 48
+    },
+    {
+      "content": "49 #C C puts the rim on the rim",
+      "time": 49
+    },
+    {
+      "content": "50 #C C picks the tire",
+      "time": 50
+    },
+    {
+      "content": "51 #C C places tire on the car",
+      "time": 51
+    },
+    {
+      "content": "52 #C C turns on the wheel bearing",
+      "time": 52
+    },
+    {
+      "content": "53 #C C picks a paint can from the floor",
+      "time": 53
+    },
+    {
+      "content": "54 #C C drops the paint brush in the container",
+      "time": 54
+    },
+    {
+      "content": "55 #C C places the brush in the paint can ",
+      "time": 55
+    },
+    {
+      "content": "56 #C C removes the rim from the rim",
+      "time": 56
+    },
+    {
+      "content": "57 #C C hits the wheel",
+      "time": 57
+    },
+    {
+      "content": "58 #C C removes the toothbrush from the rim",
+      "time": 58
+    },
+    {
+      "content": "59 #C C touches the rim",
+      "time": 59
+    },
+    {
+      "content": "60 #C C hits the tire with a hammer",
+      "time": 60
+    },
+    {
+      "content": "61 #C C puts the tin on the table",
+      "time": 61
+    },
+    {
+      "content": "62 #C C picks wheel from the machine",
+      "time": 62
+    },
+    {
+      "content": "63 #C C puts the wheel on the floor",
+      "time": 63
+    },
+    {
+      "content": "64 #C C removes wheel from the machine",
+      "time": 64
+    },
+    {
+      "content": "65 #C C puts the wheel on the wheel hub",
+      "time": 65
+    },
+    {
+      "content": "66 #C C picks wheel balancing machine",
+      "time": 66
+    },
+    {
+      "content": "67 #C C removes wheel from the rim",
+      "time": 67
+    },
+    {
+      "content": "68 #C C puts the tire on the wheel hub ",
+      "time": 68
+    },
+    {
+      "content": "69 #C C fixes the tire on the wheel hub",
+      "time": 69
+    },
+    {
+      "content": "70 #C C puts the tire on the wheel",
+      "time": 70
+    },
+    {
+      "content": "71 #C C fixes the wheel on the brake",
+      "time": 71
+    },
+    {
+      "content": "72 #C C puts tire on the machine",
+      "time": 72
+    },
+    {
+      "content": "73 #C C fixes the wheel on the wheel hub ",
+      "time": 73
+    },
+    {
+      "content": "74 #C C turns the rim on the rim",
+      "time": 74
+    },
+    {
+      "content": "75 #C C lifts the wheel disc",
+      "time": 75
+    },
+    {
+      "content": "76 #C C puts the wheel ",
+      "time": 76
+    },
+    {
+      "content": "77 #C C fixes tire",
+      "time": 77
+    },
+    {
+      "content": "78 #C C removes the wheel",
+      "time": 78
+    },
+    {
+      "content": "79 #C C removes the wheel from the rim",
+      "time": 79
+    },
+    {
+      "content": "80 #C C rolls the wheel on the floor",
+      "time": 80
+    },
+    {
+      "content": "81 #C C places wheel on the counter",
+      "time": 81
+    },
+    {
+      "content": "82 #C C removes the wheel from the tire",
+      "time": 82
+    },
+    {
+      "content": "83 #C C takes the wheel",
+      "time": 83
+    },
+    {
+      "content": "84 #C C rolls tire on the car",
+      "time": 84
+    },
+    {
+      "content": "85 #C C puts the wheel on the tire",
+      "time": 85
+    },
+    {
+      "content": "86 #C C removes wheel from the rim",
+      "time": 86
+    },
+    {
+      "content": "87 #C C picks the tire",
+      "time": 87
+    },
+    {
+      "content": "88 #C C puts the tire pressure in the tire",
+      "time": 88
+    },
+    {
+      "content": "89 #C C takes the tire from the machine",
+      "time": 89
+    },
+    {
+      "content": "90 #C C moves the bicycle wheel ",
+      "time": 90
+    },
+    {
+      "content": "91 #C C moves the car tire",
+      "time": 91
+    },
+    {
+      "content": "92 #C C removes the bicycle wheel part from the tire",
+      "time": 92
+    },
+    {
+      "content": "93 #C C puts the bolt on the car",
+      "time": 93
+    },
+    {
+      "content": "94 #C C puts the nut in the screwdriver",
+      "time": 94
+    },
+    {
+      "content": "95 #C C removes the screw from the lug nut",
+      "time": 95
+    },
+    {
+      "content": "96 #C C removes a screw from the screw",
+      "time": 96
+    },
+    {
+      "content": "97 #C C fixes the bolt to the bolt",
+      "time": 97
+    },
+    {
+      "content": "98 #C C removes screw from the bolt",
+      "time": 98
+    },
+    {
+      "content": "99 #C C puts the wheel rim on the floor",
+      "time": 99
+    },
+    {
+      "content": "100 #C C touches wheel rim",
+      "time": 100
+    },
+    {
+      "content": "101 #C C adjusts the wheel with both hands",
+      "time": 101
+    },
+    {
+      "content": "102 #C C fixes the wheel on the machine",
+      "time": 102
+    },
+    {
+      "content": "103 #C C fixes the tire on the tire",
+      "time": 103
+    },
+    {
+      "content": "104 #C C fixes the wheel on the wheel hub ",
+      "time": 104
+    },
+    {
+      "content": "105 #C C fixes the wheel on the rim",
+      "time": 105
+    },
+    {
+      "content": "106 #C C fixes the wheel on the wheel hub",
+      "time": 106
+    },
+    {
+      "content": "107 #C C adjusts the tyre with the tire presser",
+      "time": 107
+    },
+    {
+      "content": "108 #C C takes wheel part",
+      "time": 108
+    },
+    {
+      "content": "109 #C C removes wheel ",
+      "time": 109
+    },
+    {
+      "content": "110 #C C looks at the wheel",
+      "time": 110
+    },
+    {
+      "content": "111 #C C presses a valve with his right hand",
+      "time": 111
+    },
+    {
+      "content": "112 #C C puts the wheel cover on the wheel",
+      "time": 112
+    },
+    {
+      "content": "113 #C C fixes the wheel on the car",
+      "time": 113
+    },
+    {
+      "content": "114 #C C Looks at the floor",
+      "time": 114
+    },
+    {
+      "content": "115 #C C fixes the rim cover",
+      "time": 115
+    },
+    {
+      "content": "116 #C C removes the rubber band",
+      "time": 116
+    },
+    {
+      "content": "117 #C C inserts the wheel cover in the tire",
+      "time": 117
+    },
+    {
+      "content": "118 #C C fixes the wheel disc brake",
+      "time": 118
+    },
+    {
+      "content": "119 #C C places wheel on the machine",
+      "time": 119
+    },
+    {
+      "content": "120 #C C looks at the tire",
+      "time": 120
+    },
+    {
+      "content": "121 #C C looks at the wheel",
+      "time": 121
+    },
+    {
+      "content": "122 #C C loosens the wheel rim",
+      "time": 122
+    },
+    {
+      "content": "123 #C C adjusts the air compressor",
+      "time": 123
+    },
+    {
+      "content": "124 #C C picks the drill",
+      "time": 124
+    },
+    {
+      "content": "125 #C C picks the bolt",
+      "time": 125
+    },
+    {
+      "content": "126 #C C picks a tire",
+      "time": 126
+    },
+    {
+      "content": "127 #C C moves a tire to his right hand",
+      "time": 127
+    },
+    {
+      "content": "128 #C C stares at the wheels",
+      "time": 128
+    },
+    {
+      "content": "129 #C C picks the tyre",
+      "time": 129
+    },
+    {
+      "content": "130 #C C puts the rubber on the car lift",
+      "time": 130
+    },
+    {
+      "content": "131 #C C removes the torch",
+      "time": 131
+    },
+    {
+      "content": "132 #C C puts the tire on the wheel",
+      "time": 132
+    },
+    {
+      "content": "133 #C C picks the wheel from the floor",
+      "time": 133
+    },
+    {
+      "content": "134 #C C moves the wheel",
+      "time": 134
+    },
+    {
+      "content": "135 #C C rolls the tire",
+      "time": 135
+    },
+    {
+      "content": "136 #C C picks the tire",
+      "time": 136
+    },
+    {
+      "content": "137 #C C moves the tire around",
+      "time": 137
+    },
+    {
+      "content": "138 #C C moves a tire ",
+      "time": 138
+    },
+    {
+      "content": "139 #C C picks the tire",
+      "time": 139
+    },
+    {
+      "content": "140 #C C walks around the garage",
+      "time": 140
+    },
+    {
+      "content": "141 #C C moves around",
+      "time": 141
+    },
+    {
+      "content": "142 #C C removes the wheel from the car",
+      "time": 142
+    },
+    {
+      "content": "143 #C C walks towards the door",
+      "time": 143
+    },
+    {
+      "content": "144 #C C walks around",
+      "time": 144
+    },
+    {
+      "content": "145 #C C moves the wheel",
+      "time": 145
+    },
+    {
+      "content": "146 #C C moves the tire",
+      "time": 146
+    },
+    {
+      "content": "147 #C C picks a metal",
+      "time": 147
+    },
+    {
+      "content": "148 #C C puts the hand on the machine",
+      "time": 148
+    },
+    {
+      "content": "149 #C C takes a tyre pressure gauge ",
+      "time": 149
+    },
+    {
+      "content": "150 #C C moves the wheel ",
+      "time": 150
+    },
+    {
+      "content": "151 #C C puts the wheel of the wheel drive ",
+      "time": 151
+    },
+    {
+      "content": "152 #C C drills the tire",
+      "time": 152
+    },
+    {
+      "content": "153 #C C picks the wheel pin",
+      "time": 153
+    },
+    {
+      "content": "154 #C C wipes the wheel",
+      "time": 154
+    },
+    {
+      "content": "155 #C C walks to the door",
+      "time": 155
+    },
+    {
+      "content": "156 #C C puts the bicycle wheel on the floor",
+      "time": 156
+    },
+    {
+      "content": "157 #C C picks the wheel tire",
+      "time": 157
+    },
+    {
+      "content": "158 #C C picks a metal",
+      "time": 158
+    },
+    {
+      "content": "159 #C C picks a wheel",
+      "time": 159
+    },
+    {
+      "content": "160 #C C wipes the shirt",
+      "time": 160
+    },
+    {
+      "content": "161 #C C adjusts the sweater",
+      "time": 161
+    },
+    {
+      "content": "162 #C C walks around",
+      "time": 162
+    },
+    {
+      "content": "163 #C C puts the wheel on the floor",
+      "time": 163
+    },
+    {
+      "content": "164 #C C holds a wheel",
+      "time": 164
+    },
+    {
+      "content": "165 #C C pushes the vehicle",
+      "time": 165
+    },
+    {
+      "content": "166 #C C touches the wheel",
+      "time": 166
+    },
+    {
+      "content": "167 #C C puts the tire on the table",
+      "time": 167
+    },
+    {
+      "content": "168 #C C puts the wheel on the table",
+      "time": 168
+    },
+    {
+      "content": "169 #C C removes wheel from the wheel spacer",
+      "time": 169
+    },
+    {
+      "content": "170 #C C puts the wheel on the table",
+      "time": 170
+    },
+    {
+      "content": "171 #C C removes the wheel",
+      "time": 171
+    },
+    {
+      "content": "172 #C C puts the tire on the wheel",
+      "time": 172
+    },
+    {
+      "content": "173 #C C puts the wheel in the wheel loader",
+      "time": 173
+    },
+    {
+      "content": "174 #C C turns the wheel of the car",
+      "time": 174
+    },
+    {
+      "content": "175 #C C throws the leaves on the floor",
+      "time": 175
+    },
+    {
+      "content": "176 #C C picks the wheel",
+      "time": 176
+    },
+    {
+      "content": "177 #C C puts a tire on the floor",
+      "time": 177
+    },
+    {
+      "content": "178 #C C pulls the wheel",
+      "time": 178
+    },
+    {
+      "content": "179 #C C picks up a saw",
+      "time": 179
+    },
+    {
+      "content": "180 #C C moves the tire",
+      "time": 180
+    }
+  ]
+}

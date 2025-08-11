@@ -1,0 +1,557 @@
+1 #C C rolls the mud on the ground 
+
+
+2 #C C rolls the clay on the ground
+
+
+3 #C C picks up clay
+
+
+4 #C C picks up the clay
+
+
+5 #C C pulls brick mold
+
+
+6 #C C lifts the clay from the brick mold
+
+
+7 #C C removes excess mud from the brick mold 
+
+
+8 #C C places the excess clay on the heap of clay
+
+
+9 #C C puts the mud on top of the mud pile 
+
+
+10 #C C moves the brick mold
+
+
+11 #C C picks up the brick mold
+
+
+12 #C C puts the brick mold on the ground
+
+
+13 #C C removes the brick mold from the brick
+
+
+14 #C C puts brick mold aside
+
+
+15 #C C picks the brick mold
+
+
+16 #C C scoops sand from the ground with his hands.
+
+
+
+17 #C C pours the sand inside the clay mould with his left hand.
+
+
+18 #C C picks the brick mold
+
+
+19 #C C takes the excess clay
+
+
+20 #C C molds clay with his hands
+
+
+21 #C C rolls the clay
+
+
+22 #C C molds the clay with his hands
+
+
+23 #C C picks the mud
+
+
+24 #C C picks clay
+
+
+25 #C C pulls the brick mold closer
+
+
+26 #C C removes the excess clay
+
+
+27 #C C removes excess clay
+
+
+28 #C C lifts the clay
+
+
+29 #C C picks a brick mold
+
+
+30 #C C puts brick maker down
+
+
+31 #C C picks the brick mold
+
+
+32 #C C removes the brick mold from the clay
+
+
+33 #C C puts brick maker down
+
+
+34 #C C picks the brick mold on the ground
+
+
+35 #C C pulls the brick mold
+
+
+36 #C C puts sand into the clay mold.
+
+
+37 #C C spreads sand on the ground with his hands
+
+
+38 #C C puts down the brick mould
+
+
+39 #C C cuts the clay
+
+
+40 #C C rolls the mud on the ground
+
+
+41 #C C rolls the mud on the ground 
+
+
+42 #C C spreads soil on the ground.
+
+
+
+43 #C C collects soil
+
+
+44 #C C picks the mud.
+
+
+45 #C C pulls the brick mold closer
+
+
+46 #C C drops the mud 
+
+
+47 #C C scrapes excess clay with the brick mold.
+
+
+
+48 #C C lifts the excess wet clay on the ground
+
+
+49 #C C takes the clay mix from the ground with his left hand
+
+
+50 #C C rubs his hand on the soil 
+
+
+51 #C C picks the brick mold on the ground
+
+
+52 #C C picks the brick mold
+
+
+53 #C C lifts brick maker
+
+
+54 #C C puts the brick mold down
+
+
+55 #C C drops brick mold
+
+
+56 #C C puts the brick mold down 
+
+
+57 #C C puts the brick mold on the ground
+
+
+58 #C C pours sand into the brick mold
+
+
+59 #C C puts the brick maker down 
+
+
+60 #C C moves the brick mold on the ground
+
+
+61 #C C scoops the mud 
+
+
+62 #C C rolls mud on the ground
+
+
+63 #C C rolls the mud on the ground.
+
+
+64 #C C rolls the clay on the ground. 
+
+
+65 #C C moves the wet clay in the brick mold
+
+
+66 #C C puts the soil in the brick mold.
+
+
+
+67 #C C takes the mud.
+
+
+68 #C C moves the brick mold closer to himself
+
+
+69 #C C removes the excess mud from the brick mold
+
+
+70 #C C hits the mold 
+
+
+71 #C C puts the excess wet clay on the clay on the ground
+
+
+72 #C C puts soil on the mud
+
+
+73 #C C spreads soil on mud 
+
+
+74 #C C moves brick mold
+
+
+75 #C C picks up the brick mold
+
+
+76 #C C removes the brick mold from the brick 
+
+
+77 #C C removes the brick mold from the clay
+
+
+78 #C C moves brick mold on the ground
+
+
+79 #C C pulls brick mold
+
+
+80 #C C scoops sand with his left hand
+
+
+81 #C C pours soil from the brick mold
+
+
+82 #C C pours the sand on the ground
+
+
+83 #C C puts the soil down
+
+
+84 #C C cuts the mud with his hands.
+
+
+85 #C C cuts the clay with hands.
+
+
+86 #C C takes the mud.
+
+
+
+87 #C C puts the clay on the clay mix on the ground.
+
+
+
+88 #C C throws the clay
+
+
+89 #C C picks a brick mold on the ground.
+
+
+
+90 #C C throws the excess mortar on the heap of mortar.
+
+
+
+91 #C C takes some sand from the heap of sand
+
+
+92 #C C cuts the clay with hand.
+
+
+93 #C C rolls the mud on the ground.
+
+
+94 #C C rolls mud in hands on ground.
+
+
+95 #C C puts clay on the clay mix in the brick mold.
+
+
+
+96 #C C takes the brick mold 
+
+
+97 #C C picks the soil.
+
+
+98 #C C spreads soil on the ground with hands.
+
+
+
+99 #C C takes clay from the clay mud. 
+
+
+100 #C C scoops clay 
+
+
+101 #C C scoops the mud.
+
+
+102 #C C picks up the clay
+
+
+103 #C C pours the mud on the wet clay
+
+
+104 #C C moves the hand on the ground.
+
+
+
+105 #C C picks up the soil
+
+
+106 #C C spreads soil with hands
+
+
+107 #C C cuts a piece of mud from the heap of mud with his hands
+
+
+108 #C C rolls mud on the soil
+
+
+109 #C C rolls the mud
+
+
+110 #C C puts down the wet clay
+
+
+111 #C C puts the soil in the brick mould 
+
+
+112 #C C picks soil
+
+
+113 #C C spreads soil on the ground
+
+
+114 #C C scoops some clay 
+
+
+115 #C C picks a clay mix from the ground. 
+
+
+116 #C C cuts a portion of the mud from the ground.
+
+
+117 #C C picks the mud
+
+
+118 #C C picks the mud
+
+
+119 #C C throws the mud on the heap of mud
+
+
+120 #C C wipes hands on the ground.
+
+
+
+121 #C C spreads soil on the ground.
+
+
+122 #C C looks around the field 
+
+
+123 #C C pushes the brickmould on the ground
+
+
+124 #C C pours sand into the brick mold
+
+
+125 #C C pours the sand out of the brick mold.
+
+
+
+126 #C C puts the brick mold aside
+
+
+127 #C C scoops mud with hands
+
+
+128 #C C cuts clay
+
+
+129 #C C rolls the clay on the ground
+
+
+130 #C C rolls the clay on the ground
+
+
+131 #C C picks the clay mix from the ground.
+
+
+
+132 #C C picks clay
+
+
+133 #C C picks up the brick mold
+
+
+134 #C C puts the mud in the brick mold 
+
+
+135 #C C scrapes excess clay
+
+
+136 #C C drops the excess wet clay on the heap of wet clay
+
+
+137 #C C rubs his hands on the soil 
+
+
+138 #C C spreads soil on the clay 
+
+
+139 #C C pulls the brick mold
+
+
+140 #C C puts brick mold aside
+
+
+141 #C C lifts the brick mold.
+
+
+142 #C C puts the brick mold aside
+
+
+143 #C C puts brick mold aside
+
+
+144 #C C presses the clay with the hands
+
+
+145 #C C lifts brick mold
+
+
+146 #C C pours sand from the brick mold on the ground
+
+
+147 #C C pours soil from the brick mold 
+
+
+148 #C C spreads soil on the ground.
+
+
+149 #C C picks the mud
+
+
+150 #C C rolls clay on the ground
+
+
+151 #C C rolls the clay on the ground
+
+
+152 #C C rolls the clay on the ground with his hands
+
+
+153 #C C spreads the soil on the clay
+
+
+154 #C C pushes the mold closer
+
+
+155 #C C lifts the clay
+
+
+156 #C C rolls clay on the ground
+
+
+157 #C C puts the excess clay on the clay mix on the ground.
+
+
+
+158 #C C throws the excess clay
+
+
+159 #C C spreads soil on the clay 
+
+
+160 #C C picks the brick mold
+
+
+161 #C C turns over the brick mold.
+
+
+
+162 #C C removes the brick mold from the clay
+
+
+163 #C C puts the brick mold aside
+
+
+164 #C C picks the brick mold on the ground
+
+
+165 #C C puts sand in the brick mold.
+
+
+166 #C C pours the sand on the ground
+
+
+167 #C C spreads soil on the ground
+
+
+168 #C C picks clay
+
+
+169 #C C rolls the clay on the ground
+
+
+170 #C C rolls clay on the ground
+
+
+171 #C C picks mud
+
+
+172 #C C moves brick maker
+
+
+173 #C C drops the clay in the brick mold.
+
+
+
+174 #C C removes the excess clay
+
+
+175 #C C puts down the clay
+
+
+176 #C C throws the mud on the heap of mud
+
+
+177 #C C  puts the soil on the brick mold 
+
+
+178 #C C puts the brick mold aside
+
+
+179 #C C pours the sand down
+
+
+180 #C C puts brick mold on the ground
+
+

@@ -1,0 +1,540 @@
+1 #C C moves the lawn mower with his hands 
+
+
+2 #C C touches the lawn mower's part
+
+
+3 #C C removes the wire on the lawn mower
+
+
+4 #C C cuts the piece of cloth with the plier.
+
+
+5 #C C removes the wire from the lawn mower
+
+
+6 #C C fixes the lawn mower part
+
+
+7 #C C attaches the screw to the lawn mower
+
+
+8 #C C cuts the wire
+
+
+9 #C C fixes the lawn mower with the screwdriver.
+
+
+10 #C C takes a hand saw
+
+
+11 #C C looks around the workshop
+
+
+12 #C C moves towards the lawnmower.
+
+
+13 #O a man X stands
+
+
+14 #O A man Z walks around the workshop
+
+
+15 #C C picks up the drill
+
+
+16 #C C walks to the cabinet
+
+
+17 #C C walks towards a lawn mower.
+
+
+18 #C C walks towards the paint bucket.
+
+
+19 #C C walks towards the plastic container.
+
+
+20 #C C walks to the table
+
+
+21 #C C puts the metal box on the shelf
+
+
+22 #C C picks a paper
+
+
+23 #C C folds the tissue
+
+
+24 #C C picks up a paper towel from the box
+
+
+25 #C C throws the paper on the ground
+
+
+26 #C C holds the paper
+
+
+27 #C C adjusts the paper
+
+
+28 #C C walks towards a dust bin
+
+
+29 #C C puts the rubber on the dustbin
+
+
+30 #C C walks to the door of the workshop
+
+
+31 #C C walks around the room
+
+
+32 #C C walks towards the workbench.
+
+
+33 #C C holds the white paper
+
+
+34 #C C puts the paper on the drawer
+
+
+35 #C C pulls out a paper from the drawer
+
+
+36 #C C tears the tissue paper.
+
+
+37 #C C wipes the paper towel with a paper towel
+
+
+38 #C C walks towards the paper
+
+
+39 #C C removes the other hand from the lawn mower
+
+
+40 #C C holds a paper
+
+
+41 #C C removes a sticker from the cover of the plastic container.
+
+
+42 #C C moves the paper to his left hand
+
+
+43 #C C unfolds the tissue
+
+
+44 #C C moves the paper 
+
+
+45 #C C puts down the pipe
+
+
+46 #C C fixes lawn mower with a screw driver 
+
+
+47 #C C  removes the pipe from the engine with his right hand.
+
+
+48 #C C fixes the lawn mower engine with a torque wrench
+
+
+49 #C C touches the lawn mower
+
+
+50 #C C adjusts the lawn mower 
+
+
+51 #C C fixes the wheel
+
+
+52 #C C picks a cable
+
+
+53 #C C adjusts the hand 
+
+
+54 #C C holds the car
+
+
+55 #C C fixes the engine
+
+
+56 #C C lifts the lawn mower
+
+
+57 #C C fixes the lawn mower engine
+
+
+58 #C C fixes a pipe on the lawn mower
+
+
+59 #C C fixes the car wheel
+
+
+60 #C C moves the engine oil tank 
+
+
+61 #C C inserts the rubber in the engine.
+
+
+62 #C C fixes the lawn mower
+
+
+63 #C C holds the lawn mower
+
+
+64 #C C puts the bolt on the lawn mower
+
+
+65 #C C inserts the bolt in the engine
+
+
+66 #C C moves the lawn mower
+
+
+67 #C C picks a rag
+
+
+68 #C C moves the lawn mower
+
+
+69 #C C throws the cover of the engine oil tank to the floor with his left hand
+
+
+70 #C C puts the oil spray down
+
+
+71 #C C walks to the other side of the lawn mower
+
+
+72 #C C throws the part of the waste bag in the dust bin.
+
+
+73 #C C walks towards the door
+
+
+74 #C C touches the door
+
+
+75 #C C puts the key on the shelf
+
+
+76 #C C pulls a shelf with his right hand.
+
+
+77 #C C places the box in the cabinet
+
+
+78 #C C picks a container 
+
+
+79 #C C takes the bottle from the shelf
+
+
+80 #C C drops the box in the cabinet
+
+
+81 #C C holds the box
+
+
+82 #C C puts the box in the cabinet
+
+
+83 #C C places the plastic bottle on the floor
+
+
+84 #C C holds the water pipe in his hands
+
+
+85 #C C walks towards a workshop.
+
+
+86 #C C throws the engine oil tank on the floor
+
+
+87 #C C wipes his hands with the cloth.
+
+
+88 #C C places the oil level on the floor
+
+
+89 #C C walks around the workshop
+
+
+90 #C C stares around
+
+
+91 #C C closes the bottle with the lid
+
+
+92 #C C moves the bottle
+
+
+93 #C C puts the bottle of oil in the bonnet 
+
+
+94 #C C inserts the bottle cover in the fuel tank
+
+
+95 #C C sprays the oil on the engine
+
+
+96 #C C puts the bottle in the fuel tank
+
+
+97 #C C pours the oil in the bottle 
+
+
+98 #C C takes the hand oil from the bottle
+
+
+99 #C C puts the cover on the engine
+
+
+100 #C C holds the can
+
+
+101 #C C looks around
+
+
+102 #C C touches the engine cover
+
+
+103 #C C picks the oil tank
+
+
+104 #C C moves towards the lawn mower 
+
+
+105 #C C walks towards a metal table.
+
+
+106 #C C moves around the workshop
+
+
+107 #C C steps down from the lawn mower.
+
+
+108 #C C steps on the lawn mower
+
+
+109 #C C puts down the fuel tank 
+
+
+110 #C C holds the lawn mower
+
+
+111 #C C picks a white paper on the lawn mower.
+
+
+112 #C C holds a metal
+
+
+113 #C C fixes the lawnmower with the mower belt.
+
+
+114 #C C tightens the nut on the lawn mower with the chuck
+
+
+115 #C C fixes the lawn mower with the electric circuit saw
+
+
+116 #C C fixes the lawn mower engine with the electric lawn mower
+
+
+117 #C C fixes the engine with the spanner
+
+
+118 #C C fixes the lawn mower with the lawn mower
+
+
+119 #C C picks up the spade
+
+
+120 #C C moves his hand on the table
+
+
+121 #C C puts the lid on the carburetor
+
+
+122 #C C looks at the lawn mower
+
+
+123 #C C cleans the screw with the cloth in his left hand.
+
+
+124 #C C removes the cover of the fuel tank
+
+
+125 #C C cleans the oil can with the rag.
+
+
+126 #C C removes the lid from the lawnmower
+
+
+127 #C C moves his right leg
+
+
+128 #C C moves the table
+
+
+129 #C C picks a lawn mower oil 
+
+
+130 #C C fixes the lawn mower part
+
+
+131 #C C tightens the bolt with the screw driver
+
+
+132 #C C moves the lawn mower engine 
+
+
+133 #C C tightens the screw with the pry bar
+
+
+134 #C C pulls a screw on the lawnmower with the wrench
+
+
+135 #C C fixes the lawn mower with the air wrench
+
+
+136 #C C fixes the lawn mower engine with the impact wrench
+
+
+137 #C C adjusts the lawn mower engine with the right hand
+
+
+138 #C C moves the gear with his right hand 
+
+
+139 #C C loosens a nut with the right hand
+
+
+140 #C C tightens the bolt with the wrench
+
+
+141 #C C turns the lawn mower engine 
+
+
+142 #C C fixes the lawnmower with the electric saw
+
+
+143 #C C fixes the lawn mower with the wrench.
+
+
+144 #C C pulls the bolt
+
+
+145 #C C adjusts the lawn mower with the wrench
+
+
+146 #C C picks the metal from the lawnmower
+
+
+147 #C C pushes the lawn mower part with the spanner in his right hand.
+
+
+148 #C C holds the lawn mower engine with both hands
+
+
+149 #C C adjusts the lawn mower
+
+
+150 #C C holds the pipe
+
+
+151 #C C loosens a nut with a screw driver
+
+
+152 #C C cleans the lawn mower engine
+
+
+153 #C C holds the lawnmower
+
+
+154 #C C drops the cloth on the ground.
+
+
+155 #C C sits on the machine.
+
+
+156 #C C moves the left hand on the lawnmower
+
+
+157 #C C looks around the workshop
+
+
+158 #C C holds the lawn mower 
+
+
+159 #C C puts the gas pipe in the lawn mower
+
+
+160 #C C adjusts the lawn mower engine
+
+
+161 #C C moves his hands
+
+
+162 #C C picks the grass cutter knife
+
+
+163 #C C fixes the lawn mower with the screw driver
+
+
+164 #C C puts the screw driver in the lawn mower
+
+
+165 #C C removes the tissue from the lawn mower.
+
+
+166 #C C takes the piece of wood
+
+
+167 #C C removes the spare part from the part 
+
+
+168 #C C picks up the metal from the piece of wood.
+
+
+169 #C C removes the bolt from the drill bit
+
+
+170 #C C picks a metal rod from the ground
+
+
+171 #C C picks a bolt
+
+
+172 #C C takes the blade 
+
+
+173 #C C fixes the lawn mower with the power drill
+
+
+174 #C C looks around the tractor 
+
+
+175 #C C moves the lawn mower
+
+
+176 #C C looks around the workshop
+
+
+177 #C C looks around the workshop
+
+
+178 #C C moves his left hand
+
+
+179 #C C moves back
+
+
+180 #C C walks around the garage
+
+

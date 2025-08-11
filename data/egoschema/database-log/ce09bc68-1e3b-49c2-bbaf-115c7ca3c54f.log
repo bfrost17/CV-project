@@ -1,0 +1,540 @@
+1 #C C pulls the thread
+
+
+2 #C C moves the hand on the cloth
+
+
+3 #C C sews the clothe with a sewing  needle
+
+
+4 #C C knits the cloth
+
+
+5 #C C pulls the needle with thread
+
+
+6 #C C moves the hand 
+
+
+7 #C C pulls the needle
+
+
+8 #C C pulls the needle
+
+
+9 #C C looks at the cloth
+
+
+10 #C C pulls the needle
+
+
+11 #C C moves the needle 
+
+
+12 #C C puts the needle on the cloth
+
+
+13 #C C pulls the needle
+
+
+14 #C C holds the cloth
+
+
+15 #C C moves the cloth
+
+
+16 #C C takes needle from the sewing table
+
+
+17 #C C takes the scissors
+
+
+18 #C C picks a needle
+
+
+19 #C C picks a scissors
+
+
+20 #C C picks the needle
+
+
+21 #C C picks the dress
+
+
+22 #C C holds the cloth
+
+
+23 #C C lifts the cloth
+
+
+24 #C C stretches the cloth
+
+
+25 #C C moves the cloth on the bed 
+
+
+26 #C C takes the dress
+
+
+27 #C C puts the cloth on the table
+
+
+28 #C C picks the cloth
+
+
+29 #C C removes the cloth
+
+
+30 #C C holds the cloth 
+
+
+31 #C C removes the cloth from the cloth
+
+
+32 #C C pulls the sewing needle 
+
+
+33 #C C holds the cloth
+
+
+34 #C C knits the cloth
+
+
+35 #C C knits the clothe with a needle
+
+
+36 #C C pulls the needle
+
+
+37 #C C knits the clothe
+
+
+38 #C C holds the cloth
+
+
+39 #C C  turns the cloth
+
+
+40 #C C places the cloth on the bed
+
+
+41 #C C picks a cloth
+
+
+42 #C C takes the needle 
+
+
+43 #C C pulls a thread
+
+
+44 #C C picks a needle
+
+
+45 #C C adjusts the cloth
+
+
+46 #C C looks at the cloth
+
+
+47 #C C holds the cloths
+
+
+48 #C C knits the cloth
+
+
+49 #C C stretches the cloth
+
+
+50 #C C holds the cloth 
+
+
+51 #C C holds the cloth 
+
+
+52 #C C holds the cloth
+
+
+53 #C C pulls the needle
+
+
+54 #C C adjusts the cloth
+
+
+55 #C C holds the cloth
+
+
+56 #C C holds the cloth 
+
+
+57 #C C knits the cloth
+
+
+58 #C C knits the cloth
+
+
+59 #C C puts the cloth on her body
+
+
+60 #C C moves the cloth 
+
+
+61 #C C moves the fabric
+
+
+62 #C C moves the cloth
+
+
+63 #C C pulls the thread
+
+
+64 #C C knits a cloth
+
+
+65 #C C checks cloth
+
+
+66 #C C knits the cloth
+
+
+67 #C C holds the cloth
+
+
+68 #C C adjusts the cloth
+
+
+69 #C C removes the cloth
+
+
+70 #C C moves the clothe
+
+
+71 #C C pulls the thread
+
+
+72 #C C holds the cloth
+
+
+73 #C C adjusts the dress
+
+
+74 #C C knits the cloth
+
+
+75 #C C holds the garment
+
+
+76 #C C picks a scissors
+
+
+77 #C C picks up the needle
+
+
+78 #C C picks a needle from the container
+
+
+79 #C C removes thread
+
+
+80 #C C looks at the watch
+
+
+81 #C C stretches thread
+
+
+82 #C C folds the cloth
+
+
+83 #C C sews the cloth
+
+
+84 #C C touches the cloth
+
+
+85 #C C inserts needle
+
+
+86 #C C  sews the cloth
+
+
+87 #C C looks at the cloth
+
+
+88 #C C picks a needle
+
+
+89 #C C picks a needle
+
+
+90 #C C moves the cloth
+
+
+91 #C C pulls the needle
+
+
+92 #C C touches the cloth
+
+
+93 #C C picks the needle
+
+
+94 #C C holds the cloth
+
+
+95 #C C moves the cloth
+
+
+96 #C C adjusts the cloth
+
+
+97 #C C sews the cloth
+
+
+98 #C C adjusts the cloth
+
+
+99 #C C folds the thread
+
+
+100 #C C holds a thread
+
+
+101 #C C holds the thread
+
+
+102 #C C knits with the needle and thread in both hands.
+
+
+103 #C C touches the cloth
+
+
+104 #C C knits a cloth
+
+
+105 #C C knits the cloth
+
+
+106 #C C knits the cloth
+
+
+107 #C C knits the cloth
+
+
+108 #C C touches the needle
+
+
+109 #C C moves the cloth
+
+
+110 #C C adjusts the cloth on the sewing machine
+
+
+111 #C C pulls the cloth down
+
+
+112 #C C moves the cloth
+
+
+113 #C C holds the cloth
+
+
+114 #C C holds the cloth
+
+
+115 #C C turns the cloth
+
+
+116 #C C sews the cloth
+
+
+117 #C C sews the garment
+
+
+118 #C C adjusts the cloth
+
+
+119 #C C stitches the cloth
+
+
+120 #C C touches the cloth
+
+
+121 #C C sews the cloth
+
+
+122 #C C sews the clothe with a needle
+
+
+123 #C C pulls the needle
+
+
+124 #C C pulls the needle
+
+
+125 #C C moves the cloth on the sewing table.
+
+
+126 #C C holds the cloth
+
+
+127 #C C moves the cloth
+
+
+128 #C C  turns the cloth
+
+
+129 #C C turns the cloth
+
+
+130 #C C pulls the needle 
+
+
+131 #C C pulls the needle from the clothe
+
+
+132 #C C turns the cloth
+
+
+133 #C C sews the cloth
+
+
+134 #C C knits the cloth
+
+
+135 #C C pulls the needle
+
+
+136 #C C pulls sewing needle
+
+
+137 #C C moves the left hand 
+
+
+138 #C C knits the cloth
+
+
+139 #C C knits the cloth
+
+
+140 #C C knits the cloth
+
+
+141 #C C knits the cloth
+
+
+142 #C C knits the cloth
+
+
+143 #C C knits the cloth
+
+
+144 #C C pulls the needle
+
+
+145 #C C adjusts the cloth
+
+
+146 #C C holds the cloth
+
+
+147 #C C knits the cloth
+
+
+148 #C C stitches the cloth with needle
+
+
+149 #C C knits cloth with needle
+
+
+150 #C C knits the cloth
+
+
+151 #C C knits a cloth
+
+
+152 #C C knits the cloth
+
+
+153 #C C knits a cloth with needle
+
+
+154 #C C sews the clothe with needle
+
+
+155 #C C touches the cloth
+
+
+156 #C C aligns the cloth
+
+
+157 #C C holds the cloth 
+
+
+158 #C C knits the cloth
+
+
+159 #C C sews the cloth with needle
+
+
+160 #C C stitches the cloth with needle
+
+
+161 #C C stitches the cloth with needle
+
+
+162 #C C knits the dress
+
+
+163 #C C sews the clothe material with a needle
+
+
+164 #C C pulls the needle
+
+
+165 #C C lifts the sewing material
+
+
+166 #C C holds the cloth
+
+
+167 #C C moves the cloth to the sewing table
+
+
+168 #C C adjusts the cloth
+
+
+169 #C C pulls the needle
+
+
+170 #C C  moves the thread on the fabric
+
+
+171 #C C pulls the needle with the thread
+
+
+172 #C C moves the sewing string on the cloth
+
+
+173 #C C puts the needle on the cloth
+
+
+174 #C C pulls the needle 
+
+
+175 #C C  sews the cloth 
+
+
+176 #C C knits fabric
+
+
+177 #C C knits cloth with needle 
+
+
+178 #C C knits the cloth with needle
+
+
+179 #C C sews the cloth with needle
+
+
+180 #C C touches the cloth 
+
+

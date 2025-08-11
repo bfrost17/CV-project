@@ -1,0 +1,541 @@
+1 #C C looks at the cards
+
+
+2 #O person X holds cards
+
+
+3 #C C moves the cards on the table
+
+
+4 #O person X holds the cards with the other hand
+
+
+5 #C C puts the cards together 
+
+
+6 #C C holds cards
+
+
+7 #O person X holds cards
+
+
+8 #O person Y holds cards on the table
+
+
+9 #O person X arranges the cards
+
+
+10 #C C takes cards from man X with his left hand.
+
+
+11 #O Man A picks a card from the table with his right hand.
+
+
+12 #O The man X takes a card from the table with his left hand. 
+
+
+13 #O Man A drops the cards on the table with his left hand. 
+
+
+14 #O man X picks a card from the table with his left hand.
+
+
+15 #O person X picks up a card
+
+
+16 #O person X picks cards from the table
+
+
+17 #O person X holds a playing card
+
+
+18 #O person X takes the playing cards from the table
+
+
+19 #O person X holds the cards
+
+
+20 #O person X picks a playing card from the table
+
+
+21 #O person X picks a card
+
+
+22 #O person X takes cards on a table
+
+
+23 #O person X picks cards
+
+
+24 #O person X holds the playing cards
+
+
+25 #O person X takes the playing cards from the left hand
+
+
+26 #O person X holds the playing cards on the table
+
+
+27 #O person X picks up a playing cards
+
+
+28 #O man X picks up a card from the table.
+
+
+29 #O the man X picks up a card from the table with his left hand. 
+
+
+30 #O man X holds a deck of cards with his right hand.
+
+
+31 #O person X moves the playing cards
+
+
+32 #O Man X places his hands on the table.
+
+
+33 #O Man X moves his left hand from the table
+
+
+34 #O person Y holds the cards
+
+
+35 #C C moves the cards around.
+
+
+36 #C C looks at the cards
+
+
+37 #C C holds the cards with both hands
+
+
+38 #O man X moves the hand 
+
+
+39 #O man X arranges cards
+
+
+40 #C C moves cards
+
+
+41 #C C arranges the cards.
+
+
+42 #O Man X holds the playing cards with his hands.
+
+
+43 #C C holds the playing cards
+
+
+44 #C C lifts cards
+
+
+45 #O man X shuffles cards
+
+
+46 #O Man X holds the cards with both hands. 
+
+
+47 #O Man X removes his left hand from the cards in his right hand.
+
+
+48 #O Man X adjusts cards with both hands.
+
+
+49 #O man X touches the cards with left hand.
+
+
+50 #O Man X holds a card
+
+
+51 #O person X holds the cards
+
+
+52 #C C holds cards
+
+
+53 #O Man X moves hand from cards
+
+
+54 #O person X picks a card
+
+
+55 #C C moves his left hand to the cards
+
+
+56 #C C lifts a hand
+
+
+57 #C C adjusts cards
+
+
+58 #C C moves the cards with his right hand. 
+
+
+59 #C C plays card game with man X 
+
+
+60 #O man X holds a card with his left hand. 
+
+
+61 #O Man X picks a card
+
+
+62 #O man X picks playing cards on the table
+
+
+63 #O A man Y picks card
+
+
+64 #O man X drops the playing cards on the table
+
+
+65 #O A man Y picks cards
+
+
+66 #O person Y picks a card
+
+
+67 #O man X picks a card
+
+
+68 #O man X picks a playing card from the table. 
+
+
+69 #O The man X drops the cards in his hands on the table. 
+
+
+70 #O Man X picks a card from the table with his right hand.
+
+
+71 #O The man X places the cards in his left hand on the table.
+
+
+72 #O Man X holds a card with both hands
+
+
+73 #O The man X drops the cards in his right hand on the table. 
+
+
+74 #O Man X picks cards from the table with his left hand.
+
+
+75 #O Man A picks cards from the table with his right hand
+
+
+76 #O Man X holds cards
+
+
+77 #O Man A picks the cards on the table with his left hand.
+
+
+78 #O man X picks a card from the table
+
+
+79 #O man X picks cards from the table with his right hand. 
+
+
+80 #O man X picks card from the table
+
+
+81 #O man X holds the playing cards with both hands
+
+
+82 #C C holds playing cards
+
+
+83 #O man X picks card from the table
+
+
+84 #O man X holds the card with both hands. 
+
+
+
+85 #O man X shakes the playing card 
+
+
+86 #O Man X puts the playing cards on the table
+
+
+87 #O Man X takes the playing cards from the table.
+
+
+88 #O The man X picks a card from the table with his right hand.
+
+
+89 #O Man X drops a card on the table with his left hand
+
+
+90 #C C moves a hand
+
+
+91 #O Man X adjusts the cards in his hands.
+
+
+92 #C C moves the cards with his right hand.
+
+
+93 #O man X holds the bottle with his right hand
+
+
+94 #O man X picks a bottle 
+
+
+95 #C C picks a bottle of water from the table with his right hand.
+
+
+96 #O man X picks a bottle
+
+
+97 #O man X picks the bottle of water
+
+
+98 #O The man X picks the bottle with his right hand.
+
+
+99 #O man X drinks from the bottle
+
+
+100 #O man X puts the bottle down 
+
+
+101 #O A man X picks a bottle
+
+
+102 #O Man X picks a card from the table with his left hand.
+
+
+103 #O person X touches the table
+
+
+104 #C C moves the cards
+
+
+105 #O man X holds playing cards
+
+
+106 #O man X holds the playing cards
+
+
+107 #O man X holds the playing cards
+
+
+108 #O man X holds playing cards together
+
+
+109 #O man X picks playing card from the table
+
+
+110 #O Man X moves the playing card.
+
+
+111 #O Man X moves the playing cards to his left hand.
+
+
+112 #O man X holds cards
+
+
+113 #C C holds the cards
+
+
+114 #O Man X holds the cards with both hands.
+
+
+115 #O Man X holds a card with both hands
+
+
+116 #C C picks cards from the table with his left hand.
+
+
+117 #C C picks card from table
+
+
+118 #C C takes the card from the table.
+
+
+119 #C C puts cards on the table
+
+
+120 #O Man X moves cards
+
+
+121 #C C picks a card from the table with her left hand.
+
+
+122 #O Man X moves the playing cards around.
+
+
+123 #O A man X lifts the playing card
+
+
+124 #O Man X picks a card from the table with his left hand
+
+
+125 #O Man X holds a playing card with his right hand.
+
+
+126 #C C removes the playing card from the table.
+
+
+127 #O man X holds playing cards on the table
+
+
+128 #O man X drops the card on the table with his left hand.
+
+
+129 #O Man X picks a card
+
+
+130 #O Man X moves a hand.
+
+
+131 #C C moves the card.
+
+
+132 #C C adjusts a card on the table with his right hand.
+
+
+133 #C C moves cards
+
+
+134 #C C takes card from the table.
+
+
+135 #O man X touches playing cards
+
+
+136 #O man X puts card on the table
+
+
+137 #O Man X picks the cards from the table with his right hand.
+
+
+138 #O Man X holds a game cartridge with his left hand.
+
+
+139 #O man X holds a card with his right hand. 
+
+
+140 #O man X picks up a card from the table
+
+
+141 #O man X picks a card from the table with his left hand.
+
+
+142 #O the man X eats the potato chip in his right hand.
+
+
+143 #O The man X eats the peanut butter in his right hand.
+
+
+144 #O man X drinks from the bottle
+
+
+145 #C C moves the bottle 
+
+
+146 #C C holds a packet of water
+
+
+147 #O The man X picks the black jigsaw from the table with his right hand.
+
+
+148 #O man X picks the bottle of water from the table with his right hand.
+
+
+149 #O The man X picks a bottle from the table with his left hand.
+
+
+150 #O man X takes card from table
+
+
+151 #O Man X holds a card on the table with his right hand.
+
+
+152 #C C moves his hand 
+
+
+153 #C C looks at the table
+
+
+154 #O person X picks a card
+
+
+155 #C C picks a paper towel
+
+
+156 #O man X picks a bottle from the table
+
+
+157 #O the man X picks the card from the table with his right hand.
+
+
+158 #O Man X holds the poker cards
+
+
+159 #C C moves the poker cards on the hand.
+
+
+160 #O man x moves the hand
+
+
+161 #O man x holds a playing card 
+
+
+162 #O man X adjusts the cards with both hands.
+
+
+163 #C C stares at man X
+
+
+164 #O The man X drops his right hand on the table.
+
+
+165 #O man X picks a card on the table.
+
+
+166 #O man X picks card from the table
+
+
+167 #O Man X picks a card from the table with his left hand.
+
+
+168 #O the man X picks a card from the table.
+
+
+169 #C C picks a card from the table with his right hand.
+
+
+170 #O man X touches his face
+
+
+171 #O man X touches the cards.
+
+
+172 #O Man X moves his hand
+
+
+173 #O Man X lifts the bottle of water with his left hand.
+
+
+174 #O man X adjusts a card in his hands
+
+
+175 #O Man X holds the cards with both hands
+
+
+176 #C C moves the cards
+
+
+177 #O Man X holds cards on table
+
+
+178 #C C looks around
+
+
+179 #O man X holds a card
+
+
+180 #O man X holds a playing card
+
+

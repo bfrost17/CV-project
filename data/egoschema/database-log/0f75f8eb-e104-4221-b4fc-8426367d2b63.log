@@ -1,0 +1,540 @@
+1 #C C puts the  bacon on the sink
+
+
+2 #C C picks the eggplant
+
+
+3 #C C moves the pack of meat in the sink with her left hand.
+
+
+4 #C C picks a pack of pumpkin from the countertop with her left hand.
+
+
+5 #C C touches the tray
+
+
+6 #O woman X shakes the bag of chips
+
+
+7 #O The man X holds a potato on his left hand.
+
+
+8 #C C puts the cheese in the bowl
+
+
+9 #C C removes the egg from the knife.
+
+
+10 #O person A puts the fruits in the tray
+
+
+11 #C C holds the bottle
+
+
+12 #O person X wipes hands with a towel
+
+
+13 #C C lifts the paper
+
+
+14 #O The man X picks a cover of a water tap from a sink with his right hand.
+
+
+15 #O person A puts the eggs in a bowl
+
+
+16 #C C drops the bag of vegetable on the kitchen counter with her left hand.
+
+
+17 #C C moves the meat on the chopping board with both hands.
+
+
+18 #C C holds a pack of spices with her left hand.
+
+
+19 #C C picks up a cheese from a bowl with his left hand.
+
+
+20 #C C takes a knife from the kitchen slab with his left hand.
+
+
+21 #O A man X closes the tap
+
+
+22 #C C holds a paper with both hands.
+
+
+23 #C C picks a nylon with his left hand.
+
+
+24 #C C puts the pack of sausage on the countertop
+
+
+25 #C C picks a cut slice of the pineapples on the kitchen counter with her left hand.
+
+
+26 #C C removes the pack of cheese from the sink with her left hand.
+
+
+27 #O A woman X  puts the meat on the chopping board 
+
+
+28 #C C puts the meat down
+
+
+29 #C C moves a packet of meat
+
+
+30 #C C takes the meat
+
+
+31 #O person X turns the sachets
+
+
+32 #O The woman X puts the onion on the chopping board.
+
+
+33 #O The man X picks a tomato from the chopping board with his left hand.
+
+
+34 #C C moves the plate of food on the kitchen countertop with her left hand.
+
+
+35 #C C removes the sliced potato from the bread with her left hand.
+
+
+36 #C C cuts the cheese with her hands.
+
+
+37 #C C picks up a paper from the kitchen counter with her left hand.
+
+
+38 #C C gives the man X a bottle of water. 
+
+
+39 #C C puts the sponge down
+
+
+40 #O The man X puts a piece of paper on the sink with his left hand.
+
+
+41 #C C picks a hand towel
+
+
+42 #O A man X looks at the fridge
+
+
+43 #O The man X places the plastic cover in his left hand on a sink.
+
+
+44 #C C puts the jug in the sink
+
+
+45 #O A man X shakes the hand
+
+
+46 #C C lifts the packet of bread
+
+
+47 #C C touches the bread
+
+
+48 #C C holds the pack of carrot with both hands.
+
+
+49 #O The man X holds the pack of peas with his left hand.
+
+
+50 #O A man X picks a bowl
+
+
+51 #O A man X washes a bowl
+
+
+52 #C C holds a paper
+
+
+53 #C C picks up the plastic pack from the kitchen counter with her right hand.
+
+
+54 #C C holds a pack of meat
+
+
+55 #C C picks the meat
+
+
+56 #C C moves a meat
+
+
+57 #C C picks the meat.
+
+
+58 #C C takes the meat 
+
+
+59 #C C tears the white onion into pieces with both hands.
+
+
+60 #C C cuts the onion
+
+
+61 #C C removes the piece of onion from the pack of tomato.
+
+
+62 #C C removes the meat from the lid of the frying pan with both hands.
+
+
+63 #C C pushes a bowl of meat on the kitchen countertop with his left hand.
+
+
+64 #C C moves the meat on the board
+
+
+65 #C C picks up the packet of meat
+
+
+66 #C C puts the bottle on the countertop.
+
+
+67 #C C places the electric cord on a wall with his right hand.
+
+
+68 #O man X walks
+
+
+69 #O man X holds the bottle cap
+
+
+70 #C C walks around
+
+
+71 #C C picks a piece of the meat from the table with her right hand.
+
+
+72 #C C touches the wrap of the pack of meat on the kitchen table with her right hand.
+
+
+73 #C C lifts a pack of vegetables
+
+
+74 #C C walks around
+
+
+75 #C C walks into a kitchen.
+
+
+76 #C C walks into the kitchen from the kitchen.
+
+
+77 #C C opens a door of a cupboard in the kitchen with her right hand.
+
+
+78 #C C stares at the shelf
+
+
+79 #C C walks around
+
+
+80 #C C looks at the storage rack
+
+
+81 #C C walks out of the kitchen to the kitchen.
+
+
+82 #C C puts the pack of flour in the box 
+
+
+83 #C C places the packet of salad in the shelf
+
+
+84 #C C walks into a wardrobe.
+
+
+85 #C C picks a pack of brownies from the shelf with his right hand.
+
+
+86 #C C walks towards a shelf.
+
+
+87 #O The man X pours some water from the tap with his right hand.
+
+
+88 #O person X walks in the house
+
+
+89 #O The man X cleans the container of soy sauce with the sponge in his right hand.
+
+
+90 #C C opens the fridge with his left hand.
+
+
+91 #O The man X presses the plate of food in his right hand with his left hand.
+
+
+92 #O man X pours the rice into the plate
+
+
+93 #C C moves around
+
+
+94 #C C walks around
+
+
+95 #C C picks a pot from the cooker with her left hand.
+
+
+96 #C C stirs the food
+
+
+97 #C C stirs the food.
+
+
+98 #C C holds a cooking pan
+
+
+99 #C C lifts the plate 
+
+
+100 #C C picks the bowl
+
+
+101 #C C holds a cup with his right hand.
+
+
+102 #C C shakes the plastic container
+
+
+103 #C C places the pack of oil on a kitchen counter with his right hand.
+
+
+104 #C C puts the bottle of detergent in the cabinet
+
+
+105 #C C moves the knife on the board.
+
+
+106 #C C interacts with the man X.
+
+
+107 #C C looks around
+
+
+108 #C C pours water into the kitchen sink from the pot of water.
+
+
+109 #C C walks towards the sink 
+
+
+110 #C C walks to the door.
+
+
+111 #C C picks a bag
+
+
+112 #C C picks a bag
+
+
+113 #O person A walks around
+
+
+114 #C C walks to the kitchen.
+
+
+115 #O The man X holds the knife in his right hand.
+
+
+116 #C C shakes the pan
+
+
+117 #C C pours water from the plastic bottle into the bowl of water on the kitchen countertop with her right hand.
+
+
+118 #C C pours water from the sink in the pot in her right hand into the pot on the sink with her right hand.
+
+
+119 #O The woman X picks a plastic from the sink with her right hand.
+
+
+120 #C C puts the food in the cooking pot
+
+
+121 #O person X holds a pot
+
+
+122 #O person X moves the bowl
+
+
+123 #C C turns the pan
+
+
+124 #C C pours water from the water filter in her right hand into the bowl of food.
+
+
+125 #O person X touches a lid on the sink.
+
+
+126 #C C puts the pan on the gas cooker.
+
+
+127 #C C pours the water from the cooking pan into the plate on the cooker. 
+
+
+128 #O person X places a bowl in the sink
+
+
+129 #C C puts the bowl on the sink
+
+
+130 #C C puts water in the basin
+
+
+131 #C C picks a pan
+
+
+132 #C C picks a lid
+
+
+133 #O The man X holds a bowl on the kitchen counter with both hands.
+
+
+134 #C C places a lid on a kitchen countertop.
+
+
+135 #C C picks a dish
+
+
+136 #O person A stirs the food
+
+
+137 #O The man X shakes the potato with his right hand.
+
+
+138 #O The man X washes the chopping board with the sponge in his right hand.
+
+
+139 #O person A picks a piece of onion
+
+
+140 #O The man X takes a spoon from the kitchen sink with his right hand.
+
+
+141 #O man A picks the knife
+
+
+142 #C C puts the lid on the sink with his right hand.
+
+
+143 #O A man X washes the sink
+
+
+144 #C C washes the sponge in the sink with her right hand.
+
+
+145 #C C pours the liquid soap in the jar of water on the sink with her right hand.
+
+
+146 #O The woman X rinses the stainless steel bowl with water from the tap.
+
+
+147 #C C picks a bottle of water from the sink with her right hand. 
+
+
+148 #C C turns the tap
+
+
+149 #C C washes a cooking pot
+
+
+150 #C C cleans the pan with the sponge in his right hand.
+
+
+151 #O The woman X places her right hand on the sink.
+
+
+152 #O The woman X holds a bowl with both hands.
+
+
+153 #O The woman X washes the cooking pan with the sponge in her right hand.
+
+
+154 #O The woman X turns the tap with her right hand.
+
+
+155 #O The woman X cleans the pot with the sponge in her right hand.
+
+
+156 #C C washes the cooking pot
+
+
+157 #C C pours water from the pot to the sink with the plastic spoon in her right hand.
+
+
+158 #C C pours water from the sink in her left hand into the plate on the sink.
+
+
+159 #C C picks a knife on the sink with his right hand.
+
+
+160 #C C pours the water in the sink from the pot in her left hand. 
+
+
+161 #C C washes the cooking pot
+
+
+162 #C C puts the bottle in the sink 
+
+
+163 #C C washes the plate
+
+
+164 #C C puts water in a bowl
+
+
+165 #C C rinses the washing sponge in her right hand.
+
+
+166 #C C washes the plate
+
+
+167 #C C washes the pan with the sponge in his right hand.
+
+
+168 #C C washes a pan with both hands.
+
+
+169 #O person X picks a lid
+
+
+170 #C C pours water in the sink
+
+
+171 #C C washes the cooking pan
+
+
+172 #C C opens the tap
+
+
+173 #C C puts water in the plate
+
+
+174 #C C pours water from the bowl of water to the sink with her right hand.
+
+
+175 #C C pours the water from the bowl into the sink.
+
+
+176 #C C pours water from the pot into the sink with his right hand.
+
+
+177 #O The woman X rinses the bowl with her hands.
+
+
+178 #C C washes the hand
+
+
+179 #O woman X rinses the sink
+
+
+180 #O The woman X washes the cooking pan with the sponge in her right hand.
+
+

@@ -1,0 +1,540 @@
+1 #O man Y places the paper on the table 
+
+
+2 #O A man Y picks the food
+
+
+3 #C C picks up the fork
+
+
+4 #C C takes the string
+
+
+5 #C C puts the brushes on the shoe
+
+
+6 #C C cuts a thread with a needle
+
+
+7 #C C puts the yarns in the carabiner
+
+
+8 #C C collects a pack of fork
+
+
+9 #O Man Y touches the spoon
+
+
+10 #C C touches the hand
+
+
+11 #O man X places food in a plate
+
+
+12 #O man X holds a bottle
+
+
+13 #O man Y  pulls the hand off the plastic container
+
+
+14 #C C wipes a bottle of water
+
+
+15 #O man A holds the spoon
+
+
+16 #O man X picks a snack
+
+
+17 #O man Y moves a hand
+
+
+18 #O person D touches the food
+
+
+19 #O O wipes the hand
+
+
+20 #O man X holds the phone
+
+
+21 #O man B picks a cloth
+
+
+22 #O woman R picks the container.
+
+
+23 #O man Y holds the dog
+
+
+24 #O man Z puts down the hand
+
+
+25 #O man Y holds the balloon
+
+
+26 #O man Z holds the hand
+
+
+27 #O A child X holds the bag
+
+
+28 #C C wipes the chair
+
+
+29 #O A child V picks the handbag
+
+
+30 #O person Y folds the hand.
+
+
+31 #C C picks a bag from the passenger seat
+
+
+32 #C C touches the baby
+
+
+33 #C C places her hand on the bunny
+
+
+34 #C C takes the fabric 
+
+
+35 #C C touches the bag
+
+
+36 #O woman Y puts the dog leash in the bag
+
+
+37 #C C removes the dog leash from the woman Y's mouth
+
+
+38 #O person Y wipes dog head
+
+
+39 #C C puts the bag on the table
+
+
+40 #C C touches the scarf
+
+
+41 #C C picks the phone from the bag
+
+
+42 #C C pulls the hand of the baby stroller
+
+
+43 #C C touches the face mask
+
+
+44 #O lady X touches the shoes
+
+
+45 #C C holds the box
+
+
+46 #C C puts down the craft
+
+
+47 #C C moves the box
+
+
+48 #C C removes the lid of the packet
+
+
+49 #C C moves the hand to the seat
+
+
+50 #C C moves the mat
+
+
+51 #C C holds up the cloth
+
+
+52 #C C folds the fabric
+
+
+53 #C C removes the bag from the dog's back
+
+
+54 #C C touches the dog
+
+
+55 #O man T folds the snow cap
+
+
+56 #O child B holds a toy
+
+
+57 #O girl B walks with child M
+
+
+58 #C C ties the child 
+
+
+59 #O person A  holds the dog
+
+
+60 #O person G  touches the face
+
+
+61 #O man Z picks a bag from the box
+
+
+62 #O man T removes the camera
+
+
+63 #O man X pushes the fork
+
+
+64 #O man Y picks the plate
+
+
+65 #O child B holds the hand
+
+
+66 #C C puts the dog food on the chair
+
+
+67 #C C puts the fabric on the bed
+
+
+68 #C C pulls the cloth
+
+
+69 #O woman K removes the bag from the chair
+
+
+70 #C C touches a baby belt
+
+
+71 #O man T holds the paper
+
+
+72 #O man V holds a pack of chips
+
+
+73 #O man Y puts the box down
+
+
+74 #O man Z touches the box
+
+
+75 #O A woman S picks a bag from the chair
+
+
+76 #O person Y moves the hand.
+
+
+77 #O person X touches the face
+
+
+78 #O man Y holds the bag
+
+
+79 #O man Y picks a box of food
+
+
+80 #O A man Y picks the can
+
+
+81 #C C moves hand towards the face
+
+
+82 #C C takes a tin of cheese
+
+
+83 #C C holds the paper
+
+
+84 #C C pushes the bag
+
+
+85 #C C picks the phone from man T.
+
+
+86 #C C takes a selfie with a woman P
+
+
+87 #C C takes a ride on a swing chair
+
+
+88 #C C walks to the bus
+
+
+89 #O man Y stands
+
+
+90 #O man T takes a selfie
+
+
+91 #O man V removes a helmet
+
+
+92 #C C picks a white box from a box
+
+
+93 #O man X picks up a container
+
+
+94 #O person S  stares at person C
+
+
+95 #O man Y puts the bottle on the table
+
+
+96 #O man Y picks the bag
+
+
+97 #O man X picks a knife
+
+
+98 #C C takes a can of drink
+
+
+99 #O Man X Picks a box
+
+
+100 #C C takes a food container
+
+
+101 #C C picks the box from the chair
+
+
+102 #C C looks at the hand
+
+
+103 #O person X gives C the box
+
+
+104 #O Person A picks a box
+
+
+105 #C C looks at the box
+
+
+106 #O man X takes a bag
+
+
+107 #O man X holds the paper
+
+
+108 #O man X picks up the candle
+
+
+109 #O man T holds box
+
+
+110 #O a man Y picks a bag
+
+
+111 #O man B opens the box
+
+
+112 #O person Q touches the goggles
+
+
+113 #C C touches person O
+
+
+114 #O man Y holds a bottle
+
+
+115 #O man X picks up a packet
+
+
+116 #C C carries a plastic container
+
+
+117 #C C puts the dog in the bag
+
+
+118 #O man A picks a bag
+
+
+119 #O man Q opens a bottle
+
+
+120 #O man K picks the bottle of soda
+
+
+121 #O man X picks the bag
+
+
+122 #O man X picks the bag
+
+
+123 #O man Y  puts the paper in the box
+
+
+124 #O man Y holds the box
+
+
+125 #O man Y removes the paper bag
+
+
+126 #O man Y puts the paper in the box
+
+
+127 #O man X picks the nylon bag
+
+
+128 #C C moves the pack
+
+
+129 #O a man X picks the bottle
+
+
+130 #O man V picks a container.
+
+
+131 #C C picks a cup of juice
+
+
+132 #C C takes the bottle
+
+
+133 #O woman W picks a sandwich
+
+
+134 #C C moves a child carrier
+
+
+135 #C C picks the diaper
+
+
+136 #O person Y holds the paper
+
+
+137 #C C holds the packet of water
+
+
+138 #C C puts the bag on the shelf
+
+
+139 #C C drops the paper bag
+
+
+140 #C C puts the bag on the chair
+
+
+141 #C C takes the bag
+
+
+142 #C C puts the paper bag on the table
+
+
+143 #C C picks a bag
+
+
+144 #C C opens the bag
+
+
+145 #C C drops the box in the box
+
+
+146 #O man J holds a toy
+
+
+147 #C C  spreads out the decorations on the table
+
+
+148 #O person W picks a box on the floor.
+
+
+149 #C C opens the packet of food
+
+
+150 #O A man Y moves the paper
+
+
+151 #O lady X puts the cupcake in the bag
+
+
+152 #C C picks a packet of food
+
+
+153 #O Man Q opens the box
+
+
+154 #C C takes a nylon from the bag
+
+
+155 #O man Y takes a paper bag
+
+
+156 #O man X picks a pack of pancakes
+
+
+157 #C C takes a packet of food
+
+
+158 #O person K  picks a paper
+
+
+159 #O man W takes the box
+
+
+160 #C C picks up a cake
+
+
+161 #C C holds the honey basket with both hands
+
+
+162 #C C holds the candy
+
+
+163 #C C holds the toy
+
+
+164 #C C picks the candy from the table
+
+
+165 #C C moves the phone
+
+
+166 #O person D walks around
+
+
+167 #C C walks towards the roof
+
+
+168 #O person X moves around the room.
+
+
+169 #O person Y moves the table
+
+
+170 #C C picks the basket
+
+
+171 #C C picks the pear
+
+
+172 #C C holds the chips
+
+
+173 #C C  touches the plastic bag with the hand
+
+
+174 #C C holds a snack
+
+
+175 #O person A picks a snack
+
+
+176 #O person A picks the piece of banana
+
+
+177 #O Woman X lifts a hand
+
+
+178 #O man Y picks a snack
+
+
+179 #O man Z holds the bag
+
+
+180 #O man Y holds the food
+
+

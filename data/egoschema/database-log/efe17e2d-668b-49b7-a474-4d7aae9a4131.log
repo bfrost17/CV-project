@@ -1,0 +1,540 @@
+1 #C C walks around the house
+
+
+2 #C C walks to the kitchen
+
+
+3 #C C walks towards a kitchen
+
+
+4 #C C walks to the cabinet
+
+
+5 #C C walks to the cabinet
+
+
+6 #C C puts the bottle of water in the cabinet
+
+
+7 #C C picks a bottle of water from the cabinet
+
+
+8 #C C walks to the kitchen 
+
+
+9 #C C picks a packet of cheese
+
+
+10 #C C opens the box
+
+
+11 #C C opens a box of flour
+
+
+12 #C C picks the packet of food
+
+
+13 #C C puts the paper in the table
+
+
+14 #C C puts the water in the packet
+
+
+15 #C C turns the water bottle
+
+
+16 #C C opens the bottle
+
+
+17 #C C picks a packet of spices
+
+
+18 #C C  touches the packet.
+
+
+19 #C C pulls the curtain
+
+
+20 #C C picks a kitchen paper
+
+
+21 #C C opens the packet
+
+
+22 #C C opens the packet of the chocolate
+
+
+23 #C C picks the packets of food from the table
+
+
+24 #C C opens the bottle of spice.
+
+
+25 #C C opens the packet of flour
+
+
+26 #C C  picks up the packet of vegetable
+
+
+27 #C C walks away from the kitchen sink.
+
+
+28 #C C opens the oven
+
+
+29 #C C picks a plate from the dishwasher
+
+
+30 #C C picks the plate from the dishwasher
+
+
+31 #C C moves the plate to the sink
+
+
+32 #C C picks the plastic container
+
+
+33 #C C walks around
+
+
+34 #C C opens the cabinet
+
+
+35 #C C picks a bowl from the cabinet
+
+
+36 #C C holds a dish
+
+
+37 #C C places the pot on the cabinet
+
+
+38 #C C moves the bowl on the cabinet
+
+
+39 #C C puts the nylon on the cabinet
+
+
+40 #C C pulls a drawer
+
+
+41 #C C puts the cooking pot in the drawer
+
+
+42 #C C picks a bowl
+
+
+43 #C C moves the pot
+
+
+44 #C C stands at the kitchen counter.
+
+
+45 #C C puts a cooking pot on a cooker
+
+
+46 #C C puts the bowl on the kitchen counter
+
+
+47 #C C picks the packet of powder
+
+
+48 #C C puts the packet of flour in the bowl.
+
+
+49 #C C puts the seasoning on the plate
+
+
+50 #C C pours the sauce into the pot
+
+
+51 #C C pours the sweet on the food
+
+
+52 #C C pours the soup into the rice cooker
+
+
+53 #C C takes the packet.
+
+
+54 #C C takes a packet of spice
+
+
+55 #C C puts the packet in the bag
+
+
+56 #C C touches the pasta
+
+
+57 #C C picks the packet
+
+
+58 #C C pours the ingredients on the table
+
+
+59 #C C pours the mixture of salt and sugar in the bowl
+
+
+60 #C C takes a packet of noodle soup
+
+
+61 #C C puts the packet of flour down.
+
+
+62 #C C puts the packet of cooking oil on the shelf
+
+
+63 #C C moves the packet 
+
+
+64 #C C puts the packets of pasta in the pan
+
+
+65 #C C puts the packet in the basket.
+
+
+66 #C C removes a packet of noodle from the packet
+
+
+67 #C C adds the noodles to the food
+
+
+68 #C C removes the pasta from the pot
+
+
+69 #C C adds spaghetti to the food
+
+
+70 #C C puts the noodles in the pot.
+
+
+71 #C C picks up the dish
+
+
+72 #C C picks the tin
+
+
+73 #C C opens the packet
+
+
+74 #C C picks a packet of rice
+
+
+75 #C C puts the pot on the cooker
+
+
+76 #C C opens the tap
+
+
+77 #C C washes the hands
+
+
+78 #C C washes the spoon
+
+
+79 #C C puts the pot on the sink
+
+
+80 #C C puts the food in the cooking pot
+
+
+81 #C C pours the water into the pot
+
+
+82 #C C puts the food in the cooking pot
+
+
+83 #C C puts the pot on the gas cooker
+
+
+84 #C C removes the pot from the cooker
+
+
+85 #C C shakes the noodles in the pot with her hands.
+
+
+86 #C C puts the spaghetti in a pot
+
+
+87 #C C puts the pasta in the bowl
+
+
+88 #C C puts the noodles in the pot
+
+
+89 #C C picks up the cooking pot from the table
+
+
+90 #C C places the cooking pot on the sink
+
+
+91 #C C shakes the pot
+
+
+92 #C C walks towards the cooker
+
+
+93 #C C picks up a cooking pot on the countertop
+
+
+94 #C C picks up the box of ingredients
+
+
+95 #C C picks a piece of a plastic dish
+
+
+96 #C C puts a bottle of water on the kitchen counter
+
+
+97 #C C pours the seasoning into the pot of spaghetti.
+
+
+98 #C C picks a spoon
+
+
+99 #C C puts the cooking pot in the cooking pot
+
+
+100 #C C picks the can of soda from the kitchen cabinet
+
+
+101 #C C walks towards the sink 
+
+
+102 #C C picks a glass
+
+
+103 #C C picks the knife
+
+
+104 #C C walks around the kitchen
+
+
+105 #C C moves the cooking pot.
+
+
+106 #C C puts the noodle in the pot
+
+
+107 #C C stirs the food
+
+
+108 #C C stirs food with the chopsticks.
+
+
+109 #C C picks a plate on the table
+
+
+110 #C C picks a plate from the kitchen cabinet.
+
+
+111 #C C opens a fridge
+
+
+112 #C C picks a packet of sugar
+
+
+113 #C C puts the meat in the fridge.
+
+
+114 #C C moves towards the fridge.
+
+
+115 #C C moves the camera around
+
+
+116 #C C opens the door
+
+
+117 #C C moves towards the sink
+
+
+118 #C C opens tap
+
+
+119 #C C   washes the hands
+
+
+120 #C C cleans the sink
+
+
+121 #C C squeezes the dish.
+
+
+122 #C C pours the water
+
+
+123 #C C pours the hand wash in the sink
+
+
+124 #C C wipes the salt
+
+
+125 #C C pours water from the sink
+
+
+126 #C C pours the water from the sink
+
+
+127 #C C puts the plate of food on the sink
+
+
+128 #C C drops the container
+
+
+129 #C C drops the dish
+
+
+130 #C C  puts the dish cloth in the sink
+
+
+131 #C C drops the pack of water on the sink
+
+
+132 #C C picks the water from the sink
+
+
+133 #C C opens the tap
+
+
+134 #C C moves the bin
+
+
+135 #C C opens the dishwasher
+
+
+136 #C C pulls a rack
+
+
+137 #C C walks to the kitchen drawer
+
+
+138 #C C opens the cabinet
+
+
+139 #C C drops the plate in the cabinet
+
+
+140 #C C picks a bowl 
+
+
+141 #C C picks the container from the kitchen countertop
+
+
+142 #C C opens the tap
+
+
+143 #C C takes a plate from the kitchen slab
+
+
+144 #C C pours water from the bowl into the plate
+
+
+145 #C C puts the bowl on the counter
+
+
+146 #C C pours water from the bowl to the sink.
+
+
+147 #C C puts the bowl on the sink
+
+
+148 #C C picks a small bowl
+
+
+149 #C C closes the dishwasher
+
+
+150 #C C puts the cover of the bowl on the cabinet
+
+
+151 #C C picks the container
+
+
+152 #C C  moves the plates
+
+
+153 #C C picks a plate from the countertop
+
+
+154 #C C  opens the water tap
+
+
+155 #C C washes the bowl
+
+
+156 #C C drops the water in the plastic container
+
+
+157 #C C washes the plate
+
+
+158 #C C puts the meat in the plastic plate 
+
+
+159 #C C takes the dish
+
+
+160 #C C picks a plate
+
+
+161 #C C opens the tap
+
+
+162 #C C walks to the fridge
+
+
+163 #C C moves towards the sink
+
+
+164 #C C drops the egg on the counter
+
+
+165 #C C takes a container of vegetables
+
+
+166 #C C pours the food in the plate
+
+
+167 #C C holds a plate
+
+
+168 #C C   opens the dish
+
+
+169 #C C picks a lid
+
+
+170 #C C walks back to the table
+
+
+171 #C C walks to a table
+
+
+172 #C C walks towards a kitchen cabinet.
+
+
+173 #C C walks towards the cabinet
+
+
+174 #C C opens the cabinet
+
+
+175 #C C picks the bottle of water
+
+
+176 #C C walks around the room
+
+
+177 #C C walks towards the sink
+
+
+178 #C C walks towards a fridge
+
+
+179 #C C moves his hand in the fridge
+
+
+180 #C C picks a pack of # unsure
+
+

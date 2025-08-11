@@ -1,0 +1,540 @@
+1 #O A woman X removes a card from the table
+
+
+2 #O A man Y places the cards on the table
+
+
+3 #O A man X drops a card on the table
+
+
+4 #O A man H takes a card. 
+
+
+5 #O A man X picks the card
+
+
+6 #C C holds the cards
+
+
+7 #O person X takes a card
+
+
+8 #O person X touches the cards
+
+
+9 #O person X picks a card from the table. 
+
+
+10 #O A man X puts down the card
+
+
+11 #O person X picks a card from the others
+
+
+12 #C C picks a card from the left hand
+
+
+13 #O A man X takes a card
+
+
+14 #C C  holds the cards with both hands
+
+
+15 #O A man X picks a plate from the table.
+
+
+16 #C C picks a plate of snacks.
+
+
+17 #C C picks the plate
+
+
+18 #O A man X picks the cards. 
+
+
+19 #C C takes the plate of bowl from the woman B with her right hand.
+
+
+20 #C C picks a plate of the game board
+
+
+21 #C C picks a card from the left hand of person A with her right hand. 
+
+
+22 #O A woman X picks a card
+
+
+23 #O A man B takes the plate
+
+
+24 #O The man B picks the plate of cards from the table with his left hand.
+
+
+25 #O A man X picks a card
+
+
+26 #O A man X moves the plate.
+
+
+27 #C C touches the table with his right hand.
+
+
+28 #O person X picks up a card from the table. 
+
+
+29 #C C picks the cards from his hands
+
+
+30 #C C takes the plate
+
+
+31 #C C picks up the plates
+
+
+32 #O person X picks the cards on the table
+
+
+33 #C C looks at the dog
+
+
+34 #O cat X play with the cat.
+
+
+35 #O A cat X plays with C
+
+
+36 #O woman Y touches child C
+
+
+37 #O person X sits on the couch
+
+
+38 #C C talks to lady Y
+
+
+39 #C C walks towards the door
+
+
+40 #C C moves the clothes 
+
+
+41 #C C picks up a bottle of water from the floor
+
+
+42 #C C picks the hand towel
+
+
+43 #C C looks at person Y
+
+
+44 #C C looks at the food display
+
+
+45 #C C picks the towel
+
+
+46 #C C lifts the brush 
+
+
+47 #C C touches cat
+
+
+48 #C C holds the cat's head with her right hand
+
+
+49 #C C touches the dog
+
+
+50 #C C moves the doll on the dog bed
+
+
+51 #C C adjusts the dog's head position
+
+
+52 #C C rubs the cat with the hand
+
+
+53 #C C moves the dog fur on her left hand
+
+
+54 #C C holds the cat's neck
+
+
+55 #C C moves the cat with his left hand
+
+
+56 #C C puts the cat on the floor
+
+
+57 #C C moves the dog
+
+
+58 #C C touches the cat's tail
+
+
+59 #C C touches the cat with his hand
+
+
+60 #C C touches cat with left hand
+
+
+61 #C C touches the cat
+
+
+62 #C C touches cat
+
+
+63 #C C touches the cat with his left hand
+
+
+64 #C C touches the cat
+
+
+65 #C C picks the toy
+
+
+66 #C C holds the cat's fur with the other hand
+
+
+67 #C C lifts the cat's leg
+
+
+68 #C C rubs cat with a hand
+
+
+69 #C C touches the cat with the right hand
+
+
+70 #C C removes the dog fur from the dog's left hand with the left hand
+
+
+71 #C C touches dog with a hand 
+
+
+72 #C C adjusts the cat on the leash with her hands
+
+
+73 #C C cuts the dog's leg
+
+
+74 #C C touches cat with both hands
+
+
+75 #C C holds the dog with the hand
+
+
+76 #C C adjusts the dog leash
+
+
+77 #C C touches the cat with the right hand
+
+
+78 #C C touches dog
+
+
+79 #C C moves the cat with the hand
+
+
+80 #C C lifts the cat toy
+
+
+81 #C C touches the cat
+
+
+82 #C C lifts the cat's tail
+
+
+83 #C C touches cat with the hand
+
+
+84 #C C puts the cat on the floor
+
+
+85 #C C touches cat
+
+
+86 #C C touches the cat's head
+
+
+87 #C C moves the circus chair
+
+
+88 #C C picks the dog toy
+
+
+89 #O Person Y picks up a phone
+
+
+90 #C C walks to the table
+
+
+91 #C C picks a bag
+
+
+92 #C C looks at the dog
+
+
+93 #C C looks at the dog
+
+
+94 #C C looks around
+
+
+95 #C C moves around
+
+
+96 #C C picks a leash
+
+
+97 #C C moves the rope
+
+
+98 #C C stares at the dog
+
+
+99 #C C stands 
+
+
+100 #C C moves the dog's leash on the floor
+
+
+101 #C C moves the dog
+
+
+102 #C C walks towards dog
+
+
+103 #C C opens the plastic bag
+
+
+104 #C C looks around
+
+
+105 #C C moves dog carcass
+
+
+106 #C C removes the dog leash from the dog's mouth
+
+
+107 #C C picks the dog's fur.
+
+
+108 #C C drops the dog leash on the floor
+
+
+109 #C C walks to the dogs
+
+
+110 #O A dog plays with C
+
+
+111 #C C  looks around the room
+
+
+112 #O A man Y picks a bag
+
+
+113 #O A man X holds the box
+
+
+114 #O man Y puts down the dog leash.
+
+
+115 #O A dog walks around the room 
+
+
+116 #C C removes leash from the dog
+
+
+117 #O A man X walks 
+
+
+118 #O A man Y walks around the room
+
+
+119 #C C moves her hand
+
+
+120 #O A man X sits on the ground 
+
+
+121 #C C holds dog
+
+
+122 #C C removes the dog's leash from the dog's body
+
+
+123 #C C removes the dog's tail from the dog's body.
+
+
+124 #C C rolls the dog's tail.
+
+
+125 #C C holds the dog's tail
+
+
+126 #C C adjusts the dog's leash
+
+
+127 #O man X walks around
+
+
+128 #O man T moves around 
+
+
+129 #C C opens the door of the house
+
+
+130 #C C moves the chair
+
+
+131 #C C moves his head
+
+
+132 #C C moves to the table
+
+
+133 #C C holds phone
+
+
+134 #C C picks a box of chips 
+
+
+135 #C C picks the dog food 
+
+
+136 #C C puts down the dog
+
+
+137 #C C rubs the dog's body
+
+
+138 #C C removes the dog's mouth from the dog's mouth.
+
+
+139 #C C touches the dog's tail
+
+
+140 #O The dog B plays with the dog X with its mouth.
+
+
+141 #O Dog E walks towards C.
+
+
+142 #C C touches the dog's neck
+
+
+143 #C C moves the dog with her right hand.
+
+
+144 #C C pulls the dog's leash
+
+
+145 #C C touches the dog's fur
+
+
+146 #C C touches dog's tail
+
+
+147 #C C touches the dog's head
+
+
+148 #C C touches the dog
+
+
+149 #C C touches dog
+
+
+150 #C C touches the dog
+
+
+151 #C C touches dog's legs
+
+
+152 #C C touches dog's head
+
+
+153 #C C touches the dog
+
+
+154 #C C takes a dog toy
+
+
+155 #C C touches the dog's head
+
+
+156 #C C touches dogs neck
+
+
+157 #C C touches dog
+
+
+158 #C C touches the dog's head
+
+
+159 #C C moves the dog
+
+
+160 #C C touches dog
+
+
+161 #C C holds the cat
+
+
+162 #C C removes the dog leash
+
+
+163 #C C moves the dog
+
+
+164 #C C picks a phone from the sofa with her left hand.
+
+
+165 #C C lifts the hand
+
+
+166 #C C picks the cat toy
+
+
+167 #C C picks the coffee
+
+
+168 #C C picks up the marvin 
+
+
+169 #C C picks the bottle of water
+
+
+170 #C C picks the plastic glass
+
+
+171 #O A woman Y picks a bowl
+
+
+172 #C C looks around the room
+
+
+173 #C C walks to the dining room.
+
+
+174 #C C walks to the kitchen.
+
+
+175 #C C walks around the room
+
+
+176 #O The man X picks up a cup from the table with his right hand.
+
+
+177 #C C walks around the house
+
+
+178 #C C walks around the house
+
+
+179 #C C walks towards a kitchen.
+
+
+180 #C C walks towards the kitchen.
+
+

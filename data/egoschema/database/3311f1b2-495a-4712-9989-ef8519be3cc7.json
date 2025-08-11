@@ -1,0 +1,724 @@
+{
+  "messages": [
+    {
+      "content": "1 #C C walks in the room",
+      "time": 1
+    },
+    {
+      "content": "2 #C C walks around",
+      "time": 2
+    },
+    {
+      "content": "3 #C C holds a shirt",
+      "time": 3
+    },
+    {
+      "content": "4 #C C holds a waist",
+      "time": 4
+    },
+    {
+      "content": "5 #C C holds a belt",
+      "time": 5
+    },
+    {
+      "content": "6 #C C hangs the shirt",
+      "time": 6
+    },
+    {
+      "content": "7 #C C walks around the shop",
+      "time": 7
+    },
+    {
+      "content": "8 #C C picks shirt from the tray",
+      "time": 8
+    },
+    {
+      "content": "9 #C C holds a cloth",
+      "time": 9
+    },
+    {
+      "content": "10 #C C turns around",
+      "time": 10
+    },
+    {
+      "content": "11 #C C picks a cloth from a table",
+      "time": 11
+    },
+    {
+      "content": "12 #C C holds a cloth",
+      "time": 12
+    },
+    {
+      "content": "13 #C C holds a shirt",
+      "time": 13
+    },
+    {
+      "content": "14 #C C holds a cloth",
+      "time": 14
+    },
+    {
+      "content": "15 #C C checks the clothes",
+      "time": 15
+    },
+    {
+      "content": "16 #C C holds the shirt",
+      "time": 16
+    },
+    {
+      "content": "17 #C C picks the cloth from the rack",
+      "time": 17
+    },
+    {
+      "content": "18 #C C holds a cloth",
+      "time": 18
+    },
+    {
+      "content": "19 #C C holds the measure",
+      "time": 19
+    },
+    {
+      "content": "20 #C C holds the shirt on the hanger",
+      "time": 20
+    },
+    {
+      "content": "21 #C C holds shirt on the shoulder",
+      "time": 21
+    },
+    {
+      "content": "22 #C C holds a shirt",
+      "time": 22
+    },
+    {
+      "content": "23 #C C holds the cloth on the hanging line",
+      "time": 23
+    },
+    {
+      "content": "24 #C C holds a shirt",
+      "time": 24
+    },
+    {
+      "content": "25 #C C adjusts a tie",
+      "time": 25
+    },
+    {
+      "content": "26 #C C holds a sweater",
+      "time": 26
+    },
+    {
+      "content": "27 #C C holds the tie",
+      "time": 27
+    },
+    {
+      "content": "28 #C C holds a shirt",
+      "time": 28
+    },
+    {
+      "content": "29 #C C holds a cloth on the hands",
+      "time": 29
+    },
+    {
+      "content": "30 #C C holds the cloth",
+      "time": 30
+    },
+    {
+      "content": "31 #C C holds the cloth",
+      "time": 31
+    },
+    {
+      "content": "32 #C C holds a shirt",
+      "time": 32
+    },
+    {
+      "content": "33 #C C turns a shirt",
+      "time": 33
+    },
+    {
+      "content": "34 #C C holds the shirt",
+      "time": 34
+    },
+    {
+      "content": "35 #C C holds the shirt",
+      "time": 35
+    },
+    {
+      "content": "36 #C C holds a shirt",
+      "time": 36
+    },
+    {
+      "content": "37 #C C holds a shirt",
+      "time": 37
+    },
+    {
+      "content": "38 #C C puts shirt on the cloth rack",
+      "time": 38
+    },
+    {
+      "content": "39 #C C holds the shirt ",
+      "time": 39
+    },
+    {
+      "content": "40 #C C looks at the mirror",
+      "time": 40
+    },
+    {
+      "content": "41 #C C holds the shirt with both hands",
+      "time": 41
+    },
+    {
+      "content": "42 #C C holds the cloth",
+      "time": 42
+    },
+    {
+      "content": "43 #C C holds the shirt",
+      "time": 43
+    },
+    {
+      "content": "44 #C C holds the cloth",
+      "time": 44
+    },
+    {
+      "content": "45 #C C holds the shirt",
+      "time": 45
+    },
+    {
+      "content": "46 #C C holds a cloth",
+      "time": 46
+    },
+    {
+      "content": "47 #C C holds the cloth",
+      "time": 47
+    },
+    {
+      "content": "48 #C C holds the shirts with both hands",
+      "time": 48
+    },
+    {
+      "content": "49 #C C holds a belt",
+      "time": 49
+    },
+    {
+      "content": "50 #C C holds a shirt",
+      "time": 50
+    },
+    {
+      "content": "51 #C C holds the cloth",
+      "time": 51
+    },
+    {
+      "content": "52 #C C folds the wallet",
+      "time": 52
+    },
+    {
+      "content": "53 #C C holds the cloth",
+      "time": 53
+    },
+    {
+      "content": "54 #C C holds a belt",
+      "time": 54
+    },
+    {
+      "content": "55 #C C wears the belt",
+      "time": 55
+    },
+    {
+      "content": "56 #C C holds the cloth",
+      "time": 56
+    },
+    {
+      "content": "57 #C C holds shirt with both hands",
+      "time": 57
+    },
+    {
+      "content": "58 #C C holds the shirt ",
+      "time": 58
+    },
+    {
+      "content": "59 #C C holds the shirt in the hand",
+      "time": 59
+    },
+    {
+      "content": "60 #C C holds a cloth",
+      "time": 60
+    },
+    {
+      "content": "61 #C C looks around the room",
+      "time": 61
+    },
+    {
+      "content": "62 #C C holds a shirt",
+      "time": 62
+    },
+    {
+      "content": "63 #C C holds the cloth on the hanger",
+      "time": 63
+    },
+    {
+      "content": "64 #C C holds the shirts",
+      "time": 64
+    },
+    {
+      "content": "65 #C C holds the shirts",
+      "time": 65
+    },
+    {
+      "content": "66 #c c picks a shirt",
+      "time": 66
+    },
+    {
+      "content": "67 #C C checks clothes in the store ",
+      "time": 67
+    },
+    {
+      "content": "68 #C C hangs the cloth",
+      "time": 68
+    },
+    {
+      "content": "69 #C C picks a cloth",
+      "time": 69
+    },
+    {
+      "content": "70 #C C holds a cloth on the hanger",
+      "time": 70
+    },
+    {
+      "content": "71 #C C holds the cloth",
+      "time": 71
+    },
+    {
+      "content": "72 #C C holds the sweater",
+      "time": 72
+    },
+    {
+      "content": "73 #C C hangs the cloth",
+      "time": 73
+    },
+    {
+      "content": "74 #C C picks a cloth from the rack",
+      "time": 74
+    },
+    {
+      "content": "75 #C C holds the cloth on the hanger",
+      "time": 75
+    },
+    {
+      "content": "76 #C C holds the shirt",
+      "time": 76
+    },
+    {
+      "content": "77 #C C touches the camera",
+      "time": 77
+    },
+    {
+      "content": "78 #C C removes the shirt from the pocket",
+      "time": 78
+    },
+    {
+      "content": "79 #C C holds a waist",
+      "time": 79
+    },
+    {
+      "content": "80 #C C man X and woman Y walks in the clothing store",
+      "time": 80
+    },
+    {
+      "content": "81 #C C holds a cloth",
+      "time": 81
+    },
+    {
+      "content": "82 #C C holds a belt on his right hand",
+      "time": 82
+    },
+    {
+      "content": "83 #C C holds a cloth",
+      "time": 83
+    },
+    {
+      "content": "84 #C C holds shoes with both hands",
+      "time": 84
+    },
+    {
+      "content": "85 #C C holds a belt",
+      "time": 85
+    },
+    {
+      "content": "86 #C C puts the cloth on the pocket",
+      "time": 86
+    },
+    {
+      "content": "87 #C C holds the camera",
+      "time": 87
+    },
+    {
+      "content": "88 #C C looks around the store",
+      "time": 88
+    },
+    {
+      "content": "89 #C C hangs the jeans",
+      "time": 89
+    },
+    {
+      "content": "90 #C C holds the jeans",
+      "time": 90
+    },
+    {
+      "content": "91 #C C holds a cloth on the hanging rod",
+      "time": 91
+    },
+    {
+      "content": "92 #C C turns the trouser",
+      "time": 92
+    },
+    {
+      "content": "93 #C C holds the jeans",
+      "time": 93
+    },
+    {
+      "content": "94 #C C hangs the sweater on the hanger",
+      "time": 94
+    },
+    {
+      "content": "95 #C C holds a cloth",
+      "time": 95
+    },
+    {
+      "content": "96 #C C holds the shirt",
+      "time": 96
+    },
+    {
+      "content": "97 #C C holds a cloth",
+      "time": 97
+    },
+    {
+      "content": "98 #C C picks a cloth from the rack",
+      "time": 98
+    },
+    {
+      "content": "99 #C C puts the shoes on the cloth rack",
+      "time": 99
+    },
+    {
+      "content": "100 #C C drops the trouser",
+      "time": 100
+    },
+    {
+      "content": "101 #C C picks a belt",
+      "time": 101
+    },
+    {
+      "content": "102 #O man A holds shirt",
+      "time": 102
+    },
+    {
+      "content": "103 #C C touches clothes",
+      "time": 103
+    },
+    {
+      "content": "104 #C C moves around",
+      "time": 104
+    },
+    {
+      "content": "105 #C C holds a belt",
+      "time": 105
+    },
+    {
+      "content": "106 #C C holds the belt ",
+      "time": 106
+    },
+    {
+      "content": "107 #C C picks a belt",
+      "time": 107
+    },
+    {
+      "content": "108 #C C picks a jeans",
+      "time": 108
+    },
+    {
+      "content": "109 #C C holds a pair of jeans",
+      "time": 109
+    },
+    {
+      "content": "110 #C C holds the waist with both hands",
+      "time": 110
+    },
+    {
+      "content": "111 #C C holds the belt",
+      "time": 111
+    },
+    {
+      "content": "112 #C C holds the jeans",
+      "time": 112
+    },
+    {
+      "content": "113 #C C holds the trouser",
+      "time": 113
+    },
+    {
+      "content": "114 #C C holds the shirt with both hands",
+      "time": 114
+    },
+    {
+      "content": "115 #C C holds a belt",
+      "time": 115
+    },
+    {
+      "content": "116 #C C holds a jeans",
+      "time": 116
+    },
+    {
+      "content": "117 #C C holds a shirt",
+      "time": 117
+    },
+    {
+      "content": "118 #C C holds the belt",
+      "time": 118
+    },
+    {
+      "content": "119 #C C holds trouser on the hand",
+      "time": 119
+    },
+    {
+      "content": "120 #C C holds a cloth",
+      "time": 120
+    },
+    {
+      "content": "121 #C C holds a cloth",
+      "time": 121
+    },
+    {
+      "content": "122 #C C holds a jeans",
+      "time": 122
+    },
+    {
+      "content": "123 #C C man X holds a cloth",
+      "time": 123
+    },
+    {
+      "content": "124 #C C holds the belt",
+      "time": 124
+    },
+    {
+      "content": "125 #C C picks a shirt ",
+      "time": 125
+    },
+    {
+      "content": "126 #C C picks a cloth ",
+      "time": 126
+    },
+    {
+      "content": "127 #C C picks the belt from the floor",
+      "time": 127
+    },
+    {
+      "content": "128 #C C holds the waist",
+      "time": 128
+    },
+    {
+      "content": "129 #C C picks a belt",
+      "time": 129
+    },
+    {
+      "content": "130 #C C holds a cloth",
+      "time": 130
+    },
+    {
+      "content": "131 #C C holds a cloth",
+      "time": 131
+    },
+    {
+      "content": "132 #C C picks a shirt",
+      "time": 132
+    },
+    {
+      "content": "133 #C C touches the clothes",
+      "time": 133
+    },
+    {
+      "content": "134 #C C touches the shirt",
+      "time": 134
+    },
+    {
+      "content": "135 #C C holds a shirt",
+      "time": 135
+    },
+    {
+      "content": "136 #C C picks a shirt",
+      "time": 136
+    },
+    {
+      "content": "137 #C C touches the shirt",
+      "time": 137
+    },
+    {
+      "content": "138 #C C picks a cloth",
+      "time": 138
+    },
+    {
+      "content": "139 #C C checks the shirts",
+      "time": 139
+    },
+    {
+      "content": "140 #C C holds the shirt",
+      "time": 140
+    },
+    {
+      "content": "141 #C C removes the shirt from the cloth rack",
+      "time": 141
+    },
+    {
+      "content": "142 #C C holds the jeans",
+      "time": 142
+    },
+    {
+      "content": "143 #C C holds a shirt in the hand",
+      "time": 143
+    },
+    {
+      "content": "144 #C C holds a cloth",
+      "time": 144
+    },
+    {
+      "content": "145 #C C checks shirt",
+      "time": 145
+    },
+    {
+      "content": "146 #C C lifts the shirt",
+      "time": 146
+    },
+    {
+      "content": "147 #C C looks at the cloth",
+      "time": 147
+    },
+    {
+      "content": "148 #C C holds a cloth ",
+      "time": 148
+    },
+    {
+      "content": "149 #C C looks at the shirts",
+      "time": 149
+    },
+    {
+      "content": "150 #C C looks at the cloths",
+      "time": 150
+    },
+    {
+      "content": "151 #C C holds a shirt",
+      "time": 151
+    },
+    {
+      "content": "152 #C C holds shirts on the stand",
+      "time": 152
+    },
+    {
+      "content": "153 #C C holds a cloth with right hand",
+      "time": 153
+    },
+    {
+      "content": "154 #C C looks at the shirts",
+      "time": 154
+    },
+    {
+      "content": "155 #C C holds shirt",
+      "time": 155
+    },
+    {
+      "content": "156 #C C turns shirt",
+      "time": 156
+    },
+    {
+      "content": "157 #C C holds shirt",
+      "time": 157
+    },
+    {
+      "content": "158 #C C picks the shirt from the floor",
+      "time": 158
+    },
+    {
+      "content": "159 #C C holds a cloth",
+      "time": 159
+    },
+    {
+      "content": "160 #C C touches the shirts",
+      "time": 160
+    },
+    {
+      "content": "161 #C C holds a shirt",
+      "time": 161
+    },
+    {
+      "content": "162 #C C holds a shirt",
+      "time": 162
+    },
+    {
+      "content": "163 #C C holds a shirt",
+      "time": 163
+    },
+    {
+      "content": "164 #C C holds the shirt",
+      "time": 164
+    },
+    {
+      "content": "165 #C C touches the cloths",
+      "time": 165
+    },
+    {
+      "content": "166 #C C holds a cloth",
+      "time": 166
+    },
+    {
+      "content": "167 #C C turns the shirt",
+      "time": 167
+    },
+    {
+      "content": "168 #C C holds a shirt",
+      "time": 168
+    },
+    {
+      "content": "169 #C C takes shirt from the hanger",
+      "time": 169
+    },
+    {
+      "content": "170 #C C holds shirts",
+      "time": 170
+    },
+    {
+      "content": "171 #C C holds shirt",
+      "time": 171
+    },
+    {
+      "content": "172 #C C holds shirts",
+      "time": 172
+    },
+    {
+      "content": "173 #C C holds the cloth on the hanger",
+      "time": 173
+    },
+    {
+      "content": "174 #C C picks a shirt from the rack",
+      "time": 174
+    },
+    {
+      "content": "175 #C C holds the shirts",
+      "time": 175
+    },
+    {
+      "content": "176 #C C wears a jacket",
+      "time": 176
+    },
+    {
+      "content": "177 #C C picks a pair of socks",
+      "time": 177
+    },
+    {
+      "content": "178 #C C holds a cloth",
+      "time": 178
+    },
+    {
+      "content": "179 #C C wears the sweater",
+      "time": 179
+    },
+    {
+      "content": "180 #C C adjusts shirt",
+      "time": 180
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+1 #C C moves the brick
+
+
+2 #C C fixes stone block
+
+
+3 #C C places the brick on the sand
+
+
+4 #C C removes the brick from the cement
+
+
+5 #C C moves stone block
+
+
+6 #C C picks the brick 
+
+
+7 #C C moves a hand
+
+
+8 #C C picks up the spirit level
+
+
+9 #C C holds the spirit level 
+
+
+10 #C C measures the brick 
+
+
+11 #C C picks the spirit level 
+
+
+12 #C C Picks the level balance
+
+
+13 #C C places spirit level aside 
+
+
+14 #C C holds the spirit level 
+
+
+15 #C C puts the spirit level aside 
+
+
+16 #C C puts the spirit level on the brick 
+
+
+17 #O person B moves the brick
+
+
+18 #C C places a level balance aside
+
+
+19 #C C touches the brick
+
+
+20 #C C puts the spirit level on the brick 
+
+
+21 #C C puts down the spirit level
+
+
+22 #C C looks around
+
+
+23 #O A man K  moves his hand 
+
+
+24 #O A man K stands beside the brick
+
+
+25 #C C holds the brick
+
+
+26 #C C holds the bricks
+
+
+27 #C C  turns around
+
+
+28 #C C puts a spirit level on the ground 
+
+
+29 #C C holds the brick
+
+
+30 #C C stares around the verandah 
+
+
+31 #O A man T moves the leg
+
+
+32 #C C puts the trowel on the sand
+
+
+33 #C C holds the brick
+
+
+34 #C C adjusts the brick
+
+
+35 #O A man Y lifts the stone
+
+
+36 #C C holds the brick
+
+
+37 #C C holds the brick
+
+
+38 #C C holds the brick
+
+
+39 #C C holds the hand
+
+
+40 #C C puts stone on the mortar 
+
+
+41 #C C fixes the brick on the mortar
+
+
+42 #C C picks stone 
+
+
+43 #C C puts brick on the sand
+
+
+44 #C C puts stone in a brick 
+
+
+45 #C C removes stone block from the mortar 
+
+
+46 #C C puts the brick on the sand
+
+
+47 #C C puts brick on the mortar 
+
+
+48 #C C fixes stone with the left hand
+
+
+49 #C C places the brick on the mortar
+
+
+50 #C C fixes brick with left hand
+
+
+51 #C C Fixes the brick with a trowel
+
+
+52 #C C fixes stone on the brick 
+
+
+53 #C C fixes the brick 
+
+
+54 #C C fixes the brick 
+
+
+55 #C C removes stone block from the furrow 
+
+
+56 #C C puts brick on the mortar
+
+
+57 #C C picks the brick from the ground
+
+
+58 #C C puts the brick on the sand
+
+
+59 #C C picks the brick
+
+
+60 #C C spreads cement
+
+
+61 #C C spreads sand on the cement
+
+
+62 #C C spreads the cement on the ground
+
+
+63 #C C spreads the mortar on the brick 
+
+
+64 #C C spreads sand with trowel 
+
+
+65 #C C spreads the mortar with a trowel 
+
+
+66 #C C spreads cement on the building site 
+
+
+67 #C C puts the cement on the brick 
+
+
+68 #C C puts trowel on the sand
+
+
+69 #C C gestures with his hand
+
+
+70 #C C drops the brick on the sand
+
+
+71 #C C puts brick on the sand
+
+
+72 #C C puts brick on the sand 
+
+
+73 #C C puts brick on the sand
+
+
+74 #C C picks stone from the ground 
+
+
+75 #C C removes stone block from the wall 
+
+
+76 #C C picks a hammer 
+
+
+77 #C C hits the brick using mallet 
+
+
+78 #C C hits stone with a hammer 
+
+
+79 #C C hits stone with a hammer 
+
+
+80 #C C hits stone with a hammer
+
+
+81 #C C hits stone with hammer
+
+
+82 #C C hits stone with a hammer
+
+
+83 #C C puts a hammer on the ground 
+
+
+84 #C C picks up the hammer
+
+
+85 #C C holds the masonry trowel 
+
+
+86 #C C moves his hand
+
+
+87 #C C puts down the hammer 
+
+
+88 #C C puts trowel on the mortar 
+
+
+89 #C C flattens the sand with the masonry trowel
+
+
+90 #C C picks a trowel
+
+
+91 #C C spreads mortar on the bricks
+
+
+92 #C C spreads cement with trowel 
+
+
+93 #C C spreads mortar with trowel 
+
+
+94 #C C drops the brick
+
+
+95 #C C holds sand with left hand
+
+
+96 #C C holds the bricks 
+
+
+97 #C C picks a brick 
+
+
+98 #C C picks the brick
+
+
+99 #C C picks stone
+
+
+100 #C C picks stone 
+
+
+101 #C C picks up the brick
+
+
+102 #C C picks a brick
+
+
+103 #C C spreads mortar with a trowel 
+
+
+104 #C C picks the concrate 
+
+
+105 #C C spreads cement with trowel
+
+
+106 #C C spreads cement
+
+
+107 #C C picks the concrate 
+
+
+108 #C C spreads cement with a trowel
+
+
+109 #C C  spreads concrate 
+
+
+110 #C C spreads cement with trowel 
+
+
+111 #C C picks the concrate 
+
+
+112 #C C holds a brick 
+
+
+113 #C C places stone down 
+
+
+114 #C C puts stone on the furrow 
+
+
+115 #C C picks stone 
+
+
+116 #C C fixes stone 
+
+
+117 #C C picks stone 
+
+
+118 #C C places stone on the cement
+
+
+119 #C C puts brick on the ground
+
+
+120 #C C picks a spirit level 
+
+
+121 #C C picks a spirit level
+
+
+122 #C C hits the brick with a hammer 
+
+
+123 #C C hits stone with a mallet 
+
+
+124 #C C hits the stone with a hammer 
+
+
+125 #C C picks a hammer 
+
+
+126 #C C picks a hammer 
+
+
+127 #C C picks level balance 
+
+
+128 #C C holds the spirit level
+
+
+129 #C C puts the spirit level aside 
+
+
+130 #C C measures the brick 
+
+
+131 #C C picks a spirit level
+
+
+132 #C C picks up the hammer
+
+
+133 #C C hits stone with hammer 
+
+
+134 #C C hits stone with a hammer 
+
+
+135 #C C drops the spirit level 
+
+
+136 #O a man X bends downwards
+
+
+137 #C C holds the brick
+
+
+138 #C C holds the stone with his left hand
+
+
+139 #O person X picks the brick
+
+
+140 #O a man X holds the stone
+
+
+141 #O a man Y picks up the brick
+
+
+142 #O a man X picks a stone
+
+
+143 #O A man Y moves the sand
+
+
+144 #O man X picks a brick
+
+
+145 #C C holds the brick
+
+
+146 #C C puts the brick in the sand
+
+
+147 #C C holds the brick
+
+
+148 #C C spreads mortar on the floor with a trowel 
+
+
+149 #C C spreads mortar on the bricks
+
+
+150 #C C spreads mortar in the furrow 
+
+
+151 #C C holds the trowel
+
+
+152 #C C takes the brick trowel from the sand
+
+
+153 #C C levels the cement
+
+
+154 #C C puts the trowel in the chisel 
+
+
+155 #C C picks a hammer
+
+
+156 #C C holds a brick
+
+
+157 #C C holds a brick
+
+
+158 #C C takes mortar 
+
+
+159 #C C spreads mortar with trowel 
+
+
+160 #C C spreads mortar on the bricks 
+
+
+161 #C C spreads cement with trowel 
+
+
+162 #C C mixes the concrate 
+
+
+163 #C C spreads mortar on the stone 
+
+
+164 #C C spreads mortar with trowel 
+
+
+165 #C C puts trowel on stone 
+
+
+166 #C C collects mortar 
+
+
+167 #C C spreads mortar on the brick 
+
+
+168 #C C scoops the mortar 
+
+
+169 #C C mixes sand and concrete
+
+
+170 #C C mixes cement with a trowel
+
+
+171 #C C mixes the concrate 
+
+
+172 #C C picks cement with a trowel
+
+
+173 #C C spreads the mortar with a trowel
+
+
+174 #C C mixes mortar 
+
+
+175 #C C places the trowel on the tile 
+
+
+176 #C C spreads cement with trowel
+
+
+177 #C C moves around
+
+
+178 #O A man X walks on the road
+
+
+179 #O man X holds the stone 
+
+
+180 #O man X walks 
+
+

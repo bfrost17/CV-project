@@ -1,0 +1,540 @@
+1 #C C removes the cloth from the basket 
+
+
+2 #C C looks at the container
+
+
+3 #C C looks around the room
+
+
+4 #C C walks around the room
+
+
+5 #C C hangs the cloth
+
+
+6 #C C hangs the hanger on the wardrobe with her right hand.
+
+
+7 #C C picks the hanger
+
+
+8 #C C puts a hanger on the cloth rack
+
+
+9 #C C hangs a short
+
+
+10 #C C moves the clothes in the bag
+
+
+11 #C C removes the bag from the hanger
+
+
+12 #C C moves the hand
+
+
+13 #C C touches the leg
+
+
+14 #C C lifts the blue jacket
+
+
+15 #C C holds the jeans
+
+
+16 #C C puts the trouser on the floor
+
+
+17 #C C puts the cloth on the bed
+
+
+18 #C C looks at man X
+
+
+19 #C C moves the cloth
+
+
+20 #C C puts the shoes in the bag
+
+
+21 #C C  holds a cloth
+
+
+22 #C C folds the cloth
+
+
+23 #C C puts a cloth on the hanger
+
+
+24 #C C puts the clothes on the bag
+
+
+25 #C C moves the camera around
+
+
+26 #C C picks a cloth from the bag
+
+
+27 #C C picks a cloth
+
+
+28 #O person X puts the bedsheet in the bed
+
+
+29 #C C picks the cloths
+
+
+30 #C C picks the cordless charger
+
+
+31 #C C lifts the cloth
+
+
+32 #C C picks the cloth
+
+
+33 #C C turns to the bag
+
+
+34 #O The dog X picks up the ball.
+
+
+35 #C C lifts the blanket
+
+
+36 #O person X picks the cloth on the bed
+
+
+37 #C C puts the cloth in the laundry basket
+
+
+38 #C C looks around the house
+
+
+39 #C C folds the cloth on her legs
+
+
+40 #C C looks at the dog
+
+
+41 #O the dog Y drops the blanket on the bed.
+
+
+42 #C C holds a cloth
+
+
+43 #C C drops the bag
+
+
+44 #C C lifts the cloth
+
+
+45 #C C moves to the closet.
+
+
+46 #C C hangs a clothes on the hanger stand
+
+
+47 #C C hangs the hanger on the wardrobe
+
+
+48 #C C hangs the hanger on the wall
+
+
+49 #C C hangs the hanger on the clothes rack
+
+
+50 #C C looks at the dog
+
+
+51 #C C picks up the bedsheet
+
+
+52 #C C holds the trouser
+
+
+53 #C C  picks up the hanger
+
+
+54 #C C picks up the trouser
+
+
+55 #C C puts the socks on the bag
+
+
+56 #O woman X touches her face 
+
+
+57 #O A woman Y touches the head
+
+
+58 #C C moves the pillow
+
+
+59 #C C looks around the bed
+
+
+60 #C C puts the cloth on the floor
+
+
+61 #C C ties the bag
+
+
+62 #C C turns the cloth
+
+
+63 #C C folds the cloth
+
+
+64 #C C picks the cloth
+
+
+65 #C C puts the trouser on the jeans
+
+
+66 #C C holds the cloth
+
+
+67 #C C moves the cloth
+
+
+68 #C C picks the cloth
+
+
+69 #C C moves the cloth
+
+
+70 #C C walks to the closet.
+
+
+71 #C C hangs the cloth on the hanger rack with his left hand.
+
+
+72 #C C hangs a hanger on the clothes rack with his right hand
+
+
+73 #C C drops the black sock on a bed.
+
+
+74 #C C touches the cloth
+
+
+75 #C C stretches the cloth
+
+
+76 #C C lifts the cloth
+
+
+77 #C C folds the cloth
+
+
+78 #C C puts the clothe on the lap
+
+
+79 #C C stretches' the cloth
+
+
+80 #C C picks a cloth
+
+
+81 #C C puts the clothes in the bed 
+
+
+82 #C C puts the cloth in the basket
+
+
+83 #C C drops the phone on the bed
+
+
+84 #C C picks a cloth 
+
+
+85 #C C looks around
+
+
+86 #C C picks the cloth
+
+
+87 #C C  folds the cloth
+
+
+88 #C C puts the camera on
+
+
+89 #C C picks up the cloth from the cloth rack
+
+
+90 #C C moves the shirt with his hands
+
+
+91 #C C looks at man A
+
+
+92 #C C moves the camera around
+
+
+93 #C C looks at the dog
+
+
+94 #C C  holds a cloth
+
+
+95 #O a man X  holds a cloth
+
+
+96 #C C looks around
+
+
+97 #C C moves the bedsheet to the right.
+
+
+98 #C C puts the cloth in the washing machine 
+
+
+99 #C C looks around the room
+
+
+100 #C C stretches the cloth
+
+
+101 #C C  holds the hanger
+
+
+102 #C C picks a jacket from the bed
+
+
+103 #C C holds the shirt
+
+
+104 #C C looks at the trousers
+
+
+105 #C C turns the trouser
+
+
+106 #C C picks the cloth from the bed
+
+
+107 #C C picks a cloth from the bed
+
+
+108 #C C moves the pillow case
+
+
+109 #C C hangs the hanging line on the hanger
+
+
+110 #C C picks a hanger
+
+
+111 #C C picks the bag of clothes
+
+
+112 #C C holds the cloth
+
+
+113 #C C holds the shoe
+
+
+114 #C C looks at man X
+
+
+115 #O A man X walks on the ground 
+
+
+116 #O a man X folds the sweater
+
+
+117 #C C lifts the blanket
+
+
+118 #C C holds the cloth
+
+
+119 #C C folds the curtain
+
+
+120 #C C removes cloth from the hanger
+
+
+121 #C C picks up the dog from the bed with her right hand.
+
+
+122 #C C picks the cloth
+
+
+123 #C C picks the cloth
+
+
+124 #C C moves the phone
+
+
+125 #C C holds the hook
+
+
+126 #C C lifts the cloth
+
+
+127 #C C puts the cloth in the basket
+
+
+128 #C C walks to the door
+
+
+129 #C C hangs the hanger on the wardrobe
+
+
+130 #C C hangs the hanger on the wardrobe
+
+
+131 #C C puts the hanger on the wardrobe with her right hand.
+
+
+132 #C C hangs the hanger
+
+
+133 #C C drops the bag in a box
+
+
+134 #C C picks up the cloth
+
+
+135 #C C pulls the cloth
+
+
+136 #C C picks a hanger from the hanger holder
+
+
+137 #C C picks the cloth
+
+
+138 #C C raises the sweater
+
+
+139 #C C moves the shirt
+
+
+140 #C C puts the trouser on the hanger
+
+
+141 #O A man X stands in the house
+
+
+142 #C C  touches the bed
+
+
+143 #C C walks around
+
+
+144 #C C looks around the room
+
+
+145 #C C hangs the clothes
+
+
+146 #C C hangs the hanger
+
+
+147 #C C hangs the cloth
+
+
+148 #C C hangs the hanger on the wardrobe with his right hand.
+
+
+149 #C C walks around
+
+
+150 #C C puts the cloth in the basket
+
+
+151 #C C puts the container in the container
+
+
+152 #C C picks a tray from a floor with his left hand.
+
+
+153 #C C walks to the room.
+
+
+154 #C C walks around the house
+
+
+155 #C C hangs the hanger on the wardrobe
+
+
+156 #C C puts the hanger on the rack
+
+
+157 #C C removes the clothes from the bag
+
+
+158 #C C removes the top from the bag
+
+
+159 #C C holds the material
+
+
+160 #C C lifts the cloth
+
+
+161 #C C picks a cloth
+
+
+162 #C C puts the craft box on the table
+
+
+163 #C C picks up the plastic box
+
+
+164 #C C  holds the drum stick
+
+
+165 #C C holds the disc
+
+
+166 #C C takes out a bag from the bag
+
+
+167 #C C picks the head camera
+
+
+168 #C C moves the pillow
+
+
+169 #C C removes the piece of cloth from the sofa.
+
+
+170 #C C moves a pillow case on the couch
+
+
+171 #C C looks around the tent
+
+
+172 #O man X folds the sweater
+
+
+173 #O A man X puts on the cloth 
+
+
+174 #C C looks at the couch
+
+
+175 #O person D reads the book
+
+
+176 #C C adjusts the bedsheet
+
+
+177 #C C takes the cloth
+
+
+178 #C C throws the cloths on the carpet
+
+
+179 #C C picks the cloths from the basket
+
+
+180 #C C picks the cloth
+
+

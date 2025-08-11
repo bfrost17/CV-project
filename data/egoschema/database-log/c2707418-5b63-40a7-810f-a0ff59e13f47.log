@@ -1,0 +1,540 @@
+1 #C C moves the hand to the counter
+
+
+2 #C C opens the kitchen tap
+
+
+3 #C C picks a pan from the sink
+
+
+4 #C C cleans the pan with the sponge
+
+
+5 #C C pours the oil in the sink
+
+
+6 #C C puts the kitchen towel down
+
+
+7 #C C wipes the kitchen cabinet with a kitchen towel
+
+
+8 #C C wipes the sink table with a towel
+
+
+9 #C C wipes the sink
+
+
+10 #C C wipes the countertop with a towel
+
+
+11 #C C wipes the counter top with the cloth
+
+
+12 #C C picks up the plastic bag
+
+
+13 #C C cleans the countertop with the towel
+
+
+14 #C C wipes the sink with a kitchen towel
+
+
+15 #C C cleans sink with towel
+
+
+16 #C C cleans the table with a kitchen towel
+
+
+17 #C C wipes the table with a wipe
+
+
+18 #C C wipes the table with a towel
+
+
+19 #C C cleans the table with a towel
+
+
+20 #C C wipes the sink table
+
+
+21 #C C wipes the sink table
+
+
+22 #C C cleans the sink table with the sponge 
+
+
+23 #C C cleans the sink table with a kitchen towel 
+
+
+24 #C C wipes the sink with the towel
+
+
+25 #C C wipes sink table
+
+
+26 #C C picks the cutting board
+
+
+27 #C C wipes the sink with a towel
+
+
+28 #C C cleans the table cloth
+
+
+29 #C C washes a kitchen counter with a dish dryer
+
+
+30 #C C wipes a sink with a kitchen towel
+
+
+31 #C C washes the sponge
+
+
+32 #C C washes the sponge
+
+
+33 #C C washes the dish sponge
+
+
+34 #C C washes the cup with the sponge
+
+
+35 #C C washes the dish cloth
+
+
+36 #C C wipes the table with a hand towel
+
+
+37 #C C cleans the table with a kitchen towel
+
+
+38 #C C cleans the sink with the sponge
+
+
+39 #C C cleans the sink table with the kitchen towel 
+
+
+40 #C C picks sponge from sink
+
+
+41 #C C rinses the dish towel
+
+
+42 #C C rinses the hands
+
+
+43 #C C rinses the pot with the water
+
+
+44 #C C turns on the tap
+
+
+45 #C C puts water in the sink
+
+
+46 #C C turns the frying pan
+
+
+47 #C C picks the frying pan
+
+
+48 #C C closes the tap
+
+
+49 #C C walks around the kitchen
+
+
+50 #C C walks towards a table.
+
+
+51 #C C walks towards the table.
+
+
+52 #C C walks around the room
+
+
+53 #C C walks towards the countertop
+
+
+54 #C C walks towards the countertop 
+
+
+55 #C C walks around the kitchen
+
+
+56 #C C walks around the kitchen
+
+
+57 #C C walks towards the table
+
+
+58 #C C walks around the house
+
+
+59 #C C walks towards the kitchen.
+
+
+60 #C C walks towards the sink.
+
+
+61 #C C walks around the kitchen
+
+
+62 #C C walks around the kitchen
+
+
+63 #C C moves towards the kitchen counter
+
+
+64 #C C picks the kitchen sponge
+
+
+65 #C C picks a pan from the sink 
+
+
+66 #C C pours water from the cooking pot
+
+
+67 #C C drops the pan in the sink
+
+
+68 #C C picks a pan 
+
+
+69 #C C looks around the kitchen
+
+
+70 #C C moves the stand 
+
+
+71 #C C moves the speaker
+
+
+72 #C C cleans the countertop with a kitchen towel
+
+
+73 #C C puts the sponge on the countertop
+
+
+74 #C C shakes hands
+
+
+75 #C C picks the kitchen towel
+
+
+76 #C C picks the washing sponge
+
+
+77 #C C walks towards the countertop.
+
+
+78 #C C walks towards the table 
+
+
+79 #C C picks the glass
+
+
+80 #C C picks a glass of water
+
+
+81 #C C picks the lid of the plate
+
+
+82 #C C picks a paper
+
+
+83 #C C picks a plate
+
+
+84 #C C picks a cut sheet
+
+
+85 #C C picks a piece of peel
+
+
+86 #C C picks a bottle of water from the table
+
+
+87 #C C picks a knife.
+
+
+88 #C C walks to the table.
+
+
+89 #C C walks around the room
+
+
+90 #C C puts the cooking pot in the sink
+
+
+91 #C C puts the kitchen sink in the sink 
+
+
+92 #C C opens a kitchen sink cabinet.
+
+
+93 #C C puts the plate in the cabinet
+
+
+94 #C C pulls the drawer 
+
+
+95 #C C pulls the kitchen towel
+
+
+96 #C C puts the shopping bag in the trash bag
+
+
+97 #C C removes a glove from the counter top
+
+
+98 #C C places the bag in the storage bag
+
+
+99 #C C picks a plastic container from the floor
+
+
+100 #C C takes a container from the sink
+
+
+101 #C C drops the paper
+
+
+102 #C C picks a hand towel from the sink
+
+
+103 #C C puts the package in the trash bin
+
+
+104 #C C opens the paper bag
+
+
+105 #C C picks the plastic paper
+
+
+106 #C C drops the paper
+
+
+107 #C C picks a paper
+
+
+108 #C C picks a small container
+
+
+109 #C C picks the paper bag from the floor
+
+
+110 #C C picks a paper bag
+
+
+111 #C C picks a plastic bag
+
+
+112 #C C picks a paper
+
+
+113 #C C walks around the house
+
+
+114 #C C picks a bottle of soap
+
+
+115 #C C moves towards the sink
+
+
+116 #C C puts the bottle of water on the countertop
+
+
+117 #C C folds the kitchen towel
+
+
+118 #C C turns the trash bag
+
+
+119 #C C unfolds the bag
+
+
+120 #C C puts the nylon in the fridge
+
+
+121 #C C drops the tray
+
+
+122 #C C picks the foil paper
+
+
+123 #C C closes the dishwasher
+
+
+124 #C C picks a knife
+
+
+125 #C C lifts the towel
+
+
+126 #C C holds a bag
+
+
+127 #C C folds the paper
+
+
+128 #C C removes a paper from the packet
+
+
+129 #C C removes the paper from the box
+
+
+130 #C C holds a bag of food
+
+
+131 #C C puts the paper in the dustbin.
+
+
+132 #C C folds the cardboard
+
+
+133 #C C holds a nylon paper
+
+
+134 #C C opens a paper
+
+
+135 #C C puts the nylon paper in the trash bag.
+
+
+136 #C C places the paper on the cooker
+
+
+137 #C C opens the nylon bag
+
+
+138 #C C opens the kitchen basin sink
+
+
+139 #C C takes the waste bag from the dustbin
+
+
+140 #C C picks a nylon from the bag
+
+
+141 #C C puts the paper bag in the trash bag
+
+
+142 #C C places the nylon paper bag on the floor 
+
+
+143 #c c removes the plastic bag from the garbage bag
+
+
+144 #C C picks the bag
+
+
+145 #C C touches the bag
+
+
+146 #C C picks a bowl
+
+
+147 #C C picks up a frying pan from the sink
+
+
+148 #C C pours water from a kitchen sink
+
+
+149 #C C drops the cooking pan in the sink
+
+
+150 #C C picks a bottle of soap from the kitchen sink
+
+
+151 #C C sprays the kitchen towel
+
+
+152 #C C pours detergent from the bottle into the sponge holder on the sink.
+
+
+153 #C C puts the bottle of soap on the sink countertop
+
+
+154 #C C puts the sponge in the sink
+
+
+155 #C C pours the water in the sink
+
+
+156 #C C washes the pan with a sponge
+
+
+157 #C C picks a sponge from a sink table.
+
+
+158 #C C picks up the sink 
+
+
+159 #C C puts the dish washer down
+
+
+160 #C C Puts down a sink tap
+
+
+161 #C C rinses the hands
+
+
+162 #C C rinses the sink
+
+
+163 #C C washes the sink
+
+
+164 #C C puts the pan on the sink
+
+
+165 #C C picks the electric kettle
+
+
+166 #C C picks a pan on the sink 
+
+
+167 #C C picks a pan 
+
+
+168 #C C pours water from the frying pan in the sink
+
+
+169 #C C pours water on the pan
+
+
+170 #C C pours water from the pan into the sink.
+
+
+171 #C C pours water on the pan
+
+
+172 #C C pours the water in the pan
+
+
+173 #C C pours water from the pan into the sink.
+
+
+174 #C C pours water in the pan
+
+
+175 #C C moves a pot on the kitchen slab
+
+
+176 #C C adjusts the vacuum cleaner
+
+
+177 #C C picks a pan
+
+
+178 #C C cleans the sink
+
+
+179 #C C scrubs the frying pan
+
+
+180 #C C scrubs the cooking pot
+
+

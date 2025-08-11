@@ -1,0 +1,540 @@
+1 #C C scrolls through the laptop
+
+
+2 #C C types on the laptop keyboard
+
+
+3 #C C types on the laptop
+
+
+4 #C C scrolls the laptop
+
+
+5 #C C moves the mouse pointer
+
+
+6 #C C scrolls the laptop
+
+
+7 #C C moves the mouse 
+
+
+8 #C C touches the keyboard
+
+
+9 #C C scrolls the laptop
+
+
+10 #C C types on the laptop
+
+
+11 #C C looks around
+
+
+12 #C C scrolls through the laptop
+
+
+13 #C C operates a laptop
+
+
+14 #C C scrolls the desktop with his hands
+
+
+15 #C C looks around the room
+
+
+16 #C C reads the document.
+
+
+17 #C C looks around the room 
+
+
+18 #O man B moves around
+
+
+19 #C C uses the laptop
+
+
+20 #C C  operates the laptop
+
+
+21 #C C looks around
+
+
+22 #C C holds a keyboard
+
+
+23 #C C looks around
+
+
+24 #C C scrolls a laptop
+
+
+25 #C C looks around
+
+
+26 #C C scrolls on the laptop.
+
+
+27 #C C looks around
+
+
+28 #C C looks around the office
+
+
+29 #C C uses the laptop
+
+
+30 #C C operates the laptop
+
+
+31 #C C looks around the room
+
+
+32 #C C scrolls the laptop
+
+
+33 #C C moves the laptop back
+
+
+34 #C C looks at the laptop
+
+
+35 #C C looks at the laptop
+
+
+36 #C C reads on the laptop
+
+
+37 #C C looks at the laptop
+
+
+38 #C C reads from a laptop
+
+
+39 #C C reads a laptop
+
+
+40 #C C moves the laptop
+
+
+41 #C C looks at the laptop
+
+
+42 #C C looks at the laptop
+
+
+43 #C C scrolls the laptop
+
+
+44 #C C looks at the laptop
+
+
+45 #C C holds the laptop
+
+
+46 #C C looks at the laptop
+
+
+47 #C C scrolls on the laptop
+
+
+48 #C C picks a laptop on the table
+
+
+49 #C C looks at the computer
+
+
+50 #C C looks around
+
+
+51 #C C uses a laptop
+
+
+52 #C C uses the laptop
+
+
+53 #C C scrolls the laptop
+
+
+54 #C C scrolls the laptop
+
+
+55 #C C scrolls the laptop
+
+
+56 #C C scrolls a laptop
+
+
+57 #C C scrolls the laptop
+
+
+58 #C C presses the keyboard
+
+
+59 #C C scrolls a laptop
+
+
+60 #C C looks around
+
+
+61 #C C uses a laptop
+
+
+62 #C C scrolls the laptop
+
+
+63 #C C scrolls the mouse
+
+
+64 #C C scrolls the laptop
+
+
+65 #C C  scrolls a laptop 
+
+
+66 #C C moves his hand
+
+
+67 #O a man A  holds a laptop 
+
+
+68 #C C looks around
+
+
+69 #C C looks around the room
+
+
+70 #C C stands in the room
+
+
+71 #C C looks around the room
+
+
+72 #C C looks at the mirror
+
+
+73 #C C looks at the laptop
+
+
+74 #C C touches the camera
+
+
+75 #O man X talks with C
+
+
+76 #C C walks around the room
+
+
+77 #C C looks around the room
+
+
+78 #C C types on the laptop
+
+
+79 #C C types on the laptop
+
+
+80 #C C scrolls the laptop
+
+
+81 #C C touches on the mouse pad
+
+
+82 #C C scrolls on the laptop
+
+
+83 #C C touches laptop
+
+
+84 #C C scrolls on the laptop
+
+
+85 #C C moves the hand
+
+
+86 #C C looks around
+
+
+87 #C C moves the phone on the table
+
+
+88 #C C lifts a finger
+
+
+89 #C C moves pen aside
+
+
+90 #C C touches a phone with the right hand
+
+
+91 #C C touches the laptop
+
+
+92 #C C scratches a finger on the tablet
+
+
+93 #C C touches the tablet
+
+
+94 #C C writes on the notebook with a pen
+
+
+95 #C C writes on the laptop
+
+
+96 #C C writes on the notebook with a pen
+
+
+97 #C C holds the laptop
+
+
+98 #C C touches a pen
+
+
+99 #C C writes on the notebook
+
+
+100 #C C moves his finger on the pen
+
+
+101 #C C holds the mouse
+
+
+102 #C C scrolls the laptop
+
+
+103 #C C scrolls on the laptop
+
+
+104 #C C looks at the laptop
+
+
+105 #C C touches the laptop
+
+
+106 #C C moves his hand
+
+
+107 #C C looks at the laptop
+
+
+108 #C C touches the laptop
+
+
+109 #C C holds a pen
+
+
+110 #C C puts the pen on the laptop
+
+
+111 #C C touches the laptop
+
+
+112 #C C holds a pen
+
+
+113 #C C writes on the laptop
+
+
+114 #C C reads on the laptop
+
+
+115 #C C moves the mouse
+
+
+116 #C C touches the laptop
+
+
+117 #C C looks at the laptop
+
+
+118 #C C holds a pen 
+
+
+119 #C C looks at the laptop
+
+
+120 #C C looks at the laptop
+
+
+121 #C C looks at the laptop
+
+
+122 #C C looks at the laptop
+
+
+123 #C C operates a laptop
+
+
+124 #C C walks to the computer 
+
+
+125 #O man A sits on a chair
+
+
+126 #C C picks a cup
+
+
+127 #C C picks the tablet
+
+
+128 #C C picks a coffee mug
+
+
+129 #C C looks around the room
+
+
+130 #C C looks at person M
+
+
+131 #O man Y walks around 
+
+
+132 #O person F walks towards the table.
+
+
+133 #O man Y walks in the room
+
+
+134 #C C takes a cup of tea
+
+
+135 #C C operates the tablet
+
+
+136 #C C looks around the room 
+
+
+137 #C C looks at the laptop
+
+
+138 #C C touches the phone
+
+
+139 #C C uses the phone
+
+
+140 #C C scrolls the laptop
+
+
+141 #C C scrolls the phone
+
+
+142 #C C holds the phone
+
+
+143 #C C taps on the laptop
+
+
+144 #C C moves the mouse
+
+
+145 #C C scrolls a laptop
+
+
+146 #C C moves the mouse
+
+
+147 #C C scrolls a mouse 
+
+
+148 #C C scrolls on the phone
+
+
+149 #C C scrolls on the laptop
+
+
+150 #C C scrolls on the laptop
+
+
+151 #C C scrolls the laptop
+
+
+152 #C C uses the mouse
+
+
+153 #C C scrolls the laptop
+
+
+154 #C C touches the keyboard
+
+
+155 #C C holds a tablet
+
+
+156 #C C looks at the phone
+
+
+157 #C C scrolls the phone
+
+
+158 #C C looks at the phone
+
+
+159 #C C looks around
+
+
+160 #C C fixes camera
+
+
+161 #C C looks around
+
+
+162 #C C operates the laptop
+
+
+163 #C C scrolls on the tablet
+
+
+164 #C C scrolls the laptop
+
+
+165 #C C operates the phone
+
+
+166 #C C operates a laptop
+
+
+167 #C C Scrolls a laptop with a pen
+
+
+168 #C C looks around the room
+
+
+169 #C C looks at the desktop
+
+
+170 #C C scrolls the computer
+
+
+171 #C C looks at the monitor
+
+
+172 #C C scrolls the laptop
+
+
+173 #C C  adjusts camera
+
+
+174 #C C holds the camera
+
+
+175 #C C scrolls on the phone 
+
+
+176 #C C holds a camera
+
+
+177 #C C lifts his hands 
+
+
+178 #C C holds a camera 
+
+
+179 #C C holds a phone 
+
+
+180 #C C holds the phone
+
+

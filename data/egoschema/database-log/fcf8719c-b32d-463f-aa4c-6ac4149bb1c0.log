@@ -1,0 +1,540 @@
+1 #C C scoops food in the glass bowl with a spoon.
+
+
+2 #C C scoops food from the plate
+
+
+3 #C C eats a food
+
+
+4 #C C eats the bread.
+
+
+5 #C C scoops the food
+
+
+6 #C C eats food with a fork
+
+
+7 #C C eats food with a spoon.
+
+
+8 #C C eats the food
+
+
+9 #C C eats the cake
+
+
+10 #C C eats the muffler
+
+
+11 #C C drinks from the cup
+
+
+12 #C C eats the food
+
+
+13 #C C scoops the sweet cake
+
+
+14 #C C eats food
+
+
+15 #C C eats the food
+
+
+16 #C C picks the mug
+
+
+17 #C C eats a salad
+
+
+18 #C C picks a plate of margarine
+
+
+19 #C C eats the toast
+
+
+20 #C C eats a snack
+
+
+21 #C C walks to the table
+
+
+22 #C C walks around
+
+
+23 #C C drops the dustbin
+
+
+24 #C C touches a bag
+
+
+25 #C C walks around the room
+
+
+26 #C C moves towards a table.
+
+
+27 #C C picks a tissue paper 
+
+
+28 #C C throws the paper towel on the table
+
+
+29 #C C picks a paper
+
+
+30 #C C throws the paper
+
+
+31 #C C picks a paper
+
+
+32 #C C moves towards the dining table
+
+
+33 #C C moves the bowl on the table
+
+
+34 #C C moves the plate
+
+
+35 #C C picks a fork
+
+
+36 #C C looks around the dining table
+
+
+37 #C C touches the table
+
+
+38 #C C holds the plate with food
+
+
+39 #C C holds a container
+
+
+40 #C C puts the food in the bowl.
+
+
+41 #C C stands up
+
+
+42 #C C eats food with a spoon
+
+
+43 #C C scoops food from the plate with the fork.
+
+
+44 #C C scoops food from the plate with the spoon 
+
+
+45 #C C holds the spoon
+
+
+46 #C C holds a wooden spoon
+
+
+47 #C C puts the fork on the plate
+
+
+48 #C C holds a spoon.
+
+
+49 #C C holds the spoon
+
+
+50 #C C holds the spoon.
+
+
+51 #C C moves the plate
+
+
+52 #C C puts down the glass of juice
+
+
+53 #C C eats the dessert
+
+
+54 #C C touches the cup
+
+
+55 #C C picks a cup of tea
+
+
+56 #C C wipes the mouth with the hand
+
+
+57 #C C opens the can
+
+
+58 #C C picks the spoon from the plate
+
+
+59 #C C eats a snack
+
+
+60 #C C eats the food
+
+
+61 #O A lady x eats a food
+
+
+62 #C C holds the plate
+
+
+63 #C C eats food
+
+
+64 #C C picks food from the plate with the fork
+
+
+65 #C C eats a piece of fruit
+
+
+66 #C C picks the food in the bowl.
+
+
+67 #C C holds the spoon
+
+
+68 #C C holds a bowl
+
+
+69 #C C holds the bowl with her left hand.
+
+
+70 #C C puts the food in the mouth
+
+
+71 #C C holds the spoon
+
+
+72 #C C holds the fork.
+
+
+73 #C C eats food with a spoon 
+
+
+74 #C C eats food
+
+
+75 #C C eats food from a plate
+
+
+76 #C C picks the plate
+
+
+77 #C C walks to the shelf
+
+
+78 #C C walks around the room
+
+
+79 #C C picks a box
+
+
+80 #C C picks the container
+
+
+81 #C C Picks a box of bread
+
+
+82 #C C picks a bowl of bread
+
+
+83 #C C picks the box of chocolate chips
+
+
+84 #C C covers the container with a plastic wrap
+
+
+85 #C C picks up a box of chocolate bar
+
+
+86 #C C picks a box of pasta
+
+
+87 #C C walks towards the dining table
+
+
+88 #C C walks around
+
+
+89 #C C puts a glass of water on the table
+
+
+90 #C C holds the fork
+
+
+91 #C C eats from the bowl
+
+
+92 #C C eats a salad 
+
+
+93 #C C moves the hand
+
+
+94 #C C walks around the house 
+
+
+95 #C C walks around the room
+
+
+96 #C C stands in the house 
+
+
+97 #C C eats food
+
+
+98 #C C eats food
+
+
+99 #C C walks around the kitchen
+
+
+100 #C C walks around the kitchen
+
+
+101 #C C walks around the kitchen
+
+
+102 #C C picks a spoon from the countertop
+
+
+103 #C C walks towards the kitchen
+
+
+104 #C C walks around the room
+
+
+105 #C C opens a fridge.
+
+
+106 #C C opens fridge
+
+
+107 #C C picks the bowl
+
+
+108 #C C picks a container
+
+
+109 #C C picks the plastic paper
+
+
+110 #C C picks a cup
+
+
+111 #C C takes a cucumber
+
+
+112 #C C opens the fridge
+
+
+113 #C C opens the refrigerator
+
+
+114 #C C walks towards a table in the kitchen.
+
+
+115 #C C walks around the room
+
+
+116 #C C walks around the house
+
+
+117 #C C picks the bottle
+
+
+118 #C C walks around the room
+
+
+119 #C C walks towards a kitchen
+
+
+120 #C C walks around
+
+
+121 #C C walks around
+
+
+122 #C C sprays the house door with a spray bottle 
+
+
+123 #c c picks a paper roll
+
+
+124 #C C sprays a wall cabinet with the paint spray
+
+
+125 #C C moves the paper bag
+
+
+126 #C C  moves around
+
+
+127 #C C picks a plastic bag
+
+
+128 #C C opens a water bottle
+
+
+129 #C C moves a chair
+
+
+130 #C C moves the phone on the table
+
+
+131 #C C walks around
+
+
+132 #C C walks towards the wall.
+
+
+133 #C C walks around the house
+
+
+134 #C C opens the fridge
+
+
+135 #C C opens the fridge
+
+
+136 #C C walks around the fridge.
+
+
+137 #C C looks at the fridge 
+
+
+138 #C C looks around the fridge
+
+
+139 #C C picks a bottle of water
+
+
+140 #C C opens the fridge
+
+
+141 #C C picks a packet of the food ingredients
+
+
+142 #C C picks a container 
+
+
+143 #C C looks at the bottle
+
+
+144 #C C opens the fridge door
+
+
+145 #C C closes the fridge
+
+
+146 #C C walks to a table in the kitchen.
+
+
+147 #C C walks towards a chair.
+
+
+148 #C C walks around the house
+
+
+149 #C C eats food with a fork
+
+
+150 #C C moves the plate on the table
+
+
+151 #C C drinks soup with her hand.
+
+
+152 #C C eats the food with the fork
+
+
+153 #C C moves the chair
+
+
+154 #C C puts the plate on the table
+
+
+155 #C C puts down a plate
+
+
+156 #C C drinks from the cup.
+
+
+157 #C C eats food
+
+
+158 #C C picks up the plate on the table
+
+
+159 #C C moves the chair
+
+
+160 #C C eats the food
+
+
+161 #C C puts the spoon on the table.
+
+
+162 #C C puts the serviette in the table 
+
+
+163 #C C touches the table
+
+
+164 #C C eats the bread
+
+
+165 #C C puts the mug of coffee in the cup
+
+
+166 #C C carries the cup of tea
+
+
+167 #C C holds the cup of coffee
+
+
+168 #C C removes the tumbler from the cup
+
+
+169 #C C lifts the cake
+
+
+170 #C C holds a plate of food
+
+
+171 #C C eats a cake piece 
+
+
+172 #C C holds the cup of juice
+
+
+173 #C C removes the cup from the sandwich. 
+
+
+174 #C C opens the coffee box
+
+
+175 #C C eats the cake
+
+
+176 #C C drinks the tea
+
+
+177 #C C picks a cup of tea
+
+
+178 #C C moves the plate on the table
+
+
+179 #C C walks around
+
+
+180 #C C walks to a kitchen cabinet.
+
+

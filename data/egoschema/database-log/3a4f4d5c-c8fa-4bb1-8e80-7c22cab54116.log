@@ -1,0 +1,540 @@
+1 #C C holds a cloth
+
+
+2 #C C picks up the clothes
+
+
+3 #C C holds shirts on rack
+
+
+4 #C C checks the cloths
+
+
+5 #C C holds a cloth
+
+
+6 #C C moves hand 
+
+
+7 #C C holds a cloth
+
+
+8 #C C touches a cloth
+
+
+9 #C C holds the jeans on the hand
+
+
+10 #C C touches the tag
+
+
+11 #C C holds a pant
+
+
+12 #C C checks the cloths
+
+
+13 #C C checks the cloths
+
+
+14 #C C picks cloth from the stand
+
+
+15 #C C looks at a cloth
+
+
+16 #C C checks the cloth
+
+
+17 #C C checks cloths
+
+
+18 #C C lifts up the shirt
+
+
+19 #C C turns the scarf
+
+
+20 #C C looks around the shop
+
+
+21 #C C holds the trouser
+
+
+22 #C C looks at the jeans
+
+
+23 #C C holds the trouser
+
+
+24 #C C holds a trouser
+
+
+25 #C C looks at the jeans
+
+
+26 #C C holds jeans
+
+
+27 #C C holds the jeans
+
+
+28 #C C holds a cloth
+
+
+29 #C C holds the cloth
+
+
+30 #C C puts down the jeans
+
+
+31 #C C picks up the jeans
+
+
+32 #C C holds cloths on the floor 
+
+
+33 #C C touches the trouser
+
+
+34 #C C walks towards the clothes
+
+
+35 #C C looks at the trousers
+
+
+36 #C C checks on a trouser
+
+
+37 #C C holds the trouser
+
+
+38 #C C holds a trouser on the hanger
+
+
+39 #O person X picks a trouser
+
+
+40 #C C checks clothes
+
+
+41 #C C holds pants on the hanger
+
+
+42 #C C lifts the trouser
+
+
+43 #C C holds the cloth
+
+
+44 #C C holds a shirt
+
+
+45 #C C checks the cloth
+
+
+46 #C C holds a cloth
+
+
+47 #C C touches a cloth
+
+
+48 #C C touches the jeans
+
+
+49 #C C holds the clothes on the cloth rack
+
+
+50 #C C holds the jeans
+
+
+51 #C C takes trouser from the rack
+
+
+52 #C C touches the clothes
+
+
+53 #C C holds cloths on a hanger
+
+
+54 #C C looks around the cloths rack
+
+
+55 #C C holds shirt on the hanger
+
+
+56 #C C touches the shirt
+
+
+57 #C C holds shirt
+
+
+58 #C C checks the shirt
+
+
+59 #C C holds a shirt
+
+
+60 #C C holds a shirt
+
+
+61 #C C holds a cloth
+
+
+62 #C C holds the shirt on the cloth rack
+
+
+63 #C C holds a shirt
+
+
+64 #C C holds a bar
+
+
+65 #C C holds a check
+
+
+66 #C C holds a tag
+
+
+67 #C C holds a shirt on the hanger
+
+
+68 #C C checks shirt
+
+
+69 #C C holds the shirt
+
+
+70 #C C touches a shirt
+
+
+71 #C C holds a shirt
+
+
+72 #C C holds a shirt
+
+
+73 #C C holds a shirt
+
+
+74 #C C looks at the cloth
+
+
+75 #C C lifts the cloth
+
+
+76 #C C holds shirt
+
+
+77 #C C holds cloth
+
+
+78 #C C holds a shirt
+
+
+79 #C C holds the shirt
+
+
+80 #C C holds a cloth on the hand
+
+
+81 #C C checks the cloths
+
+
+82 #C C picks a cloth from the display table
+
+
+83 #C C moves the cloths on the cloth rack
+
+
+84 #C C touches a shirt 
+
+
+85 #C C holds the shirt
+
+
+86 #C C holds a shirt
+
+
+87 #C C hangs the cloth on the hanger
+
+
+88 #C C checks clothes on the cloth rail
+
+
+89 #C C lifts a top
+
+
+90 #C C holds the jacket
+
+
+91 #C C checks the clothes
+
+
+92 #C C holds a cloth
+
+
+93 #C C holds a top
+
+
+94 #O woman X holds a cloth
+
+
+95 #C C holds the shirt
+
+
+96 #C C removes a cloth
+
+
+97 #C C picks a top from the basket
+
+
+98 #C C touches the cardigan
+
+
+99 #C C checks the cloth
+
+
+100 #C C holds the shirt
+
+
+101 #C C holds a cloth
+
+
+102 #C C takes a shirt
+
+
+103 #C C holds the shirts
+
+
+104 #C C moves the shirts
+
+
+105 #C C checks the shirt
+
+
+106 #C C holds the cloth
+
+
+107 #C C lifts the clothe
+
+
+108 #C C looks at the clothes
+
+
+109 #C C holds a cloth on a hugger
+
+
+110 #C C adjusts a sweater
+
+
+111 #C C holds a pair of jeans
+
+
+112 #C C holds a cloth
+
+
+113 #C C holds a sweater
+
+
+114 #C C checks the cloth
+
+
+115 #C C walks around in the boutique
+
+
+116 #C C holds a shirt
+
+
+117 #C C holds a cloth
+
+
+118 #C C holds a shirt
+
+
+119 #C C holds a cloth
+
+
+120 #C C adjusts the shirt
+
+
+121 #C C walks towards the mirror
+
+
+122 #C C checks the clothes on the cloth rack
+
+
+123 #C C touches the cloth
+
+
+124 #C C checks the shirts on the hanger
+
+
+125 #C C picks a sweater from the hanger
+
+
+126 #C C holds the shirt
+
+
+127 #C C unhangs a shirt
+
+
+128 #C C man X checks the clothes on the hanger
+
+
+129 #C C moves the cloths 
+
+
+130 #C C holds the shirt
+
+
+131 #C C checks shirt
+
+
+132 #C C holds a shirt
+
+
+133 #C C takes shirt from the rack
+
+
+134 #C C holds a jacket
+
+
+135 #C C holds a sweater
+
+
+136 #C C touches the cloths
+
+
+137 #C C holds a sweater with his hands
+
+
+138 #C C checks the sweater
+
+
+139 #C C holds a jacket
+
+
+140 #C C holds the shirt 
+
+
+141 #C C holds a shirt 
+
+
+142 #C C holds a trouser with his right hand
+
+
+143 #C C holds a cloth on the hanger stand
+
+
+144 #C C lifts the trouser
+
+
+145 #C C moves hand
+
+
+146 #C C holds the jeans
+
+
+147 #C C lifts a cloth
+
+
+148 #C C holds a trouser
+
+
+149 #C C holds the trouser
+
+
+150 #C C checks the trouser
+
+
+151 #C C checks clothes in the handrail
+
+
+152 #C C holds a trouser
+
+
+153 #C C holds a cloth
+
+
+154 #C C holds a shirt
+
+
+155 #O man X holds jeans
+
+
+156 #C C picks a shirt
+
+
+157 #C C checks the jeans
+
+
+158 #C C puts the shirt on the cloth rack
+
+
+159 #C C puts the jeans on the floor
+
+
+160 #C C lifts up the cloth
+
+
+161 #C C walks around the room
+
+
+162 #C C holds the shirt
+
+
+163 #C C picks the cloth from the cloth rack
+
+
+164 #C C walks around the store
+
+
+165 #C C walks to the other side of the room
+
+
+166 #O A man X sits at the counter
+
+
+167 #C C walks around
+
+
+168 #C C walks around the shop
+
+
+169 #C C walks around the boutique
+
+
+170 #C C walks around
+
+
+171 #C C picks the jeans from the display table
+
+
+172 #C C puts a trouser on a hanger
+
+
+173 #C C picks a belt 
+
+
+174 #C C picks a cloth
+
+
+175 #C C touches a shirt
+
+
+176 #C C walks towards the display rack
+
+
+177 #C C holds a shoe
+
+
+178 #C C picks up shoe
+
+
+179 #C C puts a shoe in a shopping bucket
+
+
+180 #C C holds a  sweater 
+
+

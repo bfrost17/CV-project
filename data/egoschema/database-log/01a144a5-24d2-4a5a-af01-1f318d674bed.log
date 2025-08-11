@@ -1,0 +1,540 @@
+1 #C C picks up dominoes
+
+
+2 #C C puts a domino piece
+
+
+3 #C C plays puzzle
+
+
+4 #C C plays dominoes
+
+
+5 #C C picks dominoes
+
+
+6 #C C picks dominoes
+
+
+7 #O man X picks dominoes
+
+
+8 #O man X picks a dice
+
+
+9 #O man X plays dominoes game
+
+
+10 #C C picks the dominoes piece
+
+
+11 #C C puts dominoes piece down
+
+
+12 #O man A arranges dominoes piece
+
+
+13 #C C puts dominoes piece down
+
+
+14 #C C puts dominoes on table
+
+
+15 #O man X places dominoes piece down
+
+
+16 #O man X plays the dominoes game
+
+
+17 #O man X picks dominoes
+
+
+18 #O man X picks a domino piece
+
+
+19 #O man X picks a domino piece
+
+
+20 #O man X plays dominoes on the table
+
+
+21 #O man X picks up domino
+
+
+22 #O man X takes dominoes
+
+
+23 #O Man X moves domino
+
+
+24 #O man X takes dominoes
+
+
+25 #C C plays the dominoes game
+
+
+26 #C C moves dominoes
+
+
+27 #C C plays puzzle
+
+
+28 #O man X  picks dominoes
+
+
+29 #C C plays puzzle
+
+
+30 #C C puts dominoes on table
+
+
+31 #C C plays dominoes game
+
+
+32 #C C puts dominoes piece down
+
+
+33 #C C moves dice
+
+
+34 #O O puts the dominoes piece aside
+
+
+35 #O O drinks the juice
+
+
+36 #O O holds a dice 
+
+
+37 #O O picks a dice 
+
+
+38 #C C plays puzzle
+
+
+39 #C C puts dominoes on table
+
+
+40 #C C plays dominoes
+
+
+41 #C C plays dice
+
+
+42 #C C holds his mouth
+
+
+43 #C C touches the mouth
+
+
+44 #C C stares at dominoes
+
+
+45 #C C looks around
+
+
+46 #C C looks around
+
+
+47 #C C picks dice pieces
+
+
+48 #C C looks around
+
+
+49 #C C plays puzzle
+
+
+50 #C C looks around
+
+
+51 #C C looks around
+
+
+52 #C C picks a dice
+
+
+53 #C C moves the dominoes piece
+
+
+54 #C C picks a domino
+
+
+55 #C C moves domino
+
+
+56 #C C moves dominoes
+
+
+57 #C C picks dice
+
+
+58 #C C picks dominoes
+
+
+59 #C C moves dominoes
+
+
+60 #C C puts dominoes down
+
+
+61 #O man Y picks a cup of water on the table
+
+
+62 #C C looks around
+
+
+63 #C C holds the paper
+
+
+64 #C C picks the dominoes piece
+
+
+65 #O person X picks dice
+
+
+66 #C C plays dominoes
+
+
+67 #C C picks a paper
+
+
+68 #O man X holds the dice
+
+
+69 #C C picks a paper
+
+
+70 #O O man X puts a phone on the table
+
+
+71 #O Man X eats snack
+
+
+72 #C C holds the phone
+
+
+73 #O man X plays with a finger
+
+
+74 #C C picks the dominoes
+
+
+75 #O person X arranges the dominoes
+
+
+76 #O man X arranges the dominoes
+
+
+77 #C C arranges the dominoes
+
+
+78 #O person X looks at the watch
+
+
+79 #O man X picks a dice
+
+
+80 #C C picks the dominoes
+
+
+81 #O person X holds the phone
+
+
+82 #C C picks a domino
+
+
+83 #O man X looks at the phone
+
+
+84 #C C plays the dominoes
+
+
+85 #C C plays the dominoes
+
+
+86 #O man X holds a phone
+
+
+87 #O man X puts dominoes down 
+
+
+88 #C C  picks the dominoes
+
+
+89 #O person X  picks up the dominoes
+
+
+90 #O man X touches the dominoes piece
+
+
+91 #C C holds a dominoes piece
+
+
+92 #C C touches dominoes piece
+
+
+93 #O O holds a phone
+
+
+94 #C C holds the phone
+
+
+95 #C C picks up dominoes
+
+
+96 #O man X puts the dominoes piece down
+
+
+97 #C C touches the dominoes
+
+
+98 #O man X arranges dominoes
+
+
+99 #C C arranges dominoes
+
+
+100 #O man X arranges dominoes
+
+
+101 #C C takes dominoes
+
+
+102 #O O picks a domino
+
+
+103 #C C picks a phone
+
+
+104 #O man Y moves his hand
+
+
+105 #C C  moves the hand.
+
+
+106 #O Man X holds phone
+
+
+107 #C C looks around
+
+
+108 #O person X holds dominoes
+
+
+109 #C C puts the dominoes piece down
+
+
+110 #O man X holds the dominoes
+
+
+111 #C C arranges dominoes
+
+
+112 #O man X touches the watch
+
+
+113 #O man X picks the dice
+
+
+114 #O man X holds the dominoes
+
+
+115 #O man X holds the dominoes
+
+
+116 #O man X arranges dominoes on the table
+
+
+117 #O man X moves the dominoes piece
+
+
+118 #O man X plays the dominoes game
+
+
+119 #O man X holds his mouth with the other hand
+
+
+120 #C C picks dominoes
+
+
+121 #C C plays dominoes game
+
+
+122 #C C puts the dominoes piece down
+
+
+123 #C C picks a domino
+
+
+124 #C C puts the dominoes piece down
+
+
+125 #O O arranges the dominoes
+
+
+126 #O man X moves the hand to the mouth
+
+
+127 #O man X holds the phone 
+
+
+128 #O man X touches the chin
+
+
+129 #O man X picks the phone
+
+
+130 #O man X holds the phone
+
+
+131 #C C picks up the phone
+
+
+132 #O person X moves the hands.
+
+
+133 #O person X plays with a dice 
+
+
+134 #O O touches the dominoes piece
+
+
+135 #O man X touches the phone
+
+
+136 #O man X plays
+
+
+137 #O man X plays with his finger
+
+
+138 #O man X plays the cards
+
+
+139 #C C looks around
+
+
+140 #C C picks a bottle
+
+
+141 #C C takes the phone
+
+
+142 #O man X holds phone
+
+
+143 #C C drinks water
+
+
+144 #O man Y drinks water
+
+
+145 #C C drinks from the bottle
+
+
+146 #C C takes the bottle of water
+
+
+147 #C C picks a bottle
+
+
+148 #C C plays game on the table
+
+
+149 #C C plays the poker game
+
+
+150 #C C looks around
+
+
+151 #C C plays the cards
+
+
+152 #O man X scrolls on the phone
+
+
+153 #C C holds phone 
+
+
+154 #O man X operates phone
+
+
+155 #O man X drinks from the bottle
+
+
+156 #C C plays with a ball 
+
+
+157 #C C moves the hand
+
+
+158 #O man X operates phone
+
+
+159 #O man X operates phone
+
+
+160 #C C plays with a dice
+
+
+161 #C C plays dominoes
+
+
+162 #C C picks dominoes
+
+
+163 #O O picks the dominoes card
+
+
+164 #C C picks dice
+
+
+165 #C C picks a domino
+
+
+166 #C C picks dominoes
+
+
+167 #C C puts dominoes piece down
+
+
+168 #C C picks dominoes
+
+
+169 #C C plays dominoes
+
+
+170 #C C puts dominoes on the table
+
+
+171 #C C picks a domino
+
+
+172 #C C picks dominoes
+
+
+173 #C C plays cards
+
+
+174 #C C picks phone
+
+
+175 #O man X plays with X
+
+
+176 #C C holds phone
+
+
+177 #O man X touches his phone
+
+
+178 #O man X scrolls the phone
+
+
+179 #O person X scrolls on the phone
+
+
+180 #O man X scrolls phone 
+
+

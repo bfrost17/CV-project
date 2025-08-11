@@ -1,0 +1,540 @@
+1 #C C eats food
+
+
+2 #O man A eats
+
+
+3 #C C moves hand
+
+
+4 #C C walks around the room 
+
+
+5 #O man X picks a glass of juice
+
+
+6 #O man T puts glass on table
+
+
+7 #O lady X picks a glass of water 
+
+
+8 #O The man A picks the cup of juice on the table with his right hand.
+
+
+9 #C C puts the jar of drink on the table
+
+
+10 #C C places the glass jar on the table
+
+
+11 #C C picks a mug
+
+
+12 #C C picks a mug
+
+
+13 #C C places the hand glove on the table
+
+
+14 #O The man B touches a glass of juice with his right hand. 
+
+
+15 #O A man Y touches the face
+
+
+16 #O man X scoops sauce with a fork
+
+
+17 #O man X takes a cup of juice
+
+
+18 #O man H drops glass on table 
+
+
+19 #O Man Q touches glasses on the table
+
+
+20 #O person B drinks from the glass
+
+
+21 #O man X drinks juice
+
+
+22 #O A man H drinks juice
+
+
+23 #O man Q picks glass
+
+
+24 #O man A holds spoon
+
+
+25 #O person B holds a phone
+
+
+26 #O A man Z interacts with C
+
+
+27 #O The man A touches the man B's right hand with his left hand.
+
+
+28 #O a man D eats a meal
+
+
+29 #O man A drinks water
+
+
+30 #O person A converses with C
+
+
+31 #C C looks at man P 
+
+
+32 #O The man B holds the mug with both hands.
+
+
+33 #O The woman D picks a cup of juice from the table with her left hand.
+
+
+34 #C C eats the ice cream
+
+
+35 #O The man A eats the plate with both hands.
+
+
+36 #O man A holds the drink 
+
+
+37 #O man H picks a glass of juice
+
+
+38 #O man X eats
+
+
+39 #O A person J interacts with C
+
+
+40 #O lady A drinks water from the glass
+
+
+41 #O person A picks a glass of juice
+
+
+42 #O A woman Q picks a glass of juice
+
+
+43 #O person A drinks from the glass
+
+
+44 #C C looks around
+
+
+45 #C C looks around
+
+
+46 #O man A drinks juice
+
+
+47 #O A man Y holds a glass on the table
+
+
+48 #O person A touches the face
+
+
+49 #O A man Q holds a glass
+
+
+50 #O man H converses with man B
+
+
+51 #O A man X sways a hand
+
+
+52 #O man X touches face
+
+
+53 #O person A converses with C
+
+
+54 #O person A  drinks juice
+
+
+55 #O The man B places his right hand on his laps.
+
+
+56 #O A man X picks a glass from the table with his right hand.
+
+
+57 #C C  stares at a man Y 
+
+
+58 #O person B moves the hands
+
+
+59 #C C interacts with a man B
+
+
+60 #C C puts a cup of juice on the table
+
+
+61 #C C talks to man X 
+
+
+62 #C C moves his right hand
+
+
+63 #O A man X interacts with C
+
+
+64 #O The man A holds the phone with both hands.
+
+
+65 #C C stares around
+
+
+66 #C C  moves his hands
+
+
+67 #C C picks a fork
+
+
+68 #C C moves his hand on the plate
+
+
+69 #O The man A eats the plate on the table with his right hand.
+
+
+70 #O The woman A holds a fork in her right hand.
+
+
+71 #C C looks at the hands
+
+
+72 #C C stares at a man B
+
+
+73 #O person A touches the face
+
+
+74 #C C stares at a man A
+
+
+75 #O person B scratches her face
+
+
+76 #O lady B holds a cup of drink
+
+
+77 #O person B drinks the juice
+
+
+78 #O man B converses with C
+
+
+79 #O lady B drinks from the glass
+
+
+80 #O person B touches the face
+
+
+81 #O A man X drinks water
+
+
+82 #O A man Y picks a glass of juice
+
+
+83 #O man B drinks water from glass 
+
+
+84 #C C holds the glass
+
+
+85 #O man X drinks water
+
+
+86 #O The woman B takes a piece of bread from a plate on the table with her right hand.
+
+
+87 #O A man Y picks a glass of juice
+
+
+88 #C C looks at the table
+
+
+89 #O The woman B cleans her left hand with a napkin in her right hand.
+
+
+90 #O A man Y lifts the hand
+
+
+91 #O man B converses with C
+
+
+92 #O person B talks to person C
+
+
+93 #O person A interacts with C
+
+
+94 #O The man B holds the phone with both hands.
+
+
+95 #O person A converses with C
+
+
+96 #O person A talks to person C
+
+
+97 #O person B looks around
+
+
+98 #O A man Y looks around
+
+
+99 #O The woman D picks the cup of juice from the table with her right hand.
+
+
+100 #O a man B picks a glass from the table 
+
+
+101 #O lady A picks a glass on table
+
+
+102 #O The woman D adjusts the glass cup on the table with her right hand.
+
+
+103 #O The woman A takes a cup of juice from the table with her right hand.
+
+
+104 #O person A holds a glass of juice
+
+
+105 #O man B holds glass of juice 
+
+
+106 #O man Q puts a glass of juice in the table
+
+
+107 #O man A picks a cup
+
+
+108 #O woman X picks the glass
+
+
+109 #C C looks at person A
+
+
+110 #O The woman A holds the cup of drink on the table with both hands.
+
+
+111 #O lady B drinks juice
+
+
+112 #O lady B drinks water from a cup
+
+
+113 #O person A stares around 
+
+
+114 #O person A puts down the glass of juice
+
+
+115 #O man Y holds the glass
+
+
+116 #O The man D drinks from the glass cup in his right hand.
+
+
+117 #O man B drinks juice
+
+
+118 #O A lady b drinks juice
+
+
+119 #O The woman B picks a fork from the plate with her right hand.
+
+
+120 #O lady A touches her face
+
+
+121 #O man Q drinks water
+
+
+122 #O person A holds a fork 
+
+
+123 #C C touches his face with his right hand.
+
+
+124 #C C moves her hands
+
+
+125 #C C moves hand
+
+
+126 #O man X picks a spoon 
+
+
+127 #O person A eats the bread
+
+
+128 #O The man A places his right hand on the table.
+
+
+129 #O man A picks a glass of juice
+
+
+130 #O person G shakes the hand
+
+
+131 #O A woman X holds a glass with both hands
+
+
+132 #O The man B adjusts the camera on his head with his right hand.
+
+
+133 #O The woman B picks the plastic cup from the table with her right hand.
+
+
+134 #O The woman B places her right hand on her mouth.
+
+
+135 #O The man A adjusts his cloth with both hands.
+
+
+136 #O A man Y wipes his mouth with his hand
+
+
+137 #O The man B holds the glass of juice with both hands.
+
+
+138 #O A man Y wipes his mouth with a serviette 
+
+
+139 #O The woman A adjusts the table mat on the table with her hands.
+
+
+140 #O A man Y picks a glass of water from the table
+
+
+141 #O person B holds the glass
+
+
+142 #O lady B picks a glass of juice
+
+
+143 #O A man Y picks a cup from the table
+
+
+144 #O A woman X places glass on the table
+
+
+145 #O The man Y drinks from the glass of water in his left hand.
+
+
+146 #O man A picks the cup 
+
+
+147 #O A woman Y picks a glass of juice from the table 
+
+
+148 #O lady A picks glass from table 
+
+
+149 #O A woman X adjusts a plate on the table
+
+
+150 #O A lady a picks a glass of juice
+
+
+151 #C C eats the taco
+
+
+152 #C C interacts with a man X 
+
+
+153 #O The man B holds the cup of juice with his right hand.
+
+
+154 #O person A converses with person B
+
+
+155 #C C stares at a man B
+
+
+156 #C C looks at the table
+
+
+157 #O man A puts the fork in the cup 
+
+
+158 #C C looks at the table
+
+
+159 #O A man Y holds his wrist
+
+
+160 #O The man D puts the napkin in his left hand in the pocket of his jacket.
+
+
+161 #O man X gestures with the left hand
+
+
+162 #O man Y takes a fork 
+
+
+163 #O The man A pours the sauce in the cup in his right hand into his mouth. 
+
+
+164 #O A man B touches the glass with the left hand
+
+
+165 #O A man Y scratches his face
+
+
+166 #O The man A puts the glass of juice in his right hand on the table.
+
+
+167 #O A man X puts the hands together 
+
+
+168 #O The man A holds the cup of juice with his right hand.
+
+
+169 #O A man X moves his hand 
+
+
+170 #O A man Y picks a glass 
+
+
+171 #O A man Y puts a cup of juice in his right hand on the table.
+
+
+172 #O man B converses with C 
+
+
+173 #O The man A holds the cup of drink in his left hand.
+
+
+174 #O The man A eats the cup of smoothies in his right hand. 
+
+
+175 #O A man X cleans his face with a napkin
+
+
+176 #O A man b eats food
+
+
+177 #O man Y scoops sauce with a spoon
+
+
+178 #O man X adjusts a camera 
+
+
+179 #C C looks around
+
+
+180 #O Person B converses with Person B
+
+

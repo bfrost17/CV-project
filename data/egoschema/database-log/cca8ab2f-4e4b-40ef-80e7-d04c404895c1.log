@@ -1,0 +1,540 @@
+1 #C C moves the hand on the floor
+
+
+2 #C C touches the wooden floor mat
+
+
+3 #C C moves the plywood to the wall.
+
+
+4 #C C moves the wood on the floor
+
+
+5 #C C puts the wood down 
+
+
+6 #C C adjusts the wood
+
+
+7 #C C straightens the wood
+
+
+8 #C C  puts the wood on the floor
+
+
+9 #C C adjusts the wood
+
+
+10 #C C adjusts the floor board
+
+
+11 #C C moves the hands on the floor
+
+
+12 #C C moves the hand
+
+
+13 #C C moves the sandpaper on the floor
+
+
+14 #C C pushes the tile on the floor
+
+
+15 #C C moves the floor with his hands
+
+
+16 #C C moves the wood.
+
+
+17 #C C moves the bench
+
+
+18 #C C holds a step on the wooden floor.
+
+
+19 #C C moves the hand.
+
+
+20 #C C wipes the wooden pillar with the hand.
+
+
+21 #C C wipes the wooden floor with the hand
+
+
+22 #C C steps on the wooden stair rail.
+
+
+23 #C C touches the floor
+
+
+24 #C C holds the wood
+
+
+25 #C C holds the wooden board
+
+
+26 #C C adjusts the wooden tile with both hands.
+
+
+27 #C C touches the floor
+
+
+28 #C C moves the hand.
+
+
+29 #C C picks up the box
+
+
+30 #C C Moves the floor
+
+
+31 #C C pushes the floor with his left hand
+
+
+32 #C C puts the wood down
+
+
+33 #C C touches the floor
+
+
+34 #C C picks the wood
+
+
+35 #C C removes the wood from the floor 
+
+
+36 #C C pulls the wood
+
+
+37 #C C moves the wooden tile on the floor with her hands
+
+
+38 #C C adjusts the wood on the floor with his hands
+
+
+39 #C C moves the hands.
+
+
+40 #C C adjusts the wood
+
+
+41 #O person Y stands near C
+
+
+42 #C C adjusts the wood
+
+
+43 #C C moves the wood
+
+
+44 #O A man Y plays with the wood
+
+
+45 #C C pushes the floor with his left hand
+
+
+46 #C C moves the hand on the floor
+
+
+47 #C C adjusts the floor with the right hand 
+
+
+48 #C C cuts the wood with the mop
+
+
+49 #O person X pushes the wood
+
+
+50 #O person X walks in the room
+
+
+51 #O person X moves the hand
+
+
+52 #C C looks around the floor
+
+
+53 #C C moves the wood
+
+
+54 #C C moves the leg
+
+
+55 #C C moves the hand on the floor
+
+
+56 #C C looks at the folding rear deck rail
+
+
+57 #C C stands on the balcony railing
+
+
+58 #C C adjusts the wood on the floor
+
+
+59 #C C holds the wood
+
+
+60 #C C adjusts the wood on the floor
+
+
+61 #C C holds the wood with her left hand 
+
+
+62 #C C moves the fabric on the floor
+
+
+63 #C C looks under the wood
+
+
+64 #C C pushes the wood with a hand
+
+
+65 #C C adjusts the  floor
+
+
+66 #C C holds the floor 
+
+
+67 #C C feels the floor with her hands
+
+
+68 #C C adjusts the metal rail
+
+
+69 #C C removes the wood from the floor
+
+
+70 #C C looks at the floor
+
+
+71 #O person Y stands in the room
+
+
+72 #C C moves the right hand
+
+
+73 #C C holds the floor
+
+
+74 #C C places a tile on the floor
+
+
+75 #C C  marks the tile with a chisel
+
+
+76 #C C  cuts the wood
+
+
+77 #C C moves the floor
+
+
+78 #C C moves the tile
+
+
+79 #C C moves the hand on the floor
+
+
+80 #C C Stops moving his hands
+
+
+81 #C C stands beside the mat
+
+
+82 #C C wipes floor with hand
+
+
+83 #C C holds the watch
+
+
+84 #C C moves his hand
+
+
+85 #C C moves the hand
+
+
+86 #C C holds the leg
+
+
+87 #C C moves the right hand
+
+
+88 #C C pushes the floor with his left hand
+
+
+89 #C C  steps on the floor
+
+
+90 #C C stands up from the floor
+
+
+91 #C C touches the floor with his hands
+
+
+92 #C C places his hands on the floor
+
+
+93 #C C adjusts the wood
+
+
+94 #O person Y moves the wood
+
+
+95 #C C pulls the wood with both hands
+
+
+96 #C C moves the wood
+
+
+97 #C C moves the floor.
+
+
+98 #C C bends towards the floor
+
+
+99 #C C moves the floor.
+
+
+100 #C C moves the carpet with both hands
+
+
+101 #C C adjusts the wooden foundation with his hands
+
+
+102 #C C picks a tile on the floor
+
+
+103 #O A man W picks the metal rod
+
+
+104 #C C places the metal bar on the floor
+
+
+105 #C C moves the hand on the floor
+
+
+106 #C C touches the wood
+
+
+107 #C C moves his left leg
+
+
+108 #C C moves the hand
+
+
+109 #C C touches the wood
+
+
+110 #C C marks the wood
+
+
+111 #C C marks the wood
+
+
+112 #C C adjusts the wood
+
+
+113 #C C places hand on the bench
+
+
+114 #C C stares at the floor
+
+
+115 #C C moves around the room
+
+
+116 #C C holds the wood
+
+
+117 #C C stares at the board
+
+
+118 #C C stares around
+
+
+119 #C C looks at the floor
+
+
+120 #C C looks at the wooden structure
+
+
+121 #C C moves the hand.
+
+
+122 #C C stretches the hand
+
+
+123 #O person Y picks up the wood
+
+
+124 #O a man X picks a wood
+
+
+125 #C C rubs the wood with his hands
+
+
+126 #C C moves hand away from the wood
+
+
+127 #C C moves his left hand on the wood
+
+
+128 #C C moves his hands
+
+
+129 #C C touches the floor
+
+
+130 #C C scratches the wall
+
+
+131 #C C takes a square ruler from a wall with his left hand.
+
+
+132 #C C moves the wooden structure 
+
+
+133 #C C moves his feet 
+
+
+134 #C C adjusts a bench
+
+
+135 #C C adjusts a wooden stairway with his right hand.
+
+
+136 #C C touches the wood.
+
+
+137 #C C adjusts the position of a wooden bar.
+
+
+138 #C C moves the wooden plank on the floor. 
+
+
+139 #C C holds a wood
+
+
+140 #C C moves a wood
+
+
+141 #C C adjusts the wood
+
+
+142 #C C touches the floor
+
+
+143 #C C touches the frame
+
+
+144 #C C moves the leg.
+
+
+145 #C C moves the wood.
+
+
+146 #C C touches the bag
+
+
+147 #C C holds the wooden structure with his left hand
+
+
+148 #C C touches the wooden foundation.
+
+
+149 #C C marks the wooden structure with the pencil
+
+
+150 #O man Y holds the wood
+
+
+151 #C C moves the wood
+
+
+152 #O man X holds the wood
+
+
+153 #O man W looks around
+
+
+154 #C C talks to man Y
+
+
+155 #C C looks around
+
+
+156 #C C holds the wood
+
+
+157 #C C removes the wood from the wood
+
+
+158 #C C moves the hand.
+
+
+159 #C C holds the wooden shelf
+
+
+160 #C C moves the hand on the shelf
+
+
+161 #C C sits on the floor
+
+
+162 #C C looks at the watch
+
+
+163 #O A man G walks around.
+
+
+164 #O A man Y walks around the room
+
+
+165 #O A man D picks a pencil from the shelf.
+
+
+166 #O man X bends down 
+
+
+167 #C C picks phone from the table
+
+
+168 #C C touches the phone with his left hand
+
+
+169 #C C scrolls the phone
+
+
+170 #C C scrolls the phone
+
+
+171 #C C scrolls his phone
+
+
+172 #C C scrolls the phone with his right hand
+
+
+173 #C C scrolls the phone
+
+
+174 #C C scrolls the phone
+
+
+175 #C C uses the phone
+
+
+176 #O a man X walks towards the door
+
+
+177 #O A man Y lifts a chair
+
+
+178 #O A man Y walks towards the room
+
+
+179 #O A man X picks a phone from the floor
+
+
+180 #C C drops the cordless electric saw on the floor with his right hand.
+
+

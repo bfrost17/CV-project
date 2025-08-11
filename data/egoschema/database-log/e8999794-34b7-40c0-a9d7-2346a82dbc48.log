@@ -1,0 +1,540 @@
+1 #C C puts the tray of cheese on the shelf
+
+
+2 #C C walks towards the table
+
+
+3 #C C walks to the table
+
+
+4 #C C touches a bag of grains
+
+
+5 #C C picks a tissue paper
+
+
+6 #C C moves to the table
+
+
+7 #C C lifts the small tray
+
+
+8 #C C picks the dough
+
+
+9 #C C lifts the dough roller
+
+
+10 #C C fetches flour from the bowl
+
+
+11 #C C places the dough on the dough roller
+
+
+12 #C C places dough on the dough roller
+
+
+13 #C C places dough ball on dough divider
+
+
+14 #C C puts dough ball on dough roller
+
+
+15 #C C picks a dough roll from the table
+
+
+16 #C C puts dough ball on dough sheeter
+
+
+17 #C C moves the dough ball
+
+
+18 #C C picks dough piece from the dough mixer
+
+
+19 #C C picks a dough roll
+
+
+20 #C C puts dough on dough cutter
+
+
+21 #C C spreads the dough in the dough roller
+
+
+22 #C C packs doughs from the dough roller with both hands
+
+
+23 #C C picks dough ball.
+
+
+24 #C C moves the dough roller on the table
+
+
+25 #C C takes flour from the table
+
+
+26 #C C takes the dough scraper
+
+
+27 #C C packs the cheese on the dough roller into the bowl
+
+
+28 #C C cuts the dough into two pieces
+
+
+29 #C C picks a scraper
+
+
+30 #C C pushes the dustbin towards the grinding machine.
+
+
+31 #C C picks the dough cutter
+
+
+32 #C C removes the kitchen towel from the table.
+
+
+33 #C C walks to the table
+
+
+34 #C C lifts the towel
+
+
+35 #C C removes the dough from the dough roller
+
+
+36 #C C walks to the table 
+
+
+37 #C C walks towards the table
+
+
+38 #C C picks the cake mould
+
+
+39 #C C picks the dough from the rack
+
+
+40 #C C opens the doughs
+
+
+41 #C C picks the brown paper
+
+
+42 #C C places the meat on the tray
+
+
+43 #C C adjusts the pack of cheese
+
+
+44 #C C places the plastic bag on the baking tray
+
+
+45 #C C picks the cake
+
+
+46 #C C wipes his hands on the towel 
+
+
+47 #C C collects the cheese
+
+
+48 #C C picks the cheese
+
+
+49 #C C picks a butter nut from the blender.
+
+
+50 #C C wipes dough from tray
+
+
+51 #C C touches the container of chips.
+
+
+52 #C C picks the cheese from the tray
+
+
+53 #C C picks a cheese
+
+
+54 #C C spreads the food in the tray
+
+
+55 #C C moves the cheese on the tray
+
+
+56 #C C picks the cheese from the tray
+
+
+57 #C C spreads the butter in the dough
+
+
+58 #C C wipes the flour
+
+
+59 #C C wipes hands with the paper towel
+
+
+60 #C C walks towards the table
+
+
+61 #C C walks towards a table.
+
+
+62 #C C walks to a table
+
+
+63 #C C walks towards the table.
+
+
+64 #C C moves the dough mixer to the right
+
+
+65 #C C picks the dough ball from the dough mixer
+
+
+66 #C C carries the table with both hands
+
+
+67 #C C turns the dough mixer container
+
+
+68 #C C picks the flour from the table
+
+
+69 #C C hits the dough scraper on the baking tray
+
+
+70 #C C turns the dough roller on the table
+
+
+71 #C C takes the dough on the tray
+
+
+72 #C C removes the dough from the dough divider
+
+
+73 #C C picks the container of the dough from the weighing scale.
+
+
+74 #C C puts the dough on the dough mixer.
+
+
+75 #C C collects dough from the dough sheeter with her hand
+
+
+76 #C C moves the bowl of doughs.
+
+
+77 #C C shakes the bowl of dough.
+
+
+78 #C C picks the dough divider
+
+
+79 #C C removes the dough from the weighing scale
+
+
+80 #C C drops dough on the tray
+
+
+81 #C C puts the dough mixer on the table.
+
+
+82 #C C collects dough from the container with the small bowl.
+
+
+83 #C C removes the dough in the container
+
+
+84 #C C takes a dough from the container.
+
+
+85 #C C scoops the dough into the container
+
+
+86 #C C puts the dough cutter down
+
+
+87 #C C walks to the cutting table.
+
+
+88 #C C picks the dough mixer bowl.
+
+
+89 #C C moves the tray with the dough from the countertop to the stove.
+
+
+90 #C C moves towards the blender
+
+
+91 #C C removes a bowl of grains from the mixer
+
+
+92 #C C wipes dough mixer
+
+
+93 #C C picks the dough mixer from the tray
+
+
+94 #C C pulls the grinder of the mixer
+
+
+95 #C C picks the knife.
+
+
+96 #C C moves a dough on the table with his hand 
+
+
+97 #C C picks up the baking ball
+
+
+98 #C C picks a powder from the baking tray
+
+
+99 #C C picks the dough
+
+
+100 #C C cuts the dough into small pieces
+
+
+101 #C C moves the dough cutter on the table.
+
+
+102 #C C picks the flour from the table
+
+
+103 #C C picks the flour mixer from the table.
+
+
+104 #C C picks the bowl of flour
+
+
+105 #C C picks a cutter
+
+
+106 #C C wipes the baking table with the hand towel
+
+
+107 #C C wipes the table with the sponge
+
+
+108 #C C removes the dough scraper from the dough mixer
+
+
+109 #C C places the dough cutter on the table
+
+
+110 #C C picks a sieve bowl
+
+
+111 #C C moves the dough mixer bowl.
+
+
+112 #C C moves the bowl towards the bowl.
+
+
+113 #C C picks up the bowl.
+
+
+114 #C C removes the tray from the blender
+
+
+115 #C C lifts the bowl
+
+
+116 #C C lifts the hand
+
+
+117 #C C hits the lid on the mixer.
+
+
+118 #C C moves the dough mixer
+
+
+119 #C C moves the mixer towards the mixer
+
+
+120 #C C throws the dough into the bowl on the table.
+
+
+121 #C C moves the bowl towards the mixer.
+
+
+122 #C C puts the doughs on the cutting machine
+
+
+123 #C C moves the dough press machine off the mixer
+
+
+124 #C C picks the mixer from the table
+
+
+125 #C C pours water from the jug into the bowl of water.
+
+
+126 #C C picks the mixer.
+
+
+127 #C C carries the jug from the table with both hands.
+
+
+128 #C C puts the dough into the dough mixer
+
+
+129 #C C moves the container closer to the mixer.
+
+
+130 #C C carries the container of flour
+
+
+131 #C C pushes the container towards the table
+
+
+132 #C C picks up the container
+
+
+133 #C C walks towards the mixer table
+
+
+134 #C C moves the container of flour to the table.
+
+
+135 #C C places the dough on the table
+
+
+136 #C C puts dough in the dough mixer.
+
+
+137 #C C picks the dough cutter
+
+
+138 #C C places dough on the tray
+
+
+139 #C C takes a sack
+
+
+140 #C C picks up a paper bag
+
+
+141 #C C wipes the dough pan with the rim of the container
+
+
+142 #C C picks the dough from the tray
+
+
+143 #C C picks the cheese from the dough container
+
+
+144 #C C puts the dough on the table
+
+
+145 #C C puts the dough in the flour
+
+
+146 #C C picks the dough from the baking tray
+
+
+147 #C C picks dough from the flour
+
+
+148 #C C places the dough on the dough divider
+
+
+149 #C C picks up the dough from the table
+
+
+150 #C C puts the dough on the table
+
+
+151 #C C picks the table mat.
+
+
+152 #C C places the dough in the dough mixer
+
+
+153 #C C takes the scrapper from the table
+
+
+154 #C C removes the bread scrapper from the paper.
+
+
+155 #C C picks up the dough
+
+
+156 #C C picks up the scoop from the table.
+
+
+157 #C C cuts the paper on the table
+
+
+158 #C C cuts the butter
+
+
+159 #C C  wipes the bowl with the paper towel
+
+
+160 #C C removes the plastic container from the table
+
+
+161 #C C picks up the knife from the table
+
+
+162 #C C puts the knife on the table
+
+
+163 #C C removes the cookie dough cutter from the table
+
+
+164 #C C picks up the cheese scrapper from the table
+
+
+165 #C C drops the kitchen glove on the table.
+
+
+166 #C C moves the hand to the right
+
+
+167 #C C picks a dough from the table
+
+
+168 #C C picks a baking flour
+
+
+169 #C C picks up a dough cutter
+
+
+170 #C C cuts the dough into pieces
+
+
+171 #C C cuts the dough into two pieces
+
+
+172 #C C cuts the dough into small pieces
+
+
+173 #C C picks a dough from the table
+
+
+174 #C C picks the dough cutter
+
+
+175 #C C picks the dough
+
+
+176 #C C puts the dough on the dough divider
+
+
+177 #C C puts the dough on the doughs container
+
+
+178 #C C puts the dough on the table
+
+
+179 #C C picks the dough from the first tray.
+
+
+180 #C C picks the dough scraper from the table
+
+

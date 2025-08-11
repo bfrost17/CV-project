@@ -1,0 +1,540 @@
+1 #C C Looks at the cat
+
+
+2 #O A man X moves the chess piece
+
+
+3 #O A man X moves his hand
+
+
+4 #O Man X moves the chess piece.
+
+
+5 #O A man X plays chess
+
+
+6 #O A man X moves his hand 
+
+
+7 #O A man X moves the chess piece
+
+
+8 #O A man Y picks chess piece
+
+
+9 #C C moves the chess piece.
+
+
+10 #O Man X moves the chess piece.
+
+
+11 #O A man X holds the chess board
+
+
+12 #C C stares at the chess board
+
+
+13 #O A man X looks around the chess board
+
+
+14 #C C moves the chess piece
+
+
+15 #C C moves the chess piece
+
+
+16 #O A man X stares at the chess board 
+
+
+17 #O A man X swings the hand
+
+
+18 #O A man Y picks chess piece
+
+
+19 #O Man X moves a chess piece
+
+
+20 #O A man X touches chess piece
+
+
+21 #O Man X moves a white chess piece on the chess board
+
+
+22 #C C picks a chess piece
+
+
+23 #O The man X moves his hand on the chessboard
+
+
+24 #C C moves his hand 
+
+
+25 #C C looks at the chess board
+
+
+26 #C C moves his hand on his leg
+
+
+27 #C C moves the chess piece
+
+
+28 #C C moves the chess piece
+
+
+29 #C C plays chess
+
+
+30 #C C plays chess with a man X
+
+
+31 #O A man X moves the chess piece
+
+
+32 #O A man X moves chess pieces
+
+
+33 #O A man X picks a chess piece
+
+
+34 #O A man X stares at the chess board
+
+
+35 #O A man X puts his hand on the lap
+
+
+36 #O A man X talks
+
+
+37 #C C places the chess board in the box
+
+
+38 #O A man X picks a chess board
+
+
+39 #O A man X picks a box
+
+
+40 #O A man X adjusts his position
+
+
+41 #O A man X moves the chess board
+
+
+42 #C C moves his hands
+
+
+43 #C C stares at the chess board
+
+
+44 #O A man X looks at the chess board
+
+
+45 #O A man X talks to C
+
+
+46 #C C looks at the chess board
+
+
+47 #C C stares the chessboard
+
+
+48 #O A man Y talks to C
+
+
+49 #O Man X touches his left leg
+
+
+50 #O A man X moves his hand 
+
+
+51 #O A man X moves his hand
+
+
+52 #C C moves the pawn
+
+
+53 #C C shakes his hand
+
+
+54 #C C moves the chess piece
+
+
+55 #C C moves the chess piece
+
+
+56 #C C moves his hand 
+
+
+57 #C C moves his hand
+
+
+58 #C C lifts his hand
+
+
+59 #O A man X shakes his leg
+
+
+60 #O A man X puts the chess piece in the box
+
+
+61 #C C stares at chess board
+
+
+62 #O A man X moves the chess piece
+
+
+63 #O A man X moves chess piece
+
+
+64 #C C moves a chess piece in his left hand
+
+
+65 #C C looks at the chess board
+
+
+66 #O A man X looks at the chessboard
+
+
+67 #O A man X looks at the chess board
+
+
+68 #O A man X moves the chess piece
+
+
+69 #C C stares at chess board
+
+
+70 #C C stares at chess board
+
+
+71 #C C moves the chess piece
+
+
+72 #C C moves a chess piece
+
+
+73 #C C moves the chess piece
+
+
+74 #C C plays the chess game
+
+
+75 #C C Picks a piece of chess piece
+
+
+76 #C C picks a box of chess pieces from the box with his right hand
+
+
+77 #C C picks the chess piece
+
+
+78 #C C holds the chess piece in the box
+
+
+79 #O Man X moves a chess piece
+
+
+80 #C C picks up the chess piece
+
+
+81 #C C picks up a chess piece from the box
+
+
+82 #C C picks the chess pieces 
+
+
+83 #C C picks the chess piece from the chess board
+
+
+84 #O Man X moves the chess pieces
+
+
+85 #O A man X moves chess piece
+
+
+86 #O The man X moves his right hand
+
+
+87 #O A man Y moves his leg
+
+
+88 #C C moves the chess piece
+
+
+89 #O The man X moves his hand
+
+
+90 #O A man X sits on the floor
+
+
+91 #C C moves his hand
+
+
+92 #O a man X  holds his leg
+
+
+93 #C C points at the chessboard
+
+
+94 #C C moves the chess piece
+
+
+95 #O A man X picks the chess piece
+
+
+96 #C C stares at the chess board
+
+
+97 #C C drops the chess piece in the box
+
+
+98 #C C lifts his hand
+
+
+99 #O A man X moves the chess board
+
+
+100 #C C touches his body 
+
+
+101 #C C stares the chess board
+
+
+102 #C C stares at chess board
+
+
+103 #C C stares at the chessboard
+
+
+104 #C C puts his right leg on the floor
+
+
+105 #C C moves his hand
+
+
+106 #C C moves the chess piece
+
+
+107 #C C moves the chess piece
+
+
+108 #C C moves his hand
+
+
+109 #O A man Y moves the chess piece
+
+
+110 #O Man X moves his leg
+
+
+111 #C C talks to man X
+
+
+112 #O A man X looks at the chess board
+
+
+113 #C C stares at the chessboard
+
+
+114 #O A man X stares the chess board
+
+
+115 #C C stares at chessboard
+
+
+116 #O A man X scratches his leg
+
+
+117 #C C stares at the chessboard
+
+
+118 #O A man X plays the chess game 
+
+
+119 #O Man X moves his hand
+
+
+120 #O A man X holds his leg
+
+
+121 #C C touches his leg with his hand
+
+
+122 #C C plays a chess game with his hands
+
+
+123 #O A man X moves the chess piece
+
+
+124 #C C stares at the chessboard
+
+
+125 #O A man X moves his leg 
+
+
+126 #C C stares at chess board
+
+
+127 #C C stares at the chess board
+
+
+128 #O Man X moves his leg
+
+
+129 #O A man X moves his hand
+
+
+130 #O A man X moves his hand
+
+
+131 #O A man X puts the pawn on the chess board
+
+
+132 #O A man X looks at the chess board
+
+
+133 #O man X moves the chess piece
+
+
+134 #O Man X moves his hand.
+
+
+135 #C C moves the chess piece
+
+
+136 #C C moves the chess piece
+
+
+137 #O A man X touches chess piece
+
+
+138 #O A man X lifts his hand
+
+
+139 #O A man X moves his hand
+
+
+140 #O Man X moves his leg
+
+
+141 #O man X puts the chess piece on the chess board
+
+
+142 #O A man X moves the hand
+
+
+143 #O A man X moves his leg
+
+
+144 #C C moves the chess piece
+
+
+145 #C C moves his hand on the chess piece
+
+
+146 #O A man X moves the chess pieces
+
+
+147 #O Man X moves his hand to his face
+
+
+148 #C C stares at the chessboard
+
+
+149 #O A man X moves his hand
+
+
+150 #C C looks at the chess board
+
+
+151 #O A man X moves his leg
+
+
+152 #C C plays chess with his hand
+
+
+153 #C C stares at the chess board
+
+
+154 #C C moves his leg
+
+
+155 #C C adjusts the chess piece in his right hand.
+
+
+156 #C C moves chess pieces
+
+
+157 #C C moves the chess piece
+
+
+158 #C C moves the chess piece in the box
+
+
+159 #C C moves the chess piece on the box
+
+
+160 #C C looks at chess board
+
+
+161 #C C stares at chess board
+
+
+162 #C C moves his legs
+
+
+163 #C C holds the chess piece
+
+
+164 #O Man X moves a chess piece
+
+
+165 #O A man X moves chess piece
+
+
+166 #O A man X moves chess pieces
+
+
+167 #C C plays chess
+
+
+168 #O A man X plays chess
+
+
+169 #O A man X moves his hand
+
+
+170 #C C moves his left leg
+
+
+171 #C C touches the face 
+
+
+172 #C C moves chess piece
+
+
+173 #C C moves chess pawn
+
+
+174 #C C plays chess
+
+
+175 #C C puts down the chess board
+
+
+176 #O man X picks a chess piece from the chess board
+
+
+177 #O man X moves a chess piece
+
+
+178 #O The man X plays the chess game
+
+
+179 #O A man Y plays chess
+
+
+180 #C C moves his hand
+
+

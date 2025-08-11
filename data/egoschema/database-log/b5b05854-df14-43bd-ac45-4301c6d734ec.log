@@ -1,0 +1,540 @@
+1 #C C turns the metal
+
+
+2 #C C holds the  disc brake rotor
+
+
+3 #C C fixes the metal rod to a metal rod
+
+
+4 #C C picks a metal rod
+
+
+5 #C C moves a metal piece
+
+
+6 #C C picks a belt grinder
+
+
+7 #C C picks the metal rod
+
+
+8 #C C polishes the metal rod
+
+
+9 #C C holds the metal
+
+
+10 #C C welds the metal
+
+
+11 #C C holds the metal
+
+
+12 #C C holds the steel metal
+
+
+13 #C C welds the metal
+
+
+14 #C C smoothens the metal
+
+
+15 #C C cuts the metal
+
+
+16 #C C turns the metal 
+
+
+17 #C C turns the metal
+
+
+18 #C C welds the metal rod
+
+
+19 #C C puts the metal on the grinder
+
+
+20 #C C puts metal on the steel
+
+
+21 #C C puts welding machine down
+
+
+22 #O A man X converses with C 
+
+
+23 #O a man Y picks a welding rod 
+
+
+24 #O A man X converses with C
+
+
+25 #C C interacts with man X
+
+
+26 #C C looks around
+
+
+27 #O A man Y moves the welding machine
+
+
+28 #C C picks a metal from the floor
+
+
+29 #C C removes the screw driver from the frame 
+
+
+30 #C C picks a metal rod
+
+
+31 #C C looks at the metal
+
+
+32 #C C moves the camera around
+
+
+33 #C C looks around the workshop
+
+
+34 #C C walks in the workshop
+
+
+35 #C C talks to person X
+
+
+36 #C C turns the steel rod
+
+
+37 #C C looks around
+
+
+38 #C C stands in front of the metal frame
+
+
+39 #C C moves the hand
+
+
+40 #C C looks around the metal board
+
+
+41 #C C measures the metal bars with a tape rule in his right hand.
+
+
+42 #C C moves the hand
+
+
+43 #C C lifts the metal.
+
+
+44 #C C looks around the workshop
+
+
+45 #O A man B moves the metal frame with his right hand.
+
+
+46 #C C holds the iron rod
+
+
+47 #O A man Y holds the metal
+
+
+48 #C C moves his right hand on the metal frame on the floor.
+
+
+49 #C C moves the grinder on the ground with his right hand.
+
+
+50 #C C removes the chisel from the metal
+
+
+51 #C C polishes the metal frame with the angle grinder in his hands.
+
+
+52 #C C grinds the steel
+
+
+53 #C C grinds a metal rod with a grinder
+
+
+54 #C C moves the metal rod on the floor with his right hand.
+
+
+55 #C C picks a metal bar
+
+
+56 #C C picks the metal on the floor with his left hand.
+
+
+57 #C C picks a steel rod from the ground with his left hand.
+
+
+58 #C C picks a single piece of wood
+
+
+59 #C C picks the metal from the floor with his hands.
+
+
+60 #C C picks the metal from the floor with his left hand.
+
+
+61 #C C holds the metal bar
+
+
+62 #C C cuts the iron rods on the ground with the electric orbital sander in his hands.
+
+
+63 #C C polishes the metal bars
+
+
+64 #C C grinds the metal rod
+
+
+65 #C C polishes the metal bars
+
+
+66 #C C grinds the metal rod
+
+
+67 #C C grinds the metal bar
+
+
+68 #C C grinds the metal strip
+
+
+69 #C C grinds the metal bars
+
+
+70 #C C polishes the metal bars
+
+
+71 #C C grinds the metal bars
+
+
+72 #C C grinds the metal bars
+
+
+73 #C C grinds the metal bars with the angle grinder in his hands.
+
+
+74 #C C grinds the metal bars
+
+
+75 #C C polishes the metal flat bar
+
+
+76 #C C grinds the metal rods
+
+
+77 #C C polishes the metal bar
+
+
+78 #C C grinds the metal bars on the iron rod
+
+
+79 #C C grinds the metal rods
+
+
+80 #C C grinds the metal bars with the angle grinder
+
+
+81 #C C polishes the metal bar on the steel
+
+
+82 #C C grinds the metal bars
+
+
+83 #C C polishes the metal bars with the angle grinder in his hands.
+
+
+84 #C C polishes the iron rod
+
+
+85 #C C grinds the metal bar
+
+
+86 #C C grinds the metal bars
+
+
+87 #C C polishes the metal bars
+
+
+88 #C C polishes the metal bar
+
+
+89 #C C grinds the metal bar
+
+
+90 #C C polishes the metal bars
+
+
+91 #C C grinds the metal bar
+
+
+92 #C C polishes the metal bars
+
+
+93 #C C polishes the metal bar
+
+
+94 #C C grinds metal
+
+
+95 #C C polishes the metal bars
+
+
+96 #C C grinds the metal bars
+
+
+97 #C C polishes the iron rod
+
+
+98 #C C grinds metal
+
+
+99 #C C polishes the iron rods
+
+
+100 #C C grinds the metal
+
+
+101 #C C polishes the iron rods
+
+
+102 #C C grinds the metal bars
+
+
+103 #C C polishes the iron rod on the metal polisher
+
+
+104 #C C grinds the metal bars
+
+
+105 #C C polishes the metal bars
+
+
+106 #C C grinds the metal
+
+
+107 #C C grinds the metal bars
+
+
+108 #C C polishes the iron rods on the lounge with the polisher machine in his right hand.
+
+
+109 #C C grinds the iron rod
+
+
+110 #C C grinds the iron rods
+
+
+111 #C C polishes the iron rod with the polisher
+
+
+112 #C C polishes the iron rod on the iron rod polishing machine in his right hand with the angle grinder in his left hand.
+
+
+113 #C C looks around the room
+
+
+114 #C C looks around
+
+
+115 #C C looks around
+
+
+116 #C C looks around
+
+
+117 #C C looks around the workshop
+
+
+118 #C C stares at the metal
+
+
+119 #C C looks at the metal bars
+
+
+120 #C C looks at the metal
+
+
+121 #C C interacts with a man P.
+
+
+122 #C C Looks at the metal
+
+
+123 #C C looks at the welding machine
+
+
+124 #C C looks around
+
+
+125 #C C looks around
+
+
+126 #C C grinds the metal frame with the angle grinder.
+
+
+127 #C C grinds the metal bars
+
+
+128 #C C polishes the metal bars with the polishing machine
+
+
+129 #C C moves the semicircular metal
+
+
+130 #C C takes a metal 
+
+
+131 #C C picks a welding drill from the floor with his right hand.
+
+
+132 #C C picks the metal
+
+
+133 #C C picks a metal rod
+
+
+134 #O A man Y picks a welding machine
+
+
+135 #C C picks a metal
+
+
+136 #C C adjusts the steel rod on the metal 
+
+
+137 #C C picks a metal
+
+
+138 #C C picks up the wheel disc
+
+
+139 #C C picks up the wheel cover
+
+
+140 #C C picks up the  iron rod
+
+
+141 #C C joins the metal 
+
+
+142 #C C moves the metal bar on the metal structure 
+
+
+143 #C C picks a metal rod
+
+
+144 #C C places the  welding rod on the mat 
+
+
+145 #C C puts the metal on the metal rod
+
+
+146 #C C picks up the metal
+
+
+147 #C C welds the metal
+
+
+148 #C C moves the rod on the metal
+
+
+149 #C C joins the metal
+
+
+150 #C C holds the metal rod 
+
+
+151 #C C inserts a metal into the metal rod 
+
+
+152 #C C fixes the metal rod on the metal bar 
+
+
+153 #C C picks the metal
+
+
+154 #C C picks a metal rod
+
+
+155 #C C picks the metal
+
+
+156 #C C picks the ring from the metal
+
+
+157 #C C drops the metal rod on the steel
+
+
+158 #C C picks a metal from the ground
+
+
+159 #C C hits the  triple talons with the hammer
+
+
+160 #C C hits the metal with the hammer
+
+
+161 #C C removes the metal 
+
+
+162 #C C picks the metal from the metal 
+
+
+163 #C C hits the  shuttlecock with the hammer
+
+
+164 #C C hits the  spoke  stop screwdriver with the metal
+
+
+165 #C C fixes the steel rod on the  rotating stand
+
+
+166 #C C fixes the metal on the iron rod 
+
+
+167 #C C hits the iron rod with the hammer
+
+
+168 #C C picks a metal from the floor 
+
+
+169 #C C removes the metal 
+
+
+170 #C C welds the metal rod 
+
+
+171 #C C joins the iron rod to the rod
+
+
+172 #C C welds  
+
+
+173 #C C welds metal with a welding stick
+
+
+174 #C C welds the iron rod
+
+
+175 #C C picks the metal rod
+
+
+176 #C C hits the metal with the hammer
+
+
+177 #C C hits the steel rod with the hammer
+
+
+178 #C C fixes the rod on the  swing bench  with a hammer 
+
+
+179 #C C picks a metal
+
+
+180 #C C picks a steel rod from the floor
+
+

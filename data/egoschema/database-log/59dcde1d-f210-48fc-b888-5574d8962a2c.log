@@ -1,0 +1,540 @@
+1 #C C places the paint brush on the container
+
+
+2 #C C puts the brush on the container
+
+
+3 #C C moves the paint tin
+
+
+4 #C C hits the container with the right hand
+
+
+5 #C C puts the folding ruler on the floor
+
+
+6 #C C puts brush on the container
+
+
+7 #C C pours the paint on the brush
+
+
+8 #C C wipes the brush with the finger
+
+
+9 #C C dips brush in the paint
+
+
+10 #C C scoops the paint with the brush 
+
+
+11 #C C puts the brush on the container
+
+
+12 #C C cleans the brush with a bottle of paint
+
+
+13 #C C wipes the brush with a brush
+
+
+14 #C C applies the brush to the brush
+
+
+15 #C C picks the pottery
+
+
+16 #C C walks to the balcony.
+
+
+17 #C C walks towards a shelf.
+
+
+18 #C C walks to a shelf.
+
+
+19 #C C puts a hand on the table
+
+
+20 #C C moves the table
+
+
+21 #C C picks a sandpaper from the stool
+
+
+22 #C C wipes the floor with the cotton wool
+
+
+23 #C C picks up sand paper.
+
+
+24 #C C puts the utility knife in the pocket
+
+
+25 #C C sweeps the floor
+
+
+26 #C C wipes the table with the hand
+
+
+27 #C C cleans the table with the sandpaper
+
+
+28 #C C wipes the table with a hand
+
+
+29 #C C wipes the table
+
+
+30 #C C wipes the table
+
+
+31 #C C places the sandpaper on a bench.
+
+
+32 #C C scrapes the brush with the paint can
+
+
+33 #C C removes paint brush from the paint
+
+
+34 #C C picks up a sandpaper from the floor with his right hand
+
+
+35 #C C wipes the table with the handkerchief
+
+
+36 #C C wipes a table with a cotton wool
+
+
+37 #C C wipes the shelf
+
+
+38 #C C cleans the table with the sandpaper.
+
+
+39 #C C removes the paintbrush from the wood.
+
+
+40 #C C spreads the table on the floor with his right hand.
+
+
+41 #C C paints the table with the paintbrush
+
+
+42 #C C paints the table with the paint brush in his right hand
+
+
+43 #C C moves the stool.
+
+
+44 #C C holds the wood
+
+
+45 #C C holds the wooden pillar
+
+
+46 #C C moves the wood
+
+
+47 #C C holds the wood
+
+
+48 #C C holds the wooden rail on the wooden floor with his left hand.
+
+
+49 #C C looks at the wooden piece
+
+
+50 #C C wipes the table with his finger
+
+
+51 #C C hits the wooden plank with the hammer in his right hand.
+
+
+52 #C C touches the wood
+
+
+53 #C C wipes the wood with the finger
+
+
+54 #C C wipes the wooden structure with a sponge
+
+
+55 #C C wipes the wood with a finger
+
+
+56 #C C wipes the bench with the cloth
+
+
+57 #C C cleans the wooden piece with his left hand
+
+
+58 #C C paints the wooden table with the paintbrush in his right hand.
+
+
+59 #C C hits the wooden furniture with the chisel
+
+
+60 #C C wipes the bench with a finger
+
+
+61 #C C wipes the wooden furniture with the cloth
+
+
+62 #C C wipes wood with a sponge
+
+
+63 #C C cleans the bench with his right hand
+
+
+64 #C C wipes the wooden furniture with a cloth
+
+
+65 #C C sands the bench with the sandpaper
+
+
+66 #C C wipes the wooden structure with his hand
+
+
+67 #C C sands the bench
+
+
+68 #C C wipes the wood with his finger
+
+
+69 #C C sands the wooden furniture with the sandpaper
+
+
+70 #C C wipes the table with the sandpaper
+
+
+71 #C C wipes the wooden table with the hand
+
+
+72 #C C wipes the bench with a cotton wool
+
+
+73 #C C wipes the chair with a sandpaper
+
+
+74 #C C cleans the wooden furniture with his right hand
+
+
+75 #C C removes the string on the woodwork with the knife
+
+
+76 #C C wipes the wooden furniture with the cloth
+
+
+77 #C C wipes the wooden furniture with a cloth in her right hand
+
+
+78 #C C looks at the  seat
+
+
+79 #C C looks at the seat
+
+
+80 #C C looks at the person X
+
+
+81 #C C Looks at the chairs
+
+
+82 #C C Looks at the furniture
+
+
+83 #C C wipes the wooden table with a piece of cloth
+
+
+84 #C C wipes the table with the finger
+
+
+85 #C C wipes the table with his left hand
+
+
+86 #C C wipes the seat
+
+
+87 #C C wipes the wooden furniture with his right hand
+
+
+88 #C C paints the wooden structure with the paintbrush in his right hand
+
+
+89 #C C paints a wooden pillar with a paint brush
+
+
+90 #C C paints the wood with a paint brush
+
+
+91 #C C wipes the wooden structure with a paint brush
+
+
+92 #C C wipes the wooden structure with the cloth
+
+
+93 #C C removes paint on the frame with a paint scraper
+
+
+94 #C C wipes the frame with the wood
+
+
+95 #C C paints the wooden structure
+
+
+96 #C C wipes paint brush with the cloth
+
+
+97 #C C wipes the paint brush on the paint holder
+
+
+98 #C C paints the wooden structure
+
+
+99 #C C scrapes the wooden structure with a paint scrapper
+
+
+100 #C C paints the wooden structure with the paintbrush
+
+
+101 #C C paints the wooden structure with the paintbrush
+
+
+102 #C C wipes the wooden structure with the handkerchief sander
+
+
+103 #C C paints the wood frame with the brush
+
+
+104 #C C paints the wooden structure
+
+
+105 #C C paints the woodwork with the paint brush
+
+
+106 #C C wipes the wooden structure with a paint brush
+
+
+107 #C C wipes the wooden shelf with the paint brush
+
+
+108 #C C wipes the wooden structure with the cloth
+
+
+109 #C C scrubs the wooden structure with the paint brush
+
+
+110 #C C holds the paint can
+
+
+111 #C C paints the metal.
+
+
+112 #C C paints the wood on the wooden structure with a paint brush
+
+
+113 #C C wipes the wood
+
+
+114 #C C sands the wooden structure with the sand paper 
+
+
+115 #C C wipes the furniture with the handkerchief paint brush
+
+
+116 #C C wipes a wood
+
+
+117 #C C wipes the wood with the paint brush.
+
+
+118 #C C wipes the wooden structure with the paint cloth
+
+
+119 #C C removes a chisel from the wooden furniture
+
+
+120 #C C cleans the wooden box with the sandpaper
+
+
+121 #C C cleans the table with the sandpaper.
+
+
+122 #C C cleans the bench with the cloth
+
+
+123 #C C sits on the stool.
+
+
+124 #C C moves the chair
+
+
+125 #C C walks to the door 
+
+
+126 #C C places the basin on the ground
+
+
+127 #C C puts down the container
+
+
+128 #C C puts down a tin
+
+
+129 #C C walks towards the door.
+
+
+130 #C C holds the container
+
+
+131 #C C puts the tin of paint on the table
+
+
+132 #C C picks a tin
+
+
+133 #C C pours the paint in the container
+
+
+134 #C C hits the container with the brush
+
+
+135 #C C picks a container with paint
+
+
+136 #C C holds the container
+
+
+137 #C C picks a container
+
+
+138 #C C picks a scrapper from the stool
+
+
+139 #C C picks a brush from the floor
+
+
+140 #C C picks a brush from the floor
+
+
+141 #C C puts the brush in the paint tin
+
+
+142 #C C scoops the paint
+
+
+143 #C C dips the brush in the paint
+
+
+144 #C C cleans the brush
+
+
+145 #C C puts the brush in the paint
+
+
+146 #C C dips brush in the paint
+
+
+147 #C C wipes paint brush with a cloth
+
+
+148 #C C picks a brush on the paint container
+
+
+149 #C C puts down the paint brush
+
+
+150 #C C picks a container
+
+
+151 #C C picks a dustpan
+
+
+152 #C C walks towards the paint container.
+
+
+153 #C C drops the sand paper on the shelf with his left hand.
+
+
+154 #C C moves the container with the left hand
+
+
+155 #C C moves the paint container to the side of the wooden structure.
+
+
+156 #C C picks the paint brush from the wooden board
+
+
+157 #C C moves the brush to the left hand
+
+
+158 #C C places the container on the wooden structure
+
+
+159 #C C cleans the cupboard with the sponge
+
+
+160 #C C wipes the shelf with the piece of cloth.
+
+
+161 #C C wipes the table with the paint brush
+
+
+162 #C C wipes the furniture with the sponge
+
+
+163 #C C wipes the wooden bench with the cotton wool
+
+
+164 #C C removes the sand on the floor with a sandpaper
+
+
+165 #C C wipes the frame of wood with the cotton wool
+
+
+166 #C C pours the sand in the wood with the sandpaper. 
+
+
+167 #C C wipes the wall with the hand towel
+
+
+168 #C C wipes the wooden frame with a cloth
+
+
+169 #C C adds paint on the container
+
+
+170 #C C removes the paint from the brush with a container
+
+
+171 #C C pours the paint on the cup
+
+
+172 #C C pours the paint into the container with the paint brush.
+
+
+173 #C C spreads the paper on the table with a scraper in his right hand.
+
+
+174 #C C wipes a baseboard with a cotton wool
+
+
+175 #C C applies the dried paint on the shelf with the paint spray in his right hand.
+
+
+176 #C C wipes the shelf with a cotton wool
+
+
+177 #C C cleans the frame of wood with a sponge
+
+
+178 #C C wipes the corner of the carton with the paper towel
+
+
+179 #C C dusts the brown paper bag with his right hand.
+
+
+180 #C C sands the table with the sand paper.
+
+

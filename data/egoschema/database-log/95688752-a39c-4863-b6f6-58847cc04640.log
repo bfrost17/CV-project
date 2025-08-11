@@ -1,0 +1,540 @@
+1 #C C puts the vegetable in the plate
+
+
+2 #C C picks the broccoli
+
+
+3 #C C picks the peeled eggplant
+
+
+4 #C C places a plate of vegetables on the cabinet
+
+
+5 #C C puts the bowl on the table
+
+
+6 #C C picks the bowl
+
+
+7 #C C puts the plastic bowl on the countertop
+
+
+8 #C C takes the carrot
+
+
+9 #C C removes the garlic from the carrot
+
+
+10 #C C removes the carrot peel
+
+
+11 #C C picks the garlic
+
+
+12 #C C picks up the onion from the table
+
+
+13 #C C chops the carrot
+
+
+14 #C C cuts the onion
+
+
+15 #C C cuts the onion
+
+
+16 #C C picks the onion
+
+
+17 #C C cuts the onion.
+
+
+18 #C C cuts the onion
+
+
+19 #C C cuts the onion.
+
+
+20 #C C cuts the onion.
+
+
+21 #C C picks a knife
+
+
+22 #C C picks the peeler.
+
+
+23 #C C picks the garlic
+
+
+24 #C C cuts the onion
+
+
+25 #C C cuts the onion
+
+
+26 #C C picks a onion 
+
+
+27 #C C takes the peeler on the counter top
+
+
+28 #C C peels the garlic
+
+
+29 #C C removes the onion peel from the onion peeler
+
+
+30 #C C puts the onions on the chopping board.
+
+
+31 #C C peels the garlic
+
+
+32 #C C removes the garlic peel from the garlic peeler.
+
+
+33 #C C Picks onion skin
+
+
+34 #C C picks the onion
+
+
+35 #C C picks the spice
+
+
+36 #C C puts knife on the chopping board
+
+
+37 #C C picks the knife
+
+
+38 #C C picks the chopping board from the countertop
+
+
+39 #C C walks around the kitchen
+
+
+40 #C C throws the paper in the dustbin
+
+
+41 #C C picks a dustbin
+
+
+42 #C C switches the wire on
+
+
+43 #C C picks the board
+
+
+44 #C C stands up
+
+
+45 #C C picks the dust blower machine
+
+
+46 #C C puts the paper on the table
+
+
+47 #C C picks a cooking pot
+
+
+48 #C C picks a paper
+
+
+49 #C C picks a knife
+
+
+50 #C C picks the knife
+
+
+51 #C C picks the knife from the table
+
+
+52 #C C picks a plate
+
+
+53 #C C picks knife
+
+
+54 #C C cuts the onion
+
+
+55 #C C chops the onion
+
+
+56 #C C chops the vegetable 
+
+
+57 #C C cuts the garlic 
+
+
+58 #C C takes the onion 
+
+
+59 #C C cuts the onion
+
+
+60 #C C picks the onion 
+
+
+61 #C C cuts the onion
+
+
+62 #C C picks the onion pieces
+
+
+63 #C C cuts the onion
+
+
+64 #C C removes the onion peel 
+
+
+65 #C C picks the onion
+
+
+66 #C C cuts onion with the knife
+
+
+67 #C C cuts the onion
+
+
+68 #C C takes the onion
+
+
+69 #C C cuts onions on the chopping board
+
+
+70 #C C slices the onion
+
+
+71 #C C moves the onion pieces
+
+
+72 #C C holds the onion
+
+
+73 #C C wipes off the garlic
+
+
+74 #C C removes onion piece from the knife.
+
+
+75 #C C cuts onion
+
+
+76 #C C cuts the onion
+
+
+77 #C C cuts the onion 
+
+
+78 #C C cuts the onion 
+
+
+79 #C C puts a knife on the table
+
+
+80 #C C puts the peel in the bowl
+
+
+81 #C C removes the onion from the cutting board.
+
+
+82 #C C drops the onion peel on the chopping board
+
+
+83 #C C picks a piece of the onion
+
+
+84 #C C picks the onion
+
+
+85 #C C picks up the vegetables
+
+
+86 #C C picks a piece of avocado
+
+
+87 #C C picks a knife from the cabinet
+
+
+88 #C C cuts the tomato
+
+
+89 #C C cuts a tomato
+
+
+90 #C C cuts a tomato
+
+
+91 #C C cuts the tomato
+
+
+92 #C C cuts a tomato 
+
+
+93 #C C cuts the tomato
+
+
+94 #C C picks up another piece of the tomato
+
+
+95 #C C walks around the house.
+
+
+96 #C C walks towards the dustbin
+
+
+97 #C C removes the dust from the dust bin.
+
+
+98 #C C drops the dustbin
+
+
+99 #C C spreads the dustbin
+
+
+100 #C C removes the dustbin
+
+
+101 #C C holds the packet of sausage
+
+
+102 #C C removes the lid from the cup
+
+
+103 #C C puts the powder in the container
+
+
+104 #C C picks the paper
+
+
+105 #C C pours the powder in the container
+
+
+106 #C C removes the paper from the plastic container.
+
+
+107 #C C puts the salt in the container.
+
+
+108 #C C puts the dustbin on the dustbin
+
+
+109 #C C holds the lid 
+
+
+110 #C C walks to the kitchen sink
+
+
+111 #C C walks around the kitchen
+
+
+112 #C C picks the tomatoes
+
+
+113 #C C picks up the phone
+
+
+114 #C C wipes the table
+
+
+115 #C C puts down the knife
+
+
+116 #C C picks a pepper
+
+
+117 #C C picks a knife
+
+
+118 #C C picks the knife
+
+
+119 #C C picks the knife
+
+
+120 #C C cuts the tomato
+
+
+121 #C C cuts the pepper
+
+
+122 #C C picks the pepper
+
+
+123 #C C chops the pepper
+
+
+124 #C C picks the pepper
+
+
+125 #C C cuts a bell pepper
+
+
+126 #C C cuts the pepper
+
+
+127 #C C cuts the pepper
+
+
+128 #C C cuts the pepper
+
+
+129 #C C picks pepper
+
+
+130 #C C picks the ingredients 
+
+
+131 #C C cuts the ginger
+
+
+132 #C C cuts the pepper 
+
+
+133 #C C cuts the pepper
+
+
+134 #C C cuts the pepper
+
+
+135 #C C cuts the tomato
+
+
+136 #C C cuts the pepper
+
+
+137 #C C wipes the hand with the towel
+
+
+138 #C C picks the knife 
+
+
+139 #C C cuts the tomato
+
+
+140 #C C cuts the top of the green pepper
+
+
+141 #C C cuts the tomato
+
+
+142 #C C cuts the tomato
+
+
+143 #C C picks the knife 
+
+
+144 #C C cuts the pepper
+
+
+145 #C C cuts the pepper
+
+
+146 #C C cuts the pepper
+
+
+147 #C C cuts the pepper
+
+
+148 #C C picks a piece of pepper
+
+
+149 #C C picks up a piece of bell pepper
+
+
+150 #C C picks the pepper
+
+
+151 #C C picks the pieces of bell pepper
+
+
+152 #C C chops the pepper
+
+
+153 #C C cuts the tomato
+
+
+154 #C C cuts the tomato
+
+
+155 #C C cuts the raw garlic  with the knife
+
+
+156 #C C cuts the pepper.
+
+
+157 #C C cuts the pepper
+
+
+158 #C C picks the cut piece of bell pepper
+
+
+159 #C C cuts the pepper
+
+
+160 #C C cuts the pepper
+
+
+161 #C C cuts the tomato
+
+
+162 #C C cuts the tomato
+
+
+163 #C C cuts the pepper
+
+
+164 #C C cuts the tomato
+
+
+165 #C C picks pieces of pieces of tomatoes
+
+
+166 #C C picks the sliced tomatoes 
+
+
+167 #C C cuts the tomato
+
+
+168 #C C picks the pieces of pepper
+
+
+169 #C C cuts the pepper
+
+
+170 #C C cuts the tomatoes
+
+
+171 #C C cuts the tomato
+
+
+172 #C C takes the hot pepper pieces
+
+
+173 #C C cuts the garlic
+
+
+174 #C C cuts the garlic
+
+
+175 #C C drops the pieces of tomato
+
+
+176 #C C cuts the garlic
+
+
+177 #C C cuts the tomato
+
+
+178 #C C cuts the tomatoes
+
+
+179 #C C takes a piece of the tomato on the chopping board.
+
+
+180 #C C removes the tomato from the chopping board
+
+

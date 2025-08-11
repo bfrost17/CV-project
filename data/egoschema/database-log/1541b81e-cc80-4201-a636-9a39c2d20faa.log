@@ -1,0 +1,540 @@
+1 #C C opens the bottle cap
+
+
+2 #C C hangs the cloth on the sink
+
+
+3 #C C washes the cloth with the sponge
+
+
+4 #C C holds the washing cloth
+
+
+5 #C C removes the glove from the hand
+
+
+6 #C C picks a cloth
+
+
+7 #C C touches a camera
+
+
+8 #C C picks a washing brush from a bucket
+
+
+9 #C C opens washing machine
+
+
+10 #C C pushes the washing machine button
+
+
+11 #C C puts the soap in the washing machine
+
+
+12 #C C presses a washing machine button
+
+
+13 #C C presses the washing machine button
+
+
+14 #C C picks a washing machine
+
+
+15 #C C holds the mop machine
+
+
+16 #C C picks a cloth from the bucket with his right hand.
+
+
+17 #C C picks up a cloth
+
+
+18 #C C picks the clothes from the basket
+
+
+19 #C C puts the fabric on the floor
+
+
+20 #C C puts the cloth on the floor
+
+
+21 #C C picks the bucket 
+
+
+22 #C C puts the washing machine down
+
+
+23 #C C moves the washing machine
+
+
+24 #C C takes a washing machine from the washing machine
+
+
+25 #C C removes a cloth from the washing machine
+
+
+26 #C C moves a machine on the lift
+
+
+27 #C C puts the water bottle on the floor
+
+
+28 #C C walks out of the house
+
+
+29 #C C picks the clothes
+
+
+30 #C C picks a cloth
+
+
+31 #C C picks the cloth
+
+
+32 #C C walks in the compound
+
+
+33 #C C walks to a door.
+
+
+34 #C C walks towards a room.
+
+
+35 #C C walks around the house
+
+
+36 #C C moves the towel to the right hand
+
+
+37 #C C picks the bag from the bed 
+
+
+38 #C C picks a cloth from the bed with her right hand.
+
+
+39 #C C pulls the curtain 
+
+
+40 #C C picks a cloth
+
+
+41 #C C picks the cloth
+
+
+42 #C C touches the mat
+
+
+43 #C C puts the cloth on the staircase
+
+
+44 #C C picks a cloth 
+
+
+45 #C C moves the fabric
+
+
+46 #C C picks the cloth
+
+
+47 #C C picks a blanket
+
+
+48 #C C walks around the room
+
+
+49 #C C picks the shopping bag
+
+
+50 #C C walks around the room
+
+
+51 #C C picks the cleaning mat
+
+
+52 #C C puts the cloth on the chair
+
+
+53 #C C picks a toilet seat with his left hand.
+
+
+54 #C C walks towards the sink
+
+
+55 #C C puts cloth on a lid
+
+
+56 #C C drops the cloth
+
+
+57 #C C picks the cloth
+
+
+58 #C C picks a socket from a bed with his left hand.
+
+
+59 #C C picks a hat
+
+
+60 #C C walks to a kitchen.
+
+
+61 #C C walks around the kitchen
+
+
+62 #C C walks towards the kitchen from the window.
+
+
+63 #C C walks towards the door.
+
+
+64 #C C walks around the room
+
+
+65 #O A woman X walks in the house
+
+
+66 #O woman A moves to the kitchen
+
+
+67 #O person X walks in the house
+
+
+68 #C C holds the spoon on the burner
+
+
+69 #C C picks the herbs from the pan
+
+
+70 #C C stirs the food with the stick 
+
+
+71 #C C picks a glass lid
+
+
+72 #C C moves a hand
+
+
+73 #C C walks towards the fridge
+
+
+74 #C C picks a pot from a pot cover with her right hand.
+
+
+75 #C C picks a plastic container
+
+
+76 #C C moves the door with the right hand
+
+
+77 #C C walks to the cabinet
+
+
+78 #C C picks the trash bag
+
+
+79 #C C carries the bag of rice from the floor with both hands.
+
+
+80 #C C touches the door to the room.
+
+
+81 #C C moves the paper on the floor with her right hand.
+
+
+82 #C C picks the chair.
+
+
+83 #C C picks a tray from the shelf with her right hand.
+
+
+84 #C C picks up the plastic tray.
+
+
+85 #C C puts the bucket on the table
+
+
+86 #C C picks a folding carton on the floor
+
+
+87 #C C walks around
+
+
+88 #O a woman X walks away
+
+
+89 #C C drops the wooden ladle in the pan
+
+
+90 #C C picks the grater from the pan
+
+
+91 #C C lifts a lid
+
+
+92 #C C picks up the container
+
+
+93 #C C puts the plastic in the bowl
+
+
+94 #C C picks the cup
+
+
+95 #C C picks a blender from the cabinet top
+
+
+96 #C C picks up a container from the countertop
+
+
+97 #C C picks a container of spices from the kitchen countertop with his right hand.
+
+
+98 #C C picks a container
+
+
+99 #C C picks a lid from the table
+
+
+100 #C C Moves a tin
+
+
+101 #C C picks a bowl
+
+
+102 #C C picks a plastic bowl
+
+
+103 #C C picks a cup from the kitchen counter
+
+
+104 #C C picks the lid
+
+
+105 #C C picks the tin
+
+
+106 #C C picks a bowl
+
+
+107 #C C picks the bowl
+
+
+108 #C C picks the lid of the bowl of tea on the cabinet with her left hand.
+
+
+109 #C C picks a bowl
+
+
+110 #C C takes a bowl
+
+
+111 #C C moves the bowl 
+
+
+112 #C C picks a container
+
+
+113 #C C picks the blender from the sink
+
+
+114 #C C picks a bowl
+
+
+115 #C C picks a lid
+
+
+116 #C C takes lid
+
+
+117 #C C pours the content of the pan on the stove. 
+
+
+118 #C C puts the ingredients in the bowl
+
+
+119 #C C pours the ingredients in the pot
+
+
+120 #C C pours the spice in the pot
+
+
+121 #C C pours the flour in the spoon into the bowl
+
+
+122 #C C puts the contents of the sieve in the bowl
+
+
+123 #C C adds salt to the food
+
+
+124 #C C takes the jar
+
+
+125 #C C moves the hand
+
+
+126 #C C picks a container
+
+
+127 #C C puts the lid on the plate
+
+
+128 #C C puts the spayda in the cooking pan
+
+
+129 #C C pours the chili pepper from the spoon into the pan
+
+
+130 #C C adds the spice to the pan.
+
+
+131 #C C adds water in the sauce.
+
+
+132 #C C pours the oil from the pot to the pan
+
+
+133 #C C pours the salt in the pan
+
+
+134 #C C pours the liquid in the pan
+
+
+135 #C C pours the ingredients into the pot
+
+
+136 #C C pours the salt into the pot
+
+
+137 #C C puts the lid on the tray
+
+
+138 #C C picks a jar on the kitchen counter
+
+
+139 #C C picks up a container
+
+
+140 #C C picks the paper
+
+
+141 #C C picks a container
+
+
+142 #C C picks a towel
+
+
+143 #C C puts the vegetables in the pan
+
+
+144 #C C stirs the vegetables with the spoon
+
+
+145 #C C stirs the food 
+
+
+146 #C C stirs the food
+
+
+147 #C C shakes the pan
+
+
+148 #C C stirs the vegetables with the spoon
+
+
+149 #C C puts down the bowl
+
+
+150 #C C walks around the house
+
+
+151 #C C picks a water jug
+
+
+152 #C C picks water flask
+
+
+153 #C C puts the cup on the wall
+
+
+154 #C C puts down the glass 
+
+
+155 #C C moves the plate
+
+
+156 #C C picks the glass
+
+
+157 #C C removes a lid from the container
+
+
+158 #C C picks the cup
+
+
+159 #C C picks the cooking stick on the cooker
+
+
+160 #C C picks the tong from the cooker with her right hand.
+
+
+161 #C C puts cooking pot down
+
+
+162 #C C picks a rag from a kitchen countertop with her right hand.
+
+
+163 #C C puts the vegetable in the basin 
+
+
+164 #C C picks a lid from the table
+
+
+165 #C C puts down the bowl
+
+
+166 #C C puts the knife on the tray
+
+
+167 #C C moves the bowl
+
+
+168 #C C picks the bowl
+
+
+169 #C C puts the sieve down
+
+
+170 #C C picks a jug
+
+
+171 #C C picks a paper
+
+
+172 #C C picks up the tray
+
+
+173 #C C moves the pot
+
+
+174 #C C picks a cup lid
+
+
+175 #C C picks a packet of water
+
+
+176 #C C drops bottle on the cabinet
+
+
+177 #C C picks the lid
+
+
+178 #C C closes the bottle
+
+
+179 #C C places the food on the cooker
+
+
+180 #C C places the metal rod on the cooker with her left hand.
+
+

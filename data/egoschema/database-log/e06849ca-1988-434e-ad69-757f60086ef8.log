@@ -1,0 +1,540 @@
+1 #C C picks a card
+
+
+2 #O a lady X picks the card.
+
+
+3 #C C plays card
+
+
+4 #O a woman A  picks a peg.
+
+
+5 #C C picks a card
+
+
+6 #O a lady X picks a token
+
+
+7 #O a woman A  plays the game.
+
+
+8 #O A woman A  places down a card.
+
+
+9 #O a man X places the tile on the table
+
+
+10 #O A woman X picks the token 
+
+
+11 #C C plays the cards.
+
+
+12 #O a lady X picks the pawn
+
+
+13 #O a person P plays the game
+
+
+14 #O A woman D moves the token.
+
+
+15 #O person L picks the card.
+
+
+16 #O a lady X picks a card.
+
+
+17 #C C picks a card from the table.
+
+
+18 #O a lady X places the card on the mat.
+
+
+19 #C C picks a card.
+
+
+20 #O a woman A  plays a bad card.
+
+
+21 #C C plays the card.
+
+
+22 #O a lady X plays the card
+
+
+23 #O A woman A  plays a bad
+
+
+24 #O A woman X holds the cards.
+
+
+25 #C C puts the tile down
+
+
+26 #C C puts the card down.
+
+
+27 #C C plays the C-c entourage
+
+
+28 #C C moves the token.
+
+
+29 #C C plays the rougus game
+
+
+30 #O A man X plays 
+
+
+31 #O A woman A plays the game
+
+
+32 #C C plays the board game
+
+
+33 #C C picks the card.
+
+
+34 #C C plays card
+
+
+35 #C C plays card.
+
+
+36 #C C holds the cards
+
+
+37 #C C places a card on her partner's board
+
+
+38 #C C picks a card
+
+
+39 #C C picks cards 
+
+
+40 #O A woman A picks the token.
+
+
+41 #C C plays the cottery 
+
+
+42 #C C plays 
+
+
+43 #C C puts the tile down
+
+
+44 #C C holds the cards
+
+
+45 #C C moves the token on the board.
+
+
+46 #C C moves the meeple 
+
+
+47 #C C picks the cards.
+
+
+48 #O a lady X plays a game
+
+
+49 #O a lady X picks the card.
+
+
+50 #C C plays the Scorch board game
+
+
+51 #C C picks a pawn
+
+
+52 #C C drops the dice
+
+
+53 #C C moves the  card.
+
+
+54 #C C moves the star.
+
+
+55 #C C plays 
+
+
+56 #O a lady X picks the card
+
+
+57 #C C plays the tile 
+
+
+58 #C C moves the dice.
+
+
+59 #C C picks the cards.
+
+
+60 #C C moves the card.
+
+
+61 #C C plays card
+
+
+62 #C C picks the cards
+
+
+63 #C C picks the card
+
+
+64 #C C places the card on the table.
+
+
+65 #C C picks the card
+
+
+66 #C C picks card
+
+
+67 #C C  drops down a card.
+
+
+68 #C C picks a card. 
+
+
+69 #C C picks a card
+
+
+70 #C C picks a card. 
+
+
+71 #C C picks a token.
+
+
+72 #C C picks a token
+
+
+73 #C C places the meeple in the game board
+
+
+74 #C C picks the tile.
+
+
+75 #C C picks the card.
+
+
+76 #C C moves the cards.
+
+
+77 #C C  picks the card.
+
+
+78 #C C puts the peg on the board
+
+
+79 #C C  picks up the card.
+
+
+80 #O a woman A  plays the game.
+
+
+81 #O A man A picks the card.
+
+
+82 #O a woman A  picks up a tile.
+
+
+83 #O a woman A  picks up the token.
+
+
+84 #C C plays the poker
+
+
+85 #C C picks the card.
+
+
+86 #C C plays Carcassonne board game with a card
+
+
+87 #C C plays the Dorr round
+
+
+88 #C C picks the cards
+
+
+89 #C C plays the game
+
+
+90 #C C picks a card.
+
+
+91 #C C picks the card.
+
+
+92 #C C  picks a card.
+
+
+93 #C C puts the cards down
+
+
+94 #C C plays the poker game 
+
+
+95 #C C  holds the cards.
+
+
+96 #C C plays sorry game
+
+
+97 #C C moves the cards
+
+
+98 #C C moves cards
+
+
+99 #C C picks up cards.
+
+
+100 #C C plays the card.
+
+
+101 #C C  picks up a card.
+
+
+102 #C C plays card
+
+
+103 #C C plays cards.
+
+
+104 #C C holds the cards
+
+
+105 #C C plays Carcassonne board game with person A, B and C
+
+
+106 #O a lady X picks the card
+
+
+107 #O a lady X picks a card.
+
+
+108 #O a lady X picks a card.
+
+
+109 #O a man A  holds the cards 
+
+
+110 #C C picks the card.
+
+
+111 #C C picks the token
+
+
+112 #O person X picks up the card
+
+
+113 #O A lady X holds the card.
+
+
+114 #C C picks the tile 
+
+
+115 #C C plays the card.
+
+
+116 #C C picks the tiles 
+
+
+117 #C C picks the token
+
+
+118 #C C plays 
+
+
+119 #C C plays 
+
+
+120 #C C looks at the game board.
+
+
+121 #C C picks the card
+
+
+122 #C C plays card game
+
+
+123 #C C picks the token
+
+
+124 #C C picks a marker pen
+
+
+125 #C C picks a die.
+
+
+126 #C C plays 
+
+
+127 #O a woman A  plays the game.
+
+
+128 #O a lady X plays the board game
+
+
+129 #O a lady X puts the meeple in the board
+
+
+130 #C C moves the token
+
+
+131 #C C plays Carcassonne board game with person A
+
+
+132 #C C picks the card.
+
+
+133 #O a woman A picks a card
+
+
+134 #C C picks up the card.
+
+
+135 #C C plays the baddock
+
+
+136 #C C moves the token
+
+
+137 #C C plays card
+
+
+138 #C C picks the cards
+
+
+139 #C C  holds a card.
+
+
+140 #O A woman B picks a card
+
+
+141 #O a lady X places the card on the table.
+
+
+142 #O a man P picks up a white pawn
+
+
+143 #C C moves the cards
+
+
+144 #C C moves the cards.
+
+
+145 #O a lady X counts the cards
+
+
+146 #C C looks at the cards.
+
+
+147 #C C picks the token
+
+
+148 #C C picks the tiles 
+
+
+149 #C C picks the token
+
+
+150 #O a woman A  plays 
+
+
+151 #C C picks the token.
+
+
+152 #C C picks a card.
+
+
+153 #C C moves the token on the board
+
+
+154 #C C picks a card.
+
+
+155 #C C picks a card.
+
+
+156 #C C  holds a tile.
+
+
+157 #O a woman A  picks up a token.
+
+
+158 #C C picks a token.
+
+
+159 #O a woman D  plays the card.
+
+
+160 #C C puts the card on the board
+
+
+161 #C C picks the card
+
+
+162 #C C picks a card.
+
+
+163 #C C picks a card.
+
+
+164 #C C picks the card
+
+
+165 #O a woman A  plays a game.
+
+
+166 #O a lady X picks a card from the table
+
+
+167 #O A woman D picks the card.
+
+
+168 #O a lady Y picks a card
+
+
+169 #C C plays card game
+
+
+170 #C C plays 
+
+
+171 #O a woman B picks a card.
+
+
+172 #O a lady X plays the card.
+
+
+173 #O a woman A  plays a game.
+
+
+174 #O a woman A  picks up a card.
+
+
+175 #O a woman A  picks up the dice.
+
+
+176 #O a woman A moves the chessman.
+
+
+177 #C C picks the tile.
+
+
+178 #C C moves the peg.
+
+
+179 #O A woman D  picks a tile 
+
+
+180 #C C picks the token
+
+

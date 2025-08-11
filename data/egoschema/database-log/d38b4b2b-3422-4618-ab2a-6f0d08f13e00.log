@@ -1,0 +1,540 @@
+1 #C C watches a television
+
+
+2 #C C watches television
+
+
+3 #C C watches television
+
+
+4 #C C watches television
+
+
+5 #C C watches television
+
+
+6 #C C watches a television
+
+
+7 #C C watches a movie
+
+
+8 #C C watches a television
+
+
+9 #C C watches a television
+
+
+10 #C C watches a movie
+
+
+11 #C C watches a movie
+
+
+12 #C C watches a television
+
+
+13 #C C touches his face
+
+
+14 #C C watches a movie in the television
+
+
+15 #C C operates a phone
+
+
+16 #C C scrolls through a phone
+
+
+17 #C C operates the phone
+
+
+18 #C C scrolls the phone.
+
+
+19 #C C touches the phone screen
+
+
+20 #C C scrolls the phone
+
+
+21 #C C puts the phone on the table 
+
+
+22 #C C holds a phone on his thigh
+
+
+23 #C C uses phone
+
+
+24 #C C scrolls the phone
+
+
+25 #C C scrolls the phone
+
+
+26 #C C uses phone
+
+
+27 #C C scrolls on the phone
+
+
+28 #C C operates the phone
+
+
+29 #C C uses phone
+
+
+30 #C C scrolls on the phone
+
+
+31 #C C scrolls the phone
+
+
+32 #C C scrolls through the phone
+
+
+33 #C C scrolls the phone
+
+
+34 #C C watches a movie.
+
+
+35 #C C watches a movie.
+
+
+36 #C C scrolls the phone
+
+
+37 #C C scrolls a phone
+
+
+38 #C C scrolls on the phone
+
+
+39 #C C watches a video on the phone
+
+
+40 #C C scrolls the phone.
+
+
+41 #C C scrolls the phone
+
+
+42 #C C picks a phone
+
+
+43 #C C puts the phone on the bed
+
+
+44 #C C scrolls the phone
+
+
+45 #C C scrolls the phone
+
+
+46 #C C scrolls the phone
+
+
+47 #C C scrolls a phone
+
+
+48 #C C scrolls the phone
+
+
+49 #C C scrolls a phone
+
+
+50 #C C scrolls the phone
+
+
+51 #C C scrolls through the phone
+
+
+52 #C C scrolls the phone
+
+
+53 #C C scrolls the phone with his right hand.
+
+
+54 #C C scrolls the phone
+
+
+55 #C C scrolls the phone with her right thumb
+
+
+56 #C C scrolls the phone
+
+
+57 #C C scrolls the phone
+
+
+58 #C C scrolls the phone 
+
+
+59 #C C scrolls the phone
+
+
+60 #C C operates the phone with his left hand
+
+
+61 #C C scrolls the phone
+
+
+62 #C C scrolls the phone
+
+
+63 #C C scrolls the phone
+
+
+64 #C C scrolls the screen
+
+
+65 #C C scrolls the phone
+
+
+66 #C C scrolls the phone
+
+
+67 #C C scrolls the phone
+
+
+68 #C C scrolls the phone
+
+
+69 #C C scrolls the phone
+
+
+70 #C C scrolls the phone
+
+
+71 #C C scrolls the phone
+
+
+72 #C C scrolls the phone
+
+
+73 #C C scrolls the phone
+
+
+74 #C C scrolls the phone
+
+
+75 #C C scrolls the phone
+
+
+76 #C C scrolls the phone
+
+
+77 #C C scrolls the phone with his right hand
+
+
+78 #C C scrolls the phone with the right thumb
+
+
+79 #C C scrolls the phone
+
+
+80 #C C scrolls the phone
+
+
+81 #C C scrolls a phone
+
+
+82 #C C scrolls the phone
+
+
+83 #C C scrolls the phone with his right thumb 
+
+
+84 #C C scrolls the phone
+
+
+85 #C C scrolls the phone
+
+
+86 #C C scrolls the phone with his right thumb
+
+
+87 #C C swipes a screen with a finger
+
+
+88 #C C scrolls the phone
+
+
+89 #C C scrolls the phone
+
+
+90 #C C scrolls the phone
+
+
+91 #C C scrolls the phone
+
+
+92 #C C scrolls the phone
+
+
+93 #C C scrolls the phone 
+
+
+94 #C C scrolls the phone
+
+
+95 #C C scrolls the phone
+
+
+96 #C C types on a phone 
+
+
+97 #C C scrolls the phone
+
+
+98 #C C holds a phone with both hands
+
+
+99 #C C picks a phone on the sofa
+
+
+100 #C C  stares at the floor
+
+
+101 #C C looks around the room
+
+
+102 #C C moves around the room
+
+
+103 #C C walks around the house 
+
+
+104 #C C walks to the table
+
+
+105 #C C walks towards a kitchen.
+
+
+106 #C C walks towards the kitchen.
+
+
+107 #C C enters the staircase.
+
+
+108 #C C climbs up the stairs
+
+
+109 #C C walks upstairs
+
+
+110 #O A man K walks down the staircase
+
+
+111 #C C moves a round
+
+
+112 #C C walks in the room
+
+
+113 #C C walks into the room
+
+
+114 #C C walks back to the kitchen
+
+
+115 #C C walks around the house
+
+
+116 #C C picks a box
+
+
+117 #C C puts the bucket in the container
+
+
+118 #C C moves the bucket with the leaves
+
+
+119 #C C puts the  bucket on the floor
+
+
+120 #C C walks towards the sink 
+
+
+121 #C C walks to the other side
+
+
+122 #C C enters the room
+
+
+123 #C C walks around the house
+
+
+124 #C C walks on the corridor
+
+
+125 #C C places the door on the wall.
+
+
+126 #O A man Y walks down the stairs
+
+
+127 #O A man X climbs up the stairs
+
+
+128 #O A man Y sits on a staircase
+
+
+129 #C C moves around the staircase 
+
+
+130 #C C walks to the bathroom
+
+
+131 #C C walks around the house
+
+
+132 #C C walks into the bedroom
+
+
+133 #C C walks into a room.
+
+
+134 #C C walks around the house
+
+
+135 #C C walks around
+
+
+136 #C C picks up a bedsheet
+
+
+137 #C C puts the cloth aside
+
+
+138 #C C picks a packet of brown paper from a floor
+
+
+139 #C C picks up the nylon from the cabinet.
+
+
+140 #C C walks to the other room
+
+
+141 #C C moves around
+
+
+142 #C C walks around the room
+
+
+143 #C C puts the cloth in the bed
+
+
+144 #C C picks a phone from a bed.
+
+
+145 #C C removes a cloth from the bag
+
+
+146 #C C removes cloth from the clothes rack
+
+
+147 #C C picks the clothes
+
+
+148 #C C walks around
+
+
+149 #C C turns a bedsheet
+
+
+150 #C C walks around the room
+
+
+151 #C C picks a pillow
+
+
+152 #C C walks around the bed
+
+
+153 #C C walks around the room
+
+
+154 #C C walks around the bed
+
+
+155 #C C picks a pillow from the bed 
+
+
+156 #C C picks a pillow 
+
+
+157 #C C walks around the room
+
+
+158 #C C puts pillow in the bed
+
+
+159 #C C picks a cloth
+
+
+160 #C C picks a phone
+
+
+161 #C C picks the clip board from the table
+
+
+162 #C C picks the pillow
+
+
+163 #C C picks the cloth from the bed.
+
+
+164 #C C walks around the room
+
+
+165 #C C walks around the room
+
+
+166 #C C walks around the room
+
+
+167 #C C takes a cloth
+
+
+168 #C C walks around the room
+
+
+169 #C C walks around
+
+
+170 #C C walks around the room
+
+
+171 #C C walks around the room
+
+
+172 #C C opens the bag
+
+
+173 #C C walks around the house
+
+
+174 #C C walks around the room
+
+
+175 #C C walks to the laundry room.
+
+
+176 #C C picks a pillow
+
+
+177 #C C picks a bedsheet
+
+
+178 #C C places a bag on a bed
+
+
+179 #C C  picks up a cloth
+
+
+180 #C C picks a clothes
+
+

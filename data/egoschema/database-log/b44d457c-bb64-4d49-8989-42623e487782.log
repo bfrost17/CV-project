@@ -1,0 +1,540 @@
+1 #C C wipes the book with the cloth
+
+
+2 #C C wipes the book
+
+
+3 #C C picks a cloth
+
+
+4 #C C puts the book on the floor
+
+
+5 #C C picks the book
+
+
+6 #C C opens a book
+
+
+7 #C C places the cloth on his thigh
+
+
+8 #C C wipes the book with the cloth
+
+
+9 #C C wipes the book with the cloth in his right hand.
+
+
+10 #C C picks the cloth
+
+
+11 #C C flips through the book in his left hand.
+
+
+12 #C C wipes the book with the rag in his right hand.
+
+
+13 #C C drops the cloth on his legs with his right hand.
+
+
+14 #C C wipes book with rag
+
+
+15 #C C picks a rag from the stack of towels on the floor with his right hand.
+
+
+16 #C C picks the books
+
+
+17 #C C opens the book with his hands.
+
+
+18 #C C flips through the book with his hands.
+
+
+19 #C C flips the book.
+
+
+20 #C C puts the cloth on the laps
+
+
+21 #C C wipes the book with the cloth in his right hand.
+
+
+22 #C C wipes the book with the cloth in his right hand.
+
+
+23 #C C wipes the book with the cloth
+
+
+24 #C C flips the pages of the book
+
+
+25 #C C opens the book page
+
+
+26 #C C picks the book from the ground
+
+
+27 #C C picks the book from the stool
+
+
+28 #C C opens the book
+
+
+29 #C C picks a rag
+
+
+30 #C C wipes book
+
+
+31 #C C picks the cloth
+
+
+32 #C C wipes the book with a cloth
+
+
+33 #C C picks the cloth from his legs with his left hand.
+
+
+34 #C C picks the book
+
+
+35 #C C places the book on another
+
+
+36 #C C picks the book from the ground
+
+
+37 #C C picks the books
+
+
+38 #C C picks the book
+
+
+39 #C C holds the books with both hands
+
+
+40 #C C flips the book pages
+
+
+41 #C C opens the book
+
+
+42 #C C flips the book with his left hand.
+
+
+43 #C C flips pages of the book with his left hand.
+
+
+44 #C C opens the book
+
+
+45 #C C moves the books on the carton with his hands
+
+
+46 #C C picks a book from the floor
+
+
+47 #C C opens the book with his hands.
+
+
+48 #C C flips a page
+
+
+49 #C C picks the book
+
+
+50 #C C flips a book
+
+
+51 #C C opens the book pages
+
+
+52 #C C picks a cloth
+
+
+53 #C C wipes the book with the cloth
+
+
+54 #C C wipes the book with the cloth
+
+
+55 #C C wipes the book with the cloth
+
+
+56 #C C places the cloth on the legs
+
+
+57 #C C opens the book pages
+
+
+58 #C C peruses the book
+
+
+59 #C C reads a book
+
+
+60 #C C reads a book
+
+
+61 #C C reads the book
+
+
+62 #C C reads a book
+
+
+63 #C C holds the book with his left hand
+
+
+64 #C C flips pages of the book
+
+
+65 #C C flips through the pages of the book
+
+
+66 #C C reads a book
+
+
+67 #C C flips the book
+
+
+68 #C C picks a cloth
+
+
+69 #C C Holds a card
+
+
+70 #C C wipes the book with the towel
+
+
+71 #C C Holds the book with both hands
+
+
+72 #C C flips the book page
+
+
+73 #C C flips the page
+
+
+74 #C C turns the book page
+
+
+75 #C C opens the book pages
+
+
+76 #C C flips pages of the book
+
+
+77 #C C flips a book
+
+
+78 #C C picks book
+
+
+79 #C C flips through the book
+
+
+80 #C C flips the book
+
+
+81 #C C opens the book with his hands.
+
+
+82 #C C flips through the book
+
+
+83 #C C flips a book page 
+
+
+84 #C C turns the book pages
+
+
+85 #C C picks the book from the floor with his left hand.
+
+
+86 #C C flips the book 
+
+
+87 #C C opens book
+
+
+88 #C C opens the book
+
+
+89 #C C opens the book 
+
+
+90 #C C picks the book
+
+
+91 #C C picks a rag
+
+
+92 #C C wipes the book with the cloth
+
+
+93 #C C wipes the book with the cloth
+
+
+94 #C C wipes the book
+
+
+95 #C C wipes the book
+
+
+96 #C C picks a book
+
+
+97 #C C wipes the book with the cloth in his right hand.
+
+
+98 #C C wipes the book
+
+
+99 #C C wipes the book with the cloth
+
+
+100 #C C picks a rag
+
+
+101 #C C wipes book with cloth 
+
+
+102 #C C wipes the book with the cloth
+
+
+103 #C C picks the book
+
+
+104 #C C picks the book
+
+
+105 #C C places the book on the floor 
+
+
+106 #C C places the book on the laps
+
+
+107 #C C wipes the book with the rag
+
+
+108 #C C wipes book with towel
+
+
+109 #C C wipes the book with the cloth
+
+
+110 #C C wipes the book with the cloth
+
+
+111 #C C wipes the book with the cloth 
+
+
+112 #C C puts the cloth in his right hand in the bookshelf.
+
+
+113 #C C picks a cloth 
+
+
+114 #C C wipes the book with the cloth in his right hand.
+
+
+115 #C C picks the book with his hands
+
+
+116 #C C opens the book pages
+
+
+117 #C C opens a book
+
+
+118 #C C opens the book
+
+
+119 #C C picks the cloth
+
+
+120 #C C wipes the book with the cloth
+
+
+121 #C C picks the book
+
+
+122 #C C picks the book
+
+
+123 #C C opens the book
+
+
+124 #C C opens the book
+
+
+125 #C C removes the book cover from the book with his right hand.
+
+
+126 #C C wipes the book
+
+
+127 #C C opens the book
+
+
+128 #C C opens the book
+
+
+129 #C C flips through the book
+
+
+130 #C C picks the rag from his lap with his right hand.
+
+
+131 #C C wipes the book with a cloth
+
+
+132 #C C moves the book
+
+
+133 #C C flips through the book with his hands.
+
+
+134 #C C opens the book with his hands.
+
+
+135 #C C flips through the book
+
+
+136 #C C puts the book on the floor 
+
+
+137 #C C wipes the book with the cloth
+
+
+138 #C C picks the book
+
+
+139 #C C drops the book on the floor
+
+
+140 #C C picks the books
+
+
+141 #C C opens a book
+
+
+142 #C C opens a book
+
+
+143 #C C opens the book pages
+
+
+144 #C C opens the book
+
+
+145 #C C opens the book pages
+
+
+146 #C C opens the book
+
+
+147 #C C opens the book
+
+
+148 #C C picks the towel
+
+
+149 #C C wipes the book with the cloth in his right hand.
+
+
+150 #C C wipes the book with the cloth 
+
+
+151 #C C picks the book 
+
+
+152 #C C opens the book
+
+
+153 #C C opens the book
+
+
+154 #C C opens the book with his right hand.
+
+
+155 #C C opens the book with his left hand.
+
+
+156 #C C holds the book with both hands.
+
+
+157 #C C drops the book on his legs on the ground.
+
+
+158 #C C wipes the book with the cloth
+
+
+159 #C C wipes the book with the cloth
+
+
+160 #C C wipes the book with the cloth
+
+
+161 #C C picks the rag
+
+
+162 #C C opens the book with his right hand.
+
+
+163 #C C picks the book
+
+
+164 #C C picks up the book
+
+
+165 #C C flips the book
+
+
+166 #C C opens the book
+
+
+167 #C C opens the book
+
+
+168 #C C removes the book from the book on the floor with his right hand.
+
+
+169 #C C picks up the paper
+
+
+170 #C C puts the book on the floor
+
+
+171 #C C flips pages
+
+
+172 #C C flips the book pages
+
+
+173 #C C flips the pages
+
+
+174 #C C holds the book with his hands.
+
+
+175 #C C reads the book
+
+
+176 #C C opens the book with his left hand.
+
+
+177 #C C flips the pages of the book
+
+
+178 #C C picks up the book
+
+
+179 #C C wipes the book with the cloth
+
+
+180 #C C wipes the book with the rag
+
+

@@ -1,0 +1,540 @@
+1 #C C picks a basin
+
+
+2 #O The man Y holds a brick in his left hand.
+
+
+3 #C C looks around
+
+
+4 #O The man M picks the cement from the head pan with his right hand.
+
+
+5 #O The man A walks towards the man B.
+
+
+6 #C C walks to a scaffolding with the bamboo sticks in his hands.
+
+
+7 #C C walks around the construction site
+
+
+8 #C C walks around the construction site
+
+
+9 #C C walks around the construction site
+
+
+10 #C C walks in the building
+
+
+11 #C C walks towards the wall
+
+
+12 #C C puts the basin down
+
+
+13 #C C walks around the room
+
+
+14 #C C walks to a wall.
+
+
+15 #C C looks around the building
+
+
+16 #O A man A holds a can of soda with his right hand.
+
+
+17 #O The man B holds a bucket of cement with his left hand.
+
+
+18 #O The man A holds a shovel in his right hand.
+
+
+19 #C C turns around
+
+
+20 #O The man E holds the scaffolding with his hands.
+
+
+21 #O The man B hits the plank of wood with the foam in his right hand.
+
+
+22 #C C walks around the building
+
+
+23 #C C picks a jug
+
+
+24 #C C puts water in the bucket
+
+
+25 #C C walks around
+
+
+26 #C C puts the jug on the ground
+
+
+27 #C C pours water in the basin
+
+
+28 #C C pours water in the basin
+
+
+29 #C C pours the water from the bowl in his left hand into the head pan on the floor.
+
+
+30 #C C pours water from the jug in his right hand in the bowl on the floor. 
+
+
+31 #C C picks the bucket from the ground with both hands.
+
+
+32 #C C picks a jug
+
+
+33 #C C picks a jug
+
+
+34 #C C picks a plastic drum
+
+
+35 #C C picks a jug
+
+
+36 #C C pours water on the cement pan
+
+
+37 #C C pours the water from the bowl in his right hand on the concrete in the head pan on the ground.
+
+
+38 #C C pours cement on the cement bowl
+
+
+39 #C C picks a bowl of cement
+
+
+40 #C C walks around the room
+
+
+41 #C C fetches water from a drum in the cement mixer with his right hand.
+
+
+42 #C C puts the jug in the bucket
+
+
+43 #C C walks around the construction site
+
+
+44 #C C walks around
+
+
+45 #C C looks around
+
+
+46 #C C walks around
+
+
+47 #C C puts down the basin 
+
+
+48 #C C picks the bucket
+
+
+49 #C C picks a trowel on the floor
+
+
+50 #C C drops the trowel in the tray
+
+
+51 #C C pours cement in the basin
+
+
+52 #C C scoops cement from the basin
+
+
+53 #C C mixes cement in a basin
+
+
+54 #C C puts cement in basin with the trowel
+
+
+55 #C C walks towards the wall
+
+
+56 #O The man B walks to the wall.
+
+
+57 #O Person Z looks around
+
+
+58 #C C turns around
+
+
+59 #C C moves around
+
+
+60 #C C picks a cement bag
+
+
+61 #C C moves around
+
+
+62 #C C looks around the construction site 
+
+
+63 #C C puts the trowel on the floor
+
+
+64 #C C scoops cement with his hand
+
+
+65 #C C removes the cement from the bag
+
+
+66 #C C pours the cement from the bag of cement in his left hand into the head pan. 
+
+
+67 #C C pours the cement in the sack
+
+
+68 #C C pours cement in the cement bag
+
+
+69 #C C pours the cement in the mortar
+
+
+70 #C C pours the cement into the water on the ground.
+
+
+71 #C C pours the cement in the cement mixing tray
+
+
+72 #C C scoops cement with a trowel
+
+
+73 #C C scoops cement with the trowel
+
+
+74 #C C puts the cement in the bucket
+
+
+75 #C C pours the cement in the basin
+
+
+76 #C C pours the cement in the cement mixing bowl with his hands.
+
+
+77 #C C picks the cement from the sack
+
+
+78 #C C scoops cement with his hand
+
+
+79 #C C scoops cement from the sack
+
+
+80 #C C picks cement
+
+
+81 #C C pours the cement on the cement bowl
+
+
+82 #C C pours the cement in the cement pan
+
+
+83 #C C scoops cement from the sack with his right hand.
+
+
+84 #C C scoops cement from the sack with his hands.
+
+
+85 #C C scoops cement with hands
+
+
+86 #C C holds the sack with his hands
+
+
+87 #C C pours the cement on the basin
+
+
+88 #C C pours the sand from the hand trowel into the cement in the basin.
+
+
+89 #C C picks the cement bag
+
+
+90 #C C scoops cement
+
+
+91 #C C picks basin 
+
+
+92 #O The man B places the basin on the ground with his right hand.
+
+
+93 #C C pours the cement on the ground
+
+
+94 #C C looks around
+
+
+95 #C C scoops cement
+
+
+96 #C C carries the cement bowl with cement with his right hand.
+
+
+97 #C C pours the sand on the tray
+
+
+98 #C C pours the cement in the bowl 
+
+
+99 #C C wipes his hands with his hands
+
+
+100 #C C scoops cement with his right hand
+
+
+101 #C C  picks cement from the sack
+
+
+102 #C C takes cement from the bag of cement with his right hand.
+
+
+103 #C C scoops cement
+
+
+104 #C C scoops cement
+
+
+105 #C C pours cement in the basin 
+
+
+106 #C C pours the cement in the basin
+
+
+107 #C C pours cement in a basin.
+
+
+108 #C C scoops cement from the bag with the hoe in his right hand.
+
+
+109 #C C scoops the cement in the bag
+
+
+110 #C C looks around the construction site.
+
+
+111 #C C pours the cement from the bowl of water on the concrete on the ground with both hands.
+
+
+112 #C C pours the cement in the cement mixing bowl
+
+
+113 #C C pours the cement in the basin
+
+
+114 #C C picks the cement
+
+
+115 #C C scoops cement with a trowel
+
+
+116 #C C scoops cement with the trowel
+
+
+117 #C C pours the cement in the cement mixing bowl
+
+
+118 #C C pours the cement from the bowl in his left hand to the cement in his right hand.
+
+
+119 #C C scoops cement in the sack
+
+
+120 #C C scoops cement in the bag with his right hand.
+
+
+121 #C C pours the cement on the basin
+
+
+122 #C C pours the sand on the cement
+
+
+123 #C C scoops cement from the bag of cement with his right hand.
+
+
+124 #C C scoops cement from the bag with his right hand.
+
+
+125 #C C scoops the cement in the bag.
+
+
+126 #C C pours the cement on the concrete
+
+
+127 #C C pours the cement in the cement mixing bowl
+
+
+128 #C C walks towards the wall
+
+
+129 #C C walks towards the wall.
+
+
+130 #C C walks around
+
+
+131 #C C walks around
+
+
+132 #C C walks around the building 
+
+
+133 #C C walks around the building 
+
+
+134 #C C looks around the building
+
+
+135 #O The man P climbs up the staircase.
+
+
+136 #C C walks to the wall of the building
+
+
+137 #C C walks around the compound
+
+
+138 #O A man Y stands by the wall
+
+
+139 #C C looks around the building
+
+
+140 #C C walks around the compound 
+
+
+141 #C C takes the trowel from the cement pan on the ground with his right hand.
+
+
+142 #C C pours the cement from the trowel in his right hand on the cement bowl.
+
+
+143 #C C mixes cement in basin
+
+
+144 #C C mixes the cement with the trowel
+
+
+145 #C C pours cement in a basin
+
+
+146 #C C pours cement in the mortar pan
+
+
+147 #C C mixes the cement and sand together with the trowel in his right hand.
+
+
+148 #C C pours the cement in the basin
+
+
+149 #C C pours cement in water.
+
+
+150 #C C pours cement in the basin
+
+
+151 #C C pours cement into the basin
+
+
+152 #C C pours cement in the basin.
+
+
+153 #C C scoops cement in the basin
+
+
+154 #C C scoops cement with the trowel.
+
+
+155 #C C scoops cement
+
+
+156 #C C pours cement on the cement mixing bowl.
+
+
+157 #C C pours cement on the floor
+
+
+158 #C C pours cement into the bowl
+
+
+159 #C C pours the cement in the cement mixing tray with his right hand.
+
+
+160 #C C pours cement in the basin
+
+
+161 #C C pours the cement into the bowl on the ground with the trowel in his right hand.
+
+
+162 #C C lifts the tray
+
+
+163 #C C walks around
+
+
+164 #C C walks towards a man H.
+
+
+165 #O person H walks on the wall
+
+
+166 #O The man A walks down the steps.
+
+
+167 #C C walks up the stairs
+
+
+168 #C C  walks towards the bamboo scaffolding.
+
+
+169 #C C walks to a wooden scaffold.
+
+
+170 #C C looks around the building
+
+
+171 #C C walks towards the man X.
+
+
+172 #C C looks around
+
+
+173 #C C places the broom on the bamboo scaffold with his right hand.
+
+
+174 #C C picks a brick from the stairs with his right hand.
+
+
+175 #C C picks a basin
+
+
+176 #C C picks a basin
+
+
+177 #C C moves around
+
+
+178 #C C climbs the stairs
+
+
+179 #C C walks down the stairs
+
+
+180 #C C throws the dirt on the floor
+
+

@@ -1,0 +1,540 @@
+1 #C C holds the pipe
+
+
+2 #C C moves around the field
+
+
+3 #C C pulls the pipe
+
+
+4 #C C moves around
+
+
+5 #C C moves around
+
+
+6 #C C takes the pipe from the ground
+
+
+7 # C C walks
+
+
+8 # C C walks 
+
+
+9 #O A man Y walks around
+
+
+10 #O A man Y walks around
+
+
+11 #C C walks around
+
+
+12 #C C moves on the lawn
+
+
+13 #C C walks around the compound
+
+
+14 #C C walks around
+
+
+15 #C C walks on the lawn
+
+
+16 #C C moves around the field
+
+
+17 #C C stops on the grass
+
+
+18 #C C walks around the compound
+
+
+19 #C C stares at the grass
+
+
+20 #C C walks around
+
+
+21 #C C moves towards the lawn mower
+
+
+22 #C C walks around the field 
+
+
+23 #C C moves the hose pipe to the right
+
+
+24 #C C walks around the compound
+
+
+25 #C C pulls the hose pipe
+
+
+26 #C C walks around
+
+
+27 #C C moves around the field 
+
+
+28 #C C looks around the field
+
+
+29 #C C walks around
+
+
+30 #C C walks around the garden
+
+
+31 #C C walks around the field
+
+
+32 #C C looks around
+
+
+33 #C C looks around the field
+
+
+34 #C C walks around
+
+
+35 #C C looks around the field 
+
+
+36 #C C picks the pipe
+
+
+37 #C C walks around the compound
+
+
+38 #C C looks around the compound
+
+
+39 #C C walks around the field
+
+
+40 #C C looks around
+
+
+41 #C C walks around
+
+
+42 #C C walks around the compound
+
+
+43 #C C walks around the field
+
+
+44 #C C walks around
+
+
+45 #C C walks around the compound.
+
+
+46 #C C walks around
+
+
+47 #C C walks around
+
+
+48 #C C moves the hand
+
+
+49 #C C moves the hand 
+
+
+50 #C C holds the camera
+
+
+51 #C C touches his face with his left hand
+
+
+52 #C C holds a drum stick
+
+
+53 #C C stares at the grass
+
+
+54 #C C looks at the pipe
+
+
+55 #C C looks at the pipe
+
+
+56 #C C holds the pipe
+
+
+57 #C C puts the pipe in the machine
+
+
+58 #C C inserts the pipe into the electric sawmill machine.
+
+
+59 #C C turns the pipe on the gas cylinder
+
+
+60 #C C puts the pipe on the pipe
+
+
+61 #C C adjusts the metal bar
+
+
+62 #C C puts pipe on the pipe
+
+
+63 #C C puts down the pipe
+
+
+64 #C C touches the pipe
+
+
+65 #C C touches the shirt
+
+
+66 # C C walks
+
+
+67 # C C walks around
+
+
+68 #C C walks around
+
+
+69 # C C walks 
+
+
+70 #C C walks around
+
+
+71 #C C looks around
+
+
+72 #C C moves his legs
+
+
+73 #C C moves around
+
+
+74 #C C wipes his shirt
+
+
+75 #C C walks around
+
+
+76 #C C walks on the compound
+
+
+77 #C C walks around
+
+
+78 #C C moves around
+
+
+79 #C C picks pipe
+
+
+80 #C C Moves the pipe
+
+
+81 #C C moves the pipe
+
+
+82 #C C stands in the garden
+
+
+83 #C C lifts the pipe.
+
+
+84 #C C moves the legs
+
+
+85 #C C walks around
+
+
+86 #C C looks around
+
+
+87 #C C picks up the pipe
+
+
+88 #C C moves around 
+
+
+89 #C C walks around
+
+
+90 #C C walks around
+
+
+91 #C C moves the hands.
+
+
+92 #C C Walks on the ground
+
+
+93 #C C looks at the left hand
+
+
+94 #C C moves hand
+
+
+95 #C C walks with a pipe 
+
+
+96 #C C moves around
+
+
+97 #C C walks around the park
+
+
+98 #C C walks around the parking lot
+
+
+99 #C C walks around the road
+
+
+100 #C C walks around
+
+
+101 #C C moves the truck
+
+
+102 #C C opens a car door
+
+
+103 #C C moves hand
+
+
+104 #C C moves a car
+
+
+105 #C C removes the car door.
+
+
+106 #C C holds the seat
+
+
+107 #C C moves the car seat
+
+
+108 #C C puts the hand on the car boot
+
+
+109 #C C holds the hand
+
+
+110 #C C adjusts the car's ignition 
+
+
+111 #C C moves the car
+
+
+112 #C C turns the car
+
+
+113 #C C moves the car steering
+
+
+114 #C C picks the security lock.
+
+
+115 #C C looks at the control panel
+
+
+116 #C C moves the car
+
+
+117 #C C holds the car steering
+
+
+118 #C C pulls a car trolley
+
+
+119 #C C touches the car
+
+
+120 #C C pulls the phone
+
+
+121 #C C  looks at the phone
+
+
+122 #C C touches the car
+
+
+123 #C C puts the car key in the car trunk
+
+
+124 #C C touches the head
+
+
+125 #C C plugs in the battery
+
+
+126 #C C picks up the car
+
+
+127 #C C rides the car
+
+
+128 #C C moves the car gear
+
+
+129 #C C moves the car
+
+
+130 #C C puts the car trunk in the car
+
+
+131 #C C places the car seat on the car
+
+
+132 #C C looks at the car
+
+
+133 #C C pulls the seat belt
+
+
+134 #C C removes the car gear
+
+
+135 #C C holds a car steering wheel.
+
+
+136 #C C touches the car
+
+
+137 #C C opens the car door
+
+
+138 #C C pulls the car seat
+
+
+139 #C C takes the car tyre
+
+
+140 #C C removes a car seat
+
+
+141 #C C touches car window
+
+
+142 #C C puts the bottle on the truck
+
+
+143 #C C looks around the car
+
+
+144 #C C looks around
+
+
+145 #C C lights the car
+
+
+146 #C C looks at the car
+
+
+147 #C C looks inside the car
+
+
+148 #C C puts the phone in the car
+
+
+149 #C C picks the key from the car window
+
+
+150 #C C removes the car gear
+
+
+151 #C C pushes the car door
+
+
+152 #C C opens a door of a car
+
+
+153 #C C holds the car keys
+
+
+154 #C C holds the car's steering 
+
+
+155 #C C closes the door
+
+
+156 #C C removes a hand from the car door
+
+
+157 #C C moves the car's steering
+
+
+158 #C C takes off the helmet
+
+
+159 #C C closes the door
+
+
+160 #C C removes the hand from the car
+
+
+161 #C C turns a car engine
+
+
+162 #C C removes the torch from the car
+
+
+163 #C C adjusts a metal
+
+
+164 #C C fixes the bolt
+
+
+165 #C C tightens the screw with the screw driver
+
+
+166 #C C fixes the cable on the metal
+
+
+167 #C C holds the cable
+
+
+168 #C C holds a metal
+
+
+169 #C C inserts a cable in a pipe
+
+
+170 #C C looks at the electric pipe
+
+
+171 #C C holds the car component
+
+
+172 #C C moves the bag to the right hand
+
+
+173 #C C moves around the road
+
+
+174 #C C walks around the compound
+
+
+175 #C C walks around
+
+
+176 #C C walks around
+
+
+177 #C C looks at the vehicle
+
+
+178 #C C looks around
+
+
+179 #C C moves hands away from the pipe
+
+
+180 #C C touches the pipe
+
+

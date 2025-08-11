@@ -1,0 +1,540 @@
+1 #C C washes the plate with the sponge
+
+
+2 #C C washes the frying pan with a sponge
+
+
+3 #C C scrubs the pan with the scrubber 
+
+
+4 #C C washes the pan with the sponge
+
+
+5 #C C rinses a frying pan with the kitchen towel
+
+
+6 #C C rinses a pan
+
+
+7 #C C scrubs the frying pan with the brush
+
+
+8 #C C washes a pan with a sponge
+
+
+9 #C C scrubs the pan
+
+
+10 #C C washes the pan with the sponge
+
+
+11 #C C rinses the frying pan with the water
+
+
+12 #C C turns on the tap
+
+
+13 #C C washes the frying pan with the sponge in his right hand. 
+
+
+14 #C C washes the frying pan with water
+
+
+15 #C C washes the frying pan with water from the tap with his right hand.
+
+
+16 #C C pours water from the pan into the sink with his left hand
+
+
+17 #C C washes a frying pan with water in the sink with the sponge in his right hand.
+
+
+18 #C C washes the frying pan with the sponge in his right hand.
+
+
+19 #C C washes the lid with the sponge
+
+
+20 #C C rinses the bowl with water
+
+
+21 #C C rinses the cooking pot
+
+
+22 #C C puts the pan in his right hand into the sink.
+
+
+23 #C C washes a frying pan with water from the tap
+
+
+24 #C C pours water from the pan into the sink.
+
+
+25 #C C shakes the frying pan with his left hand.
+
+
+26 #C C turns off the tap with his right hand.
+
+
+27 #C C puts the frying pan on the sink
+
+
+28 #C C closes the tap
+
+
+29 #C C pours water on the frying pan
+
+
+30 #C C picks a frying pan from a sink
+
+
+31 #C C pours water into the sink
+
+
+32 #C C cleans the sink with a kitchen towel
+
+
+33 #C C pours water on the pan
+
+
+34 #C C washes a pan with a scrubber
+
+
+35 #C C closes the tap 
+
+
+36 #C C shakes the kitchen sponge in the sink
+
+
+37 #C C adjusts the tap with his right hand.
+
+
+38 #C C cleans the pan with the rag
+
+
+39 #C C washes the pot
+
+
+40 #C C picks a pan from the cooker
+
+
+41 #C C picks a pan
+
+
+42 #C C puts pan on the cooker
+
+
+43 #C C picks the pan
+
+
+44 #C C wipes the hands
+
+
+45 #C C  opens the drawer
+
+
+46 #C C picks a pan
+
+
+47 #C C wipes the cabinet
+
+
+48 #C C puts on the cloth
+
+
+49 #C C wipes the hand
+
+
+50 #C C picks knife on the sink
+
+
+51 #C C picks up a knife from a sink 
+
+
+52 #C C rinses the sink tap with water
+
+
+53 #C C washes the sponge with the sponge sponge sponge
+
+
+54 #C C washes the knife with the sponge
+
+
+55 #C C rinses the knife and the sponge in the sink with his hands
+
+
+56 #C C rinses the knife in his right hand
+
+
+57 #C C turns off the tap
+
+
+58 #C C walks around
+
+
+59 #C C moves hand
+
+
+60 #C C walks around
+
+
+61 #C C picks a hand towel
+
+
+62 #C C turns off the tap
+
+
+63 #C C Washes the hands
+
+
+64 #C C puts the spoon on the table
+
+
+65 #C C picks a phone
+
+
+66 #C C looks around the room
+
+
+67 #C C Stares at the phone
+
+
+68 #C C walks around
+
+
+69 #C C walks around the room
+
+
+70 #C C walks around the kitchen
+
+
+71 #C C wipes hands with a paper towel
+
+
+72 #C C wipes countertop with a towel 
+
+
+73 #C C wipes the kitchen counter
+
+
+74 #C C wipes a counter with a towel
+
+
+75 #C C wipes the kitchen counter
+
+
+76 #C C wipes a kitchen counter with a towel
+
+
+77 #C C cleans a kitchen counter with a napkin
+
+
+78 #C C wipes the kitchen counter with a hand towel
+
+
+79 #C C wipes the counter top with a wiping cloth
+
+
+80 #C C wipes counter top with a kitchen towel
+
+
+81 #C C adjusts the cooker.
+
+
+82 #C C wipes a cooker with a towel
+
+
+83 #C C wipes the countertop with a napkin
+
+
+84 #C C picks a plate
+
+
+85 #C C wipes the kitchen countertop with a kitchen tissue
+
+
+86 #C C walks around the house
+
+
+87 #C C walks around the house 
+
+
+88 #C C walks around
+
+
+89 #C C walks around
+
+
+90 #C C points at the wall
+
+
+91 #C C walks around the room
+
+
+92 #C C walks around the room
+
+
+93 #C C walks around the room
+
+
+94 #C C moves the pan 
+
+
+95 #C C picks the pan from the cooker
+
+
+96 #C C picks a pan from a cooker
+
+
+97 #C C wipes the cooker with a towel
+
+
+98 #C C wipes a cooker with a towel
+
+
+99 #C C picks a cooking pan from the cooker
+
+
+100 #C C picks the pan from the cooker with his left hand
+
+
+101 #C C places the pan on the cooker
+
+
+102 #C C places a pan on the slab
+
+
+103 #C C moves the gas cooker
+
+
+104 #C C puts pan on the cooker
+
+
+105 #C C picks the pan from the kitchen sink with his left hand
+
+
+106 #C C wipes the sink with a towel
+
+
+107 #C C puts the pan on the cooker
+
+
+108 #C C wipes the cooker with the kitchen towel
+
+
+109 #C C wipes the sink with the napkin 
+
+
+110 #C C touches the cooker
+
+
+111 #C C wipes the countertop with a towel
+
+
+112 #C C wipes a table with a kitchen towel
+
+
+113 #C C wipes the sink table with a cloth
+
+
+114 #C C touches a burner
+
+
+115 #C C wipes a kitchen counter
+
+
+116 #C C picks a piece of paper
+
+
+117 #C C walks around the room
+
+
+118 #C C picks a towel
+
+
+119 #C C wipes the sink counter with a wiping towel
+
+
+120 #C C wipes the countertop with a towel
+
+
+121 #C C wipes the countertop with a towel
+
+
+122 #C C cleans the sink with a towel
+
+
+123 #C C wipes sink with towel
+
+
+124 #C C wipes the sink table with a towel
+
+
+125 #C C wipes the counter top with a cloth 
+
+
+126 #C C picks the scrubber
+
+
+127 #C C wipes the sink with a towel
+
+
+128 #C C picks a dish washing sponge
+
+
+129 #C C takes a dishwashing soap from the sink
+
+
+130 #C C places the hand towel on the sink
+
+
+131 #C C wipes the sink
+
+
+132 #C C looks around the kitchen
+
+
+133 #C C picks the towel
+
+
+134 #C C washes the sink with the sponge
+
+
+135 #C C rinses the sink with water
+
+
+136 #C C washes the dish sponge
+
+
+137 #C C washes the sponge with the soap
+
+
+138 #C C washes the glass
+
+
+139 #C C washes the knife.
+
+
+140 #C C closes the tap
+
+
+141 #C C Washes the sink with a scrubber
+
+
+142 #C C washes the sink
+
+
+143 #C C picks the sieve 
+
+
+144 #C C picks a wipe
+
+
+145 #C C rinses the sink with water from the tap
+
+
+146 #C C washes the sponge with the sponge sponge sponge sponge scrub
+
+
+147 #C C closes the tap
+
+
+148 #C C walks around the kitchen
+
+
+149 #C C picks a plate
+
+
+150 #C C picks a tray
+
+
+151 #C C picks a kitchen towel
+
+
+152 #C C walks around the room
+
+
+153 #C C walks around the room
+
+
+154 #C C walks towards the fridge
+
+
+155 #C C picks a hand towel
+
+
+156 #C C puts the paper on the countertop
+
+
+157 #C C picks a bowl
+
+
+158 #C C walks around the room 
+
+
+159 #C C walks around the room 
+
+
+160 #C C wipes the hand with a tissue paper
+
+
+161 #C C walks around the room
+
+
+162 #C C walks around the room
+
+
+163 #C C walks around the room
+
+
+164 #C C walks around the room
+
+
+165 #C C picks phone
+
+
+166 #C C walks towards the phone 
+
+
+167 #C C walks around the house
+
+
+168 #C C walks towards the table
+
+
+169 #C C walks towards the table
+
+
+170 #O A man X walks towards the table
+
+
+171 #O woman X touches the head
+
+
+172 #O person D walks around
+
+
+173 #O woman X walks towards the dining table.
+
+
+174 #C C looks at the couch
+
+
+175 #C C moves towards the dining table
+
+
+176 #C C walks towards the table
+
+
+177 #O person W moves around
+
+
+178 #O man X sits
+
+
+179 #O person A sits down
+
+
+180 #O person A stands in the room 
+
+

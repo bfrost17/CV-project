@@ -1,0 +1,540 @@
+1 #C C turns the page
+
+
+2 #C C adjusts the book
+
+
+3 #C C moves the hand
+
+
+4 #C C reads the book
+
+
+5 #C C reads the novel
+
+
+6 #C C holds a book with the right hand
+
+
+7 #C C reads a book
+
+
+8 #C C reads the book
+
+
+9 #C C moves the book with right hand
+
+
+10 #C C reads the book
+
+
+11 #C C moves the book
+
+
+12 #C C moves the left hand
+
+
+13 #C C reads a book
+
+
+14 #C C reads a book
+
+
+15 #C C reads a book
+
+
+16 #C C reads the book
+
+
+17 #C C reads a book
+
+
+18 #C C reads the book
+
+
+19 #C C moves the left hand on the laps
+
+
+20 #C C moves right hand
+
+
+21 #C C moves the hand
+
+
+22 #C C moves the finger on the book
+
+
+23 #C C reads the book
+
+
+24 #C C reads a book
+
+
+25 #C C moves the right hand on the table
+
+
+26 #C C touches the phone
+
+
+27 #C C reads the book
+
+
+28 #C C reads a book
+
+
+29 #C C reads a book
+
+
+30 #C C reads the book
+
+
+31 #C C reads a book
+
+
+32 #C C moves the right hand
+
+
+33 #C C folds the hand
+
+
+34 #C C puts a hand on a table
+
+
+35 #C C holds the hand
+
+
+36 #C C holds the cup
+
+
+37 #C C touches the head
+
+
+38 #O A man X sits on the sofa
+
+
+39 #C C reads the novel
+
+
+40 #C C moves the hand
+
+
+41 #C C reads the book
+
+
+42 #C C moves the book
+
+
+43 #O person A  opens the book 
+
+
+44 #O person Y puts the phone down
+
+
+45 #C C holds the book
+
+
+46 #C C moves the left hand
+
+
+47 #C C moves the left hand on the right leg
+
+
+48 #C C reads a book
+
+
+49 #C C reads the book
+
+
+50 #C C reads the book
+
+
+51 #C C moves the fingers
+
+
+52 #C C reads the book 
+
+
+53 #C C reads the book 
+
+
+54 #C C reads the book 
+
+
+55 #C C reads a book 
+
+
+56 #C C reads the book
+
+
+57 #C C reads the book 
+
+
+58 #C C reads a book 
+
+
+59 #C C moves the book
+
+
+60 #C C reads the book 
+
+
+61 #C C reads the book
+
+
+62 #C C moves the hand
+
+
+63 #O person X moves the hand
+
+
+64 #C C holds the phone
+
+
+65 #C C holds the phone
+
+
+66 #C C touches the face
+
+
+67 #C C holds the phone
+
+
+68 #C C holds the phone
+
+
+69 #C C moves his hand 
+
+
+70 #C C sits on a chair
+
+
+71 #O man Y moves a book
+
+
+72 #C C looks at the cat
+
+
+73 #C C looks at the mirror
+
+
+74 #C C holds the phone
+
+
+75 #C C holds the chair
+
+
+76 #C C touches the hand
+
+
+77 #C C touches the face
+
+
+78 #C C holds the book
+
+
+79 #C C puts the hand down
+
+
+80 #C C holds the chair
+
+
+81 #C C  touches the hand
+
+
+82 #C C touches the table
+
+
+83 #C C puts hands on the table
+
+
+84 #C C pulls the bottle 
+
+
+85 #C C touches the camera
+
+
+86 #C C moves his hand
+
+
+87 #C C touches a book
+
+
+88 #C C reads a book
+
+
+89 #C C reads a book
+
+
+90 #O A woman Y moves the book
+
+
+91 #C C reads the book
+
+
+92 #O A man X moves his legs
+
+
+93 #O A woman Y moves legs on the table
+
+
+94 #O A man X sits on the couch
+
+
+95 #C C holds a book
+
+
+96 #C C holds the book
+
+
+97 #C C holds the book
+
+
+98 #C C reads the book 
+
+
+99 #C C reads a book 
+
+
+100 #C C moves the book
+
+
+101 #C C touches the book with right hand
+
+
+102 #C C reads a book
+
+
+103 #C C touches the face
+
+
+104 #C C reads the novel 
+
+
+105 #C C touches the nose
+
+
+106 #C C moves the book
+
+
+107 #C C lifts his right hand
+
+
+108 #C C puts the phone down
+
+
+109 #C C moves the hand 
+
+
+110 #C C moves the book down
+
+
+111 #C C turns the page
+
+
+112 #C C holds the book
+
+
+113 #C C holds the book
+
+
+114 #C C reads the book
+
+
+115 #C C moves the book
+
+
+116 #C C moves the book
+
+
+117 #C C moves the novel
+
+
+118 #C C moves the book
+
+
+119 #C C holds the book
+
+
+120 #C C flips the page
+
+
+121 #C C turns the page
+
+
+122 #C C moves the book
+
+
+123 #C C reads the book
+
+
+124 #C C turns the page
+
+
+125 #C C opens a page
+
+
+126 #C C flips pages
+
+
+127 #C C flips a page
+
+
+128 #C C opens a book page
+
+
+129 #C C opens the next page
+
+
+130 #C C flips a page
+
+
+131 #C C flips a page
+
+
+132 #C C flips a page
+
+
+133 #C C flips the page
+
+
+134 #C C flips pages
+
+
+135 #C C opens a page
+
+
+136 #C C turns the page
+
+
+137 #C C flips the page
+
+
+138 #C C moves the book
+
+
+139 #C C turns the page
+
+
+140 #C C reads the novel
+
+
+141 #C C reads the book
+
+
+142 #C C reads the book
+
+
+143 #C C reads the book
+
+
+144 #C C reads the book
+
+
+145 #C C reads the book
+
+
+146 #C C reads the book
+
+
+147 #C C reads the book
+
+
+148 #C C reads the book
+
+
+149 #O A man X moves his legs
+
+
+150 #C C reads the book
+
+
+151 #C C reads the book
+
+
+152 #C C reads the novel
+
+
+153 #C C reads the book
+
+
+154 #C C reads the book
+
+
+155 #C C reads the book
+
+
+156 #C C reads the book
+
+
+157 #C C reads a book
+
+
+158 #C C reads the book
+
+
+159 #C C reads the book
+
+
+160 #C C reads the book
+
+
+161 #C C reads a book
+
+
+162 #O A man X walks around the room
+
+
+163 #O A man X holds the book
+
+
+164 #O A man X moves his legs
+
+
+165 #O A man X holds the book
+
+
+166 #O A man X moves his legs
+
+
+167 #C C reads a book
+
+
+168 #O A man X moves his legs
+
+
+169 #O A man X moves his legs
+
+
+170 #O A man X stands close to C
+
+
+171 #C C reads the book
+
+
+172 #O A man X moves his legs
+
+
+173 #O A man X moves his leg
+
+
+174 #O A man X moves his leg
+
+
+175 #O A man X walks around
+
+
+176 #C C reads the book
+
+
+177 #C C reads the book
+
+
+178 #C C reads the book
+
+
+179 #C C reads the book
+
+
+180 #C C reads the book
+
+

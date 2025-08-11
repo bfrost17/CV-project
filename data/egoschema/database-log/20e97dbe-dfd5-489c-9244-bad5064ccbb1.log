@@ -1,0 +1,540 @@
+1 #C C paints a painting
+
+
+2 #C C paints a painting
+
+
+3 #C C paints the painting
+
+
+4 #C C paints the wall board
+
+
+5 #C C paints the painting
+
+
+6 #C C paints the wall with the brush
+
+
+7 #C C paints 
+
+
+8 #C C paints the wall art with a painting brush
+
+
+9 #C C paints the wall
+
+
+10 #C C paints the wall board
+
+
+11 #C C removes the brush from the painting
+
+
+12 #C C lifts a brush
+
+
+13 #C C moves the brush
+
+
+14 #C C lifts brush
+
+
+15 #C C paints a painting
+
+
+16 #C C lifts brush
+
+
+17 #C C paints a painting
+
+
+18 #C C paints the wall
+
+
+19 #C C paints the wall with the brush in his right hand.
+
+
+20 #C C paints the wall with the brush
+
+
+21 #C C paints the wall with the paint brush
+
+
+22 #C C paints the wall board
+
+
+23 #C C paints board
+
+
+24 #C C paints the board
+
+
+25 #C C paints on the painting board
+
+
+26 #C C paints 
+
+
+27 #C C paints on the painting board
+
+
+28 #C C paints the wall
+
+
+29 #C C paints 
+
+
+30 #C C paints a board
+
+
+31 #C C moves brush away from the face
+
+
+32 #C C paints the wall art
+
+
+33 #C C holds the brush
+
+
+34 #C C holds a brush
+
+
+35 #C C wipes brush with towel
+
+
+36 #C C drops the brush
+
+
+37 #C C paints the wall art with the brush
+
+
+38 #C C paints the wall board 
+
+
+39 #C C paints the wall
+
+
+40 #C C paints the wall with the brush in his right hand.
+
+
+41 #C C paints the wall art
+
+
+42 #C C paints the wall
+
+
+43 #C C paints the painting
+
+
+44 #C C paints the wall with the brush
+
+
+45 #C C wipes paint brush with the towel
+
+
+46 #C C removes the paintbrush from the paint
+
+
+47 #C C paints the wall with the brush
+
+
+48 #C C paints the wall art with a brush
+
+
+49 #C C paints the wall art with the brush
+
+
+50 #C C paints the wall art with the brush
+
+
+51 #C C paints a painting
+
+
+52 #C C paints a painting
+
+
+53 #C C paints the board
+
+
+54 #C C moves the brush to the right
+
+
+55 #C C paints a painting
+
+
+56 #C C paints on the board
+
+
+57 #C C paints the wall with the painting brush
+
+
+58 #C C paints the painting
+
+
+59 #C C lifts brush
+
+
+60 #C C paints 
+
+
+61 #C C paints the painting
+
+
+62 #C C paints the painting
+
+
+63 #C C holds the brush
+
+
+64 #C C lifts the brush
+
+
+65 #C C holds a paint brush
+
+
+66 #C C paints the wall board with a paint brush
+
+
+67 #C C paints the wall art with the brush in his right hand
+
+
+68 #C C moves her hand 
+
+
+69 #C C paints the wall with the brush in his right hand.
+
+
+70 #C C wipes the brush with the towel
+
+
+71 #C C lifts the brush
+
+
+72 #C C paints the wall with the brush
+
+
+73 #C C paints the wall
+
+
+74 #C C lifts brush
+
+
+75 #C C operates a laptop
+
+
+76 #C C looks at a laptop 
+
+
+77 #C C holds a brush
+
+
+78 #C C paints a wall
+
+
+79 #C C paints the wall with the brush
+
+
+80 #C C paints the wall with a paintbrush
+
+
+81 #C C paints the wall
+
+
+82 #C C paints the wall with a brush
+
+
+83 #C C paints the wall
+
+
+84 #C C paints on the board
+
+
+85 #C C paints the wall with the brush
+
+
+86 #C C paints a wall using a brush
+
+
+87 #C C paints the wall
+
+
+88 #C C paints the wall
+
+
+89 #C C brushes the painting
+
+
+90 #C C paints the wall
+
+
+91 #C C paints the wall
+
+
+92 #C C paints the wall
+
+
+93 #C C paints on the painting board with a paintbrush
+
+
+94 #C C paints the wall with the brush in his right hand.
+
+
+95 #C C paints the wall with a brush
+
+
+96 #C C paints the wall art with the brush
+
+
+97 #C C paints the drawing
+
+
+98 #C C paints the wall
+
+
+99 #C C paints on the board
+
+
+100 #C C paints the wall
+
+
+101 #C C paints the wall
+
+
+102 #C C paints on the painting
+
+
+103 #C C paints the wall
+
+
+104 #C C paints the wall
+
+
+105 #C C paints the wall with the brush
+
+
+106 #C C moves brush
+
+
+107 #C C holds the brush
+
+
+108 #C C holds a brush
+
+
+109 #C C paints on the painting board 
+
+
+110 #C C paints the wall with the brush
+
+
+111 #C C paints the board
+
+
+112 #C C paints a painting
+
+
+113 #C C paints the wall
+
+
+114 #C C paints a board
+
+
+115 #C C paints the wall
+
+
+116 #C C paints a wall with a brush
+
+
+117 #C C paints the wall with the brush
+
+
+118 #C C paints a wall
+
+
+119 #C C paints the wall
+
+
+120 #C C paints the wall
+
+
+121 #C C paints the wall
+
+
+122 #C C paints the wall
+
+
+123 #C C paints a board
+
+
+124 #O man X paints a wall
+
+
+125 #C C holds painting brush
+
+
+126 #C C paints the wall art with the brush
+
+
+127 #C C paints the wall
+
+
+128 #C C holds a paint brush
+
+
+129 #C C paints on a painting
+
+
+130 #C C paints the wall
+
+
+131 #C C lifts brush
+
+
+132 #C C paints the wall
+
+
+133 #C C paints the wall with the brush
+
+
+134 #C C paints a board 
+
+
+135 #C C holds the brush
+
+
+136 #C C paints the wall
+
+
+137 #C C paints the wall with the brush
+
+
+138 #C C paints a wall
+
+
+139 #C C paints the wall with the paint brush in his right hand.
+
+
+140 #C C paints the wall with the brush
+
+
+141 #C C paints the wall board
+
+
+142 #C C holds the paint brush
+
+
+143 #C C paints on a board
+
+
+144 #C C paints a wall
+
+
+145 #C C paints the wall with the brush
+
+
+146 #C C paints the wall
+
+
+147 #C C paints a wall
+
+
+148 #C C paints the wall
+
+
+149 #C C lifts brush from paint
+
+
+150 #C C paints the wall
+
+
+151 #C C paints the wall
+
+
+152 #C C paints on the painting
+
+
+153 #C C paints the wall board with a brush
+
+
+154 #C C paints a wall
+
+
+155 #C C paints the wall with the brush
+
+
+156 #C C paints the wall with the brush
+
+
+157 #C C paints the wall with the brush in his right hand.
+
+
+158 #C C paints the wall
+
+
+159 #C C paints the wall with a brush
+
+
+160 #C C paints the wall
+
+
+161 #C C paints the painting
+
+
+162 #C C paints the painting
+
+
+163 #C C paints the wall
+
+
+164 #C C paints a wall with a painting brush
+
+
+165 #C C paints the wall with the brush
+
+
+166 #C C moves painting
+
+
+167 #C C moves brush
+
+
+168 #C C paints a wall
+
+
+169 #C C paints the wall
+
+
+170 #C C paints the wall with the brush
+
+
+171 #C C paints the wall with the brush
+
+
+172 #C C paints on the board
+
+
+173 #C C paints the wall board
+
+
+174 #C C paints the wall with the brush
+
+
+175 #C C paints a wall with a brush
+
+
+176 #C C paints the wall with the brush
+
+
+177 #C C paints a wall
+
+
+178 #C C paints wall art
+
+
+179 #C C paints the wall
+
+
+180 #C C paints the wall with the brush
+
+

@@ -1,0 +1,540 @@
+1 #O a man Y catches the ball
+
+
+2 #O a man A runs around the field
+
+
+3 #O a man Y plays golf with a stick in his hand
+
+
+4 #O a man J catches the ball
+
+
+5 #C C plays golf with a golf tee
+
+
+6 #C C holds the ski goggles
+
+
+7 #C C moves the leg
+
+
+8 #C C looks at the legs
+
+
+9 #C C touches his knees
+
+
+10 #C C removes a shoes
+
+
+11 #C C picks the ball
+
+
+12 #C C runs towards the ball
+
+
+13 #O a man B picks a frisbee disc
+
+
+14 #C C fixes camera
+
+
+15 #C C holds the camera
+
+
+16 #C C moves towards the ball
+
+
+17 #O person H picks the ball
+
+
+18 #O a man M runs towards the ball
+
+
+19 #O A woman Y throws a  flying disc
+
+
+20 #O a man Y throws the tennis ball
+
+
+21 #O a man Y throws the ball
+
+
+22 #C C plays field with a stick in his hand
+
+
+23 #O a man B picks the ball
+
+
+24 #O A man Y picks the tennis ball
+
+
+25 #O A man D picks the ball.
+
+
+26 #O a man Z picks the ball
+
+
+27 #O A man F takes a plate of ice cream
+
+
+28 #O a man V runs around the field
+
+
+29 #O A man S walks around the field
+
+
+30 #C C walks towards a man V
+
+
+31 #O A man F catches the ball
+
+
+32 #O a man Y runs around the field
+
+
+33 #O a man V runs around the field
+
+
+34 #O a man J walks around the field
+
+
+35 #O man R holds the ball
+
+
+36 #O man A runs for the ball
+
+
+37 #C C throws the ball
+
+
+38 #C C picks the ball
+
+
+39 #O man F throws the ball
+
+
+40 #O a man W throws the ball on the field
+
+
+41 #O a man W picks the ball
+
+
+42 #O a man Y hits the ball
+
+
+43 #O a man X runs around the field
+
+
+44 #O a man Y runs on the field
+
+
+45 #O a man Y catches the ball
+
+
+46 #O A man X picks the flying disc
+
+
+47 #O A woman Y picks the golf course
+
+
+48 #O A man Z picks the ball
+
+
+49 #O A man Y throws the ball
+
+
+50 #O a man K runs around the field
+
+
+51 #O a man Y runs towards the field
+
+
+52 #C C picks the gym ball on the ground
+
+
+53 #C C looks at the ground
+
+
+54 #C C puts the shoes down
+
+
+55 #C C removes the leg from the ground
+
+
+56 #C C holds the ball
+
+
+57 #O a man Y picks the ball
+
+
+58 #C C plays field with a bat
+
+
+59 #O a man F catches the ball
+
+
+60 #O a man X jumps 
+
+
+61 #O A man Y runs in the field
+
+
+62 #O A man Y holds the rope
+
+
+63 #O a man Z moves back
+
+
+64 #O a man Y holds the ball
+
+
+65 #O A man Y picks the golf
+
+
+66 #O A man W holds the fly
+
+
+67 #O A man Z hits the golf course with the golf course.
+
+
+68 #O a man X hits the ball
+
+
+69 #O a man Y picks the  flying disc
+
+
+70 #O a man W throws the flying disc
+
+
+71 #O A man W  holds the baseball
+
+
+72 #O a man X holds the tennis ball
+
+
+73 #O a woman W picks the golf club
+
+
+74 #O a lady W picks the flying plate
+
+
+75 #O a man J throws the ball to a woman X
+
+
+76 #C C throws the baseball
+
+
+77 #O a man X throws the ball
+
+
+78 #O a man Y hits the ball
+
+
+79 #O a woman Y picks the ball
+
+
+80 #C C watches the ball.
+
+
+81 #O A man Y throws the ball to the ground
+
+
+82 #O a man X throws the ball
+
+
+83 #C C throws the ball on the ground.
+
+
+84 #O A man Y throws the ball to the field goal
+
+
+85 #C C picks the ball
+
+
+86 #O A man Y throws the ball on the field
+
+
+87 #C C picks up the ball
+
+
+88 #C C throws the ball to the man X
+
+
+89 #O A man Y throws the ball to the man X
+
+
+90 #C C throws the ball
+
+
+91 #C C throws the ball
+
+
+92 #C C plays golf with a ball
+
+
+93 #C C walks towards the ball.
+
+
+94 #O a woman X picks the frisbee
+
+
+95 #O A man Y catches the ball
+
+
+96 #O a man W and a woman X walks towards the frisbee
+
+
+97 #O A man B picks the ball
+
+
+98 #O a man W throws the ball to a man X
+
+
+99 #O a man W throws the ball to C
+
+
+100 #O a man J runs around the field
+
+
+101 #O a man W jumps down from the field
+
+
+102 #O a man X throws the frisbee
+
+
+103 #O a man Y throws the flying disc
+
+
+104 #O A man Y holds the flying disc
+
+
+105 #O a man Z picks the ball
+
+
+106 #O A man Y throws the ball to the ground
+
+
+107 #C C picks up the ball
+
+
+108 #C C walks towards the baseball
+
+
+109 #O A man Z catches the ball
+
+
+110 #O a man Y plays golf with a golf tee
+
+
+111 #O a woman G picks the ball
+
+
+112 #O A woman F kicks a tennis ball
+
+
+113 #O A woman X throws the ball
+
+
+114 #O A woman X plays golf with a stick
+
+
+115 #O A woman X  throws the golf
+
+
+116 #O A woman X throws the ball
+
+
+117 #O A woman X throws the stick to C
+
+
+118 #C C plays field
+
+
+119 #O a man W hits the ball
+
+
+120 #O a woman B picks the  stick from the ground
+
+
+121 #O A woman Z walks around the field
+
+
+122 #O A man Y throws the flying disc
+
+
+123 #O A man Y throws the ball
+
+
+124 #O a man S picks the ball
+
+
+125 #O A woman Z holds the ball
+
+
+126 #O a woman W plays golf with a golf club in hand
+
+
+127 #O a man H plays golf with a golf cart
+
+
+128 #O a man Y picks the ball
+
+
+129 #O person W holds the ball
+
+
+130 #O a woman X runs after the frisbee
+
+
+131 #C C plays golf with man A
+
+
+132 #C C throws the ball to the man Y.
+
+
+133 #C C throws the ball to the man D
+
+
+134 #O a man Y catches a ball
+
+
+135 #O a man A picks the ball
+
+
+136 #O A man W runs towards the ball
+
+
+137 #O A man Y throws a ball
+
+
+138 #O A man X throws the ball to man Y
+
+
+139 #O a man G kicks the ball
+
+
+140 #O a man W runs 
+
+
+141 #C C runs to the ball.
+
+
+142 #O A man Y runs
+
+
+143 #O man D walks around the field
+
+
+144 #O a man Y plays basketball with the ball
+
+
+145 #C C throws the ball to man X
+
+
+146 #C C moves the ball.
+
+
+147 #C C picks the ball
+
+
+148 #C C throws the ball to a man F
+
+
+149 #O A man Y throws the ball
+
+
+150 #O a man V holds the ball with his hands
+
+
+151 #O a man X walks towards the ball
+
+
+152 #O a man Y  throws the ball
+
+
+153 #O a man K runs around the field
+
+
+154 #O A man F picks the ball.
+
+
+155 #O A man B holds the baseball
+
+
+156 #O A man R catches the ball
+
+
+157 #O person H jumps.
+
+
+158 #O A man D picks the ball from C
+
+
+159 #O a woman A  holds the ball
+
+
+160 #O person G walks around the field
+
+
+161 #O a man A walks towards the ball
+
+
+162 #O a man Y picks the ball
+
+
+163 #C C Moves a ball with his hand
+
+
+164 #C C throws the ball
+
+
+165 #O a woman A looks around the field 
+
+
+166 #O a man K walks around the field
+
+
+167 #O A man N jumps
+
+
+168 #O A man J kicks the ball
+
+
+169 #C C looks at a woman G
+
+
+170 #O A man F walks
+
+
+171 #O a man D holds the ball
+
+
+172 #O woman A and man F walks towards the ball.
+
+
+173 #O A man K runs after the ball.
+
+
+174 #O man K walks around
+
+
+175 #O man J walks around
+
+
+176 #O A man W runs around
+
+
+177 #O a man Y picks the frisbee disc
+
+
+178 #O a man X runs around the field
+
+
+179 #O a lady X jumps over the ball
+
+
+180 #O a man X runs towards the ball
+
+

@@ -1,0 +1,540 @@
+1 #C C places the dough sheeter on the dough roller
+
+
+2 #C C picks the dough cutter
+
+
+3 #C C drops the doughs on the dough sheeter
+
+
+4 #C C moves the dough to the right hand
+
+
+5 #C C drops dough on dough roller
+
+
+6 #C C picks dough from dough press machine
+
+
+7 #C C carries doughs from table
+
+
+8 #C C moves the dough on the table
+
+
+9 #C C picks dough from the table
+
+
+10 #O The man B moves a dough on the table with both hands.
+
+
+11 #O The man X picks the dough from the table with his left hand.
+
+
+12 #C C picks dough from the table with his left hand.
+
+
+13 #C C picks the dough
+
+
+14 #C C picks the dough from the baking table with his left hand.
+
+
+15 #C C rolls the dough on the table with his hands
+
+
+16 #C C puts the dough on the table
+
+
+17 #C C picks dough from the table
+
+
+18 #C C holds dough
+
+
+19 #C C picks dough from the table
+
+
+20 #C C places the dough on the table
+
+
+21 #C C rolls the dough with his hands
+
+
+22 #C C picks the dough on the table with his hands.
+
+
+23 #C C puts the dough on the table
+
+
+24 #C C picks the dough
+
+
+25 #C C picks doughs from the table
+
+
+26 #C C picks the dough
+
+
+27 #C C picks dough from the table
+
+
+28 #C C rolls the dough
+
+
+29 #C C rolls the dough on the baking table with his hands.
+
+
+30 #O A man X rolls the dough
+
+
+31 #C C adjusts camera
+
+
+32 #C C picks doughs on the table
+
+
+33 #C C picks dough from the table
+
+
+34 #C C picks dough on the baking table with his hands.
+
+
+35 #O man A rolls the dough on the table
+
+
+36 #O The man B rolls the dough with both hands.
+
+
+37 #O man x rolls dough on the table
+
+
+38 #C C picks dough from the table
+
+
+39 #C C picks dough
+
+
+40 #C C picks dough from the baking table
+
+
+41 #O The man B picks dough from the dough presser with both hands.
+
+
+42 #C C takes a tray of doughs from a table with both hands.
+
+
+43 #C C picks a tray
+
+
+44 #C C picks dough
+
+
+45 #C C picks the doughs from the dough press table with both hands.
+
+
+46 #C C picks dough from the baking tray
+
+
+47 #C C takes the dough from the tray with both hands.
+
+
+48 #C C drops the doughs on the dough press with both hands.
+
+
+49 #C C picks the dough from the baking tray
+
+
+50 #C C takes the dough on the dough roller with his hands.
+
+
+51 #C C puts the dough on the dough flattener
+
+
+52 #C C picks doughs from the tray with his hands.
+
+
+53 #C C drops dough in both hands on the baking tray.
+
+
+54 #C C drops the doughs on the tray with both hands.
+
+
+55 #O The man B picks the dough from the baking tray with both hands.
+
+
+56 #C C rolls dough on the tray
+
+
+57 #C C rolls the dough in the baking tray
+
+
+58 #O The man B packs dough from the dough table with both hands.
+
+
+59 #C C picks up dough from the baking table
+
+
+60 #C C opens the fridge 
+
+
+61 #C C walks towards the door 
+
+
+62 #C C puts the tray in the tray
+
+
+63 #C C walks towards the oven.
+
+
+64 #C C puts the dough on the scale.
+
+
+65 #C C places dough on the table
+
+
+66 #C C Walks towards a table
+
+
+67 #O man A mixes the dough 
+
+
+68 #C C Picks dough from the table
+
+
+69 #C C turns the dough
+
+
+70 #O man A cuts dough
+
+
+71 #C C cuts the dough with his hand
+
+
+72 #C C throws the dough on the table with his left hand.
+
+
+73 #C C walks towards a shelf.
+
+
+74 #C C  gives man Y a tray 
+
+
+75 #C C picks a dough from the tray
+
+
+76 #C C moves a dough roll on the table with her right hand.
+
+
+77 #C C puts dough on the tray
+
+
+78 #C C carries the tray of doughs from the baking tray with both hands.
+
+
+79 #C C puts the dough on the tray
+
+
+80 #C C places the dough on the baking sheet
+
+
+81 #C C puts the dough on the dough press
+
+
+82 #C C puts dough on the pastry board
+
+
+83 #C C places the dough on the dough flattener
+
+
+84 #C C puts the dough on the baking tray
+
+
+85 #C C spreads the dough on the baking tray
+
+
+86 #C C presses the dough on the baking flour
+
+
+87 #C C spreads the dough on the tray with his hands
+
+
+88 #C C moves the tray
+
+
+89 #O man X picks the tray from the table
+
+
+90 #C C places the tray of doughs on the tray with his hands.
+
+
+91 #C C walks towards the counter
+
+
+92 #C C walks to the cabinet.
+
+
+93 #C C pushes a tray
+
+
+94 #C C walks towards the pan
+
+
+95 #C C walks towards a oven.
+
+
+96 #C C moves the tray to the right
+
+
+97 #C C walks to the rack of the baking table.
+
+
+98 #C C walks towards a rack.
+
+
+99 #C C walks to the table
+
+
+100 #C C walks towards the tray.
+
+
+101 #C C adjusts a tray of molding with both hands. 
+
+
+102 #C C walks around the bakery
+
+
+103 #C C walks towards the dough on the baking table.
+
+
+104 #C C walks towards the baking tray
+
+
+105 #C C drops dough on the tray
+
+
+106 #C C puts dough on the baking tray
+
+
+107 #C C moves the tray of rolled doughs on the rack with both hands.
+
+
+108 #C C picks the dough sheeter
+
+
+109 #C C picks the tray
+
+
+110 #C C picks the tray
+
+
+111 #C C carries the tray of the oven with both hands.
+
+
+112 #C C moves around
+
+
+113 #C C Picks up a tray from a tray rack
+
+
+114 #C C takes the tray from the shelf with his right hand.
+
+
+115 #C C takes the tray from the oven with both hands.
+
+
+116 #C C pushes the pan on the shelf with his left hand.
+
+
+117 #C C puts the tray in the oven. 
+
+
+118 #C C pulls the stand
+
+
+119 #O man X turns the metal tray
+
+
+120 #C C places the metal on the shelf
+
+
+121 #C C picks the baking tray from the baking tray tray
+
+
+122 #O A man X walks around the room
+
+
+123 #C C walks towards the door
+
+
+124 #C C moves towards the oven
+
+
+125 #C C picks dough from the table
+
+
+126 #C C holds the dough
+
+
+127 #C C moves dough on the table 
+
+
+128 #C C puts dough on the baking tray
+
+
+129 #C C picks the dough
+
+
+130 #C C picks dough
+
+
+131 #O A man X puts down the dough
+
+
+132 #O man B picks a dough from the tray
+
+
+133 #C C picks dough on the weighing scale
+
+
+134 #C C picks dough
+
+
+135 #C C holds dough
+
+
+136 #C C looks at man B 
+
+
+137 #C C Spreads waste on a table
+
+
+138 #C C puts dough on the dough roller 
+
+
+139 #C C picks the dough
+
+
+140 #C C picks the dough
+
+
+141 #O man x takes dough
+
+
+142 #C C picks dough from the tray
+
+
+143 #C C picks dough from the doughs on the baking table with his right hand.
+
+
+144 #C C puts the dough on the table
+
+
+145 #C C picks dough
+
+
+146 #C C rolls dough on the table
+
+
+147 #C C puts the dough on the tray
+
+
+148 #C C picks the dough
+
+
+149 #C C moves the table
+
+
+150 #C C picks dough from tray 
+
+
+151 #C C spreads the dough in the tray with his hands
+
+
+152 #O A man X puts a dough on the tray
+
+
+153 #C C spreads the cake on the tray
+
+
+154 #O A man X places the plate on the counter
+
+
+155 #O man B walks around the room
+
+
+156 #C C rolls dough on a baking tray
+
+
+157 #C C carries the tray with the doughs on the tray with both hands.
+
+
+158 #C C picks the tray
+
+
+159 #O The man X walks into the oven with the tray of doughs in both hands.
+
+
+160 #C C places the flatbread on the table
+
+
+161 #O a man Y walks towards the table
+
+
+162 #O A man X walks towards C
+
+
+163 #O A man Y walks away from the counter
+
+
+164 #O A man X walks to the counter.
+
+
+165 #O A man X holds a basin
+
+
+166 #O The man X moves the table with his left hand.
+
+
+167 #C C picks dough from the table
+
+
+168 #C C picks dough
+
+
+169 #C C holds dough
+
+
+170 #C C spreads the dough in the tray
+
+
+171 #C C walks to the countertop.
+
+
+172 #C C opens the oven door
+
+
+173 #C C opens the oven 
+
+
+174 #C C holds the oven door
+
+
+175 #C C moves the dough on the oven with both hands.
+
+
+176 #C C wipes the cooker
+
+
+177 #C C walks to the tray of doughs on the baking table.
+
+
+178 #C C walks to the other side of the room.
+
+
+179 #C C places the tray on the basket
+
+
+180 #C C walks towards the tray
+
+

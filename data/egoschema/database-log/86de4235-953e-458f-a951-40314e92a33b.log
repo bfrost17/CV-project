@@ -1,0 +1,540 @@
+1 #C C picks a bottle
+
+
+2 #C C opens the drawer
+
+
+3 #C C opens drawer
+
+
+4 #C C places the plastic scoop in the fridge
+
+
+5 #C C picks a bowl
+
+
+6 #C C moves to the sink
+
+
+7 #C C picks a glass from the sink
+
+
+8 #C C walks around the room
+
+
+9 #C C picks a pot lid
+
+
+10 #C C turns off the tap
+
+
+11 #C C opens the tap
+
+
+12 #C C cleans the plate with the towel
+
+
+13 #C C washes the utensils in the sink
+
+
+14 #C C opens the tap
+
+
+15 #C C drops the glass of water on the kitchen sink
+
+
+16 #C C picks a plastic bowl
+
+
+17 #C C picks a spoon
+
+
+18 #C C picks a glass
+
+
+19 #C C picks the glass
+
+
+20 #C C picks a towel
+
+
+21 #C C puts the lid on the counter
+
+
+22 #C C picks a bottle of water
+
+
+23 #C C walks around the kitchen
+
+
+24 #C C walks to the dining table
+
+
+25 #C C walks to the kitchen
+
+
+26 #C C walks towards the window
+
+
+27 #C C walks towards the bedroom
+
+
+28 #C C looks at the mirror
+
+
+29 #C C holds the mirror
+
+
+30 #C C picks a paper 
+
+
+31 #C C opens a door
+
+
+32 #C C opens the door
+
+
+33 #C C opens a wardrobe door
+
+
+34 #C C puts the door frame on the door frame
+
+
+35 #C C opens the door
+
+
+36 #C C opens a door with his right hand.
+
+
+37 #C C opens the door
+
+
+38 #C C walks into the room
+
+
+39 #C C looks around the house
+
+
+40 #C C walks into a building.
+
+
+41 #C C walks to the stairs
+
+
+42 #C C walks around the building
+
+
+43 #C C walks into the building
+
+
+44 #C C walks towards a staircase.
+
+
+45 #C C walks to a door 
+
+
+46 #C C walks into a building.
+
+
+47 #C C walks into the house
+
+
+48 #C C walks into a house.
+
+
+49 #C C walks outside
+
+
+50 #C C walks into a house.
+
+
+51 #C C walks towards a door
+
+
+52 #C C walks to the door
+
+
+53 #C C looks at the window 
+
+
+54 #C C walks towards the table
+
+
+55 #C C stares around the house
+
+
+56 #C C walks around the room
+
+
+57 #C C opens the door
+
+
+58 #C C opens the door
+
+
+59 #C C holds the camera
+
+
+60 #C C walks into the building
+
+
+61 #C C looks at the buildings
+
+
+62 #C C climbs on the stairs
+
+
+63 #C C walks around the compound
+
+
+64 #C C moves the camera
+
+
+65 #C C walks into the building
+
+
+66 #C C puts the bedsheet on the window
+
+
+67 #C C moves the hand
+
+
+68 #C C walks on the floor
+
+
+69 #C C walks around
+
+
+70 #C C looks at the windows
+
+
+71 #C C stands in the building
+
+
+72 #C C stares at the window
+
+
+73 #C C walks around
+
+
+74 #C C touches the bucket 
+
+
+75 #C C takes a jar from the wall
+
+
+76 #C C closes the water flask
+
+
+77 #C C pours the fruit in the jar
+
+
+78 #c c puts a glass glass on the table
+
+
+79 #C C picks the tin of water on the wall
+
+
+80 #C C enters a room
+
+
+81 #C C walks to a door.
+
+
+82 #C C looks around the building
+
+
+83 #C C walks around the park
+
+
+84 #C C walks towards the wall
+
+
+85 #C C Picks the can of sanding machine from the floor
+
+
+86 #C C Moves the hand
+
+
+87 #C C moves the right hand 
+
+
+88 #C C walks towards the bicycle 
+
+
+89 #C C walks around the compound
+
+
+90 #C C picks a glass on the table
+
+
+91 #C C places the glass of water on the sink
+
+
+92 #C C drops the bowl
+
+
+93 #C C shakes the plastic jug 
+
+
+94 #C C pours water from the container into the sink
+
+
+95 #C C pours water in the water flask
+
+
+96 #C C pours water into the container
+
+
+97 #C C pours water from the jug into the plastic container
+
+
+98 #C C pours the mixture in the plastic tin
+
+
+99 #C C pours the liquid in the container
+
+
+100 #C C holds a jug
+
+
+101 #C C pours the liquid in the container
+
+
+102 #C C puts the container of powder in the container
+
+
+103 #C C puts the paper bag in the container
+
+
+104 #C C puts the container in the bin
+
+
+105 #C C picks the siever from the container
+
+
+106 #C C pours water into the plastic bowl
+
+
+107 #C C walks out of the building
+
+
+108 #C C walks in the house
+
+
+109 #C C walks towards a door
+
+
+110 #C C walks towards a room
+
+
+111 #C C carries the bucket of cement from the floor.
+
+
+112 #C C walks to the door
+
+
+113 #C C walks around the corridor
+
+
+114 #C C looks around the house
+
+
+115 #C C looks around the kitchen
+
+
+116 #C C walks to the bathroom
+
+
+117 #C C walks around the building
+
+
+118 #C C looks at the window
+
+
+119 #C C wipes the face
+
+
+120 #C C cleans the door with the cloth
+
+
+121 #C C looks at the container
+
+
+122 #C C fills the jug with a liquid 
+
+
+123 #C C puts water in the container
+
+
+124 #C C moves the containers on the window
+
+
+125 #C C looks around
+
+
+126 #C C puts the tin in the window
+
+
+127 #C C puts the bag on the floor
+
+
+128 #C C puts the lid in the bag
+
+
+129 #C C picks up a cup
+
+
+130 #c c puts glass on the window stool
+
+
+131 #C C carries the bowl
+
+
+132 #C C puts the water in the plastic bottle
+
+
+133 #C C pours the water in the cup into the plastic container.
+
+
+134 #C C pours water into the bucket
+
+
+135 #C C pours water into the waste bucket
+
+
+136 #C C pours water in the waste
+
+
+137 #C C pours water from the jug into the trash can
+
+
+138 #C C puts water in the tin
+
+
+139 #C C picks a plastic glass from the cupboard
+
+
+140 #C C takes the water bottle
+
+
+141 #C C pours water in the container
+
+
+142 #C C pours water from the jug into the trash bin.
+
+
+143 #C C pours water from the jug into the sink
+
+
+144 #C C pours water from the plastic jug into the sink
+
+
+145 #C C picks a container
+
+
+146 #C C picks a container
+
+
+147 #C C walks to the house
+
+
+148 #c c walks around the building
+
+
+149 #C C walks around
+
+
+150 #C C picks the bucket
+
+
+151 #C C moves the bucket
+
+
+152 #c c picks a glass
+
+
+153 #C C picks a jar of water
+
+
+154 #C C removes a lid
+
+
+155 #C C picks the glass jar of water
+
+
+156 #C C picks the bucket with water
+
+
+157 #C C inserts the jar on the bucket
+
+
+158 #C C closes the water filter
+
+
+159 #C C holds a bucket
+
+
+160 #C C opens a bag of powder 
+
+
+161 #C C picks up the glass 
+
+
+162 #C C puts water in the cup
+
+
+163 #C C pours water in the water dispenser 
+
+
+164 #C C pours water from the jug into the cup
+
+
+165 #C C pours water in the sink
+
+
+166 #C C puts the lid on the window
+
+
+167 #C C opens a door
+
+
+168 #C C enters the hotel
+
+
+169 #C C holds the door
+
+
+170 #C C walks out
+
+
+171 #C C walks to the building
+
+
+172 #C C walks into a kitchen
+
+
+173 #C C walks out of the store with the woman X.
+
+
+174 #C C opens the door
+
+
+175 #C C walks out of the bedroom
+
+
+176 #C C walks around
+
+
+177 #C C walks towards the kitchen
+
+
+178 #C C walks around
+
+
+179 #C C walks to the living room
+
+
+180 #C C walks around the house
+
+

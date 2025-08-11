@@ -1,0 +1,540 @@
+1 #O A man X touches his phone 
+
+
+2 #O man X drives
+
+
+3 #C C looks at the phone screen 
+
+
+4 #C C scrolls the phone
+
+
+5 #O A man D walks in the road
+
+
+6 #O a man B scrolls a phone 
+
+
+7 #O man X drives the car
+
+
+8 #C C scrolls the phone
+
+
+9 #O person Y scrolls the phone
+
+
+10 #C C scrolls on the phone
+
+
+11 #O The man X walks towards the car.
+
+
+12 #O person X scrolls the phone
+
+
+13 #O man A looks at the phone 
+
+
+14 #O man X talks to C
+
+
+15 #C C scrolls the phone
+
+
+16 #O person X scrolls phone
+
+
+17 #O The man Y operates the phone with his left hand.
+
+
+18 #O person Y scrolls the phone
+
+
+19 #C C presses the phone with his right hand
+
+
+20 #C C looks at the car.
+
+
+21 #O woman Y drives car
+
+
+22 #O man X drives the car
+
+
+23 #O The woman X drives the car.
+
+
+24 #O woman Y turns the steering wheel
+
+
+25 #C C looks at the car
+
+
+26 #C C looks around
+
+
+27 #C C looks around
+
+
+28 #C C looks around
+
+
+29 #O Person A operates the phone
+
+
+30 #C C looks around
+
+
+31 #C C looks around
+
+
+32 #C C drives the car
+
+
+33 #C C looks right
+
+
+34 #C C looks around
+
+
+35 #O person A  turns the car
+
+
+36 #O The woman B holds the phone with both hands.
+
+
+37 #O woman X drives
+
+
+38 #C C drives car
+
+
+39 #C C talks to lady Y
+
+
+40 #C C looks around
+
+
+41 #C C looks at the car
+
+
+42 #C C stops the car 
+
+
+43 #O The woman A touches a belt with her right hand.
+
+
+44 #C C interacts with a woman B.
+
+
+45 #O woman X talks to C
+
+
+46 #O Woman X moves the hand 
+
+
+47 #C C taps his right hand on the mirror
+
+
+48 #C C taps the car wheel with her left hand
+
+
+49 #O A woman X talks to C 
+
+
+50 #O Woman X drives
+
+
+51 #C C Looks at the road
+
+
+52 #C C Looks around 
+
+
+53 #C C drives a car 
+
+
+54 #O A man Y drives the car
+
+
+55 #O A woman X operates the phone
+
+
+56 #O person A operates the phone
+
+
+57 #C C looks at the front
+
+
+58 #C C drives past a white car.
+
+
+59 #O A man A rides the bicycle.
+
+
+60 #O A man Y moves his hand
+
+
+61 #O A man Y drives the car 
+
+
+62 #C C looks around the road 
+
+
+63 #C C picks phone from the car 
+
+
+64 #C C looks through the car window
+
+
+65 #C C looks around
+
+
+66 #C C looks at the car
+
+
+67 #C C moves hand on the steering wheel
+
+
+68 #C C drives the car
+
+
+69 #C C moves the left hand
+
+
+70 #C C looks at the car
+
+
+71 #O Woman A Talks to C
+
+
+72 #O woman Y drives car 
+
+
+73 #O woman X talks to C
+
+
+74 #C C moves the hand
+
+
+75 #C C taps his hands
+
+
+76 #C C touches the camera
+
+
+77 #C C drives the car
+
+
+78 #O man X drives
+
+
+79 #C C turns the steering wheel
+
+
+80 #O man B drives
+
+
+81 #O woman A puts phone in the pocket
+
+
+82 #C C looks around
+
+
+83 #O The woman A pulls her left hand off the car radio.
+
+
+84 #O person A holds the steering wheel with his left hand
+
+
+85 #O person Y holds the steering wheel
+
+
+86 #C C holds a phone
+
+
+87 #C C scrolls a phone
+
+
+88 #C C scrolls the phone
+
+
+89 #C C scrolls the phone
+
+
+90 #C C scrolls the phone
+
+
+91 #O man W scrolls phone
+
+
+92 #O man X sits on a chair 
+
+
+93 #O The man X walks into the car.
+
+
+94 #O person A operates phone
+
+
+95 #O a woman Y scrolls a phone 
+
+
+96 #O person A scrolls a phone
+
+
+97 #C C looks at the phone
+
+
+98 #C C looks around
+
+
+99 #C C moves the phone
+
+
+100 #C C drives the car
+
+
+101 #C C looks around
+
+
+102 #C C speaks to a group of people.
+
+
+103 #C C drives car
+
+
+104 #O A man Y moves the hand
+
+
+105 #C C looks at the right side of the road
+
+
+106 #C C drives a car
+
+
+107 #C C turns a steering wheel with both hands
+
+
+108 #C C turns a car ta the left
+
+
+109 #C C operates a phone
+
+
+110 #O a woman K scrolls a phone 
+
+
+111 #C C scrolls the phone
+
+
+112 #C C looks at the  road
+
+
+113 #C C drives forward
+
+
+114 #C C drives the car
+
+
+115 #C C drives past a car.
+
+
+116 #C C moves the steering wheel with both hands
+
+
+117 #C C looks at the right side of the mirror
+
+
+118 #C C drives the car
+
+
+119 #C C moves the car steering wheel with her left hand.
+
+
+120 #C C touches the car radio
+
+
+121 #C C picks the phone from the car with his right hand.
+
+
+122 #C C moves the hand
+
+
+123 #C C touches the phone
+
+
+124 #C C looks around
+
+
+125 #C C looks around
+
+
+126 #C C looks at the car
+
+
+127 #C C drives the car
+
+
+128 #C C drives the car
+
+
+129 #C C drives the car
+
+
+130 #C C drives the car
+
+
+131 #C C drives car
+
+
+132 #C C drives the car
+
+
+133 #C C drives the car
+
+
+134 #O person Y converses with person X 
+
+
+135 #C C drives the car
+
+
+136 #C C drives the car with the steering wheel in both hands.
+
+
+137 #C C drives past a car.
+
+
+138 #C C drives the car
+
+
+139 #C C looks at the rear view mirror
+
+
+140 #C C drives the car
+
+
+141 #C C drives past a car. 
+
+
+142 #C C looks at the windshield
+
+
+143 #C C looks at the windscreen
+
+
+144 #C C looks at the vehicle
+
+
+145 #C C touches a the radio with his left hand.
+
+
+146 #C C drives past a woman P. 
+
+
+147 #C C drives past a man Y.
+
+
+148 #O A man Y operates a phone with his right hand.
+
+
+149 #O The woman A places both hands on the car's rear-brake.
+
+
+150 #C C Looks at the windshield
+
+
+151 #O A woman X drives the car
+
+
+152 #O A woman Y drives car on the road 
+
+
+153 #C C controls the car steering
+
+
+154 #C C looks at the road
+
+
+155 #C C looks at the car
+
+
+156 #C C looks around
+
+
+157 #C C looks around
+
+
+158 #C C looks around
+
+
+159 #O woman Y uses the phone
+
+
+160 #C C interacts with woman X
+
+
+161 #C C holds the steering wheel with both hands
+
+
+162 #C C looks around
+
+
+163 #C C turns the phone around with both hands.
+
+
+164 #O woman A turns the head
+
+
+165 #C C looks around
+
+
+166 #O person A moves the hand
+
+
+167 #O A man X drives the car
+
+
+168 #C C looks around the street
+
+
+169 #C C drives the car
+
+
+170 #C C looks around
+
+
+171 #C C looks around
+
+
+172 #C C looks at the car
+
+
+173 #C C looks around
+
+
+174 #C C looks at the cars
+
+
+175 #C C looks at the car
+
+
+176 #C C looks around
+
+
+177 #O person X looks around
+
+
+178 #O The woman A lowers the left hand to the car.
+
+
+179 #O The man X operates the phone with his right hand.
+
+
+180 #C C removes the phone from the pocket
+
+

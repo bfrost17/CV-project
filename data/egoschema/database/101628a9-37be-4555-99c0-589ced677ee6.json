@@ -1,0 +1,724 @@
+{
+  "messages": [
+    {
+      "content": "1 #C C puts the craft model on the table.",
+      "time": 1
+    },
+    {
+      "content": "2 #C C pulls the needle.",
+      "time": 2
+    },
+    {
+      "content": "3 #C C removes the needle from the thread.",
+      "time": 3
+    },
+    {
+      "content": "4 #C C pulls the needle with thread.",
+      "time": 4
+    },
+    {
+      "content": "5 #C C separates the pieces of wood",
+      "time": 5
+    },
+    {
+      "content": "6 #C C picks the other piece of paper from the table",
+      "time": 6
+    },
+    {
+      "content": "7 #C C picks the glue gun",
+      "time": 7
+    },
+    {
+      "content": "8 #C C picks the paper from the table",
+      "time": 8
+    },
+    {
+      "content": "9 #C C holds the decorative paper",
+      "time": 9
+    },
+    {
+      "content": "10 #C C walks towards a room.",
+      "time": 10
+    },
+    {
+      "content": "11 #C C lifts the craft paper",
+      "time": 11
+    },
+    {
+      "content": "12 #C C puts the piece of thread in the glue gun",
+      "time": 12
+    },
+    {
+      "content": "13 #C C puts the glue on the piece of paper",
+      "time": 13
+    },
+    {
+      "content": "14 #C C puts the glue on the piece of paper",
+      "time": 14
+    },
+    {
+      "content": "15 #C C picks up the glue gun from the piece of paper",
+      "time": 15
+    },
+    {
+      "content": "16 #C C drops the small piece of craft material on the table",
+      "time": 16
+    },
+    {
+      "content": "17 #C C picks up the piece of the paper from the table.",
+      "time": 17
+    },
+    {
+      "content": "18 #C C presses the small craft with the small craft knife",
+      "time": 18
+    },
+    {
+      "content": "19 #C C holds the paper alphabet",
+      "time": 19
+    },
+    {
+      "content": "20 #C C picks the pieces of papers.",
+      "time": 20
+    },
+    {
+      "content": "21 #C C moves the piece of craft material to the table.",
+      "time": 21
+    },
+    {
+      "content": "22 #C C picks up the piece of cloth.",
+      "time": 22
+    },
+    {
+      "content": "23 #C C removes the piece of cloth.",
+      "time": 23
+    },
+    {
+      "content": "24 #C C pulls the thread",
+      "time": 24
+    },
+    {
+      "content": "25 #C C throws the thread on the table.",
+      "time": 25
+    },
+    {
+      "content": "26 #C C raises the thread to her mouth",
+      "time": 26
+    },
+    {
+      "content": "27 #C C removes the sewing thread from the needle",
+      "time": 27
+    },
+    {
+      "content": "28 #C C separates the loose thread and the thread with her hands",
+      "time": 28
+    },
+    {
+      "content": "29 #C C pulls the thread with her right hand",
+      "time": 29
+    },
+    {
+      "content": "30 #C C folds the paper tape.",
+      "time": 30
+    },
+    {
+      "content": "31 #C C picks up the needle",
+      "time": 31
+    },
+    {
+      "content": "32 #C C picks a small piece of the thread.",
+      "time": 32
+    },
+    {
+      "content": "33 #C C drops the scissors on the table.",
+      "time": 33
+    },
+    {
+      "content": "34 #C C picks up the pins from the table",
+      "time": 34
+    },
+    {
+      "content": "35 #C C picks a tiny piece of plastic from the table",
+      "time": 35
+    },
+    {
+      "content": "36 #C C picks a needle from the table",
+      "time": 36
+    },
+    {
+      "content": "37 #C C picks the cover of the small container with her right hand.",
+      "time": 37
+    },
+    {
+      "content": "38 #C C picks the paper alphabet from the paper book.",
+      "time": 38
+    },
+    {
+      "content": "39 #C C throws the small piece of paper on the table",
+      "time": 39
+    },
+    {
+      "content": "40 #C C picks the scissors from the table.",
+      "time": 40
+    },
+    {
+      "content": "41 #C C picks the scissors.",
+      "time": 41
+    },
+    {
+      "content": "42 #C C puts the needle on the table",
+      "time": 42
+    },
+    {
+      "content": "43 #C C drops the thread.",
+      "time": 43
+    },
+    {
+      "content": "44 #C C picks the thread.",
+      "time": 44
+    },
+    {
+      "content": "45 #C C picks up a piece of the embroidery hoop from the table",
+      "time": 45
+    },
+    {
+      "content": "46 #C C separates the thread and the needle with both hands.",
+      "time": 46
+    },
+    {
+      "content": "47 #C C removes the thread from the needle",
+      "time": 47
+    },
+    {
+      "content": "48 #C C puts the thread on the needle",
+      "time": 48
+    },
+    {
+      "content": "49 #C C removes a pin from the thread",
+      "time": 49
+    },
+    {
+      "content": "50 #C C raises her hand to the table",
+      "time": 50
+    },
+    {
+      "content": "51 #C C raises the hand",
+      "time": 51
+    },
+    {
+      "content": "52 #C C picks the paper.",
+      "time": 52
+    },
+    {
+      "content": "53 #C C picks the stick",
+      "time": 53
+    },
+    {
+      "content": "54 #C C pushes the piece of cloth towards the piece of wood",
+      "time": 54
+    },
+    {
+      "content": "55 #C C picks up the paper",
+      "time": 55
+    },
+    {
+      "content": "56 #C C picks the needle",
+      "time": 56
+    },
+    {
+      "content": "57 #C C separates the thread with both hands",
+      "time": 57
+    },
+    {
+      "content": "58 #C C picks the cut piece of thread from the table.",
+      "time": 58
+    },
+    {
+      "content": "59 #C C picks up the cut piece of paper from the table",
+      "time": 59
+    },
+    {
+      "content": "60 #C C picks up the needle",
+      "time": 60
+    },
+    {
+      "content": "61 #C C puts the needle on the needle hole",
+      "time": 61
+    },
+    {
+      "content": "62 #C C folds the thread on the sewing needle.",
+      "time": 62
+    },
+    {
+      "content": "63 #C C folds the thread on the needle ",
+      "time": 63
+    },
+    {
+      "content": "64 #C C removes the thread",
+      "time": 64
+    },
+    {
+      "content": "65 #C C picks up the thread",
+      "time": 65
+    },
+    {
+      "content": "66 #C C removes the paper from the smaller pieces",
+      "time": 66
+    },
+    {
+      "content": "67 #C C picks up the cutout from the table",
+      "time": 67
+    },
+    {
+      "content": "68 #C C fixes the piece of cloth on the piece of wood ",
+      "time": 68
+    },
+    {
+      "content": "69 #C C inserts the piece of cloth into the needle.",
+      "time": 69
+    },
+    {
+      "content": "70 #C C places the paper alphabet on the paper book",
+      "time": 70
+    },
+    {
+      "content": "71 #C C holds the needle with her hand",
+      "time": 71
+    },
+    {
+      "content": "72 #C C turns the thread.",
+      "time": 72
+    },
+    {
+      "content": "73 #C C picks the paper.",
+      "time": 73
+    },
+    {
+      "content": "74 #C C puts the piece of material on the table ",
+      "time": 74
+    },
+    {
+      "content": "75 #C C places the piece of the craft material in the paper",
+      "time": 75
+    },
+    {
+      "content": "76 #C C adjusts the small craft work on the table with both hands",
+      "time": 76
+    },
+    {
+      "content": "77 #C C puts the piece of paper in the paper craft",
+      "time": 77
+    },
+    {
+      "content": "78 #C C picks the piece of cloth.",
+      "time": 78
+    },
+    {
+      "content": "79 #C C pulls the needle from the table",
+      "time": 79
+    },
+    {
+      "content": "80 #C C places the small piece of cloth on the table",
+      "time": 80
+    },
+    {
+      "content": "81 #C C aligns the pieces of cut paper",
+      "time": 81
+    },
+    {
+      "content": "82 #C C aligns the pieces of cloth",
+      "time": 82
+    },
+    {
+      "content": "83 #C C picks the piece of cloth on the table ",
+      "time": 83
+    },
+    {
+      "content": "84 #C C arranges the piece of paper on the paperboard craft.",
+      "time": 84
+    },
+    {
+      "content": "85 #C C adjusts the pieces of paper",
+      "time": 85
+    },
+    {
+      "content": "86 #C C adjusts the cut piece of paper.",
+      "time": 86
+    },
+    {
+      "content": "87 #C C turns the paper art",
+      "time": 87
+    },
+    {
+      "content": "88 #C C picks the piece of paper",
+      "time": 88
+    },
+    {
+      "content": "89 #C C places the craft paper on the craft paper.",
+      "time": 89
+    },
+    {
+      "content": "90 #C C fits the paper model piece on the paper.",
+      "time": 90
+    },
+    {
+      "content": "91 #C C puts the piece of paper in the paper.",
+      "time": 91
+    },
+    {
+      "content": "92 #C C removes a piece of thread from the craft.",
+      "time": 92
+    },
+    {
+      "content": "93 #C C sews the paper craft.",
+      "time": 93
+    },
+    {
+      "content": "94 #C C places the small piece of paper on the craft design.",
+      "time": 94
+    },
+    {
+      "content": "95 #C C picks the piece of paper.",
+      "time": 95
+    },
+    {
+      "content": "96 #C C picks up the scissors.",
+      "time": 96
+    },
+    {
+      "content": "97 #C C cuts the cut piece of paper.",
+      "time": 97
+    },
+    {
+      "content": "98 #C C cuts the cut piece of paper.",
+      "time": 98
+    },
+    {
+      "content": "99 #C C cuts the paper.",
+      "time": 99
+    },
+    {
+      "content": "100 #C C picks a piece of thread from the table.",
+      "time": 100
+    },
+    {
+      "content": "101 #C C moves the pieces of wood on the piece of paper.",
+      "time": 101
+    },
+    {
+      "content": "102 #C C removes the piece of craft material from the paper.",
+      "time": 102
+    },
+    {
+      "content": "103 #C C turns the paper alphabet",
+      "time": 103
+    },
+    {
+      "content": "104 #C C puts the piece of wood into the paper.",
+      "time": 104
+    },
+    {
+      "content": "105 #C C holds the piece of craft work",
+      "time": 105
+    },
+    {
+      "content": "106 #C C puts the craft paper on the craft paper.",
+      "time": 106
+    },
+    {
+      "content": "107 #C C picks a small piece of paper from the paper.",
+      "time": 107
+    },
+    {
+      "content": "108 #C C puts the piece of paper on the table.",
+      "time": 108
+    },
+    {
+      "content": "109 #C C moves the craft piece on the hand.",
+      "time": 109
+    },
+    {
+      "content": "110 #C C pulls a craft paper ",
+      "time": 110
+    },
+    {
+      "content": "111 #C C picks the piece of craft paper",
+      "time": 111
+    },
+    {
+      "content": "112 #C C puts the craft piece on the table.",
+      "time": 112
+    },
+    {
+      "content": "113 #C C draws a pattern on the piece of craft with the white wood and the needle.",
+      "time": 113
+    },
+    {
+      "content": "114 #C C presses the paper on the craft model.",
+      "time": 114
+    },
+    {
+      "content": "115 #C C turns the craft paper",
+      "time": 115
+    },
+    {
+      "content": "116 #C C pulls the piece of craft work",
+      "time": 116
+    },
+    {
+      "content": "117 #C C turns the craft paper on the table",
+      "time": 117
+    },
+    {
+      "content": "118 #C C places the piece of paper on the other.",
+      "time": 118
+    },
+    {
+      "content": "119 #C C moves the craft piece on the paper.",
+      "time": 119
+    },
+    {
+      "content": "120 #C C holds the paper alphabet",
+      "time": 120
+    },
+    {
+      "content": "121 #C C picks up the pieces of paper",
+      "time": 121
+    },
+    {
+      "content": "122 #C C moves the craft pieces.",
+      "time": 122
+    },
+    {
+      "content": "123 #C C places the cut piece of craft material on the other craft material.",
+      "time": 123
+    },
+    {
+      "content": "124 #C C fixes the piece of craft craft craft to the paperboard craft",
+      "time": 124
+    },
+    {
+      "content": "125 #C C sticks the piece of wood on the table",
+      "time": 125
+    },
+    {
+      "content": "126 #C C fits the piece of paper to the paperboard craft",
+      "time": 126
+    },
+    {
+      "content": "127 #C C shapes the paper with the craft knife.",
+      "time": 127
+    },
+    {
+      "content": "128 #C C shapes the paper board with the small wooden stick.",
+      "time": 128
+    },
+    {
+      "content": "129 #C C removes the small craft paper from the piece of wood.",
+      "time": 129
+    },
+    {
+      "content": "130 #C C puts the craft paper on the table.",
+      "time": 130
+    },
+    {
+      "content": "131 #C C places the piece of paper on the paper craft.",
+      "time": 131
+    },
+    {
+      "content": "132 #C C pulls a piece of paper",
+      "time": 132
+    },
+    {
+      "content": "133 #C C turns the paper around.",
+      "time": 133
+    },
+    {
+      "content": "134 #C C sews the paper.",
+      "time": 134
+    },
+    {
+      "content": "135 #C C turns the piece of craft work to the right ",
+      "time": 135
+    },
+    {
+      "content": "136 #C C removes the piece of craft design piece with the other piece.",
+      "time": 136
+    },
+    {
+      "content": "137 #C C places the piece of wood on the cut piece of wood",
+      "time": 137
+    },
+    {
+      "content": "138 #C C puts the piece of paper on the table.",
+      "time": 138
+    },
+    {
+      "content": "139 #C C fixes the piece of cloth on the table.",
+      "time": 139
+    },
+    {
+      "content": "140 #C C picks a piece of the piece of cloth.",
+      "time": 140
+    },
+    {
+      "content": "141 #C C picks another piece of the craft material",
+      "time": 141
+    },
+    {
+      "content": "142 #C C holds a piece of craft model piece",
+      "time": 142
+    },
+    {
+      "content": "143 #C C places the piece of craft model on the board.",
+      "time": 143
+    },
+    {
+      "content": "144 #C C puts the model piece on the pottery piece.",
+      "time": 144
+    },
+    {
+      "content": "145 #C C puts the piece of wood on the piece of wood.",
+      "time": 145
+    },
+    {
+      "content": "146 #C C places the piece of wood on the paper craft",
+      "time": 146
+    },
+    {
+      "content": "147 #C C puts the piece of wood on the paper.",
+      "time": 147
+    },
+    {
+      "content": "148 #C C moves the craft material on the table",
+      "time": 148
+    },
+    {
+      "content": "149 #C C pulls a piece of wood from the paper",
+      "time": 149
+    },
+    {
+      "content": "150 #C C adjusts the wood curving`s with both hands",
+      "time": 150
+    },
+    {
+      "content": "151 #C C places the small piece of wood on the wooden piece",
+      "time": 151
+    },
+    {
+      "content": "152 #C C puts the piece of wood on the wood circle piece.",
+      "time": 152
+    },
+    {
+      "content": "153 #C C holds a piece of the cut piece of wood.",
+      "time": 153
+    },
+    {
+      "content": "154 #C C removes the piece of cloth from the top of the cut out part.",
+      "time": 154
+    },
+    {
+      "content": "155 #C C adjusts the needle on the table.",
+      "time": 155
+    },
+    {
+      "content": "156 #C C sews the piece of cloth.",
+      "time": 156
+    },
+    {
+      "content": "157 #C C fixes the piece of cloth to the letter.",
+      "time": 157
+    },
+    {
+      "content": "158 #C C removes the piece of paper.",
+      "time": 158
+    },
+    {
+      "content": "159 #C C joins the pieces of craft material to the cardboard.",
+      "time": 159
+    },
+    {
+      "content": "160 #C C cuts the piece of wood with the wood cutter.",
+      "time": 160
+    },
+    {
+      "content": "161 #C C places the piece of wood on the decorative paper.",
+      "time": 161
+    },
+    {
+      "content": "162 #C C fixes a piece of craft material to the decorative",
+      "time": 162
+    },
+    {
+      "content": "163 #C C removes the piece of wood from the cut piece.",
+      "time": 163
+    },
+    {
+      "content": "164 #C C picks up the piece of craft material",
+      "time": 164
+    },
+    {
+      "content": "165 #C C holds the piece of cloth.",
+      "time": 165
+    },
+    {
+      "content": "166 #C C turns the paper craft on the table.",
+      "time": 166
+    },
+    {
+      "content": "167 #C C  aligns the pieces of wood",
+      "time": 167
+    },
+    {
+      "content": "168 #C C places the piece of wood on the board craft with her hands",
+      "time": 168
+    },
+    {
+      "content": "169 #C C turns the piece of paper around.",
+      "time": 169
+    },
+    {
+      "content": "170 #C C smoothens the piece of craft model with the stick cutter.",
+      "time": 170
+    },
+    {
+      "content": "171 #C C puts the piece of paper on the piece of craft planks.",
+      "time": 171
+    },
+    {
+      "content": "172 #C C places the piece of craft model on the piece of paper.",
+      "time": 172
+    },
+    {
+      "content": "173 #C C puts the piece of craft work on the table.",
+      "time": 173
+    },
+    {
+      "content": "174 #C C removes the green cloth material on the green cloth material on the table with both hands.",
+      "time": 174
+    },
+    {
+      "content": "175 #C C sews the piece of cloth.",
+      "time": 175
+    },
+    {
+      "content": "176 #C C sews the decorative paper.",
+      "time": 176
+    },
+    {
+      "content": "177 #C C places the piece of paper on the table.",
+      "time": 177
+    },
+    {
+      "content": "178 #C C removes the piece of cloth from the cut piece of cloth.",
+      "time": 178
+    },
+    {
+      "content": "179 #C C places the piece of paper on the piece of paper cut by the table.",
+      "time": 179
+    },
+    {
+      "content": "180 #C C fixes the piece of craft model to the craft piece ",
+      "time": 180
+    }
+  ]
+}

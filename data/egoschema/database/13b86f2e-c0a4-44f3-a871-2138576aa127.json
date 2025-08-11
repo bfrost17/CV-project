@@ -1,0 +1,724 @@
+{
+  "messages": [
+    {
+      "content": "1 #C C ties the thread with the fingers ",
+      "time": 1
+    },
+    {
+      "content": "2 #C C ties the thread on the finger",
+      "time": 2
+    },
+    {
+      "content": "3 #C C ties the thread on the fingers ",
+      "time": 3
+    },
+    {
+      "content": "4 #C C folds the thread on her hands ",
+      "time": 4
+    },
+    {
+      "content": "5 #C C ties the thread",
+      "time": 5
+    },
+    {
+      "content": "6 #C C ties the thread on the neck",
+      "time": 6
+    },
+    {
+      "content": "7 #C C looks at the small red ball",
+      "time": 7
+    },
+    {
+      "content": "8 #C C adjusts the string",
+      "time": 8
+    },
+    {
+      "content": "9 #C C stares at the fabric",
+      "time": 9
+    },
+    {
+      "content": "10 #C C ties the thread",
+      "time": 10
+    },
+    {
+      "content": "11 #C C looks at the sewing machine",
+      "time": 11
+    },
+    {
+      "content": "12 #C C looks at the television",
+      "time": 12
+    },
+    {
+      "content": "13 #O A boy X walks into the house.",
+      "time": 13
+    },
+    {
+      "content": "14 #O woman X walks out of the room",
+      "time": 14
+    },
+    {
+      "content": "15 #C C holds the thread on the table",
+      "time": 15
+    },
+    {
+      "content": "16 #C C folds the thread on the fingers",
+      "time": 16
+    },
+    {
+      "content": "17 #C C aligns the thread on the finger",
+      "time": 17
+    },
+    {
+      "content": "18 #C C straightens the thread",
+      "time": 18
+    },
+    {
+      "content": "19 #O person X walks towards the table.",
+      "time": 19
+    },
+    {
+      "content": "20 #C C looks at the phone in his hands",
+      "time": 20
+    },
+    {
+      "content": "21 #C C Looks around a room",
+      "time": 21
+    },
+    {
+      "content": "22 #C C looks around",
+      "time": 22
+    },
+    {
+      "content": "23 #C C stares around",
+      "time": 23
+    },
+    {
+      "content": "24 #C C looks around the room",
+      "time": 24
+    },
+    {
+      "content": "25 #C C stares at the floor",
+      "time": 25
+    },
+    {
+      "content": "26 #C C stares at the floor",
+      "time": 26
+    },
+    {
+      "content": "27 #C C looks around the room",
+      "time": 27
+    },
+    {
+      "content": "28 #C C looks at the table",
+      "time": 28
+    },
+    {
+      "content": "29 #C C stares at the floor",
+      "time": 29
+    },
+    {
+      "content": "30 #C C looks at a table",
+      "time": 30
+    },
+    {
+      "content": "31 #C C points towards a man Z",
+      "time": 31
+    },
+    {
+      "content": "32 #C C points the camera",
+      "time": 32
+    },
+    {
+      "content": "33 #O The man A lifts the head up.",
+      "time": 33
+    },
+    {
+      "content": "34 #C C holds a thread",
+      "time": 34
+    },
+    {
+      "content": "35 #C C removes the finger from the pear",
+      "time": 35
+    },
+    {
+      "content": "36 #C C looks at the house",
+      "time": 36
+    },
+    {
+      "content": "37 #C C looks around the room",
+      "time": 37
+    },
+    {
+      "content": "38 #C C looks at the watch",
+      "time": 38
+    },
+    {
+      "content": "39 #C C looks at the finger",
+      "time": 39
+    },
+    {
+      "content": "40 #C C folds the hand",
+      "time": 40
+    },
+    {
+      "content": "41 #C C ties the thread with the hand",
+      "time": 41
+    },
+    {
+      "content": "42 #C C stretches the thread",
+      "time": 42
+    },
+    {
+      "content": "43 #C C folds the thread on the fabric",
+      "time": 43
+    },
+    {
+      "content": "44 #C C ties the thread on the edge of the fabric",
+      "time": 44
+    },
+    {
+      "content": "45 #C C ties the thread",
+      "time": 45
+    },
+    {
+      "content": "46 #C C ties the thread on the fingers",
+      "time": 46
+    },
+    {
+      "content": "47 #C C removes the threads from the fabric",
+      "time": 47
+    },
+    {
+      "content": "48 #C C folds the thread",
+      "time": 48
+    },
+    {
+      "content": "49 #O A man X walks away",
+      "time": 49
+    },
+    {
+      "content": "50 #O Man Y moves the hand",
+      "time": 50
+    },
+    {
+      "content": "51 #C C folds the needle on the edge of the cloth",
+      "time": 51
+    },
+    {
+      "content": "52 #C C folds the thread on the finger",
+      "time": 52
+    },
+    {
+      "content": "53 #O person A walks towards the door",
+      "time": 53
+    },
+    {
+      "content": "54 #O person Y walks around the room",
+      "time": 54
+    },
+    {
+      "content": "55 #C C touches the thread",
+      "time": 55
+    },
+    {
+      "content": "56 #C C folds the thread",
+      "time": 56
+    },
+    {
+      "content": "57 #C C folds the thread on the fingers",
+      "time": 57
+    },
+    {
+      "content": "58 #C C sews the decoration using a needle",
+      "time": 58
+    },
+    {
+      "content": "59 #C C holds the yellow balloon animal with her hands.",
+      "time": 59
+    },
+    {
+      "content": "60 #C C looks at the table",
+      "time": 60
+    },
+    {
+      "content": "61 #C C adjusts the thread",
+      "time": 61
+    },
+    {
+      "content": "62 #C C fixes the thread on the table",
+      "time": 62
+    },
+    {
+      "content": "63 #C C puts the needle in the thread",
+      "time": 63
+    },
+    {
+      "content": "64 #C C removes the beads from the thread ",
+      "time": 64
+    },
+    {
+      "content": "65 #C C folds the thread roll on the table ",
+      "time": 65
+    },
+    {
+      "content": "66 #C C picks up the container",
+      "time": 66
+    },
+    {
+      "content": "67 #C C closes the bottle top with its lid",
+      "time": 67
+    },
+    {
+      "content": "68 #C C folds the decorative flowers",
+      "time": 68
+    },
+    {
+      "content": "69 #C C looks at the cloth",
+      "time": 69
+    },
+    {
+      "content": "70 #O Man X walks into the room",
+      "time": 70
+    },
+    {
+      "content": "71 #O person A closes the door",
+      "time": 71
+    },
+    {
+      "content": "72 #C C pulls the thread of the needle from the container",
+      "time": 72
+    },
+    {
+      "content": "73 #C C holds the thread on the ribbon",
+      "time": 73
+    },
+    {
+      "content": "74 #C C places the glue on the ribbon pins",
+      "time": 74
+    },
+    {
+      "content": "75 #C C fixes the thread on the ribbon",
+      "time": 75
+    },
+    {
+      "content": "76 #C C folds the glue bottle",
+      "time": 76
+    },
+    {
+      "content": "77 #C C opens the bottle cap",
+      "time": 77
+    },
+    {
+      "content": "78 #C C removes the thread from the bag ",
+      "time": 78
+    },
+    {
+      "content": "79 #C C opens the bottle of  botte oil",
+      "time": 79
+    },
+    {
+      "content": "80 #C C moves the chair",
+      "time": 80
+    },
+    {
+      "content": "81 #C C  picks up the paper towel",
+      "time": 81
+    },
+    {
+      "content": "82 #C C picks the thread from the table",
+      "time": 82
+    },
+    {
+      "content": "83 #C C holds the table",
+      "time": 83
+    },
+    {
+      "content": "84 #C C drops hand holding the table",
+      "time": 84
+    },
+    {
+      "content": "85 #C C inspects the beads in the glue container",
+      "time": 85
+    },
+    {
+      "content": "86 #C C fixes the thread on the needle",
+      "time": 86
+    },
+    {
+      "content": "87 #O Man X holds the green ball",
+      "time": 87
+    },
+    {
+      "content": "88 #C C moves the beads in the loom",
+      "time": 88
+    },
+    {
+      "content": "89 #C C fixes the string on the loom",
+      "time": 89
+    },
+    {
+      "content": "90 #C C puts the string on the glue",
+      "time": 90
+    },
+    {
+      "content": "91 #C C fixes the thread on the string",
+      "time": 91
+    },
+    {
+      "content": "92 #C C moves the thread around the needle ",
+      "time": 92
+    },
+    {
+      "content": "93 #C C puts the thread in the finger",
+      "time": 93
+    },
+    {
+      "content": "94 #C C puts the thread on the finger",
+      "time": 94
+    },
+    {
+      "content": "95 #C C ties the thread on the finger",
+      "time": 95
+    },
+    {
+      "content": "96 #C C fixes the thread on the finger",
+      "time": 96
+    },
+    {
+      "content": "97 #C C removes the rubber band from the finger",
+      "time": 97
+    },
+    {
+      "content": "98 #C C looks at the apartment",
+      "time": 98
+    },
+    {
+      "content": "99 #C C makes the thread with the fingers.",
+      "time": 99
+    },
+    {
+      "content": "100 #C C ties the thread with the fingers",
+      "time": 100
+    },
+    {
+      "content": "101 #C C puts the thread in the finger",
+      "time": 101
+    },
+    {
+      "content": "102 #C C stares at the decorated ribbon",
+      "time": 102
+    },
+    {
+      "content": "103 #C C puts the string on the fingers.",
+      "time": 103
+    },
+    {
+      "content": "104 #C C walks towards a door.",
+      "time": 104
+    },
+    {
+      "content": "105 #O person X walks into the room.",
+      "time": 105
+    },
+    {
+      "content": "106 #C C looks at the surroundings",
+      "time": 106
+    },
+    {
+      "content": "107 #C C touches the pins",
+      "time": 107
+    },
+    {
+      "content": "108 #C C fixes the beads on the string",
+      "time": 108
+    },
+    {
+      "content": "109 #C C adjusts the loom wheel with her hands",
+      "time": 109
+    },
+    {
+      "content": "110 #C C stares around",
+      "time": 110
+    },
+    {
+      "content": "111 #C C ties the thread with both hands",
+      "time": 111
+    },
+    {
+      "content": "112 #C C stares the hands",
+      "time": 112
+    },
+    {
+      "content": "113 #O A woman X walks towards the door",
+      "time": 113
+    },
+    {
+      "content": "114 #C C looks at the hand",
+      "time": 114
+    },
+    {
+      "content": "115 #C C looks at the table",
+      "time": 115
+    },
+    {
+      "content": "116 #C C looks around the room",
+      "time": 116
+    },
+    {
+      "content": "117 #C C looks at the hands",
+      "time": 117
+    },
+    {
+      "content": "118 #C C stares at the hands",
+      "time": 118
+    },
+    {
+      "content": "119 #C C ties the band around her hands",
+      "time": 119
+    },
+    {
+      "content": "120 #O person Y walks to the floor",
+      "time": 120
+    },
+    {
+      "content": "121 #C C looks at the camera",
+      "time": 121
+    },
+    {
+      "content": "122 #O A man X walks towards a refrigerator",
+      "time": 122
+    },
+    {
+      "content": "123 #C C stretches the thread",
+      "time": 123
+    },
+    {
+      "content": "124 #C C ties the thread with the other hand",
+      "time": 124
+    },
+    {
+      "content": "125 #C C puts the thread on the needle",
+      "time": 125
+    },
+    {
+      "content": "126 #C C fixes the thread on the pin",
+      "time": 126
+    },
+    {
+      "content": "127 #C C adjusts the thread on the finger nail",
+      "time": 127
+    },
+    {
+      "content": "128 #C C ties the thread with the fingers ",
+      "time": 128
+    },
+    {
+      "content": "129 #C C ties the thread on the finger",
+      "time": 129
+    },
+    {
+      "content": "130 #C C inserts the thread in the finger.",
+      "time": 130
+    },
+    {
+      "content": "131 #C C inserts the tip of the needle in the finger",
+      "time": 131
+    },
+    {
+      "content": "132 #C C makes a knot on the thread",
+      "time": 132
+    },
+    {
+      "content": "133 #C C inserts the thread in the needle",
+      "time": 133
+    },
+    {
+      "content": "134 #C C inserts the thread on the needle",
+      "time": 134
+    },
+    {
+      "content": "135 #C C fixes the pins on the needle",
+      "time": 135
+    },
+    {
+      "content": "136 #C C holds the loom ring with her right hand",
+      "time": 136
+    },
+    {
+      "content": "137 #O A lady X walks around the room",
+      "time": 137
+    },
+    {
+      "content": "138 #O A man X walks around the room",
+      "time": 138
+    },
+    {
+      "content": "139 #O The man X walks towards the door.",
+      "time": 139
+    },
+    {
+      "content": "140 #C C fixes the string on the wavy twine",
+      "time": 140
+    },
+    {
+      "content": "141 #C C attaches the pin to the cloth with the thread",
+      "time": 141
+    },
+    {
+      "content": "142 #C C puts the thread on the pin.",
+      "time": 142
+    },
+    {
+      "content": "143 #C C ties the thread on the hand",
+      "time": 143
+    },
+    {
+      "content": "144 #C C adjusts the craft pattern.",
+      "time": 144
+    },
+    {
+      "content": "145 #C C fixes the thread on the glue",
+      "time": 145
+    },
+    {
+      "content": "146 #C C inserts the thread in the finger",
+      "time": 146
+    },
+    {
+      "content": "147 #C C ties the loom bracelet",
+      "time": 147
+    },
+    {
+      "content": "148 #C C inserts the rubber band in the fingers",
+      "time": 148
+    },
+    {
+      "content": "149 #C C stares at the hanging line",
+      "time": 149
+    },
+    {
+      "content": "150 #C C looks at the bottle",
+      "time": 150
+    },
+    {
+      "content": "151 #C C looks at the table",
+      "time": 151
+    },
+    {
+      "content": "152 #C C looks at the phone",
+      "time": 152
+    },
+    {
+      "content": "153 #O The man X holds a phone with both hands.",
+      "time": 153
+    },
+    {
+      "content": "154 #C C looks at the table",
+      "time": 154
+    },
+    {
+      "content": "155 #O person X operates a phone",
+      "time": 155
+    },
+    {
+      "content": "156 #O The man X adjusts a camera on his head with both hands.",
+      "time": 156
+    },
+    {
+      "content": "157 #C C stares at the floor",
+      "time": 157
+    },
+    {
+      "content": "158 #C C adjusts the camera",
+      "time": 158
+    },
+    {
+      "content": "159 #C C looks at the table",
+      "time": 159
+    },
+    {
+      "content": "160 #C C looks at the hand",
+      "time": 160
+    },
+    {
+      "content": "161 #C C inserts the beads in the thread",
+      "time": 161
+    },
+    {
+      "content": "162 #C C holds the ring in her left hand.",
+      "time": 162
+    },
+    {
+      "content": "163 #C C touches the waist",
+      "time": 163
+    },
+    {
+      "content": "164 #C C looks at the table",
+      "time": 164
+    },
+    {
+      "content": "165 #C C looks at the table",
+      "time": 165
+    },
+    {
+      "content": "166 #C C looks at the cloth",
+      "time": 166
+    },
+    {
+      "content": "167 #C C looks at the table",
+      "time": 167
+    },
+    {
+      "content": "168 #C C looks at the table",
+      "time": 168
+    },
+    {
+      "content": "169 #O The man A walks towards the table.",
+      "time": 169
+    },
+    {
+      "content": "170 #O Man X Picks a bag",
+      "time": 170
+    },
+    {
+      "content": "171 #C C looks at the table",
+      "time": 171
+    },
+    {
+      "content": "172 #C C looks at the fabric",
+      "time": 172
+    },
+    {
+      "content": "173 #C C looks at the cloth",
+      "time": 173
+    },
+    {
+      "content": "174 #C C holds the thread with the other hand",
+      "time": 174
+    },
+    {
+      "content": "175 #C C looks at the table",
+      "time": 175
+    },
+    {
+      "content": "176 #C C looks at the table",
+      "time": 176
+    },
+    {
+      "content": "177 #C C looks at the table",
+      "time": 177
+    },
+    {
+      "content": "178 #C C looks at the table",
+      "time": 178
+    },
+    {
+      "content": "179 #C C looks at the table",
+      "time": 179
+    },
+    {
+      "content": "180 #C C looks around the table",
+      "time": 180
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+1 #C C writes on the paper with a pen
+
+
+2 #C C moves the hand
+
+
+3 #C C picks the pen
+
+
+4 #C C picks the paper
+
+
+5 #C C puts the paper on the table
+
+
+6 #C C picks a book
+
+
+7 #C C picks the pen
+
+
+8 #C C picks a cloth
+
+
+9 #C C picks a paper
+
+
+10 #C C writes on the paper
+
+
+11 #C C moves paper on the table
+
+
+12 #C C holds a paper
+
+
+13 #C C points at a paper
+
+
+14 #C C moves his left hand on the paper
+
+
+15 #C C moves paper
+
+
+16 #C C puts the paper on the table
+
+
+17 #C C moves the hand to the paper
+
+
+18 #C C writes on paper
+
+
+19 #C C writes on the paper
+
+
+20 #C C writes on the paper
+
+
+21 #C C writes on the paper with the pen
+
+
+22 #O man K talks with C
+
+
+23 #C C writes on the paper
+
+
+24 #C C writes on the paper
+
+
+25 #C C writes on the paper with a pen
+
+
+26 #C C writes on the paper with a pen
+
+
+27 #C C writes on the paper
+
+
+28 #C C writes on the paper
+
+
+29 #C C writes on the paper
+
+
+30 #C C writes on the paper with a pen
+
+
+31 #C C writes on the paper
+
+
+32 #C C writes on the paper with a pen
+
+
+33 #C C lifts the papers
+
+
+34 #C C picks the paper with his right hand.
+
+
+35 #C C touches the paper with both hands
+
+
+36 #O person D moves the paper on the table
+
+
+37 #C C looks at the table
+
+
+38 #C C looks at the paper
+
+
+39 #O Person D holds the paper with both hands
+
+
+40 #O person D drops the paper on the table
+
+
+41 #O person A picks the paper
+
+
+42 #O person A touches the paper
+
+
+43 #C C picks papers
+
+
+44 #C C drops the paper on the table.
+
+
+45 #C C picks the cards
+
+
+46 #C C moves the papers
+
+
+47 #C C looks around the table
+
+
+48 #O The woman K removes her left hand from the paper.
+
+
+49 #O person K puts hand on the table
+
+
+50 #O The woman E touches the table with her right hand.
+
+
+51 #O The man A touches the paper with his left hand.
+
+
+52 #C C puts the hand down
+
+
+53 #C C moves the paper
+
+
+54 #C C writes on the paper with a pen
+
+
+55 #C C writes on the paper with a pen
+
+
+56 #C C writes on the paper
+
+
+57 #C C writes on the paper with a pen
+
+
+58 #C C writes on the paper
+
+
+59 #C C writes on the paper with a pen
+
+
+60 #C C writes on the paper
+
+
+61 #C C Writes on the paper with a pen
+
+
+62 #C C writes on the paper with a pen
+
+
+63 #C C Writes on the paper with a pencil
+
+
+64 #C C Writes on the paper with a pencil
+
+
+65 #C C writes on the paper
+
+
+66 #C C holds the pen
+
+
+67 #C C checks the paper with hands
+
+
+68 #C C picks a pen
+
+
+69 #C C writes on the paper
+
+
+70 #C C writes on the paper
+
+
+71 #C C writes on the paper
+
+
+72 #C C writes on the paper
+
+
+73 #C C writes on the paper with the pen
+
+
+74 #C C moves the hand
+
+
+75 #C C moves the paper
+
+
+76 #C C touches the paper
+
+
+77 #C C writes on the paper with a pen
+
+
+78 #C C writes on paper with a pen
+
+
+79 #C C writes on the paper with a pen
+
+
+80 #C C writes on the paper with a pen
+
+
+81 #C C Writes on the paper
+
+
+82 #C C writes on the paper with a pen
+
+
+83 #C C writes on the paper with a pen
+
+
+84 #C C writes on the paper with a pen in his left hand.
+
+
+85 #C C writes on the paper
+
+
+86 #C C writes on the paper
+
+
+87 #C C writes on the paper with a pen
+
+
+88 #C C writes on the paper with a pencil
+
+
+89 #C C moves the hand
+
+
+90 #C C writes on the paper
+
+
+91 #C C writes on the paper with a pen
+
+
+92 #C C writes on the paper with the pen
+
+
+93 #C C writes on the paper with a pen
+
+
+94 #C C writes on the paper with the pen
+
+
+95 #C C looks at the laptop
+
+
+96 #C C writes on the paper with the pen
+
+
+97 #C C writes on the paper with the pen
+
+
+98 #C C writes on the paper with the pen in his right hand
+
+
+99 #C C writes on the paper with a pen
+
+
+100 #C C writes on the paper with the pen
+
+
+101 #C C writes on the paper with a pen
+
+
+102 #C C moves the paper
+
+
+103 #C C points at the paper
+
+
+104 #C C points at the paper
+
+
+105 #C C writes on the paper
+
+
+106 #C C writes on the paper with the pen
+
+
+107 #C C points at a paper
+
+
+108 #C C Writes on the paper
+
+
+109 #C C Points at the papers
+
+
+110 # C C moves the hand
+
+
+111 #C C picks the pen
+
+
+112 #C C touches the paper with the left hand
+
+
+113 #C C Moves the hands
+
+
+114 #C C points at the paper with the right hand
+
+
+115 #C C writes on the paper
+
+
+116 #C C picks the paper
+
+
+117 #C C touches paper
+
+
+118 #C C removes a hand from the paper
+
+
+119 #C C turns the paper
+
+
+120 #C C moves the paper
+
+
+121 #C C Moves the hand
+
+
+122 #C C Writes on the paper
+
+
+123 #C C takes a paper from the table
+
+
+124 #C C lifts the paper
+
+
+125 #C C picks the pen
+
+
+126 #C C drops the paper on the table
+
+
+127 #C C removes the paper from the table 
+
+
+128 #C C lifts the paper
+
+
+129 #C C touches the paper
+
+
+130 #C C touches the paper
+
+
+131 #C C writes on the paper with the pen
+
+
+132 #C C points at the paper
+
+
+133 #C C touches the paper
+
+
+134 #C C moves the hand
+
+
+135 #C C touches the table
+
+
+136 #C C moves his hand
+
+
+137 #C C picks a paper
+
+
+138 #C C moves the paper with his left hand
+
+
+139 #C C raises hand
+
+
+140 #C C adjusts the camera
+
+
+141 #C C moves hand towards the paper
+
+
+142 #C C holds the paper on the table
+
+
+143 #C C touches the table
+
+
+144 #C C  moves the hand to the table
+
+
+145 #C C walks around the house
+
+
+146 #C C walks to the living room
+
+
+147 #C C walks towards a TV
+
+
+148 #C C moves towards the desk
+
+
+149 #C C opens the cabinet
+
+
+150 #C C opens the drawer
+
+
+151 #C C picks a box from the cupboard
+
+
+152 #C C puts the box on the cabinet
+
+
+153 #C C opens a cabinet
+
+
+154 #C C puts a hand in a cabinet
+
+
+155 #C C takes the cabinet door 
+
+
+156 #C C opens a drawer
+
+
+157 #C C opens a drawer
+
+
+158 #C C opens the drawer
+
+
+159 #C C opens drawer
+
+
+160 #C C opens the drawer
+
+
+161 #C C opens a drawer
+
+
+162 #C C opens the drawer
+
+
+163 #C C picks a tea bag 
+
+
+164 #C C walks around the house
+
+
+165 #C C walks around the house
+
+
+166 #C C walks around the house
+
+
+167 #C C walks around
+
+
+168 #C C picks a napkin from the table
+
+
+169 #C C picks the plate
+
+
+170 #C C picks the plate
+
+
+171 #C C picks the paper
+
+
+172 #C C moves hands
+
+
+173 #C C picks the papers
+
+
+174 #C C lifts the paper
+
+
+175 #C C touches the paper
+
+
+176 #C C touches the paper
+
+
+177 #C C converses with the woman M
+
+
+178 #C C lifts the hand
+
+
+179 #C C looks at the paper
+
+
+180 #C C puts the paper on the table
+
+

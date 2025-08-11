@@ -1,0 +1,540 @@
+1 #O lady B holds a purse 
+
+
+2 #O woman Y opens a door
+
+
+3 #O man X picks up the jacket
+
+
+4 #C C looks around the shop
+
+
+5 #O woman D looks at C 
+
+
+6 #C C looks around the shop
+
+
+7 #O man Z  points at the card machine
+
+
+8 #O man F carries a money.
+
+
+9 #O man P holds a water bottle
+
+
+10 #O person A walks around
+
+
+11 #O man A walks
+
+
+12 #O man R places phone down
+
+
+13 #O A man B moves around
+
+
+14 #C C looks around
+
+
+15 #O A man Z moves his hand
+
+
+16 #O A man Z holds a phone
+
+
+17 #O man B lifts a hand
+
+
+18 #O woman F holds a magazine
+
+
+19 #O man M holds the trolley
+
+
+20 #O woman A holds the glasses
+
+
+21 #O woman Q picks a paper
+
+
+22 #O woman K opens a zip bag
+
+
+23 #O woman W picks the jacket
+
+
+24 #O woman K picks the jacket
+
+
+25 #O woman X holds the jacket
+
+
+26 #O woman Y lifts a jacket
+
+
+27 #C C talks to woman Z
+
+
+28 #O person U walks around
+
+
+29 #O person Y walks around
+
+
+30 #O woman Y holds a bag
+
+
+31 #O woman K holds the money
+
+
+32 #O Man Y puts the jacket down
+
+
+33 #O woman K holds the purse
+
+
+34 #O woman K puts the camera on the table
+
+
+35 #O woman X picks a wallet
+
+
+36 #O woman R holds the bag
+
+
+37 #O woman X holds a bag
+
+
+38 #O woman G walks towards man X
+
+
+39 #O woman J removes a card from the wallet 
+
+
+40 #O man V walks around
+
+
+41 #O man B picks a chair
+
+
+42 #O a man Y walks around the supermarket
+
+
+43 #O woman Y walks around
+
+
+44 #O man B picks a phone
+
+
+45 #O man X holds a paper
+
+
+46 #O man Y takes the bottle 
+
+
+47 #O A man K walks around the store
+
+
+48 #O a man B holds the basket 
+
+
+49 #O man Y holds the phone 
+
+
+50 #O person Y holds the phone 
+
+
+51 #O woman Q holds the phone
+
+
+52 #O woman X picks a drink
+
+
+53 #O woman Y puts the shirt on the table
+
+
+54 #O woman W stands
+
+
+55 #O A man F looks at the phone
+
+
+56 #O man B holds a magazine
+
+
+57 #O lady A stares at the table
+
+
+58 #O woman F holds the face
+
+
+59 #O A man M puts the phone in his pocket 
+
+
+60 #O woman Y walks
+
+
+61 #O person X holds a paper bag
+
+
+62 #O A man Y moves the hand
+
+
+63 #O man A walks towards the counter
+
+
+64 #C C looks around
+
+
+65 #O man A holds the shopping bag
+
+
+66 #O man Y holds the bottle 
+
+
+67 #O man B presses the cash register machine 
+
+
+68 #O A man B walks around the shop
+
+
+69 #O man D holds the bottle 
+
+
+70 #O man A picks a bottle from the table
+
+
+71 #O A man B picks a magazine
+
+
+72 #O A man Y picks a magazine
+
+
+73 #O A man H moves the shopping bag 
+
+
+74 #O A man K takes the paper bag from the table
+
+
+75 #O A man K removes a paper bag from the counter
+
+
+76 #O man Y picks a piece of paper
+
+
+77 #O A man Y takes a paper
+
+
+78 #O man X picks the bottle of water
+
+
+79 #O A man K  holds the paper
+
+
+80 #O A man B pulls the hand bag 
+
+
+81 #O man X picks a reusable paper
+
+
+82 #O A man Y picks a bottle of drink
+
+
+83 #C C walks in the room.
+
+
+84 #C C looks around the supermarket
+
+
+85 #C C looks around the supermarket
+
+
+86 #C C looks around the shop
+
+
+87 #O man Y holds the jar
+
+
+88 #O A man Y pulls a receipt 
+
+
+89 #O A man X picks a paper
+
+
+90 #O man X picks the bottle
+
+
+91 #O man X holds the shopping bag
+
+
+92 #O A man X picks a paper
+
+
+93 #O A man X picks a packet of salad
+
+
+94 #O cashier A picks the plastic bottle
+
+
+95 #O A man Y holds a shopping bag
+
+
+96 #O A man X picks the shopping bag
+
+
+97 #O man A picks the money
+
+
+98 #O A man h removes the hand from the pocket
+
+
+99 #O man K picks a plate
+
+
+100 #O man Y picks a paper bag
+
+
+101 #O person A puts the coin in the wallet
+
+
+102 #O person B picks the snack
+
+
+103 #O person A touches the socks
+
+
+104 #O man T looks at the shopping bag
+
+
+105 #O man B picks a packet
+
+
+106 #O man B picks a drink
+
+
+107 #O Person A puts a drink in the paper
+
+
+108 #O person A looks at the wallet
+
+
+109 #O person A picks a pack of the drink
+
+
+110 #O man X holds the shopping basket
+
+
+111 #O man X takes a drink
+
+
+112 #O man B walks around
+
+
+113 #O a woman K walks towards C
+
+
+114 #O man A carries the money 
+
+
+115 #O person D walks in the shop
+
+
+116 #O cashier X gives C the basket
+
+
+117 #C C puts the money in the shopping basket
+
+
+118 #C C picks a basket
+
+
+119 #C C puts the  paper in the shopping basket
+
+
+120 #C C picks the basket
+
+
+121 #O a man Y picks a shopping basket 
+
+
+122 #O a man X  picks the paper
+
+
+123 #O person B gives C the cash
+
+
+124 #O cashier Q picks a shopping basket
+
+
+125 #O person A picks the shopping basket
+
+
+126 #O man X picks up the item
+
+
+127 #O a man Y puts the shopping bag aside
+
+
+128 #O A man X puts the shopping bag aside
+
+
+129 #O man B puts the packet on the table
+
+
+130 #O person X holds the paper
+
+
+131 #O cashier B gives a bottle to C
+
+
+132 #O A man X picks the packet of chocolate
+
+
+133 #O person A  picks up a product
+
+
+134 #O Person B picks up the item
+
+
+135 #O man Y picks the shopping bag
+
+
+136 #O person A  picks a bottle of soda
+
+
+137 #O man Y  touches a bottle of lemonade
+
+
+138 #O man A puts a packet of chocolate in the shopping bag
+
+
+139 #O man B puts the packet in the bag
+
+
+140 #O cashier X picks a jar 
+
+
+141 #O Person B picks the packet of food
+
+
+142 #O man Y holds a packet of chocolate
+
+
+143 #O man Y gives man Z the shopping list
+
+
+144 #O man Y picks the bottle 
+
+
+145 #O person B  picks a packet of snack
+
+
+146 #O Person A holds the packet of milk
+
+
+147 #O person B takes a packet of water from the shopping bucket
+
+
+148 #O person B  holds a packet of sun bar 
+
+
+149 #O man Y picks the paper
+
+
+150 #O man Y picks a packet of peanut butter
+
+
+151 #O Person B  picks the item.
+
+
+152 #O person Y puts the packet in the paper bag
+
+
+153 #O person B touches the paper
+
+
+154 #O man X touches the counter
+
+
+155 #O man B puts the packet of candy in the paper bag
+
+
+156 #O man B picks a packet of food
+
+
+157 #O man B holds a packet of liquid
+
+
+158 #O person A  picks up the  goods
+
+
+159 #O man B presses the cash register 
+
+
+160 #O person A picks a receipt
+
+
+161 #O man X takes a packet of orange
+
+
+162 #O man B picks the item 
+
+
+163 #O Person A   counts money
+
+
+164 #O man A picks a receipt
+
+
+165 #O cashier B takes the basket
+
+
+166 #O man Y picks a bottle from the counter
+
+
+167 #O A man Z picks the shopping bag
+
+
+168 #O man A converses with man B
+
+
+169 #O man T talks to C
+
+
+170 #O man D talks to C
+
+
+171 #O person B talks to person C 
+
+
+172 #O person B gives C the paper
+
+
+173 #C C gives a man B a packet of noodles
+
+
+174 #O Person A gives C a receipt
+
+
+175 #O person A  hands the money to person C
+
+
+176 #O person A  calculates the money 
+
+
+177 #O man A holds money with both hands
+
+
+178 #O A man Y  picks money
+
+
+179 #O man X gives C a receipt
+
+
+180 #O person A gives C the receipt
+
+

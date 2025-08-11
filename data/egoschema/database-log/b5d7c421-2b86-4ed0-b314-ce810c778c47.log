@@ -1,0 +1,540 @@
+1 #C C paints the canvas
+
+
+2 #C C moves the paint brush
+
+
+3 #C C holds a canvas
+
+
+4 #C C paints the canvas board
+
+
+5 #C C takes a brush from the paint 
+
+
+6 #C C looks at the painting
+
+
+7 #C C paints the canvas board with a paintbrush
+
+
+8 #C C paints the wall board with the paint brush
+
+
+9 #C C paints the painting with the paintbrush 
+
+
+10 #C C turns to the side
+
+
+11 #C C holds the brush
+
+
+12 #C C paints the painting with a brush
+
+
+13 #C C paints the board
+
+
+14 #C C paints the painting board
+
+
+15 #C C paints the canvas with the paintbrush
+
+
+16 #C C paints the canvas board with a paint brush
+
+
+17 #C C looks at the laptop
+
+
+18 #C C looks at the laptop
+
+
+19 #C C turns around
+
+
+20 #C C paints the canvas board with a paint brush
+
+
+21 #C C walks towards the laptop
+
+
+22 #C C looks at the laptop
+
+
+23 #C C paints the canvas with the brush
+
+
+24 #C C paints the canvas with a brush
+
+
+25 #C C looks around
+
+
+26 #C C paints a canvas with a brush
+
+
+27 #C C brushes the canvas
+
+
+28 #C C looks around the room.
+
+
+29 #C C looks at the picture
+
+
+30 #C C paints on the board with a brush
+
+
+31 #C C brushes on the painting board
+
+
+32 #C C paints the wall board
+
+
+33 #C C moves the painting 
+
+
+34 #C C looks at the laptop
+
+
+35 #C C picks up the brush
+
+
+36 #C C paints the canvas with a painting brush
+
+
+37 #C C moves the head to the laptop
+
+
+38 #C C paints the canvas with a brush
+
+
+39 #C C paints the painting board
+
+
+40 #C C looks at the laptop
+
+
+41 #C C paints the canvas with the paintbrush
+
+
+42 #C C paints the painting with a paintbrush
+
+
+43 #C C turns to the side
+
+
+44 #C C paints the canvas with the paintbrush
+
+
+45 #C C paints on the canvas board with a paintbrush
+
+
+46 #C C paints the wall board 
+
+
+47 #C C turns the brush
+
+
+48 #C C wipes the brush with the hand towel
+
+
+49 #C C wipes the paint
+
+
+50 #C C wipes the painting with the towel
+
+
+51 #C C wipes the painting with a towel
+
+
+52 #C C wipes the canvas with the brush
+
+
+53 #C C paints the canvas board with the brush
+
+
+54 #C C wipes the painting with a rag
+
+
+55 #C C paints the canvas board
+
+
+56 #C C paints the painting with a brush
+
+
+57 #C C paints the canvas with a paintbrush
+
+
+58 #C C paints the canvas board with a brush
+
+
+59 #C C paints the canvas board with a paintbrush
+
+
+60 #C C paints the canvas board with the paint brush
+
+
+61 #C C brushes on the board
+
+
+62 #C C wipes the painting with the  cloth
+
+
+63 #C C brushes the  canvas board with the brush
+
+
+64 #C C wipes the board with the hand
+
+
+65 #C C wipes the board with the towel
+
+
+66 #C C brushes the   
+
+
+67 #C C wipes the painting with the towel
+
+
+68 #C C wipes the painting board with the towel
+
+
+69 #C C holds the paintbrush with his right hand.
+
+
+70 #C C looks at the painting
+
+
+71 #C C holds the painting with his right hand
+
+
+72 #C C brushes the canvas
+
+
+73 #C C brushes the canvas board
+
+
+74 #C C brushes the canvas with the brush
+
+
+75 #C C moves the paintbrush
+
+
+76 #C C takes a brush from the canvas
+
+
+77 #C C paints the board with the paintbrush
+
+
+78 #C C paints the board
+
+
+79 #C C wipes the paintbrush on the canvas
+
+
+80 #C C paints the board with a paint brush
+
+
+81 #C C wipes the board with the brush
+
+
+82 #C C touches his face
+
+
+83 #C C paints the board
+
+
+84 #C C moves the board
+
+
+85 #C C paints the board with a brush
+
+
+86 #C C paints the canvas board
+
+
+87 #C C paints the canvas board
+
+
+88 #C C paints a canvas board with a paintbrush
+
+
+89 #C C paints the canvas board
+
+
+90 #C C paints the painting with a paintbrush
+
+
+91 #C C holds the painting
+
+
+92 #C C paints the canvas board
+
+
+93 #C C moves the paintboard
+
+
+94 #C C wipes the board with the brush
+
+
+95 #C C brushes the  wood
+
+
+96 #C C wipes the board with the rag
+
+
+97 #C C cleans the board with a towel
+
+
+98 #C C wipes the paint with the towel
+
+
+99 #C C brushes the  wall with the  brush
+
+
+100 #C C wipes the wallpaper
+
+
+101 #C C wipes the board with a towel
+
+
+102 #C C wipes the wall with the sponge
+
+
+103 #C C wipes the wallpaper with the sponge
+
+
+104 #C C cleans the wall with the sponge
+
+
+105 #C C wipes the wallpaper on the wood
+
+
+106 #C C turns the canvas
+
+
+107 #C C holds a canvas
+
+
+108 #C C walks around
+
+
+109 #C C walks towards the painting
+
+
+110 #C C wipes the portrait with the  a foam
+
+
+111 #C C wipes the paint brush on the canvas
+
+
+112 #C C moves the paintbrush away from the canvas
+
+
+113 #C C wipes the canvas board with the brush
+
+
+114 #C C wipes the canvas board with a towel
+
+
+115 #C C wipes the painting with a canvas
+
+
+116 #C C wipes the  paint with the towel
+
+
+117 #C C cleans the painting with the towel
+
+
+118 #C C wipes the paint with the paper
+
+
+119 #C C wipes the drawing with the  towel
+
+
+120 #C C wipes the painting with a hand
+
+
+121 #C C wipes the painting with the brush
+
+
+122 #C C holds the painting
+
+
+123 #C C looks around
+
+
+124 #C C wipes the painting with the napkin
+
+
+125 #C C wipes the painting with the paper towel
+
+
+126 #C C wipes the wood with a towel
+
+
+127 #C C paints the canvas with the brush
+
+
+128 #C C wipes the painting
+
+
+129 #C C walks towards the paint bucket
+
+
+130 #C C walks towards the paint bucket
+
+
+131 #C C walks around the room
+
+
+132 #C C moves the hand
+
+
+133 #C C walks around
+
+
+134 #C C puts the paint brush in the paint tray
+
+
+135 #C C wipes the painting with the towel
+
+
+136 #C C wipes the painting with a towel 
+
+
+137 #C C wipes the  board
+
+
+138 #C C wipes the brush with the towel
+
+
+139 #C C wipes the painting with the rag
+
+
+140 #C C wipes the paint with a towel 
+
+
+141 #C C wipes the paint with a towel
+
+
+142 #C C wipes the painting with the hand
+
+
+143 #C C paints on the board with the painting brush
+
+
+144 #C C moves the painting brush towards the laptop
+
+
+145 #C C moves the chair towards the table
+
+
+146 #C C holds a brush
+
+
+147 #C C holds the paint brush with both hands
+
+
+148 #C C holds the brush with the left hand 
+
+
+149 #C C holds the canvas
+
+
+150 #C C moves to the drawing board
+
+
+151 #C C walks to the table
+
+
+152 #C C wipes his hand on his jeans
+
+
+153 #C C moves the brush away from the wall
+
+
+154 #C C paints the canvas with the paintbrush
+
+
+155 #C C paints the picture on the painting board
+
+
+156 #C C moves the painting brush to the right hand
+
+
+157 #C C paints the canvas board with the brush 
+
+
+158 #C C paints the painting with the brush
+
+
+159 #C C brushes the painting with the brush
+
+
+160 #C C paints the painting with the brush
+
+
+161 #C C touches the paint board
+
+
+162 #C C removes the brush from the paint
+
+
+163 #C C paints the painting with the brush
+
+
+164 #C C wipes the canvas board with the towel
+
+
+165 #C C wipes the paint on the painting board
+
+
+166 #C C holds a canvas
+
+
+167 #C C picks the paint brush
+
+
+168 #C C stares at the paint board
+
+
+169 #C C holds the paintbrush with his right hand
+
+
+170 #C C wipes the brush on the towel
+
+
+171 #C C walks around
+
+
+172 #C C walks towards the table
+
+
+173 #C C moves the brush towards the canvas
+
+
+174 #C C moves the chair
+
+
+175 #C C moves a piece of paper on the floor
+
+
+176 #C C paints the board with a paintbrush 
+
+
+177 #C C paints the board.
+
+
+178 #C C paints the board with the paintbrush
+
+
+179 #C C paints the board with a paintbrush
+
+
+180 #C C paints the board with a brush
+
+

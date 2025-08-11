@@ -1,0 +1,540 @@
+1 #C C walks to the room
+
+
+2 #O person Z walks in the room
+
+
+3 #O man F walks in the room
+
+
+4 #O woman Y adjusts her hair 
+
+
+5 #O woman X walks towards the table.
+
+
+6 #O A woman D stands near the table.
+
+
+7 #O Woman K stands in the room
+
+
+8 #O woman X walks around
+
+
+9 #O a woman Y walks towards the window
+
+
+10 #C C walks around the room
+
+
+11 #O woman K walks around
+
+
+12 #C C walks in the room
+
+
+13 #O woman Y walks towards the table 
+
+
+14 #O A woman P walks towards the chair
+
+
+15 #C C walks into the room 
+
+
+16 #C C walks towards a dining table.
+
+
+17 #C C walks in the room
+
+
+18 #C C takes the cup from the cooker 
+
+
+19 #C C walks to the kitchen.
+
+
+20 #C C walks in the house
+
+
+21 #C C walks in the room
+
+
+22 #C C walks around the room
+
+
+23 #C C walks around the room
+
+
+24 #C C walks around the room
+
+
+25 #C C walks in the room
+
+
+26 #C C walks around the room
+
+
+27 #C C walks around the room
+
+
+28 #O man X walks in the room
+
+
+29 #C C walks around the room
+
+
+30 #C C walks around the room
+
+
+31 #O A woman Y walks towards the chair
+
+
+32 #C C raises hand
+
+
+33 #C C moves the hand to the face
+
+
+34 #C C walks in the room
+
+
+35 #C C walks to the fridge
+
+
+36 #C C walks in the house
+
+
+37 #C C walks in the room
+
+
+38 #C C walks around the house
+
+
+39 #C C walks in the house
+
+
+40 #C C walks towards the dinning table
+
+
+41 #C C walks to the cooker
+
+
+42 #C C walks towards the cooker 
+
+
+43 #O a woman Z sits on the chair
+
+
+44 #C C walks around the room
+
+
+45 #O woman W looks at C
+
+
+46 #C C looks at man P
+
+
+47 #O a woman X walks towards the table
+
+
+48 #C C walks towards the bedroom
+
+
+49 #O A lady Y holds a phone
+
+
+50 #C C looks at the table
+
+
+51 #O A woman X sits on the chair
+
+
+52 #C C looks at the table
+
+
+53 #O lady X walks around
+
+
+54 #O a woman Y walks around the room 
+
+
+55 #O person D walks around
+
+
+56 #O A woman X holds a phone
+
+
+57 #O woman K walks in the room 
+
+
+58 #C C looks at the table
+
+
+59 #C C walks in the room
+
+
+60 #C C walks around the house
+
+
+61 #O woman X walks back to the room
+
+
+62 #O a woman X walks towards C
+
+
+63 #O woman Y stands at the table 
+
+
+64 #C C looks at the coffee maker
+
+
+65 #O A woman Y walks towards C
+
+
+66 #O A woman K walks in the room
+
+
+67 #O A woman Z walks towards the woman X.
+
+
+68 #C C looks at the phone 
+
+
+69 #C C looks at woman X
+
+
+70 #O woman P walks away from the table
+
+
+71 #O woman R sits on the chair.
+
+
+72 #C C turns to the other side
+
+
+73 #O The man X drops the cup on the sink. 
+
+
+74 #C C puts the pan on the cooker.
+
+
+75 #O A woman Z picks the bowl from the table
+
+
+76 #O woman Z converses with woman Z
+
+
+77 #C C walks to the table
+
+
+78 #C C picks the cup 
+
+
+79 #C C walks to the table
+
+
+80 #C C moves towards the sink
+
+
+81 #C C moves the bowl
+
+
+82 #C C moves the left hand
+
+
+83 #C C turns to the table
+
+
+84 #C C walks to the cabinet
+
+
+85 #C C puts the pan in the cabinet 
+
+
+86 #C C walks towards the table
+
+
+87 #C C moves towards the table
+
+
+88 #C C places the paper towel on the counter top
+
+
+89 #C C picks a cup
+
+
+90 #O A woman S gestures with her hand
+
+
+91 #O a woman X holds her mouth
+
+
+92 #O A woman X picks up a phone
+
+
+93 #C C opens the cabinet
+
+
+94 #C C drops the wooden spoon in the cabinet with her right hand.
+
+
+95 #C C moves a hand
+
+
+96 #C C picks a fork
+
+
+97 #C C puts the spoon in the cabinet
+
+
+98 #C C picks the knife from the chopping board
+
+
+99 #C C picks a knife from the table
+
+
+100 #O Woman X removes her hand from the paper.
+
+
+101 #O A woman X walks towards the table
+
+
+102 #C C moves towards the gas cooker
+
+
+103 #C C walks to the table
+
+
+104 #C C walks towards the cooker.
+
+
+105 #C C touches a fridge door
+
+
+106 #C C takes out a pack from the fridge
+
+
+107 #C C walks to the table
+
+
+108 #O A woman X walks away from the table
+
+
+109 #C C turns to the sink
+
+
+110 #C C stares at the sink
+
+
+111 #C C wipes his hands on the sink.
+
+
+112 #C C drops the bottle of soap in the sink.
+
+
+113 #C C presses the tap
+
+
+114 #C C puts the plastic container in the sink 
+
+
+115 #C C stands at the kitchen 
+
+
+116 #C C looks at the sink
+
+
+117 #O woman Y opens the kitchen tap 
+
+
+118 #O A woman Y picks a towel from the rack
+
+
+119 #O woman Y picks a spoon from the drawer
+
+
+120 #O A woman D looks at the phone
+
+
+121 #C C turns to the cooker
+
+
+122 #C C wipes the sink
+
+
+123 #C C wipes the kitchen surface
+
+
+124 #C C picks the packet of tomatoes
+
+
+125 #C C looks at the kitchen bench
+
+
+126 #C C looks at the water gauge 
+
+
+127 #C C looks at the food
+
+
+128 #C C wipes the table
+
+
+129 #C C moves a hand on the table
+
+
+130 #C C stares at the table
+
+
+131 #C C walks towards a table.
+
+
+132 #O woman Y moves around the room 
+
+
+133 #C C looks at the microwave
+
+
+134 #C C walks to the cabinet
+
+
+135 #C C opens the fridge door
+
+
+136 #C C walks towards the cooker
+
+
+137 #C C looks at the cooker.
+
+
+138 #C C walks in the room
+
+
+139 #C C walks to the table
+
+
+140 #C C moves his body 
+
+
+141 #C C turns around 
+
+
+142 #C C puts the sponge on the sink
+
+
+143 #C C rinses the sink
+
+
+144 #C C picks a sponge from the counter
+
+
+145 #O woman Y holds a napkin.
+
+
+146 #C C looks at the cooker 
+
+
+147 #O the man X puts the meat in the bowl
+
+
+148 #O man Z walks to the table
+
+
+149 #O man Y talks to C
+
+
+150 #C C looks at the table
+
+
+151 #O man Y converses with C 
+
+
+152 #C C picks up the knife 
+
+
+153 #O A woman Y picks the cup
+
+
+154 #C C stares at the cooker
+
+
+155 #C C looks around the room
+
+
+156 #C C walks to the bedroom 
+
+
+157 #C C Walks towards a room
+
+
+158 #C C walks in the room
+
+
+159 #C C walks in the room
+
+
+160 #C C turns around
+
+
+161 #C C moves towards the cooking stove
+
+
+162 #C C looks at the measuring scale
+
+
+163 #C C looks at the baking baking tray
+
+
+164 #C C moves the blender jug
+
+
+165 #C C pours the sauce on the bread with a spoon
+
+
+166 #C C looks at the pan
+
+
+167 #C C pours milk in the bowl
+
+
+168 #C C looks at the baking tray
+
+
+169 #C C looks at the counter
+
+
+170 #O person X picks up the container of spices.
+
+
+171 #O A man X picks a paper
+
+
+172 #O woman X moves a plastic container on the kitchen counter with her right hand.
+
+
+173 #O Woman P walks to the counter top.
+
+
+174 #O person X stirs the ingredients
+
+
+175 #C C looks at the counter
+
+
+176 #O person X walks towards the cooker
+
+
+177 #C C looks at the ingredients on the table
+
+
+178 #O a woman X touches the rack.
+
+
+179 #C C looks at the scale counter
+
+
+180 #C C puts the ingredients in the baking tray
+
+

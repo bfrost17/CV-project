@@ -1,0 +1,540 @@
+1 #O A child Y talks to C
+
+
+2 #O A woman Y touches the house
+
+
+3 #O A child X looks at the cat
+
+
+4 #O a child X puts the paint on the table 
+
+
+5 #O woman X talks to C
+
+
+6 #O A woman Y looks around the house
+
+
+7 #O A child S moves around
+
+
+8 #O A boy B lifts his hand
+
+
+9 #O A child X stands up
+
+
+10 #O A child Y moves around
+
+
+11 #O A woman X  walks towards C
+
+
+12 #C C walks to the kitchen 
+
+
+13 #C C walks around
+
+
+14 #C C walks to the bedroom
+
+
+15 #C C picks a jacket
+
+
+16 #C C picks a bottle
+
+
+17 #C C walks around
+
+
+18 #C C looks at the kitchen
+
+
+19 #C C walks in the kitchen
+
+
+20 #C C walks towards a door
+
+
+21 #C C picks cloth
+
+
+22 #C C walks around the room
+
+
+23 #C C walks around the corridor
+
+
+24 #O a lady Y walks around the hotel
+
+
+25 #O person Z walks in the corridor
+
+
+26 #O person A walks in the corridor
+
+
+27 #C C walks towards a door
+
+
+28 #O A man Y walks around the building 
+
+
+29 #C C walks around the corridor
+
+
+30 #C C walks towards the door
+
+
+31 #O person Z walks outside
+
+
+32 #C C moves the hand to the window
+
+
+33 #C C holds the clothes
+
+
+34 #O A woman X walks into a corridor.
+
+
+35 #C C hangs the cloth
+
+
+36 #C C looks at a girl X
+
+
+37 #C C walks to the kitchen
+
+
+38 #C C walks 
+
+
+39 #C C  picks up a plate
+
+
+40 #C C puts the glass on the counter
+
+
+41 #C C walks around the house
+
+
+42 #C C walks around
+
+
+43 #C C walks around
+
+
+44 #C C walks into the living room.
+
+
+45 #O The girl X walks towards the stairs.
+
+
+46 #O person X walks around
+
+
+47 #O The girl X  walks towards the door
+
+
+48 #O Woman Y walks around
+
+
+49 #O a girl X walks towards a door 
+
+
+50 #O Woman Y  Stares at the wall
+
+
+51 #O Child X runs towards the wall
+
+
+52 #O a girl X walks towards the room 
+
+
+53 #O A man X puts the broom on the floor
+
+
+54 #O A man Y picks up the phone
+
+
+55 #C C walks around the house
+
+
+56 #C C walks in the house
+
+
+57 #C C walks to the bedroom
+
+
+58 #C C walks into the sink
+
+
+59 #C C pushes the bucket
+
+
+60 #C C picks the hand sanitizer
+
+
+61 #C C stands up
+
+
+62 #C C drops the roll of cloth on the floor
+
+
+63 #C C walks around
+
+
+64 #C C picks a bowl
+
+
+65 #C C takes a bowl of food 
+
+
+66 #C C takes the mirror 
+
+
+67 #C C opens the door
+
+
+68 #O O sits on the chair
+
+
+69 #O A woman Y walks around
+
+
+70 #O A man X holds a chair
+
+
+71 #O A woman X climbs the staircase
+
+
+72 #C C climbs up a stairs
+
+
+73 #C C walks up a staircase.
+
+
+74 #C C walks down the staircase
+
+
+75 #C C holds the stairs
+
+
+76 #O A man X walks up the stairs
+
+
+77 #O A man Y walks down the stairs
+
+
+78 #C C walks down the stairs
+
+
+79 #C C walks around the house
+
+
+80 #C C walks around the house
+
+
+81 #C C walks towards the door
+
+
+82 #C C walks down the stairs
+
+
+83 #C C walks down the stairs
+
+
+84 #C C walks down stairs 
+
+
+85 #C C walks down the staircase
+
+
+86 #C C walks up a stairs
+
+
+87 #C C walks down the staircase
+
+
+88 #C C walks towards the bed
+
+
+89 #C C picks up a broom
+
+
+90 #C C looks at a door 
+
+
+91 #C C walks around the house
+
+
+92 #C C walks around
+
+
+93 #C C walks around the house
+
+
+94 #C C walks around the house
+
+
+95 #C C talks to a man X
+
+
+96 #C C talks to #O man B 
+
+
+97 #C C walks around the room
+
+
+98 #C C walks towards the bedroom
+
+
+99 #C C walks around the house
+
+
+100 #C C hangs the cloth on the wall
+
+
+101 #C C removes the cloth from the hanger
+
+
+102 #C C looks at the clothes on the floor
+
+
+103 #C C looks around the house
+
+
+104 #C C walks around the house
+
+
+105 #C C walks around
+
+
+106 #C C walks towards a door
+
+
+107 #C C walks around the house
+
+
+108 #C C Looks at the window
+
+
+109 #C C walks around
+
+
+110 #C C puts the  the toilet hand towel on the floor
+
+
+111 #C C looks at the mirror
+
+
+112 #C C looks around the house
+
+
+113 #C C puts the phone in the bag
+
+
+114 #C C picks a broom
+
+
+115 #C C walks around
+
+
+116 #C C walks around the room
+
+
+117 #C C picks a pillow from the bed
+
+
+118 #C C moves the bedsheet
+
+
+119 #C C opens the bedding
+
+
+120 #C C picks the box of clothes
+
+
+121 #C C picks the box
+
+
+122 #C C Looks at the bed
+
+
+123 #C C  adjusts a box on the bed
+
+
+124 #C C touches the cloth
+
+
+125 #C C places the box on the shelf
+
+
+126 #C C picks a  box
+
+
+127 #C C picks a cardbox
+
+
+128 #C C touches the paper
+
+
+129 #C C picks the flower
+
+
+130 #C C picks the phone
+
+
+131 #C C lifts the book
+
+
+132 #C C opens the book
+
+
+133 #C C lifts a paper
+
+
+134 #C C picks a pillow
+
+
+135 #C C touches the balloon
+
+
+136 #C C moves a pillow
+
+
+137 #C C picks a book
+
+
+138 #C C touches the picture
+
+
+139 #C C touches a book
+
+
+140 #C C holds the bed
+
+
+141 #C C touches the picture
+
+
+142 #C C picks up a paper
+
+
+143 #C C walks around
+
+
+144 #C C looks at woman Y
+
+
+145 #O girl Y moves a paper
+
+
+146 #O child B touches the toy
+
+
+147 #C C looks at woman Y
+
+
+148 #O A woman Y looks at C
+
+
+149 #C C talks to #O
+
+
+150 #C C walks around
+
+
+151 #C C walks around
+
+
+152 #C C walks around
+
+
+153 #C C walks around the room
+
+
+154 #C C looks at a window 
+
+
+155 #C C picks a cloth from the bed
+
+
+156 #C C walks around the bed
+
+
+157 #C C walks around the bedroom
+
+
+158 #C C walks around the house
+
+
+159 #C C walks to the door
+
+
+160 #C C walks into a bathroom.
+
+
+161 #C C walks into the house
+
+
+162 #C C looks around the compound
+
+
+163 #C C stops the bicycle
+
+
+164 #C C walks around the compound
+
+
+165 #C C enters the house.
+
+
+166 #C C walks out of the house
+
+
+167 #C C walks around
+
+
+168 #C C walks out of the room
+
+
+169 #C C moves the dog
+
+
+170 #C C walks around the house
+
+
+171 #C C walks around the house
+
+
+172 #C C hangs the cloth
+
+
+173 #C C turns around
+
+
+174 #C C walks to the mirror 
+
+
+175 #C C moves around
+
+
+176 #C C walks towards a wall.
+
+
+177 #C C looks around the house
+
+
+178 #C C walks down the corridor
+
+
+179 #C C walks around the house.
+
+
+180 #C C stands in front of a mirror
+
+

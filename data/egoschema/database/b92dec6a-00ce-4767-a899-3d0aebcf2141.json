@@ -1,0 +1,724 @@
+{
+  "messages": [
+    {
+      "content": "1 #C C holds the canvas with her hands.",
+      "time": 1
+    },
+    {
+      "content": "2 #C C holds the laptop with both hands",
+      "time": 2
+    },
+    {
+      "content": "3 #C C presses the laptop with his left hand",
+      "time": 3
+    },
+    {
+      "content": "4 #C C turns the laptop around",
+      "time": 4
+    },
+    {
+      "content": "5 #C C moves the laptop",
+      "time": 5
+    },
+    {
+      "content": "6 #C C holds the laptop",
+      "time": 6
+    },
+    {
+      "content": "7 #C C operates the laptop",
+      "time": 7
+    },
+    {
+      "content": "8 #C C opens laptop",
+      "time": 8
+    },
+    {
+      "content": "9 #C C touches the laptop",
+      "time": 9
+    },
+    {
+      "content": "10 #C C turns to the right",
+      "time": 10
+    },
+    {
+      "content": "11 #C C dips the paintbrush in paint",
+      "time": 11
+    },
+    {
+      "content": "12 #C C brushes on the paint palette",
+      "time": 12
+    },
+    {
+      "content": "13 #C C dips the brush on the paint",
+      "time": 13
+    },
+    {
+      "content": "14 #C C moves the hand to the left",
+      "time": 14
+    },
+    {
+      "content": "15 #C C moves her hands.",
+      "time": 15
+    },
+    {
+      "content": "16 #C C pulls the brush towards the canvas board.",
+      "time": 16
+    },
+    {
+      "content": "17 #C C holds the laptop with both hands",
+      "time": 17
+    },
+    {
+      "content": "18 #C C looks at the paint ",
+      "time": 18
+    },
+    {
+      "content": "19 #C C looks at the drawing on the laptop",
+      "time": 19
+    },
+    {
+      "content": "20 #C C paints the drawing board.",
+      "time": 20
+    },
+    {
+      "content": "21 #C C paints the canvas",
+      "time": 21
+    },
+    {
+      "content": "22 #C C paints the canvas.",
+      "time": 22
+    },
+    {
+      "content": "23 #C C paints the canvas.",
+      "time": 23
+    },
+    {
+      "content": "24 #C C paints the canvas.",
+      "time": 24
+    },
+    {
+      "content": "25 #C C paints the canvas board. ",
+      "time": 25
+    },
+    {
+      "content": "26 #C C paints the canvas board.",
+      "time": 26
+    },
+    {
+      "content": "27 #C C moves hands towards the canvas",
+      "time": 27
+    },
+    {
+      "content": "28 #C C holds the canvas",
+      "time": 28
+    },
+    {
+      "content": "29 #C C holds the canvas board with her left hand",
+      "time": 29
+    },
+    {
+      "content": "30 #C C paints on the board.",
+      "time": 30
+    },
+    {
+      "content": "31 #C C looks at the painting",
+      "time": 31
+    },
+    {
+      "content": "32 #C C moves hand towards the painting",
+      "time": 32
+    },
+    {
+      "content": "33 #C C touches the paint brush.",
+      "time": 33
+    },
+    {
+      "content": "34 #C C moves hand from the paint board",
+      "time": 34
+    },
+    {
+      "content": "35 #C C holds the canvas board with his hand",
+      "time": 35
+    },
+    {
+      "content": "36 #C C puts the paint brush on the board",
+      "time": 36
+    },
+    {
+      "content": "37 #C C picks up the paint brush from the paper",
+      "time": 37
+    },
+    {
+      "content": "38 #C C takes paint from the canvas",
+      "time": 38
+    },
+    {
+      "content": "39 #C C picks the paint brush from the paint palette",
+      "time": 39
+    },
+    {
+      "content": "40 #C C picks up the paint brush from the paper",
+      "time": 40
+    },
+    {
+      "content": "41 #C C dips the paint brush into the paint mixing palette",
+      "time": 41
+    },
+    {
+      "content": "42 #C C takes the paint brush from the water container.",
+      "time": 42
+    },
+    {
+      "content": "43 #C C takes the paint brush from the container.",
+      "time": 43
+    },
+    {
+      "content": "44 #C C places the brush on the container",
+      "time": 44
+    },
+    {
+      "content": "45 #C C turns to the left",
+      "time": 45
+    },
+    {
+      "content": "46 #C C paints the art with the paintbrush ",
+      "time": 46
+    },
+    {
+      "content": "47 #C C picks paint from the paper",
+      "time": 47
+    },
+    {
+      "content": "48 #C C touches the paint paper",
+      "time": 48
+    },
+    {
+      "content": "49 #C C picks up the paint brush from the paper laying on the floor.",
+      "time": 49
+    },
+    {
+      "content": "50 #C C looks at the painting board",
+      "time": 50
+    },
+    {
+      "content": "51 #C C dips the paint brush in the paint",
+      "time": 51
+    },
+    {
+      "content": "52 #C C paints the paint with the paintbrush.",
+      "time": 52
+    },
+    {
+      "content": "53 #C C paints the painting with the paintbrush. ",
+      "time": 53
+    },
+    {
+      "content": "54 #C C picks paint from the paint board",
+      "time": 54
+    },
+    {
+      "content": "55 #C C moves her head to the wall",
+      "time": 55
+    },
+    {
+      "content": "56 #C C moves his hand towards the canvas",
+      "time": 56
+    },
+    {
+      "content": "57 #C C moves the hand holding the canvas board",
+      "time": 57
+    },
+    {
+      "content": "58 #C C paints the canvas.",
+      "time": 58
+    },
+    {
+      "content": "59 #C C paints the canvas",
+      "time": 59
+    },
+    {
+      "content": "60 #C C paints the canvas with the paint brush",
+      "time": 60
+    },
+    {
+      "content": "61 #C C paints the canvas with the paint brush",
+      "time": 61
+    },
+    {
+      "content": "62 #C C paints the wall art with the paint brush.",
+      "time": 62
+    },
+    {
+      "content": "63 #C C paints the canvas with the paint brush",
+      "time": 63
+    },
+    {
+      "content": "64 #C C paints the canvas with the paint brush",
+      "time": 64
+    },
+    {
+      "content": "65 #C C paints the canvas with the paintbrush",
+      "time": 65
+    },
+    {
+      "content": "66 #C C holds the brush with both hands",
+      "time": 66
+    },
+    {
+      "content": "67 #C C stares at the paint on the cardboard",
+      "time": 67
+    },
+    {
+      "content": "68 #C C moves towards the drawing paint",
+      "time": 68
+    },
+    {
+      "content": "69 #C C paints the board with a paint brush",
+      "time": 69
+    },
+    {
+      "content": "70 #C C holds the canvas board",
+      "time": 70
+    },
+    {
+      "content": "71 #C C paints the board with the paint brush.",
+      "time": 71
+    },
+    {
+      "content": "72 #C C picks a brush from the canvas",
+      "time": 72
+    },
+    {
+      "content": "73 #C C paints the painting with the paintbrush",
+      "time": 73
+    },
+    {
+      "content": "74 #C C paints the canvas",
+      "time": 74
+    },
+    {
+      "content": "75 #C C paints the canvas",
+      "time": 75
+    },
+    {
+      "content": "76 #C C paints the canvas",
+      "time": 76
+    },
+    {
+      "content": "77 #C C paints the drawing paint",
+      "time": 77
+    },
+    {
+      "content": "78 #C C lifts the paint brush from the board.",
+      "time": 78
+    },
+    {
+      "content": "79 #C C moves the hand.",
+      "time": 79
+    },
+    {
+      "content": "80 #C C lifts hand",
+      "time": 80
+    },
+    {
+      "content": "81 #C C moves her hand towards the canvas board",
+      "time": 81
+    },
+    {
+      "content": "82 #C C paints the canvas with the paint brush.",
+      "time": 82
+    },
+    {
+      "content": "83 #C C paints the canvas",
+      "time": 83
+    },
+    {
+      "content": "84 #C C paints the canvas with the paintbrush",
+      "time": 84
+    },
+    {
+      "content": "85 #C C paints the canvas with the paint brush.",
+      "time": 85
+    },
+    {
+      "content": "86 #C C paints the canvas board with the paint brush in her right hand.",
+      "time": 86
+    },
+    {
+      "content": "87 #C C removes the  paint brush from the canvas",
+      "time": 87
+    },
+    {
+      "content": "88 #C C looks at the laptop",
+      "time": 88
+    },
+    {
+      "content": "89 #C C paints the canvas",
+      "time": 89
+    },
+    {
+      "content": "90 #C C paints using paint brush",
+      "time": 90
+    },
+    {
+      "content": "91 #C C holds the canvas board",
+      "time": 91
+    },
+    {
+      "content": "92 #C C removes the hand from the canvas",
+      "time": 92
+    },
+    {
+      "content": "93 #C C holds the paint brush with her right hand.",
+      "time": 93
+    },
+    {
+      "content": "94 #C C picks up the paint brush from the floor",
+      "time": 94
+    },
+    {
+      "content": "95 #C C picks up a paint brush from the floor",
+      "time": 95
+    },
+    {
+      "content": "96 #C C picks a paint brush from the paper",
+      "time": 96
+    },
+    {
+      "content": "97 #C C picks a brush from the paper",
+      "time": 97
+    },
+    {
+      "content": "98 #C C dips the brush into a paint palette",
+      "time": 98
+    },
+    {
+      "content": "99 #C C dips the brush in a liquid solution",
+      "time": 99
+    },
+    {
+      "content": "100 #C C dips the paint brush in the water",
+      "time": 100
+    },
+    {
+      "content": "101 #C C puts the paint brush in the watercolor",
+      "time": 101
+    },
+    {
+      "content": "102 #C C drops the paint brush into the water.",
+      "time": 102
+    },
+    {
+      "content": "103 #C C takes the paint brush from the paint board",
+      "time": 103
+    },
+    {
+      "content": "104 #C C looks at the painting on the paper",
+      "time": 104
+    },
+    {
+      "content": "105 #C C paints the canvas with the paintbrush.",
+      "time": 105
+    },
+    {
+      "content": "106 #C C draws on the paper paint",
+      "time": 106
+    },
+    {
+      "content": "107 #C C paints the canvas board",
+      "time": 107
+    },
+    {
+      "content": "108 #C C turns the painting board around",
+      "time": 108
+    },
+    {
+      "content": "109 #C C paints the painting",
+      "time": 109
+    },
+    {
+      "content": "110 #C C paints the drawing paint",
+      "time": 110
+    },
+    {
+      "content": "111 #C C paints the canvas.",
+      "time": 111
+    },
+    {
+      "content": "112 #C C paints the drawing paint",
+      "time": 112
+    },
+    {
+      "content": "113 #C C paints the canvas board.",
+      "time": 113
+    },
+    {
+      "content": "114 #C C paints the canvas",
+      "time": 114
+    },
+    {
+      "content": "115 #C C paints the canvas",
+      "time": 115
+    },
+    {
+      "content": "116 #C C paints the board.",
+      "time": 116
+    },
+    {
+      "content": "117 #C C paints the canvas.",
+      "time": 117
+    },
+    {
+      "content": "118 #C C paints the canvas.",
+      "time": 118
+    },
+    {
+      "content": "119 #C C paints the canvas.",
+      "time": 119
+    },
+    {
+      "content": "120 #C C paints the canvas",
+      "time": 120
+    },
+    {
+      "content": "121 #C C paints on the canvas board.",
+      "time": 121
+    },
+    {
+      "content": "122 #C C paints the canvas board.",
+      "time": 122
+    },
+    {
+      "content": "123 #C C paints the canvas board.",
+      "time": 123
+    },
+    {
+      "content": "124 #C C paints the canvas.",
+      "time": 124
+    },
+    {
+      "content": "125 #C C paints the canvas.",
+      "time": 125
+    },
+    {
+      "content": "126 #C C paints the canvas.",
+      "time": 126
+    },
+    {
+      "content": "127 #C C paints the canvas.",
+      "time": 127
+    },
+    {
+      "content": "128 #C C paints the canvas board.",
+      "time": 128
+    },
+    {
+      "content": "129 #C C paints the canvas.",
+      "time": 129
+    },
+    {
+      "content": "130 #C C paints the canvas",
+      "time": 130
+    },
+    {
+      "content": "131 #C C moves the paint board towards the canvas",
+      "time": 131
+    },
+    {
+      "content": "132 #C C lifts the paint brush from the board",
+      "time": 132
+    },
+    {
+      "content": "133 #C C paints the canvas.",
+      "time": 133
+    },
+    {
+      "content": "134 #C C paints the canvas",
+      "time": 134
+    },
+    {
+      "content": "135 #C C paints the canvas board ",
+      "time": 135
+    },
+    {
+      "content": "136 #C C paints the canvas.",
+      "time": 136
+    },
+    {
+      "content": "137 #C C turns to the right",
+      "time": 137
+    },
+    {
+      "content": "138 #C C picks up the paintbrush from the floor",
+      "time": 138
+    },
+    {
+      "content": "139 #C C picks up another paint brush from the ground",
+      "time": 139
+    },
+    {
+      "content": "140 #C C picks up a paintbrush from the floor",
+      "time": 140
+    },
+    {
+      "content": "141 #C C picks up the paintbrush from the paper on the floor",
+      "time": 141
+    },
+    {
+      "content": "142 #C C picks up the paint brush from the paper paint palette",
+      "time": 142
+    },
+    {
+      "content": "143 #C C touches paint brush on the paint board",
+      "time": 143
+    },
+    {
+      "content": "144 #C C paints the picture on the paper paint",
+      "time": 144
+    },
+    {
+      "content": "145 #C C paints the paint pallet with the paint brush.",
+      "time": 145
+    },
+    {
+      "content": "146 #C C paints the painting board.",
+      "time": 146
+    },
+    {
+      "content": "147 #C C paints the canvas board.",
+      "time": 147
+    },
+    {
+      "content": "148 #C C paints the canvas board.",
+      "time": 148
+    },
+    {
+      "content": "149 #C C paints the canvas board.",
+      "time": 149
+    },
+    {
+      "content": "150 #C C paints the canvas board.",
+      "time": 150
+    },
+    {
+      "content": "151 #C C paints the canvas",
+      "time": 151
+    },
+    {
+      "content": "152 #C C paints the canvas",
+      "time": 152
+    },
+    {
+      "content": "153 #C C stops painting the board.",
+      "time": 153
+    },
+    {
+      "content": "154 #C C picks up the paintbrush from the paint board",
+      "time": 154
+    },
+    {
+      "content": "155 #C C dips the brush in the paint",
+      "time": 155
+    },
+    {
+      "content": "156 #C C moves her head up",
+      "time": 156
+    },
+    {
+      "content": "157 #C C paints the drawing board.",
+      "time": 157
+    },
+    {
+      "content": "158 #C C paints the canvas",
+      "time": 158
+    },
+    {
+      "content": "159 #C C paints the canvas.",
+      "time": 159
+    },
+    {
+      "content": "160 #C C paints the canvas.",
+      "time": 160
+    },
+    {
+      "content": "161 #C C paints the canvas",
+      "time": 161
+    },
+    {
+      "content": "162 #C C moves her hand towards the canvas board",
+      "time": 162
+    },
+    {
+      "content": "163 #C C  lifts the paint brush",
+      "time": 163
+    },
+    {
+      "content": "164 #C C moves the paint brush towards the wall.",
+      "time": 164
+    },
+    {
+      "content": "165 #C C picks up a paint brush from the paper board",
+      "time": 165
+    },
+    {
+      "content": "166 #C C looks at the laptop",
+      "time": 166
+    },
+    {
+      "content": "167 #C C removes the paint brush from the canvas",
+      "time": 167
+    },
+    {
+      "content": "168 #C C turns to the painting board",
+      "time": 168
+    },
+    {
+      "content": "169 #C C dips the brush in the paint ",
+      "time": 169
+    },
+    {
+      "content": "170 #C C paints the wall paper with a paintbrush",
+      "time": 170
+    },
+    {
+      "content": "171 #C C dips brush in paint",
+      "time": 171
+    },
+    {
+      "content": "172 #C C dips brush in paint",
+      "time": 172
+    },
+    {
+      "content": "173 #C C paints the paint board with the paintbrush.",
+      "time": 173
+    },
+    {
+      "content": "174 #C C moves towards the drawing paper",
+      "time": 174
+    },
+    {
+      "content": "175 #C C paints the canvas board.",
+      "time": 175
+    },
+    {
+      "content": "176 #C C turns to the painting board.",
+      "time": 176
+    },
+    {
+      "content": "177 #C C paints the canvas board",
+      "time": 177
+    },
+    {
+      "content": "178 #C C paints the canvas",
+      "time": 178
+    },
+    {
+      "content": "179 #C C paints the canvas.",
+      "time": 179
+    },
+    {
+      "content": "180 #C C paints the canvas.",
+      "time": 180
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "messages": [
+    {
+      "content": "1 #O man T talks with C",
+      "time": 1
+    },
+    {
+      "content": "2 #O man X gives C the glass",
+      "time": 2
+    },
+    {
+      "content": "3 #O A man X gives C the glass",
+      "time": 3
+    },
+    {
+      "content": "4 #C C looks at the hand",
+      "time": 4
+    },
+    {
+      "content": "5 #O man X gives C a pot ",
+      "time": 5
+    },
+    {
+      "content": "6 #C C moves around ",
+      "time": 6
+    },
+    {
+      "content": "7 #C C walks around",
+      "time": 7
+    },
+    {
+      "content": "8 #C C picks the container",
+      "time": 8
+    },
+    {
+      "content": "9 #C C picks the container",
+      "time": 9
+    },
+    {
+      "content": "10 #C C lifts hands",
+      "time": 10
+    },
+    {
+      "content": "11 #C C lifts up her hands",
+      "time": 11
+    },
+    {
+      "content": "12 #C C  holds the bottle",
+      "time": 12
+    },
+    {
+      "content": "13 #C C moves the hand",
+      "time": 13
+    },
+    {
+      "content": "14 #C C picks the paper",
+      "time": 14
+    },
+    {
+      "content": "15 #C C holds the chart",
+      "time": 15
+    },
+    {
+      "content": "16 #C C reads the manual",
+      "time": 16
+    },
+    {
+      "content": "17 #C C reads a paper",
+      "time": 17
+    },
+    {
+      "content": "18 #C C looks at the paper",
+      "time": 18
+    },
+    {
+      "content": "19 #C C touches the paper",
+      "time": 19
+    },
+    {
+      "content": "20 #C C reads the menu",
+      "time": 20
+    },
+    {
+      "content": "21 #C C reads the manual",
+      "time": 21
+    },
+    {
+      "content": "22 #C C reads a booklet",
+      "time": 22
+    },
+    {
+      "content": "23 #C C  picks the paper",
+      "time": 23
+    },
+    {
+      "content": "24 #C C picks a plate of food",
+      "time": 24
+    },
+    {
+      "content": "25 #C C pulls the food container",
+      "time": 25
+    },
+    {
+      "content": "26 #C C holds the container",
+      "time": 26
+    },
+    {
+      "content": "27 #C C picks a plastic container",
+      "time": 27
+    },
+    {
+      "content": "28 #C C moves the chopping board ",
+      "time": 28
+    },
+    {
+      "content": "29 #C C opens the kitchen cabinet ",
+      "time": 29
+    },
+    {
+      "content": "30 #C C adjusts the grinder button",
+      "time": 30
+    },
+    {
+      "content": "31 #C C picks a bowl of carrot ",
+      "time": 31
+    },
+    {
+      "content": "32 #C C holds the cover of the bag with her left hand.",
+      "time": 32
+    },
+    {
+      "content": "33 #C C reads a booklet",
+      "time": 33
+    },
+    {
+      "content": "34 #O Person A walks to the counter",
+      "time": 34
+    },
+    {
+      "content": "35 #O person Y  looks at the paper",
+      "time": 35
+    },
+    {
+      "content": "36 #O person A holds the food in the hand",
+      "time": 36
+    },
+    {
+      "content": "37 #C C takes a knife",
+      "time": 37
+    },
+    {
+      "content": "38 #C C reads the instructions on the paper",
+      "time": 38
+    },
+    {
+      "content": "39 #C C reads the instructions",
+      "time": 39
+    },
+    {
+      "content": "40 #C C reads the instructions on the paper",
+      "time": 40
+    },
+    {
+      "content": "41 #C C adjusts the paper",
+      "time": 41
+    },
+    {
+      "content": "42 #C C picks a packet of food",
+      "time": 42
+    },
+    {
+      "content": "43 #C C opens the plastic bag",
+      "time": 43
+    },
+    {
+      "content": "44 #C C picks a vegetable from the bag",
+      "time": 44
+    },
+    {
+      "content": "45 #C C picks the bag of cucumbers",
+      "time": 45
+    },
+    {
+      "content": "46 #C C picks the plant from the kitchen counter top",
+      "time": 46
+    },
+    {
+      "content": "47 #C C picks the vegetable",
+      "time": 47
+    },
+    {
+      "content": "48 #C C picks the vegetable",
+      "time": 48
+    },
+    {
+      "content": "49 #C C picks up the cucumber",
+      "time": 49
+    },
+    {
+      "content": "50 #C C picks the packet of flour",
+      "time": 50
+    },
+    {
+      "content": "51 #C C puts the paper in the box",
+      "time": 51
+    },
+    {
+      "content": "52 #C C picks up the vegetables from the kitchen cabinet",
+      "time": 52
+    },
+    {
+      "content": "53 #C C puts the container on the kitchen counter",
+      "time": 53
+    },
+    {
+      "content": "54 #C C drops the packet of flour",
+      "time": 54
+    },
+    {
+      "content": "55 #C C picks up a container",
+      "time": 55
+    },
+    {
+      "content": "56 #C C places the packet of food in the bag",
+      "time": 56
+    },
+    {
+      "content": "57 #C C holds a packet of coconut",
+      "time": 57
+    },
+    {
+      "content": "58 #C C pushes the packet of food",
+      "time": 58
+    },
+    {
+      "content": "59 #C C picks up the cabbage",
+      "time": 59
+    },
+    {
+      "content": "60 #C C picks the packet of garlic",
+      "time": 60
+    },
+    {
+      "content": "61 #C C picks the packet of cake",
+      "time": 61
+    },
+    {
+      "content": "62 #C C picks up a nylon of garlic",
+      "time": 62
+    },
+    {
+      "content": "63 #C C moves the box",
+      "time": 63
+    },
+    {
+      "content": "64 #C C picks the kitchen paper",
+      "time": 64
+    },
+    {
+      "content": "65 #C C takes a tray of eggplant",
+      "time": 65
+    },
+    {
+      "content": "66 #C C puts the ginger in the plastic container",
+      "time": 66
+    },
+    {
+      "content": "67 #C C touches the food container.",
+      "time": 67
+    },
+    {
+      "content": "68 #C C takes a knife from the countertop",
+      "time": 68
+    },
+    {
+      "content": "69 #O woman X picks a knife",
+      "time": 69
+    },
+    {
+      "content": "70 #O man X holds the piece of paper on the cabinet",
+      "time": 70
+    },
+    {
+      "content": "71 #C C gives man X a piece of paper",
+      "time": 71
+    },
+    {
+      "content": "72 #O person Y cleans a counter",
+      "time": 72
+    },
+    {
+      "content": "73 #O A man X picks the napkin",
+      "time": 73
+    },
+    {
+      "content": "74 #C C picks the gardening cloth",
+      "time": 74
+    },
+    {
+      "content": "75 #C C places the plant in the kitchen cabinet",
+      "time": 75
+    },
+    {
+      "content": "76 #O A lady X picks a garbage bag",
+      "time": 76
+    },
+    {
+      "content": "77 #O woman X opens the cabinet.",
+      "time": 77
+    },
+    {
+      "content": "78 #C C picks the knife",
+      "time": 78
+    },
+    {
+      "content": "79 #C C picks up the potato ",
+      "time": 79
+    },
+    {
+      "content": "80 #C C picks the food stuffs on the countertop",
+      "time": 80
+    },
+    {
+      "content": "81 #C C puts the egg plant aside",
+      "time": 81
+    },
+    {
+      "content": "82 #C C picks the orange",
+      "time": 82
+    },
+    {
+      "content": "83 #C C picks the knife",
+      "time": 83
+    },
+    {
+      "content": "84 #C C picks the knife",
+      "time": 84
+    },
+    {
+      "content": "85 #C C holds the cheese",
+      "time": 85
+    },
+    {
+      "content": "86 #C C picks the knife",
+      "time": 86
+    },
+    {
+      "content": "87 #C C puts the peeled piece of bell pepper on the chopping board",
+      "time": 87
+    },
+    {
+      "content": "88 #C C moves the grater towards the sink",
+      "time": 88
+    },
+    {
+      "content": "89 #C C picks the apple",
+      "time": 89
+    },
+    {
+      "content": "90 #C C picks the knife",
+      "time": 90
+    },
+    {
+      "content": "91 #C C touches the pumpkin",
+      "time": 91
+    },
+    {
+      "content": "92 #C C puts the knife on the chopping board",
+      "time": 92
+    },
+    {
+      "content": "93 #C C picks the knife",
+      "time": 93
+    },
+    {
+      "content": "94 #C C cuts the leeks",
+      "time": 94
+    },
+    {
+      "content": "95 #C C chops the garlic",
+      "time": 95
+    },
+    {
+      "content": "96 #C C picks the knife from the kitchen slab.",
+      "time": 96
+    },
+    {
+      "content": "97 #C C takes a knife from the refrigerator.",
+      "time": 97
+    },
+    {
+      "content": "98 #C C opens the oven",
+      "time": 98
+    },
+    {
+      "content": "99 #C C opens a oven",
+      "time": 99
+    },
+    {
+      "content": "100 #C C holds the oven rack",
+      "time": 100
+    },
+    {
+      "content": "101 #C C opens the oven",
+      "time": 101
+    },
+    {
+      "content": "102 #C C touches the hotdog on the oven ",
+      "time": 102
+    },
+    {
+      "content": "103 #C C puts the tray on the microwave",
+      "time": 103
+    },
+    {
+      "content": "104 #C C walks towards the sink.",
+      "time": 104
+    },
+    {
+      "content": "105 #C C picks the knife",
+      "time": 105
+    },
+    {
+      "content": "106 #C C puts the knife on the counter",
+      "time": 106
+    },
+    {
+      "content": "107 #C C picks the knife",
+      "time": 107
+    },
+    {
+      "content": "108 #C C removes the seeds from the peeler.",
+      "time": 108
+    },
+    {
+      "content": "109 #C C removes the pieces of pepper",
+      "time": 109
+    },
+    {
+      "content": "110 #C C removes the garlic",
+      "time": 110
+    },
+    {
+      "content": "111 #C C peels the pepper with a knife",
+      "time": 111
+    },
+    {
+      "content": "112 #C C peels the peeler with his hands",
+      "time": 112
+    },
+    {
+      "content": "113 #C C puts the knife in the sink.",
+      "time": 113
+    },
+    {
+      "content": "114 #C C picks the knife",
+      "time": 114
+    },
+    {
+      "content": "115 #O A lady X picks a jug from the counter",
+      "time": 115
+    },
+    {
+      "content": "116 #C C removes the peeler from the apple",
+      "time": 116
+    },
+    {
+      "content": "117 #C C moves the eggplant on the kitchen slab.",
+      "time": 117
+    },
+    {
+      "content": "118 #C C picks the potato peeler",
+      "time": 118
+    },
+    {
+      "content": "119 #C C picks the potatoes from the countertop",
+      "time": 119
+    },
+    {
+      "content": "120 #C C puts the egg plant on the sink countertop ",
+      "time": 120
+    },
+    {
+      "content": "121 #C C picks the potato",
+      "time": 121
+    },
+    {
+      "content": "122 #C C chops the potato",
+      "time": 122
+    },
+    {
+      "content": "123 #C C cuts the eggplant in pieces",
+      "time": 123
+    },
+    {
+      "content": "124 #C C picks the eggplant ",
+      "time": 124
+    },
+    {
+      "content": "125 #C C chops the potato",
+      "time": 125
+    },
+    {
+      "content": "126 #C C chops the potato.",
+      "time": 126
+    },
+    {
+      "content": "127 #C C chops the potato",
+      "time": 127
+    },
+    {
+      "content": "128 #C C picks the potato",
+      "time": 128
+    },
+    {
+      "content": "129 #C C cuts the banana.",
+      "time": 129
+    },
+    {
+      "content": "130 #C C chops the potato",
+      "time": 130
+    },
+    {
+      "content": "131 #C C chops the potato",
+      "time": 131
+    },
+    {
+      "content": "132 #C C picks the potato",
+      "time": 132
+    },
+    {
+      "content": "133 #C C chops the apple into pieces",
+      "time": 133
+    },
+    {
+      "content": "134 #C C puts the potato in the dish",
+      "time": 134
+    },
+    {
+      "content": "135 #C C turns the pear on the countertop",
+      "time": 135
+    },
+    {
+      "content": "136 #C C picks the pieces of pear",
+      "time": 136
+    },
+    {
+      "content": "137 #C C picks the potato",
+      "time": 137
+    },
+    {
+      "content": "138 #C C packs the potato slices on the chopping board with the knife.",
+      "time": 138
+    },
+    {
+      "content": "139 #C C puts the potato pieces in the pan",
+      "time": 139
+    },
+    {
+      "content": "140 #C C picks the eggplants on the tray",
+      "time": 140
+    },
+    {
+      "content": "141 #C C picks up the chopped eggplants on the countertop",
+      "time": 141
+    },
+    {
+      "content": "142 #C C removes the eggplant on the tray",
+      "time": 142
+    },
+    {
+      "content": "143 #C C picks a knife",
+      "time": 143
+    },
+    {
+      "content": "144 #C C chops the apple in the stainless steel bowl",
+      "time": 144
+    },
+    {
+      "content": "145 #C C cuts the apple into pieces",
+      "time": 145
+    },
+    {
+      "content": "146 #C C cuts the egg plant",
+      "time": 146
+    },
+    {
+      "content": "147 #C C cuts the avocado",
+      "time": 147
+    },
+    {
+      "content": "148 #C C picks the eggplant",
+      "time": 148
+    },
+    {
+      "content": "149 #C C packs the potato slices from the chopping board",
+      "time": 149
+    },
+    {
+      "content": "150 #C C chops the potato",
+      "time": 150
+    },
+    {
+      "content": "151 #C C chops the potato",
+      "time": 151
+    },
+    {
+      "content": "152 #C C picks the potato on the chopping board ",
+      "time": 152
+    },
+    {
+      "content": "153 #C C moves the vegetables with the knife.",
+      "time": 153
+    },
+    {
+      "content": "154 #C C picks up the knife",
+      "time": 154
+    },
+    {
+      "content": "155 #C C picks the potato from the table",
+      "time": 155
+    },
+    {
+      "content": "156 #C C picks the potatoes",
+      "time": 156
+    },
+    {
+      "content": "157 #C C picks the potato",
+      "time": 157
+    },
+    {
+      "content": "158 #C C removes the potato peel from the chip",
+      "time": 158
+    },
+    {
+      "content": "159 #C C cuts the potato",
+      "time": 159
+    },
+    {
+      "content": "160 #C C cuts the potato",
+      "time": 160
+    },
+    {
+      "content": "161 #C C puts the garlic on the chopping board",
+      "time": 161
+    },
+    {
+      "content": "162 #C C picks the potato",
+      "time": 162
+    },
+    {
+      "content": "163 #C C slices the potato into pieces",
+      "time": 163
+    },
+    {
+      "content": "164 #C C adjusts the potato in the tray",
+      "time": 164
+    },
+    {
+      "content": "165 #C C picks the potato",
+      "time": 165
+    },
+    {
+      "content": "166 #C C picks a potato from the countertop",
+      "time": 166
+    },
+    {
+      "content": "167 #C C picks the garlics",
+      "time": 167
+    },
+    {
+      "content": "168 #C C puts the eggplant in the dish",
+      "time": 168
+    },
+    {
+      "content": "169 #C C cuts the potato",
+      "time": 169
+    },
+    {
+      "content": "170 #C C cuts the potato",
+      "time": 170
+    },
+    {
+      "content": "171 #C C drops the potato",
+      "time": 171
+    },
+    {
+      "content": "172 #C C moves the bowl of eggs on the countertop.",
+      "time": 172
+    },
+    {
+      "content": "173 #C C picks the potato",
+      "time": 173
+    },
+    {
+      "content": "174 #C C cuts the potato",
+      "time": 174
+    },
+    {
+      "content": "175 #C C chops the potato",
+      "time": 175
+    },
+    {
+      "content": "176 #C C slices the potato",
+      "time": 176
+    },
+    {
+      "content": "177 #C C picks up the eggplant",
+      "time": 177
+    },
+    {
+      "content": "178 #C C cuts the potato into pieces with the knife.",
+      "time": 178
+    },
+    {
+      "content": "179 #C C turns the potato",
+      "time": 179
+    },
+    {
+      "content": "180 #C C picks the potato",
+      "time": 180
+    }
+  ]
+}

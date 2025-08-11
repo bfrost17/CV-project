@@ -1,0 +1,540 @@
+1 #C C walks around the compound
+
+
+2 #C C drops the brick
+
+
+3 #C C walks around the compound
+
+
+4 #C C walks around the compound
+
+
+5 #C C walks around
+
+
+6 #C C walks around the compound
+
+
+7 #C C walks towards the other side of the brick.
+
+
+8 #C C looks around the compound
+
+
+9 #C C picks a plumb bob 
+
+
+10 #C C picks a trowel from a stack of trowel on a brick.
+
+
+11 #C C picks a brick from the brick
+
+
+12 #C C moves a brick
+
+
+13 #C C picks a brick from the brick rack with his left hand.
+
+
+14 #C C picks the brick from the brick on the wall with his left hand.
+
+
+15 #C C moves the brick on the concrete block
+
+
+16 #C C touches the brick
+
+
+17 #C C puts the brick on the brick
+
+
+18 #C C picks a set of bamboo sticks from the bricks on the scaffold with both hands.
+
+
+19 #C C picks a concrete block on the brick
+
+
+20 #C C picks the brick from the brick wall with his hands.
+
+
+21 #C C picks the brick
+
+
+22 #C C picks a brick
+
+
+23 #C C picks a brick
+
+
+24 #C C picks the brick 
+
+
+25 #C C walks around the compound
+
+
+26 #C C looks around the compound
+
+
+27 #C C looks around the compound
+
+
+28 #C C walks towards a man Y.
+
+
+29 #C C walks towards a brick on the ground.
+
+
+30 #C C walks around the compound
+
+
+31 #C C walks towards the wall
+
+
+32 #O a man X picks a brick from the ground
+
+
+33 #O The man X puts the trowel in his right hand into the brick on the ground.
+
+
+34 #C C picks a block from the floor with both hands.
+
+
+35 #C C looks at the man Y
+
+
+36 #C C walks towards the man A.
+
+
+37 #C C moves the hoe with his right foot.
+
+
+38 #C C walks around
+
+
+39 #C C steps on the wooden brick
+
+
+40 #C C climbs on the wall
+
+
+41 #C C drops the brick
+
+
+42 #C C looks around
+
+
+43 #C C walks around
+
+
+44 #C C walks around
+
+
+45 #C C walks around
+
+
+46 #C C looks around
+
+
+47 #C C looks around the compound 
+
+
+48 #C C looks around the construction site
+
+
+49 #C C looks around the construction site
+
+
+50 #C C takes the hanger
+
+
+51 #C C picks the plumb bob from the block
+
+
+52 #C C moves the plumb bob on the bricks
+
+
+53 #C C touches a brick
+
+
+54 #C C pulls the rope
+
+
+55 #C C picks a brick from the brick on the brick wall with his left hand.
+
+
+56 #C C picks the metal
+
+
+57 #C C picks a stone from the concrete block with his left hand.
+
+
+58 #C C measures a wall with a plumb bob
+
+
+59 #C C puts a hook on the concrete blocks
+
+
+60 #C C picks the brick from the concrete block with his hands.
+
+
+61 #C C picks a stone from the brick with his right hand.
+
+
+62 #C C picks the brick
+
+
+63 #C C puts the brick on the wall
+
+
+64 #C C puts a block on the wall
+
+
+65 #C C walks around the compound
+
+
+66 #C C walks around the construction site
+
+
+67 #C C walks on a construction site 
+
+
+68 #C C walks towards the brick.
+
+
+69 #C C holds the brick with both hands.
+
+
+70 #C C walks in the compound
+
+
+71 #O The man D passes the brick to his left hand.
+
+
+72 #O The man A walks towards a brick on the ground.
+
+
+73 #C C moves the brick
+
+
+74 #O The man D picks a brick from the ground with his right hand.
+
+
+75 #C C puts down the plumb bob 
+
+
+76 #C C drops the right leg
+
+
+77 #C C puts down the hoe
+
+
+78 #C C walks towards a wall with a hoe in his hands.
+
+
+79 #C C walks around the compound 
+
+
+80 #C C moves the leg 
+
+
+81 #C C picks a stone
+
+
+82 #C C picks a block on the ground
+
+
+83 #C C walks around
+
+
+84 #C C walks around.
+
+
+85 #C C walks around the compound
+
+
+86 #C C walks towards a brick on the ground
+
+
+87 #C C walks towards the man Y and man Z.
+
+
+88 #O A man Y stands on the ground
+
+
+89 #C C picks a water jug
+
+
+90 #C C stares at the bricks
+
+
+91 #C C holds the jerrycan
+
+
+92 #C C looks around the compound
+
+
+93 #C C puts down the hand
+
+
+94 #C C holds the bucket of water on the ground with his left hand.
+
+
+95 #C C looks around the construction site
+
+
+96 #C C lifts the hoe
+
+
+97 #C C picks a plumb bob
+
+
+98 #C C picks a brick
+
+
+99 #C C places the brick on the cement bricks
+
+
+100 #C C picks a concrete block from the concrete block on the ground with his right hand.
+
+
+101 #C C places the concrete block on the concrete
+
+
+102 #C C moves a stone
+
+
+103 #C C moves the stone
+
+
+104 #C C drops the brick on the blocks
+
+
+105 #C C adjusts the stone on the bricks with his hands.
+
+
+106 #C C moves the brick
+
+
+107 #C C picks a block
+
+
+108 #C C picks a brick
+
+
+109 #C C walks around 
+
+
+110 #C C walks around the compound
+
+
+111 #C C walks towards the wall.
+
+
+112 #C C walks around the compound
+
+
+113 #C C walks towards the concrete block
+
+
+114 #O The man B walks towards the brick wall.
+
+
+115 #C C walks around the compound
+
+
+116 #C C walks towards the bricks 
+
+
+117 #C C walks around the compound
+
+
+118 #C C picks up a brick with his right hand.
+
+
+119 #O The man A carries the trowel from the ground with his right hand.
+
+
+120 #C C looks at man X
+
+
+121 #O The man A pours the cement mortar in the brick trowel in his right hand into the brick on the ground.
+
+
+122 #O man K picks a brick
+
+
+123 #O A man Y holds a brick
+
+
+124 #O man p scoops concrete with the trowel
+
+
+125 #O The man A hits the hoe on the ground with both hands.
+
+
+126 #O The man A drops the metal rod in his right hand on the ground.
+
+
+127 #O man Q ploughs the ground with the digging hoe in his hands.
+
+
+128 #O The man B gathers sand with the hoe in his hands.
+
+
+129 #O man Q places a trowel on a wall
+
+
+130 #O man X scoops cement with a trowel
+
+
+131 #O man X pours water
+
+
+132 #O The man A packs some cement from a bowl with the hoe in his right hand.
+
+
+133 #C C looks around the compound
+
+
+134 #C C talks to man Q
+
+
+135 #C C walks around the compound
+
+
+136 #C C walks around
+
+
+137 #C C walks around the compound 
+
+
+138 #C C drops the metal rod in his left hand on the concrete block on the ground. 
+
+
+139 #C C stares at the bricks
+
+
+140 #C C puts the plumb bob on the block
+
+
+141 #C C picks a rope from a brick
+
+
+142 #C C holds the brick
+
+
+143 #C C picks a brick from the brick rack with his left hand.
+
+
+144 #C C picks a plumb bob
+
+
+145 #C C picks a plumb bob from the block with his right hand.
+
+
+146 #C C picks the plumb bob from the brick
+
+
+147 #C C picks a plumb bob from the brick wall with his right hand.
+
+
+148 #C C picks a plumb bob
+
+
+149 #C C picks a plumb bob from the brick
+
+
+150 #C C picks a brick from the brick stack with his right hand.
+
+
+151 #C C picks the block
+
+
+152 #C C puts brick on the block structure
+
+
+153 #C C walks around
+
+
+154 #C C walks towards the wall
+
+
+155 #C C walks on a brick.
+
+
+156 #C C moves a brick 
+
+
+157 #C C moves a stone on the ground with his left hand.
+
+
+158 #C C holds the brick
+
+
+159 #C C picks a brick from the wall with his hands.
+
+
+160 #O A man Z picks a trowel from the cement bowl
+
+
+161 #C C puts the brick on the cement
+
+
+162 #C C picks a brick trowel from the brick with his right hand.
+
+
+163 #O The man B walks towards the brick.
+
+
+164 #C C talks to man Z
+
+
+165 #C C moves the hoe on the ground with his left hand.
+
+
+166 #C C picks the cloth
+
+
+167 #C C adjusts the trouser with his hands.
+
+
+168 #C C puts his left hand on his waist.
+
+
+169 #C C walks around the compound
+
+
+170 #C C walks around the compound
+
+
+171 #C C walks on the ground
+
+
+172 #C C walks around the compound
+
+
+173 #C C walks towards a concrete brick.
+
+
+174 #C C walks around.
+
+
+175 #C C walks around the compound
+
+
+176 #C C puts down the plumb bomb 
+
+
+177 #C C looks around the compound
+
+
+178 #O man Y places the brick on the ground
+
+
+179 #C C looks around the compound 
+
+
+180 #C C looks around the compound
+
+

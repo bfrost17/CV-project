@@ -1,0 +1,540 @@
+1 #C C puts the liquid soap on the counter
+
+
+2 #C C puts a bottle in a dishwasher
+
+
+3 #C C puts the sieve on the countertop
+
+
+4 #C C puts the washing machine on the counter top
+
+
+5 #C C adjusts the oven
+
+
+6 #C C picks the pan
+
+
+7 #C C puts the cloth on the cooker
+
+
+8 #C C puts the sieve on the cooker
+
+
+9 #C C wipes the fridge
+
+
+10 #C C puts the oven drying rack on the wall
+
+
+11 #C C picks up a stove lid
+
+
+12 #C C picks a cooking pot
+
+
+13 #C C picks a piece of cloth
+
+
+14 #C C puts the pot on the sink
+
+
+15 #C C opens the gas
+
+
+16 #C C touches a gas cooker 
+
+
+17 #C C opens the oven
+
+
+18 #C C adjusts cooker
+
+
+19 #C C opens the oven
+
+
+20 #C C  closes the cooker
+
+
+21 #C C opens the oven
+
+
+22 #C C adjusts the heat 
+
+
+23 #C C removes the cooker
+
+
+24 #C C turns on the oven 
+
+
+25 #C C adjusts the cooker
+
+
+26 #C C adjusts the cooker
+
+
+27 #C C presses the cooker button
+
+
+28 #C C adjusts the oven
+
+
+29 #C C turns the knob on the oven
+
+
+30 #C C adjusts the gas cooker
+
+
+31 #C C presses the cooker button
+
+
+32 #C C regulates the cooker
+
+
+33 #C C touches the gas
+
+
+34 #C C presses the cooker
+
+
+35 #C C touches the gas
+
+
+36 #C C opens the oven
+
+
+37 #C C opens the drawer
+
+
+38 #C C opens the drawer
+
+
+39 #C C opens the drawer
+
+
+40 #C C opens a drawer
+
+
+41 #C C puts the soap on the counter
+
+
+42 #C C picks the glass
+
+
+43 #C C puts the cooking pot in the drawer
+
+
+44 #C C picks a cooking pot
+
+
+45 #C C picks the can from the counter
+
+
+46 #C C picks the tin
+
+
+47 #C C picks up the towel
+
+
+48 #C C picks the board
+
+
+49 #C C turns the chopping board
+
+
+50 #C C rinses the sink
+
+
+51 #C C puts the basin down
+
+
+52 #C C picks the white bowl
+
+
+53 #C C picks the jug
+
+
+54 #C C picks a jug
+
+
+55 #C C picks the kettle
+
+
+56 #C C cleans the kitchen counter with a cloth
+
+
+57 #C C wipes the counter top with a towel
+
+
+58 #C C cleans the countertop with a paper towel
+
+
+59 #C C wipes countertop with a towel
+
+
+60 #C C wipes the counter top with a wiping clothe
+
+
+61 #C C wipes the counter top with a kitchen towel
+
+
+62 #C C wipes the countertop with the hand towel
+
+
+63 #C C puts the soap on the counter
+
+
+64 #C C picks the cotton
+
+
+65 #C C wipes the countertop with the tissue
+
+
+66 #C C wipes counter top
+
+
+67 #C C puts the dust in the dust bin
+
+
+68 #C C picks the dust pan
+
+
+69 #C C cleans the table with a paper towel
+
+
+70 #C C wipes a kitchen counter with a napkin
+
+
+71 #C C wipes countertop with paper towel 
+
+
+72 #C C wipes the counter top
+
+
+73 #C C puts the washing cloth on the countertop
+
+
+74 #C C closes the dishwasher
+
+
+75 #C C opens the dishwasher
+
+
+76 #C C opens the drawer
+
+
+77 #C C opens the dishwasher
+
+
+78 #C C opens a fridge
+
+
+79 #C C opens the dishwasher
+
+
+80 #C C closes the oven
+
+
+81 #C C opens a drawer
+
+
+82 #C C picks a bottle
+
+
+83 #C C picks a paper
+
+
+84 #C C puts the baking pan on the counter top
+
+
+85 #C C picks the bowl
+
+
+86 #C C picks the plastic lid
+
+
+87 #C C picks up a cup
+
+
+88 #C C picks the tin
+
+
+89 #C C puts down the tin
+
+
+90 #C C walks around the kitchen
+
+
+91 #C C picks the cooking pot
+
+
+92 #C C puts the pot on the table
+
+
+93 #C C picks a pack of milk
+
+
+94 #C C picks the food from the counter
+
+
+95 #C C moves the food container
+
+
+96 #C C picks the pan
+
+
+97 #C C drops the box of food on the oven
+
+
+98 #C C picks the jug
+
+
+99 #C C picks up the kettle
+
+
+100 #C C picks the water jug
+
+
+101 #C C picks the grinder
+
+
+102 #C C picks the kettle
+
+
+103 #C C takes the cooking pot
+
+
+104 #C C picks the container
+
+
+105 #C C picks a container
+
+
+106 #C C picks the bowl
+
+
+107 #C C opens the container
+
+
+108 #C C picks up a cup
+
+
+109 #C C places the sheet of paper on the counter
+
+
+110 #C C picks up the rag
+
+
+111 #C C picks a washing detergent
+
+
+112 #C C wipes the table with a towel 
+
+
+113 #C C wipes the surface with the cloth
+
+
+114 #C C wipes the surface with a fabric
+
+
+115 #C C wipes the countertop
+
+
+116 #C C wipes the dust bin
+
+
+117 #C C shakes the bottle
+
+
+118 #C C cleans the countertop with a towel 
+
+
+119 #C C wipes the counter top with a rag 
+
+
+120 #C C puts the kettle in the cooker
+
+
+121 #C C picks the pan
+
+
+122 #C C moves the dust bin
+
+
+123 #C C picks a dustbin
+
+
+124 #C C picks the container
+
+
+125 #C C holds a blender
+
+
+126 #C C holds the pot
+
+
+127 #C C picks the kettle
+
+
+128 #C C puts the soil in the dustbin
+
+
+129 #C C wipes the kitchen counter
+
+
+130 #C C closes the kitchen cabinet
+
+
+131 #C C puts container in the plastic container
+
+
+132 #C C touches the blender
+
+
+133 #C C picks the cooking pot
+
+
+134 #C C takes a plate from the oven
+
+
+135 #C C puts the dish in the other hand
+
+
+136 #C C picks the container
+
+
+137 #C C picks the tray
+
+
+138 #C C puts the food in the container
+
+
+139 #C C picks egg tray
+
+
+140 #C C picks a tray from the tray
+
+
+141 #C C picks the plastic tin
+
+
+142 #C C puts the egg shell on the tray
+
+
+143 #C C drops eggs in the plastic bowl
+
+
+144 #C C drops egg shells in the tray
+
+
+145 #C C touches egg
+
+
+146 #C C puts the tray in the dish
+
+
+147 #C C picks a tray
+
+
+148 #C C puts the container on the counter
+
+
+149 #C C picks a bag of rice
+
+
+150 #C C puts the glass in the trash can
+
+
+151 #C C picks the cloth
+
+
+152 #C C touches her face
+
+
+153 #C C takes the lid of the blender
+
+
+154 #C C puts the blender on the table
+
+
+155 #C C holds the pot
+
+
+156 #C C picks the dust bin
+
+
+157 #C C wipes the counter top with the cloth 
+
+
+158 #C C picks the liquid soap
+
+
+159 #C C drops the bottle
+
+
+160 #C C wipes his face with the cloth
+
+
+161 #C C puts the soap on the sink
+
+
+162 #C C sprays soap on the sponge
+
+
+163 #C C sprays the liquid soap on the sponge 
+
+
+164 #C C picks the soap
+
+
+165 #C C drops towel
+
+
+166 #C C washes the sink
+
+
+167 #C C cleans the sink with a sponge
+
+
+168 #C C cleans the sink with a piece of cloth
+
+
+169 #C C cleans the sink with a towel 
+
+
+170 #C C cleans the sink with a cloth 
+
+
+171 #C C cleans the sink with the towel
+
+
+172 #C C cleans sink
+
+
+173 #C C wipes the sink with the towel
+
+
+174 #C C cleans the sink with the towel 
+
+
+175 #C C cleans sink
+
+
+176 #C C cleans the sink with the towel
+
+
+177 #C C wipes sink with a towel
+
+
+178 #C C wipes sink with a kitchen towel 
+
+
+179 #C C cleans the sink
+
+
+180 #C C picks a cloth
+
+

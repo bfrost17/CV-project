@@ -1,0 +1,540 @@
+1 #C C ties the thread with the fingers
+
+
+2 #C C ties the thread on the finger
+
+
+3 #C C ties the thread with the hand
+
+
+4 #C C rolls the thread on her hands
+
+
+5 #C C ties the thread
+
+
+6 #C C ties the thread on the fabric
+
+
+7 #C C removes the small thread from the thread roll
+
+
+8 #C C looks at the table
+
+
+9 #C C looks at the needle
+
+
+10 #C C folds the thread
+
+
+11 #C C looks at the clothes
+
+
+12 #O Woman X walks in the room
+
+
+13 #O person X walks towards the room
+
+
+14 #O person X walks around the room
+
+
+15 #C C folds the thread on the finger
+
+
+16 #C C folds the thread on the fingers
+
+
+17 #C C aligns the thread on the fabric
+
+
+18 #C C folds the thread on the finger
+
+
+19 #O Woman X walks back to the chair
+
+
+20 #C C stares at the wall
+
+
+21 #C C Looks around a room
+
+
+22 #C C stares around
+
+
+23 #C C looks at the floor
+
+
+24 #C C looks around
+
+
+25 #C C looks around
+
+
+26 #C C looks at the table
+
+
+27 #C C looks at the table
+
+
+28 #C C stares at the floor
+
+
+29 #C C looks at the table
+
+
+30 #C C adjusts the camera
+
+
+31 #C C stretches his hand towards the table.
+
+
+32 #O The man Y walks into the house.
+
+
+33 #O A man X walks towards the table
+
+
+34 #C C puts the hand in the trouser pocket
+
+
+35 #O person X holds a rope
+
+
+36 #C C looks at the floor
+
+
+37 #C C looks at the handrail
+
+
+38 #O The dog X walks towards C.
+
+
+39 #O person X stares at a cloth
+
+
+40 #C C  looks at the hand
+
+
+41 #C C stretches the thread with her hands 
+
+
+42 #C C ties the thread on the edge of the fabric
+
+
+43 #C C holds the fabric
+
+
+44 #C C ties the thread on the finger
+
+
+45 #C C stretches the thread
+
+
+46 #C C ties the thread on the edge of the fabric
+
+
+47 #C C folds the thread on the edge of the fabric
+
+
+48 #C C holds the thread on the hand
+
+
+49 #O Woman X walks away
+
+
+50 #O Man X walks in the house
+
+
+51 #C C fixes the thread on the finger
+
+
+52 #C C folds the thread on the needle
+
+
+53 #O The man A walks towards the living room.
+
+
+54 #O person B walks in the room
+
+
+55 #C C folds the thread on the hand
+
+
+56 #C C aligns the thread
+
+
+57 #C C twists the thread
+
+
+58 #C C sews the decoration
+
+
+59 #C C adjusts the decoration
+
+
+60 #C C moves the hand to the table
+
+
+61 #C C adjusts the thread
+
+
+62 #C C stares the cloth
+
+
+63 #C C places the needle in the thread
+
+
+64 #C C picks the thread roll on the table 
+
+
+65 #C C folds the thread on the edge of the cloth
+
+
+66 #C C puts the ribbon thread on the table
+
+
+67 #C C closes the bottle of lilies
+
+
+68 #C C folds the outer part of the seal
+
+
+69 #C C looks at the craft cloth
+
+
+70 #O person Y walks to the table.
+
+
+71 #O person A holds the piece of cloth 
+
+
+72 #C C attaches the ribbon on the bottle of dye
+
+
+73 #C C holds the thread with the left hand
+
+
+74 #C C fixes the thread on the decoration with the needle 
+
+
+75 #C C holds the thread with the hand
+
+
+76 #C C adjusts the lid of the bottle top
+
+
+77 #C C closes the bottle of liquid.
+
+
+78 #C C puts the thread in the paper bag
+
+
+79 #C C closes the bottle
+
+
+80 #C C picks the chair
+
+
+81 #C C removes the paper from the mat
+
+
+82 #C C puts the thread in the pin 
+
+
+83 #C C holds a napkin with her right hand
+
+
+84 #C C looks at his hand
+
+
+85 #C C holds the thread roll
+
+
+86 #C C removes the glue from the craft with his hands 
+
+
+87 #O man X walks around.
+
+
+88 #C C looks at the bracelet 
+
+
+89 #C C fixes the glue on the string
+
+
+90 #C C sews the glue on the string
+
+
+91 #C C removes the string from the string
+
+
+92 #C C attaches the thread on the finger
+
+
+93 #C C ties the thread with the knot
+
+
+94 #C C ties the thread with the finger
+
+
+95 #C C tightens the string with the thread
+
+
+96 #C C inserts the thread in the hooks
+
+
+97 #C C ties the thread with the fingers
+
+
+98 #C C looks around the house
+
+
+99 #C C  looks at the star decoration
+
+
+100 #C C holds the string
+
+
+101 #C C touches the thread
+
+
+102 #C C inserts the needle in her hands
+
+
+103 #C C holds the beads
+
+
+104 #C C holds a thread in her left hand
+
+
+105 #C C walks to the room.
+
+
+106 #C C looks at the beads on the hand.
+
+
+107 #C C presses the finger on the table
+
+
+108 #C C ties the thread on the needle
+
+
+109 #C C moves fingers around the sticks
+
+
+110 #C C looks around
+
+
+111 #C C holds the beads with both hands
+
+
+112 #C C looks at the hands
+
+
+113 #C C looks at the dog
+
+
+114 #C C looks at the fingers
+
+
+115 #C C looks at the table
+
+
+116 #C C looks at the hand
+
+
+117 #C C stares at the table
+
+
+118 #C C stares around
+
+
+119 #C C ties the pin 
+
+
+120 #O A person Y walks towards a door
+
+
+121 #O man Y nods
+
+
+122 #C C looks at the mirror
+
+
+123 #C C  stretches his hand
+
+
+124 #C C fixes the thread into the needle
+
+
+125 #C C puts the thread on the needle
+
+
+126 #C C removes the threads on the finger
+
+
+127 #C C joins the thread to the finger
+
+
+128 #C C fixes the thread on the edge of the loom
+
+
+129 #C C adjusts the thread
+
+
+130 #C C ties the thread on the finger.
+
+
+131 #C C twists the thread with both hands
+
+
+132 #C C ties the thread on the finger
+
+
+133 #C C puts the thread on the needle
+
+
+134 #C C puts the thread in the needle
+
+
+135 #C C ties the thread with a pin 
+
+
+136 #C C touches the beads
+
+
+137 #O A man X walks into the room
+
+
+138 #O A man X walks past C.
+
+
+139 #O person Y walks outside the room
+
+
+140 #C C ties the thread on the loom
+
+
+141 #C C fixes the string on the loom
+
+
+142 #C C folds the thread on the pin 
+
+
+143 #C C presses the thread on the finger
+
+
+144 #C C fixes the thread to the craft
+
+
+145 #C C fixes the loom stem on the glue.
+
+
+146 #C C ties the end of the thread with the other hand
+
+
+147 #C C holds the cotton
+
+
+148 #C C inserts a thread on a finger
+
+
+149 #C C looks around the room
+
+
+150 #C C stares outside the house
+
+
+151 #C C looks at the camera
+
+
+152 #O The man X holds the phone with both hands.
+
+
+153 #C C looks at the phone in his hands
+
+
+154 #C C looks at the room
+
+
+155 #C C stares at a table
+
+
+156 #C C looks at the air conditioner
+
+
+157 #O The man X opens the book with his left hand.
+
+
+158 #C C lifts his right hand
+
+
+159 #C C looks around
+
+
+160 #C C looks at the watch
+
+
+161 #C C holds the beads on the fingers
+
+
+162 #C C looks at the garment
+
+
+163 #C C holds the cloth with the left hand
+
+
+164 #C C looks at the table
+
+
+165 #C C looks at the table
+
+
+166 #C C looks at the cloth
+
+
+167 #C C looks at the table
+
+
+168 #C C looks at the table
+
+
+169 #O A man X walks towards the table.
+
+
+170 #O man Y walks towards the table
+
+
+171 #C C looks at the table
+
+
+172 #C C looks at the cloth
+
+
+173 #C C looks at the cloth
+
+
+174 #C C looks at the cloth
+
+
+175 #C C looks at the table
+
+
+176 #C C looks at the table
+
+
+177 #C C looks at the table
+
+
+178 #C C looks at the table
+
+
+179 #C C looks at the table
+
+
+180 #C C looks at the table
+
+

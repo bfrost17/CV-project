@@ -1,0 +1,540 @@
+1 #C C picks the food
+
+
+2 #C C scoops the food
+
+
+3 #C C picks a mushroom from the pot
+
+
+4 #C C picks the chopstick
+
+
+5 #C C stirs the food in the bowl.
+
+
+6 #C C holds a chopstick
+
+
+7 #C C picks a food
+
+
+8 #C C puts food in the bowl
+
+
+9 #C C picks the food on the table
+
+
+10 #O woman W holds the chopstick.
+
+
+11 #O person G picks the food
+
+
+12 #C C picks food from the table
+
+
+13 #C C picks a piece of the stew 
+
+
+14 #C C eats food with a knife
+
+
+15 #O A woman Y places the food on the table
+
+
+16 #C C picks the fork
+
+
+17 #C C eats the potato chips.
+
+
+18 #C C scoops food with a spoon
+
+
+19 #C C puts food in the plate
+
+
+20 #C C scoops food from the plate
+
+
+21 #C C takes food from the pot with the cup.
+
+
+22 #C C holds a plate
+
+
+23 #O A lady X picks food with a knife 
+
+
+24 #O A woman X picks food from the plate
+
+
+25 #O A woman X eats
+
+
+26 #C C eats the food.
+
+
+27 #O woman W picks food with the knife.
+
+
+28 #C C picks food from the bowl.
+
+
+29 #C C holds a spoon
+
+
+30 #C C takes food with the spoon.
+
+
+31 #C C eats food
+
+
+32 #O man G serves food
+
+
+33 #O Woman S picks food with a knife
+
+
+34 #O A woman X serves food
+
+
+35 #C C picks food from the plate with a fork
+
+
+36 #C C moves the hands
+
+
+37 #C C eats food
+
+
+38 #O person K picks up the food with the chopsticks.
+
+
+39 #O A woman X picks food with a spoon
+
+
+40 #C C eats food with a spoon.
+
+
+41 #O A woman X holds a bowl
+
+
+42 #O A woman X serves food
+
+
+43 #O A lady X eats the food
+
+
+44 #O A lady X eats food
+
+
+45 #C C looks around
+
+
+46 #C C looks around the table.
+
+
+47 #O A man Y holds the spoon
+
+
+48 #C C looks at man 
+
+
+49 #O A man X picks food with a tong
+
+
+50 #O person B eats food with a fork
+
+
+51 #C C takes a fork
+
+
+52 #O A woman Y puts the food on the table
+
+
+53 #O person A touches the table
+
+
+54 #C C picks a plate
+
+
+55 #C C mixes the food
+
+
+56 #C C stirs the food
+
+
+57 #C C serves food
+
+
+58 #C C picks a potato
+
+
+59 #O A man V picks a chopstick
+
+
+60 #C C picks a potato
+
+
+61 #C C moves the food in the bowl
+
+
+62 #O A man Y picks the plate
+
+
+63 #C C picks a spoon
+
+
+64 #O a lady X moves the phone on the table
+
+
+65 #O person B operates a phone
+
+
+66 #O A man X operates a phone
+
+
+67 #O man G looks at the phone
+
+
+68 #O lady X puts the fork on the plate
+
+
+69 #C C picks the food
+
+
+70 #C C takes a chopstick
+
+
+71 #O A lady X picks a knife on the bowl
+
+
+72 #O A man Y picks a box of noodles
+
+
+73 #O lady Y holds the food
+
+
+74 #C C picks a cheese from the bowl
+
+
+75 #C C holds a bowl
+
+
+76 #O woman Y places the cooking stick on the tray
+
+
+77 #O A woman S picks a piece of chicken from the table
+
+
+78 #O woman K takes a dish
+
+
+79 #C C moves the food
+
+
+80 #O woman D picks the food
+
+
+81 #O lady X stirs the food
+
+
+82 #C C picks a fork
+
+
+83 #C C picks a food with a knife
+
+
+84 #C C picks the chopsticks 
+
+
+85 #C C cooks the food
+
+
+86 #C C picks the food
+
+
+87 #O woman R picks the bowl
+
+
+88 #C C serves food
+
+
+89 #C C holds the food with the chopsticks
+
+
+90 #C C puts a piece of potato on the bowl
+
+
+91 #C C holds a pottery piece.
+
+
+92 #C C picks the chopstick
+
+
+93 #C C moves a food
+
+
+94 #C C picks a piece of food from the plate
+
+
+95 #C C picks the noodles from the bowl
+
+
+96 #C C picks the food on the wooden stick
+
+
+97 #C C moves a finger on the bowl
+
+
+98 #C C takes the spoon
+
+
+99 #C C holds the stick
+
+
+100 #C C puts down the food
+
+
+101 #C C puts the food in the bowl
+
+
+102 #C C picks a potato
+
+
+103 #O person A picks the phone
+
+
+104 #O person M holds the plate
+
+
+105 #O A lady J picks a fork
+
+
+106 #C C picks the fork
+
+
+107 #C C turns the knife.
+
+
+108 #C C picks a fork
+
+
+109 #O A man A uses phone 
+
+
+110 #O A woman p picks a bowl of food
+
+
+111 #O A woman Q eats food.
+
+
+112 #O A woman P holds a phone.
+
+
+113 #O person F moves the bowl
+
+
+114 #O woman P picks a bowl from the table
+
+
+115 #O man K puts the plate on the table
+
+
+116 #C C picks a plate 
+
+
+117 #O A woman X picks a phone 
+
+
+118 #C C picks a knife
+
+
+119 #O woman R picks chop sticks
+
+
+120 #C C picks a piece of cake with a knife.
+
+
+121 #C C picks a stick
+
+
+122 #C C pushes a dish
+
+
+123 #O person A moves the bowl
+
+
+124 #C C picks the potatoes with the chopstick.
+
+
+125 #C C picks a dish
+
+
+126 #O woman D holds the spoon
+
+
+127 #O A man S holds a spoon.
+
+
+128 #C C scoops egg with a chopstick.
+
+
+129 #C C picks a fork
+
+
+130 #C C picks a piece of food
+
+
+131 #O A lady X opens the dish
+
+
+132 #O A lady H talks to C
+
+
+133 #O lady A talks to C
+
+
+134 #C C picks a chopstick
+
+
+135 #O Woman B takes the chopstick
+
+
+136 #C C scoops sauce with the wooden spoon
+
+
+137 #C C moves the chopstick 
+
+
+138 #C C spreads the sauce on the food
+
+
+139 #C C moves the fork.
+
+
+140 #C C picks a potato slice 
+
+
+141 #C C picks the fork
+
+
+142 #C C moves the bowl 
+
+
+143 #O man X stirs the food
+
+
+144 #C C stirs the food
+
+
+145 #C C picks the cheese.
+
+
+146 #C C holds the bowl
+
+
+147 #C C picks up a piece of vegetable from the pot
+
+
+148 #O person R holds the knife
+
+
+149 #C C takes the cake from the table
+
+
+150 #C C takes the waffle.
+
+
+151 #C C takes the paper
+
+
+152 #C C picks a packet of the noodles
+
+
+153 #C C picks a piece of paper
+
+
+154 #C C picks the food
+
+
+155 #C C moves the bowl
+
+
+156 #C C picks the serving spoon
+
+
+157 #C C puts the fork on the plate.
+
+
+158 #C C stirs food with a fork
+
+
+159 #C C touches the cooking pot
+
+
+160 #C C picks food from the bowl
+
+
+161 #C C moves the food in the bowl
+
+
+162 #O lady B holds the food in the pot
+
+
+163 #C C scoops food from the pot
+
+
+164 #C C picks a dish
+
+
+165 #C C picks a chopstick
+
+
+166 #C C picks a dish
+
+
+167 #C C lifts the spoon
+
+
+168 #C C picks the egg and the chopstick.
+
+
+169 #C C spreads the sauce in the egg.
+
+
+170 #C C puts the stew on the table
+
+
+171 #C C stirs the food with a wooden spoon.
+
+
+172 #C C picks the chopsticks
+
+
+173 #C C pours sauce into the bowl.
+
+
+174 #C C pours the mixture
+
+
+175 #C C puts the pasta on the bowl
+
+
+176 #C C  dips the brush in the bowl
+
+
+177 #C C puts the vegetable in the bowl.
+
+
+178 #O A man K holds the cooking pot
+
+
+179 #O Man S picks the bowl of noodles
+
+
+180 #C C picks the chop stick
+
+

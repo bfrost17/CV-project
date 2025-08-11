@@ -1,0 +1,540 @@
+1 #C C removes the hand from the building structure
+
+
+2 #C C stands beside the tree
+
+
+3 #C C picks the soil 
+
+
+4 #C C collects soil with his hand
+
+
+5 #C C moves the soil
+
+
+6 #C C pulls the dry leaves from the ground
+
+
+7 #C C  hits the ground
+
+
+8 #C C spreads the soil with the shovel
+
+
+9 #C C removes the concrete on the ground
+
+
+10 #C C lifts the soil with the hand
+
+
+11 #C C pulls the  concrete with both hands
+
+
+12 #C C collects soil
+
+
+13 #C C cuts the concrete
+
+
+14 #C C pulls the stone
+
+
+15 #C C removes the concrete from the ground
+
+
+16 #C C removes the wall between the bricks
+
+
+17 #C C presses the wood against the concrete
+
+
+18 #C C pulls the wood on the wood structure
+
+
+19 #C C moves the wood
+
+
+20 #C C lifts up the block mold
+
+
+21 #C C adjusts the cement
+
+
+22 #C C moves the leg
+
+
+23 #C C adjusts the cement
+
+
+24 #C C removes the cement
+
+
+25 #C C adjusts the soil 
+
+
+26 #C C picks the soil
+
+
+27 #C C picks the dirt
+
+
+28 #C C picks the bricks.
+
+
+29 #C C picks a shovel
+
+
+30 #C C picks a rope
+
+
+31 #C C moves around
+
+
+32 #C C stands up
+
+
+33 #C C wipes the hand on the rail
+
+
+34 #C C moves the hand
+
+
+35 #C C picks up the masonry tool
+
+
+36 #C C picks a shovel
+
+
+37 #C C cuts the ground with the axe
+
+
+38 #C C removes the spade from the wood 
+
+
+39 #C C  picks a spade
+
+
+40 #C C removes the wall of the hole on the tree with the axe.
+
+
+41 #C C pulls the stone
+
+
+42 #C C moves the axe
+
+
+43 #C C hits the stone with the shovel
+
+
+44 #C C picks a shovel
+
+
+45 #C C hits the block with the hammer 
+
+
+46 #C C pulls the shovel
+
+
+47 #C C digs a hole on the ground with the shovel
+
+
+48 #C C   moves a wood 
+
+
+49 #C C hits the ground with the hammer
+
+
+50 #C C cuts the structure with a crowbar
+
+
+51 #C C  picks up a shovel with his right hand 
+
+
+52 #C C  moves the soil with a shovel
+
+
+53 #C C  moves the shovel
+
+
+54 #C C cuts a wooden structure with the axe 
+
+
+55 #C C puts the shovel in the hole
+
+
+56 #C C picks the axe
+
+
+57 #C C picks the wood
+
+
+58 #C C pulls the dry leaves 
+
+
+59 #C C   lifts the soil with a hand 
+
+
+60 #C C pulls the dry leaf with both hands
+
+
+61 #C C pulls soil with hands
+
+
+62 #C C  takes a piece of soil
+
+
+63 #C C pulls the wood
+
+
+64 #C C touches the  wood 
+
+
+65 #C C places the concrete in the brick
+
+
+66 #C C lifts the soil
+
+
+67 #C C collects the concrete
+
+
+68 #C C removes the sand from the hollow block with the hand
+
+
+69 #C C pulls the block
+
+
+70 #C C collects the cement
+
+
+71 #C C picks the pipe
+
+
+72 #C C wipes the base of the wooden structure
+
+
+73 #C C removes the wooden stick from the wall.
+
+
+74 #C C touches the concrete 
+
+
+75 #C C picks the concrete 
+
+
+76 #C C adjusts the concrete
+
+
+77 #C C removes the dirt 
+
+
+78 #C C  puts soil on the ground
+
+
+79 #C C gathers the soil
+
+
+80 #C C removes the sand from the plant
+
+
+81 #C C collects the soil
+
+
+82 #C C removes sand from the ground
+
+
+83 #C C removes the mortar from the wood.
+
+
+84 #C C removes the cement with the hand
+
+
+85 #C C presses the wood 
+
+
+86 #C C fixes the stone
+
+
+87 #C C pulls the cement on the ground
+
+
+88 #C C clears the soil with the hand
+
+
+89 #C C moves the soil with the hand
+
+
+90 #C C fixes the brick
+
+
+91 #C C collects the cement
+
+
+92 #C C touches the soil
+
+
+93 #C C removes a sand in the hole with his right hand
+
+
+94 #C C touches the soil on the ground
+
+
+95 #C C wipes the concrete
+
+
+96 #C C picks a wooden stick
+
+
+97 #C C cuts the stone with the axe
+
+
+98 #C C removes the sand on the stone with the shovel
+
+
+99 #C C hits the stone with the hammer
+
+
+100 #C C hits the concrete block with the hammer
+
+
+101 #C C moves the wood
+
+
+102 #C C collects the stones 
+
+
+103 #C C removes the sand from the hole with the shovel
+
+
+104 #C C hits the wood with a hammer
+
+
+105 #C C  digs using a masonry tool 
+
+
+106 #C C hits the brick with the hammer
+
+
+107 #C C moves the brick
+
+
+108 #C C removes the wood from the ground
+
+
+109 #C C scrapes the clay with the hammer
+
+
+110 #C C picks the tool box
+
+
+111 #C C pulls a concrete block 
+
+
+112 #C C removes the wood.
+
+
+113 #C C collects the soil with his hand
+
+
+114 #C C holds the concrete
+
+
+115 #C C moves the soil with the hand
+
+
+116 #C C collects the concrete with his right hand
+
+
+117 #C C collects the bricks with the hand
+
+
+118 #C C touches a stone
+
+
+119 #C C picks up the brick
+
+
+120 #C C picks the stone
+
+
+121 #C C throws the stone
+
+
+122 #C C removes the stone from the ground
+
+
+123 #C C throws the soil on the ground
+
+
+124 #C C moves the stone
+
+
+125 #C C removes the foot from the stone
+
+
+126 #C C moves the stone with his hands
+
+
+127 #C C moves towards a wall
+
+
+128 #C C moves the soil with the leg
+
+
+129 #C C lifts the flower plant
+
+
+130 #C C picks up the bricklayer's hoe
+
+
+131 #C C moves the wood
+
+
+132 #C C picks up the stone
+
+
+133 #C C  moves the soil with the hand 
+
+
+134 #C C removes the soil with the shovel
+
+
+135 #C C holds the stone
+
+
+136 #C C removes a plant with his hand
+
+
+137 #C C  places the shovel down
+
+
+138 #C C moves the brick
+
+
+139 #C C picks a metal bar
+
+
+140 #C C pulls the wood
+
+
+141 #C C pulls the wooden stick from the ground
+
+
+142 #C C  touches the soil
+
+
+143 #C C throws the stone
+
+
+144 #C C removes the mortar from the ground
+
+
+145 #C C  removes the wood 
+
+
+146 #C C moves the stone
+
+
+147 #C C holds the soil with his hand
+
+
+148 #C C moves the hands.
+
+
+149 #C C walks around
+
+
+150 #C C walks around 
+
+
+151 #C C walks around
+
+
+152 #C C removes the camera
+
+
+153 #C C stands besides the wall
+
+
+154 #C C touches the camera
+
+
+155 #C C moves his feet
+
+
+156 #C C moves the leg.
+
+
+157 #C C looks at the soil 
+
+
+158 #C C throws the soil
+
+
+159 #C C moves his right hand
+
+
+160 #C C wipes his hands on the gloves
+
+
+161 #C C puts the hand on the hand
+
+
+162 #C C puts the hand down
+
+
+163 #C C moves the bag
+
+
+164 #C C walks on the road
+
+
+165 #C C stands in front of the hedge trimmer
+
+
+166 #C C wipes his cloth
+
+
+167 #C C removes a hand from his pocket
+
+
+168 #C C looks at the ground
+
+
+169 #C C touches his cloth
+
+
+170 #C C wears gloves
+
+
+171 #C C puts a glove on the right hand
+
+
+172 #C C looks at the garden 
+
+
+173 #C C wipes his hands on his shirt
+
+
+174 #C C walks towards the paint sprayer
+
+
+175 #C C stands in the compound
+
+
+176 #C C wipes the hand with the glove
+
+
+177 #C C drops the hand on the ground.
+
+
+178 #C C picks up the hammer from the ground
+
+
+179 #C C picks up the hammer
+
+
+180 #C C moves the hand
+
+

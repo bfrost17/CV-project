@@ -1,0 +1,540 @@
+1 #C C brushes the metal mesh 
+
+
+2 #C C paints the iron mesh mesh fence with the paintbrush in his right hand.
+
+
+3 #C C paints the metal
+
+
+4 #C C paints the metal structure
+
+
+5 #C C paints the metal grill.
+
+
+6 #C C paints the iron mesh with a paintbrush.
+
+
+7 #C C paints the metal
+
+
+8 #C C paints the metal grill
+
+
+9 #C C holds paint brush
+
+
+10 #C C wipes paint brush on the metal frame
+
+
+11 #C C dips the paintbrush in the paint can with his right hand.
+
+
+12 #C C scoops paint with the paint brush 
+
+
+13 #C C paints a metal.
+
+
+14 #C C paints the metal
+
+
+15 #C C paints the metal
+
+
+16 #C C brushes paint
+
+
+17 #C C brushes the metal grill with the paint brush 
+
+
+18 #C C paints the metal structure
+
+
+19 #C C paints the metal stand
+
+
+20 #C C paints a metal structure
+
+
+21 #C C paints the metal stand 
+
+
+22 #C C paints the metal
+
+
+23 #C C paints the metal frame on the balcony with the paintbrush in his right hand.
+
+
+24 #C C paints the metal structure 
+
+
+25 #C C paints the metal
+
+
+26 #C C brushes the metal bar
+
+
+27 #C C brushes the metal structure
+
+
+28 #C C cleans the metal stand
+
+
+29 #C C stirs paint with a paintbrush
+
+
+30 #C C dips brush in paint 
+
+
+31 #C C wipes brush on container
+
+
+32 #C C  deeps a brush in paint
+
+
+33 #C C stirs paint in the container with a paint brush
+
+
+34 #C C brushes the mesh gate with a paint brush
+
+
+35 #C C brushes a metal grill with a paint brush
+
+
+36 #C C scraps a metal with a metal brush
+
+
+37 #C C brushes the metal grill
+
+
+38 #C C brushes the metal structure with the brush
+
+
+39 #C C removes the dirt from the metal frame
+
+
+40 #C C brushes the metal bar with a brush
+
+
+41 #O A man Y interacts with C
+
+
+42 #C C paints the steel cage 
+
+
+43 #C C paints the metal
+
+
+44 #C C paints a metal
+
+
+45 #C C paints metal fence
+
+
+46 #C C cleans paint on the metal frame with the brush in his right hand.
+
+
+47 #C C brushes the iron bar 
+
+
+48 #C C paints the iron post
+
+
+49 #C C scratches the metal frame
+
+
+50 #C C paints the metal
+
+
+51 #C C scrapes metal grill with a brush 
+
+
+52 #C C paints the iron mesh with the paintbrush in his right hand.
+
+
+53 #C C paints the metal grill
+
+
+54 #C C wipes paintbrush on the metal
+
+
+55 #C C paints the metal
+
+
+56 #O A man Q walks on the compound
+
+
+57 #C C paints the metal grill
+
+
+58 #C C paints the metal
+
+
+59 #C C paints the metal
+
+
+60 #C C paints the metal
+
+
+61 #C C removes the paintbrush from the paint tin
+
+
+62 #C C dips the paint brush in the tin
+
+
+63 #C C dips the paint brush in the tin 
+
+
+64 #C C brushes the paint 
+
+
+65 #C C paints the iron mesh with the paintbrush in his right hand.
+
+
+66 #C C paints the metal grill with a brush
+
+
+67 #C C paints the metal.
+
+
+68 #C C paints the metal grill
+
+
+69 #C C brushes the metal grill
+
+
+70 #C C paints the iron rod with a paint brush
+
+
+71 #C C paints the steel wire mesh with a paint brush
+
+
+72 #O man X holds a metal
+
+
+73 #C C holds a metal rod with the right hand
+
+
+74 #C C brushes a metal with a brush 
+
+
+75 #C C paints the metal.
+
+
+76 #C C paints the metal.
+
+
+77 #C C brushes the metal frame with the brush in his right hand.
+
+
+78 #C C brushes the metal frame with the brush
+
+
+79 #C C brushes the iron mesh
+
+
+80 #C C holds a metal stand
+
+
+81 #C C scraps off paint from the steel wire mesh with a metal rod
+
+
+82 #C C scrubs metal frame with a brush
+
+
+83 #C C touches the metal.
+
+
+84 #C C stares around
+
+
+85 #C C dips a paint brush in the paint can 
+
+
+86 #C C Scoops paint from a container
+
+
+87 #C C wipes paint brush in paint tin 
+
+
+88 #C C dips the paintbrush in the paint in the container
+
+
+89 #C C brushes the metal.
+
+
+90 #C C paints the iron mesh with a paint brush
+
+
+91 #C C paints the iron rod with a paintbrush 
+
+
+92 #C C paints the iron mesh with the paintbrush 
+
+
+93 #C C paints a metal structure 
+
+
+94 #C C paints the iron rod on the metal cage with the paintbrush in his right hand.
+
+
+95 #C C paints the metal.
+
+
+96 #C C paints the metal structure
+
+
+97 #C C paints the steel bar 
+
+
+98 #C C paints the iron mesh.
+
+
+99 #C C brushes the metal frame with the brush in his right hand.
+
+
+100 #C C paints the metal rod with a brush 
+
+
+101 #C C paints the iron rod.
+
+
+102 #C C paints a metal frame with a paintbrush 
+
+
+103 #C C brushes the metal mesh.
+
+
+104 #C C paints the steel bars
+
+
+105 #C C paints the iron mesh.
+
+
+106 #C C brushes the metal.
+
+
+107 #C C stirs the paint in the tin with the paint brush.
+
+
+108 #C C wipes the paintbrush in his right hand on the paint in the tin of paint.
+
+
+109 #C C brushes the paint in the container with the paint brush in his right hand.
+
+
+110 #C C mixes the paint in the tin with the paint brush in his right hand.
+
+
+111 #C C removes paint from the paint brush
+
+
+112 #C C paints the iron mesh with a paint brush
+
+
+113 #C C paints the metal.
+
+
+114 #C C paints the metal.
+
+
+115 #C C paints the metal structure
+
+
+116 #O a man Q converses with the man Y.
+
+
+117 #C C paints the metal frame
+
+
+118 #C C paints the steel metal
+
+
+119 #C C paints the metal
+
+
+120 #C C dips brush in paint
+
+
+121 #C C wipes the paint brush on the tin
+
+
+122 #C C wipes the paint brush on the paint can
+
+
+123 #C C paints the metal.
+
+
+124 #O A man Q moves a hand on the wood
+
+
+125 #C C paints the metal.
+
+
+126 #C C adjusts the paintbrush on the edge of the paint can.
+
+
+127 #C C looks around
+
+
+128 #C C paints the iron mesh with a paint brush
+
+
+129 #O man Q paints the metal
+
+
+130 #C C brushes the metal.
+
+
+131 #O A man P uses a paintbrush to paint the metal.
+
+
+132 #O A man Y puts the wood on the ground
+
+
+133 #O person A puts the trowel on the wall
+
+
+134 #O man Y smoothens the wall with a trowel
+
+
+135 #O man G walks in
+
+
+136 #O man H paints the iron mesh with the paintbrush
+
+
+137 #O A man K puts the brush on the metal stand
+
+
+138 #O man Y scrubs the metal rod with a paintbrush
+
+
+139 #O man Q converses with C.
+
+
+140 #C C picks the brush from the ground with his right hand. 
+
+
+141 #C C picks the tin of paint on the ground
+
+
+142 #C C puts the paint container on the wood
+
+
+143 #C C picks a lid
+
+
+144 #C C picks up a paint tin
+
+
+145 #C C wipes the metal with the towel
+
+
+146 #C C wipes the metal with the hand towel
+
+
+147 #C C wipes the hand with a cloth
+
+
+148 #C C wipes the hands with a towel
+
+
+149 #C C wipes his hands with the towel
+
+
+150 #C C wipes his hands with a towel
+
+
+151 #C C looks around the construction site
+
+
+152 #C C wipes his cloth with his left hand.
+
+
+153 #C C stares at the hand
+
+
+154 #C C touches the right hand
+
+
+155 #C C converses with man X
+
+
+156 #C C talks to man X 
+
+
+157 #C C wipes his hands 
+
+
+158 #C C  turns around
+
+
+159 #C C removes the cap from the man Y's face with his left hand.
+
+
+160 #C C gives the camera to man Y
+
+
+161 #O A man X picks the phone
+
+
+162 #C C walks around
+
+
+163 #C C walks towards the metal structure
+
+
+164 #C C walks towards the wall
+
+
+165 #C C walks towards a bucket.
+
+
+166 #C C walks towards a fence.
+
+
+167 #O A man Y picks a shovel from the ground
+
+
+168 #C C walks around the compound 
+
+
+169 #O The man B hits the brick in his left hand with the axe in his right hand.
+
+
+170 #C C looks at the bricks
+
+
+171 #C C moves around the compound
+
+
+172 #C C walks around the compound
+
+
+173 #C C holds the leg
+
+
+174 #C C moves around
+
+
+175 #C C looks around
+
+
+176 #C C picks a wall flag 
+
+
+177 #C C wipes the wall with the sponge
+
+
+178 #C C presses the phone with his right hand.
+
+
+179 #C C operates the phone
+
+
+180 #C C touches the phone
+
+

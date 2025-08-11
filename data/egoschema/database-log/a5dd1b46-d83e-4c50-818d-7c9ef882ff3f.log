@@ -1,0 +1,540 @@
+1 #C C pours the orange in the container.
+
+
+2 #C C pours the soil in the blender
+
+
+3 #C C turns the pumpkin.
+
+
+4 #C C places the ingredients in the blender 
+
+
+5 #C C chops the potato
+
+
+6 #C C removes potatoes on the tartan
+
+
+7 #C C picks the potato
+
+
+8 #C C adjusts the potato
+
+
+9 #C C gathers the potato pieces on the chopping board
+
+
+10 #C C turns the potatoes
+
+
+11 #C C picks the potato
+
+
+12 #C C removes the potato from the grater
+
+
+13 #C C removes the potato from the grater
+
+
+14 #C C puts the garlic on the weighing scale
+
+
+15 #C C collects the grated cheese from the grater
+
+
+16 #C C puts the green bell pepper in the blender
+
+
+17 #C C picks the food stuffs
+
+
+18 #C C picks the plate
+
+
+19 #C C puts the glass on the counter
+
+
+20 #C C drops a glass of water
+
+
+21 #C C picks a knife from a tray
+
+
+22 #C C picks up the baking tray
+
+
+23 #C C puts the bottle on the sink
+
+
+24 #C C picks a container
+
+
+25 #C C puts the container on the container
+
+
+26 #C C moves the plastic container on the countertop
+
+
+27 #C C hits the blender jar with a knife
+
+
+28 #C C puts the fruit in the plastic bowl
+
+
+29 #C C removes the eggs from the grater
+
+
+30 #C C puts the pieces of pumpkin on the plastic container.
+
+
+31 #C C removes the seeds from the blender
+
+
+32 #C C removes the onion peeler.
+
+
+33 #C C removes the peels from the grater
+
+
+34 #C C removes the container
+
+
+35 #C C picks the eggplant
+
+
+36 #C C removes the potato pieces
+
+
+37 #C C removes the seed from the eggplant
+
+
+38 #C C removes the seeds
+
+
+39 #C C packs the ingredients on the tray
+
+
+40 #C C picks the tray of eggs
+
+
+41 #C C picks the peeled apple.
+
+
+42 #C C moves the potatoes aside
+
+
+43 #C C removes the pear from the lid.
+
+
+44 #C C removes the peeler from the tray
+
+
+45 #C C picks the grapes from the tray
+
+
+46 #C C picks the pieces of apple
+
+
+47 #C C picks the apple
+
+
+48 #C C picks the peeler
+
+
+49 #C C puts the peeler in the food
+
+
+50 #C C cuts the fruit into the plastic
+
+
+51 #C C picks the apple.
+
+
+52 #C C removes the seeds from the potato
+
+
+53 #C C picks the piece of potato
+
+
+54 #C C picks up the broccoli
+
+
+55 #C C picks the glass
+
+
+56 #C C picks the knife
+
+
+57 #C C puts the ingredient on the counter
+
+
+58 #C C picks the container
+
+
+59 #C C puts the onion on the tray
+
+
+60 #C C drops the eggplant in the tray
+
+
+61 #C C puts the tray on the cooker
+
+
+62 #C C removes the chicken breast
+
+
+63 #C C spreads the grater with the fingers.
+
+
+64 #C C drops the fork
+
+
+65 #C C places the tray on the cooker.
+
+
+66 #C C puts the eggplant in the tray 
+
+
+67 #C C moves the tray
+
+
+68 #C C adjusts the tray
+
+
+69 #C C picks a tray
+
+
+70 #C C walks towards the countertop
+
+
+71 #C C puts the container on the sink 
+
+
+72 #C C walks to the kitchen counter
+
+
+73 #C C walks towards a fridge
+
+
+74 #C C puts the tray on the counter
+
+
+75 #C C puts the hands down
+
+
+76 #C C puts the potato on the table
+
+
+77 #C C stares at the roasting tray
+
+
+78 #C C looks at the food
+
+
+79 #C C stares at the food
+
+
+80 #C C stares at the food
+
+
+81 #C C stands up
+
+
+82 #C C eats the food
+
+
+83 #C C eats the food 
+
+
+84 #C C eats the food
+
+
+85 #C C eats the food
+
+
+86 #C C eats a fruit
+
+
+87 #C C looks at the table
+
+
+88 #C C looks at the phone
+
+
+89 #C C stares at the phone
+
+
+90 #C C stares at the laptop
+
+
+91 #C C looks at the tablet
+
+
+92 #C C looks at the pan
+
+
+93 #C C moves the hand
+
+
+94 #C C looks at the phone
+
+
+95 #C C looks at the eggplant
+
+
+96 #C C picks the stone 
+
+
+97 #C C looks at the kitchen slab
+
+
+98 #C C stares at the cooking pot
+
+
+99 #C C stares at the kitchen
+
+
+100 #C C places phone on the counter
+
+
+101 #C C picks a phone from the counter top
+
+
+102 #O lady X opens the drawer
+
+
+103 #O a lady X moves a tray
+
+
+104 #C C picks a tray of egg plants from the countertop
+
+
+105 #C C picks up the glass with a woman X
+
+
+106 #C C picks the potato
+
+
+107 #C C picks the piece of potato
+
+
+108 #C C takes the tray
+
+
+109 #C C picks the pan
+
+
+110 #C C lifts the pan
+
+
+111 #C C  puts the pan in the cooker 
+
+
+112 #C C pours the cooking oil on the pan
+
+
+113 #C C picks the pan
+
+
+114 #C C takes a wooden tray
+
+
+115 #C C drops the knife
+
+
+116 #C C picks the vegetable
+
+
+117 #C C moves the garlic
+
+
+118 #C C cuts the ingredients
+
+
+119 #C C puts the carrot in the dish
+
+
+120 #C C puts the broccoli in the pot
+
+
+121 #C C takes the broccoli
+
+
+122 #C C picks the dirt
+
+
+123 #C C picks up a dirt
+
+
+124 #C C removes the dirt from the chopping board.
+
+
+125 #O Y moves on the floor
+
+
+126 #C C puts the fruits in the cooking pot
+
+
+127 #C C picks the onion
+
+
+128 #C C moves the  piece of the mushrooms 
+
+
+129 #C C collects the garlic pieces.
+
+
+130 #C C removes the dirt from the table
+
+
+131 #C C puts the garlic piece aside.
+
+
+132 #C C removes the garlics 
+
+
+133 #C C picks the garlic
+
+
+134 #C C puts the pieces of onion on the bowl
+
+
+135 #C C opens the cabinet
+
+
+136 #C C picks a spoon
+
+
+137 #C C puts the cooking stick in the cooking pot
+
+
+138 #C C shakes the pan
+
+
+139 #C C holds a pan
+
+
+140 #C C stirs the vegetables in the cooking pot
+
+
+141 #C C stirs broccoli with cooking stick
+
+
+142 #C C takes a plate of rice 
+
+
+143 #C C reads the book
+
+
+144 #C C touches the screen
+
+
+145 #C C touches the pot
+
+
+146 #C C reads the book
+
+
+147 #C C holds a book
+
+
+148 #C C reads the book
+
+
+149 #C C takes a salad from the pot
+
+
+150 #C C lifts the hand
+
+
+151 #C C lifts hand
+
+
+152 #C C reads the book
+
+
+153 #C C reads the book
+
+
+154 #C C reads the book
+
+
+155 #C C reads the book
+
+
+156 #C C reads the book
+
+
+157 #C C reads the book
+
+
+158 #C C reads a paper
+
+
+159 #C C reads the book
+
+
+160 #C C reads the book
+
+
+161 #C C reads the manual
+
+
+162 #C C reads the paper
+
+
+163 #C C reads the book
+
+
+164 #C C reads the book
+
+
+165 #C C holds a book with his left hand
+
+
+166 #C C reads the book
+
+
+167 #C C reads the book
+
+
+168 #C C  holds the cooking pot
+
+
+169 #C C turns the gas cooker
+
+
+170 #C C stirs the vegetables with the spatula
+
+
+171 #C C stirs the vegetables in the pan
+
+
+172 #C C puts the vegetable in the pan
+
+
+173 #C C picks a packet of potatoes
+
+
+174 #C C takes a piece of the lemons from the tray
+
+
+175 #C C picks the fruit
+
+
+176 #C C takes the paper
+
+
+177 #C C picks a spice bottle from the shelf
+
+
+178 #C C opens the bottle of water
+
+
+179 #C C opens the spice plastic paper
+
+
+180 #C C picks a paper
+
+

@@ -1,0 +1,724 @@
+{
+  "messages": [
+    {
+      "content": "1 #C C puts the tin of meat on the sink ",
+      "time": 1
+    },
+    {
+      "content": "2 #C C lifts the container",
+      "time": 2
+    },
+    {
+      "content": "3 #C C picks a container",
+      "time": 3
+    },
+    {
+      "content": "4 #C C touches a pack of potatoes with her left hand.",
+      "time": 4
+    },
+    {
+      "content": "5 #O A man X lifts a lid",
+      "time": 5
+    },
+    {
+      "content": "6 #C C holds a nylon of sausage with her left hand.",
+      "time": 6
+    },
+    {
+      "content": "7 #O The woman X removes her right hand from the pocket of her sweater.",
+      "time": 7
+    },
+    {
+      "content": "8 #C C picks the meat",
+      "time": 8
+    },
+    {
+      "content": "9 #O person A holds the egg",
+      "time": 9
+    },
+    {
+      "content": "10 #O person A rinses the lemon",
+      "time": 10
+    },
+    {
+      "content": "11 #O man X opens the jar",
+      "time": 11
+    },
+    {
+      "content": "12 #C C gives the container of egg to person X",
+      "time": 12
+    },
+    {
+      "content": "13 #C C lifts the paper ",
+      "time": 13
+    },
+    {
+      "content": "14 #O A man X rinses a kitchen towel",
+      "time": 14
+    },
+    {
+      "content": "15 #O person X takes a piece of tomato",
+      "time": 15
+    },
+    {
+      "content": "16 #O The woman X passes the plastic bag to her right hand.",
+      "time": 16
+    },
+    {
+      "content": "17 #C C puts the pack of meat on the kitchen countertop with her left hand.",
+      "time": 17
+    },
+    {
+      "content": "18 #C C puts the pack of spice on the table with his left hand. ",
+      "time": 18
+    },
+    {
+      "content": "19 #C C holds a tomato",
+      "time": 19
+    },
+    {
+      "content": "20 #C C picks the knife from the sink with his left hand.",
+      "time": 20
+    },
+    {
+      "content": "21 #C C shakes the plate",
+      "time": 21
+    },
+    {
+      "content": "22 #C C holds a paper",
+      "time": 22
+    },
+    {
+      "content": "23 #C C picks the packet of sausage from the countertop with her left hand.",
+      "time": 23
+    },
+    {
+      "content": "24 #C C removes the nylon from the nylon pack with both hands.",
+      "time": 24
+    },
+    {
+      "content": "25 #C C picks the pack of carrots from the kitchen slab with her left hand.",
+      "time": 25
+    },
+    {
+      "content": "26 #C C touches the meat",
+      "time": 26
+    },
+    {
+      "content": "27 #C C touches the meat",
+      "time": 27
+    },
+    {
+      "content": "28 #C C picks a meat",
+      "time": 28
+    },
+    {
+      "content": "29 #C C takes a piece of tomato from the slab with her left hand.",
+      "time": 29
+    },
+    {
+      "content": "30 #C C picks a meat ",
+      "time": 30
+    },
+    {
+      "content": "31 #O Man X Puts a piece of meat in a cooking pot",
+      "time": 31
+    },
+    {
+      "content": "32 #O person X lifts the tomato",
+      "time": 32
+    },
+    {
+      "content": "33 #O The woman Y puts the slice of tomato in her left hand on the kitchen countertop.",
+      "time": 33
+    },
+    {
+      "content": "34 #C C places the paper on the kitchen counter ",
+      "time": 34
+    },
+    {
+      "content": "35 #C C spreads the bread on the bread with her hands.",
+      "time": 35
+    },
+    {
+      "content": "36 #C C holds a packet of bread",
+      "time": 36
+    },
+    {
+      "content": "37 #O person A drops a paper towel",
+      "time": 37
+    },
+    {
+      "content": "38 #C C gives a man D the bottle of water with her left hand.",
+      "time": 38
+    },
+    {
+      "content": "39 #C C picks a waste can from the sink with his left hand.",
+      "time": 39
+    },
+    {
+      "content": "40 #C C moves the bottle of water on the sink with his left hand.",
+      "time": 40
+    },
+    {
+      "content": "41 #C C puts the bottle on the wall",
+      "time": 41
+    },
+    {
+      "content": "42 #O The man X cleans the knife with the sponge.",
+      "time": 42
+    },
+    {
+      "content": "43 #O person A picks a bottle",
+      "time": 43
+    },
+    {
+      "content": "44 #C C picks a can of water from the sink with her left hand.",
+      "time": 44
+    },
+    {
+      "content": "45 #O The man X holds the tap with his right hand.",
+      "time": 45
+    },
+    {
+      "content": "46 #C C lifts the piece of cheese from the sink with her left hand.",
+      "time": 46
+    },
+    {
+      "content": "47 #C C picks up the pack of turkey",
+      "time": 47
+    },
+    {
+      "content": "48 #C C holds a jug",
+      "time": 48
+    },
+    {
+      "content": "49 #O man X picks a lid",
+      "time": 49
+    },
+    {
+      "content": "50 #O person A lifts a tin",
+      "time": 50
+    },
+    {
+      "content": "51 #O The man X opens the plastic bottle with his left hand.",
+      "time": 51
+    },
+    {
+      "content": "52 #C C puts the baking bag on the countertop",
+      "time": 52
+    },
+    {
+      "content": "53 #C C moves the pack of tomato on the kitchen slab with her left hand.",
+      "time": 53
+    },
+    {
+      "content": "54 #C C holds a pack of meat",
+      "time": 54
+    },
+    {
+      "content": "55 #C C picks a meat",
+      "time": 55
+    },
+    {
+      "content": "56 #C C holds the sausage",
+      "time": 56
+    },
+    {
+      "content": "57 #C C puts the meat in the paper",
+      "time": 57
+    },
+    {
+      "content": "58 #C C puts the meat on the chopping board",
+      "time": 58
+    },
+    {
+      "content": "59 #C C tears a piece of tomato from the nylon pack with both hands.",
+      "time": 59
+    },
+    {
+      "content": "60 #C C tears the piece of cheese into the bowl with her left hand.",
+      "time": 60
+    },
+    {
+      "content": "61 #C C turns the tomato",
+      "time": 61
+    },
+    {
+      "content": "62 #C C turns the onion",
+      "time": 62
+    },
+    {
+      "content": "63 #C C places the meat in the sink with her right hand.",
+      "time": 63
+    },
+    {
+      "content": "64 #C C arranges the meat on the chopping board",
+      "time": 64
+    },
+    {
+      "content": "65 #C C puts the pieces of meat in the pack",
+      "time": 65
+    },
+    {
+      "content": "66 #C C picks a bottle",
+      "time": 66
+    },
+    {
+      "content": "67 #C C cleans the wall with the towel.",
+      "time": 67
+    },
+    {
+      "content": "68 #O The man X drops the tray in his right hand on the floor.",
+      "time": 68
+    },
+    {
+      "content": "69 #O A man Y wears a face mask.",
+      "time": 69
+    },
+    {
+      "content": "70 #C C walks around",
+      "time": 70
+    },
+    {
+      "content": "71 #C C picks the pack of meat from the kitchen counter with her left hand.",
+      "time": 71
+    },
+    {
+      "content": "72 #C C puts the meat in the polythene bag",
+      "time": 72
+    },
+    {
+      "content": "73 #C C holds a packet of fruits",
+      "time": 73
+    },
+    {
+      "content": "74 #C C walks around",
+      "time": 74
+    },
+    {
+      "content": "75 #C C walks to the kitchen",
+      "time": 75
+    },
+    {
+      "content": "76 #C C walks into the kitchen",
+      "time": 76
+    },
+    {
+      "content": "77 #C C opens the shelf ",
+      "time": 77
+    },
+    {
+      "content": "78 #C C looks through the shelf",
+      "time": 78
+    },
+    {
+      "content": "79 #C C looks at the glass door",
+      "time": 79
+    },
+    {
+      "content": "80 #C C looks around the kitchen ",
+      "time": 80
+    },
+    {
+      "content": "81 #C C moves a wooden rail from the door of the kitchen to the shelf with his right hand.",
+      "time": 81
+    },
+    {
+      "content": "82 #C C picks a packet of the snack from the box on the countertop with her left hand.",
+      "time": 82
+    },
+    {
+      "content": "83 #C C opens the food storage",
+      "time": 83
+    },
+    {
+      "content": "84 #C C walks towards a shelf",
+      "time": 84
+    },
+    {
+      "content": "85 #C C picks a packet of macaroni",
+      "time": 85
+    },
+    {
+      "content": "86 #C C walks towards the cabinet.",
+      "time": 86
+    },
+    {
+      "content": "87 #O man X opens the cabinet ",
+      "time": 87
+    },
+    {
+      "content": "88 #O The man X picks a plastic container from the kitchen counter with his right hand.",
+      "time": 88
+    },
+    {
+      "content": "89 #O The man X cleans his hands with a towel.",
+      "time": 89
+    },
+    {
+      "content": "90 #O The man X places the cover of the plastic plate with his right hand.",
+      "time": 90
+    },
+    {
+      "content": "91 #O person X washes the spoon",
+      "time": 91
+    },
+    {
+      "content": "92 #O person X lifts the container",
+      "time": 92
+    },
+    {
+      "content": "93 #O The man Y picks a napkin from the kitchen slab with his left hand.",
+      "time": 93
+    },
+    {
+      "content": "94 #C C walks towards the sink",
+      "time": 94
+    },
+    {
+      "content": "95 #C C stirs the food",
+      "time": 95
+    },
+    {
+      "content": "96 #C C picks a spoon from the cooking pot with her right hand.",
+      "time": 96
+    },
+    {
+      "content": "97 #C C stirs the food with the tong.",
+      "time": 97
+    },
+    {
+      "content": "98 #C C shakes the pan with her left hand.",
+      "time": 98
+    },
+    {
+      "content": "99 #C C walks around",
+      "time": 99
+    },
+    {
+      "content": "100 #C C puts the pot on the gas burner",
+      "time": 100
+    },
+    {
+      "content": "101 #C C puts the plate on the counter",
+      "time": 101
+    },
+    {
+      "content": "102 #C C puts the waste in the sink",
+      "time": 102
+    },
+    {
+      "content": "103 #C C drops the pack of vegetable oil in the trash bin with his right hand. ",
+      "time": 103
+    },
+    {
+      "content": "104 #C C puts the bottle in the cabinet",
+      "time": 104
+    },
+    {
+      "content": "105 #C C puts the knife in the chopping board",
+      "time": 105
+    },
+    {
+      "content": "106 #C C interacts with person X",
+      "time": 106
+    },
+    {
+      "content": "107 #O man X picks the bottle of water",
+      "time": 107
+    },
+    {
+      "content": "108 #C C puts the sieve in the cooking pot ",
+      "time": 108
+    },
+    {
+      "content": "109 #C C walks to the sink ",
+      "time": 109
+    },
+    {
+      "content": "110 #C C walks towards the table",
+      "time": 110
+    },
+    {
+      "content": "111 #C C puts the tin on the table",
+      "time": 111
+    },
+    {
+      "content": "112 #C C picks a pack of food stuff",
+      "time": 112
+    },
+    {
+      "content": "113 #C C walks to the mirror",
+      "time": 113
+    },
+    {
+      "content": "114 #C C walks to the kitchen",
+      "time": 114
+    },
+    {
+      "content": "115 #C C walks around",
+      "time": 115
+    },
+    {
+      "content": "116 #C C picks a kitchen towel from the counter with her right hand.",
+      "time": 116
+    },
+    {
+      "content": "117 #O person X puts the pan on the sink",
+      "time": 117
+    },
+    {
+      "content": "118 #C C pours water from a bowl in her right hand into the kitchen sink.",
+      "time": 118
+    },
+    {
+      "content": "119 #C C pours water into the sink",
+      "time": 119
+    },
+    {
+      "content": "120 #O person X drops the bowl",
+      "time": 120
+    },
+    {
+      "content": "121 #O person X stirs the food in the pot",
+      "time": 121
+    },
+    {
+      "content": "122 #C C holds a lid",
+      "time": 122
+    },
+    {
+      "content": "123 #O The woman X pours the water into the bowl on the kitchen counter with the cup of water in her right hand.",
+      "time": 123
+    },
+    {
+      "content": "124 #C C pours the ice cubes in the pan ",
+      "time": 124
+    },
+    {
+      "content": "125 #C C moves the hand ",
+      "time": 125
+    },
+    {
+      "content": "126 #C C pours the water from the cooking pot into the pan with her right hand.",
+      "time": 126
+    },
+    {
+      "content": "127 #C C puts the cooking pan in the sink",
+      "time": 127
+    },
+    {
+      "content": "128 #C C mixes the food in the bowl",
+      "time": 128
+    },
+    {
+      "content": "129 #O person X opens the sink tap.",
+      "time": 129
+    },
+    {
+      "content": "130 #C C pours water from the tap into the sink.",
+      "time": 130
+    },
+    {
+      "content": "131 #C C shakes a frying pan",
+      "time": 131
+    },
+    {
+      "content": "132 #C C puts the plate in his left hand on the countertop.",
+      "time": 132
+    },
+    {
+      "content": "133 #O man D moves the hand ",
+      "time": 133
+    },
+    {
+      "content": "134 #O The man X picks a plate from the kitchen countertop with his right hand.",
+      "time": 134
+    },
+    {
+      "content": "135 #O person X walks around",
+      "time": 135
+    },
+    {
+      "content": "136 #O A woman X puts the pan on the sink.",
+      "time": 136
+    },
+    {
+      "content": "137 #O man X picks the knife ",
+      "time": 137
+    },
+    {
+      "content": "138 #O The man X holds the piece of onion with his hands.",
+      "time": 138
+    },
+    {
+      "content": "139 #C C takes a knife",
+      "time": 139
+    },
+    {
+      "content": "140 #O man X picks a spoon from the countertop",
+      "time": 140
+    },
+    {
+      "content": "141 #O man X squeezes the spoon",
+      "time": 141
+    },
+    {
+      "content": "142 #C C puts the dish towel in the sink",
+      "time": 142
+    },
+    {
+      "content": "143 #C C washes the bowl",
+      "time": 143
+    },
+    {
+      "content": "144 #C C washes the sponge with the sponge in his right hand.",
+      "time": 144
+    },
+    {
+      "content": "145 #O A man X puts the soap on the sink ",
+      "time": 145
+    },
+    {
+      "content": "146 #C C washes the tap with the sponge in her right hand.",
+      "time": 146
+    },
+    {
+      "content": "147 #C C picks the soap bottle",
+      "time": 147
+    },
+    {
+      "content": "148 #C C washes the pot with the sponge in her right hand.",
+      "time": 148
+    },
+    {
+      "content": "149 #C C washes the cooking pot",
+      "time": 149
+    },
+    {
+      "content": "150 #C C pours the water from the sponge into the sink with her right hand.",
+      "time": 150
+    },
+    {
+      "content": "151 #O The woman X cleans the sink with the napkin in her right hand.",
+      "time": 151
+    },
+    {
+      "content": "152 #O The man X pours water from the tap into the sink with his right hand.",
+      "time": 152
+    },
+    {
+      "content": "153 #C C washes the pan",
+      "time": 153
+    },
+    {
+      "content": "154 #O woman Y pours water from the tap into the sink.",
+      "time": 154
+    },
+    {
+      "content": "155 #C C rinses the pan",
+      "time": 155
+    },
+    {
+      "content": "156 #C C washes the pan ",
+      "time": 156
+    },
+    {
+      "content": "157 #C C rinses the cover of the sink with the water from the tap with his left hand.",
+      "time": 157
+    },
+    {
+      "content": "158 #C C pours water from the sink with the pot cover in her right hand.",
+      "time": 158
+    },
+    {
+      "content": "159 #O The man X puts the knife in his right hand into the sink.",
+      "time": 159
+    },
+    {
+      "content": "160 #C C cleans the cooking pot",
+      "time": 160
+    },
+    {
+      "content": "161 #C C washes the tray",
+      "time": 161
+    },
+    {
+      "content": "162 #C C picks a water dispenser ",
+      "time": 162
+    },
+    {
+      "content": "163 #C C rinses the bowl",
+      "time": 163
+    },
+    {
+      "content": "164 #C C washes the frying pan",
+      "time": 164
+    },
+    {
+      "content": "165 #C C washes the bowl",
+      "time": 165
+    },
+    {
+      "content": "166 #C C pours water in the sink",
+      "time": 166
+    },
+    {
+      "content": "167 #C C washes the cooking pan",
+      "time": 167
+    },
+    {
+      "content": "168 #C C pours water from the plastic bowl in her right hand into the sink.",
+      "time": 168
+    },
+    {
+      "content": "169 #C C turns the tap with her right hand.",
+      "time": 169
+    },
+    {
+      "content": "170 #C C pours water in a sink",
+      "time": 170
+    },
+    {
+      "content": "171 #O A man X rinses the bowl",
+      "time": 171
+    },
+    {
+      "content": "172 #C C opens a tap with his right hand.",
+      "time": 172
+    },
+    {
+      "content": "173 #C C picks a water jug from the sink with his left hand.",
+      "time": 173
+    },
+    {
+      "content": "174 #C C pours water from the bowl into the sink.",
+      "time": 174
+    },
+    {
+      "content": "175 #C C pours water from the pot into the sink.",
+      "time": 175
+    },
+    {
+      "content": "176 #C C pours water from the cooking pan",
+      "time": 176
+    },
+    {
+      "content": "177 #O The woman X rinses the pot with water from the tap.",
+      "time": 177
+    },
+    {
+      "content": "178 #C C cleans the sink with the towel in her right hand.",
+      "time": 178
+    },
+    {
+      "content": "179 #O woman X washes the pan.",
+      "time": 179
+    },
+    {
+      "content": "180 #C C washes the frying pan with water from the tap",
+      "time": 180
+    }
+  ]
+}

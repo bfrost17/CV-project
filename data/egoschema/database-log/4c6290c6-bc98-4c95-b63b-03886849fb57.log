@@ -1,0 +1,540 @@
+1 #C C looks around the kitchen
+
+
+2 #C C walks around the kitchen
+
+
+3 #C C walks around the kitchen
+
+
+4 #C C moves around the room 
+
+
+5 #C C pushes the washing machine door
+
+
+6 #C C moves cloth in washing machine
+
+
+7 #C C moves the cloth in the washing machine 
+
+
+8 #C C puts the cloth in the washing machine
+
+
+9 #C C opens the laundry machine
+
+
+10 #C C picks the washing machine.
+
+
+11 #C C turns the washing machine 
+
+
+12 #C C puts the cloth in the washing machine
+
+
+13 #C C wipes hands with the cloth 
+
+
+14 #C C opens the oven
+
+
+15 #C C opens the washing machine
+
+
+16 #C C cleans the washing machine
+
+
+17 #C C places the dustbin on the floor 
+
+
+18 #C C picks the cloths from the washing machine
+
+
+19 #C C picks up the cloth
+
+
+20 #C C moves the hand sanitizer
+
+
+21 #C C puts a cleaning brush on the cabinet
+
+
+22 #C C picks the clothes
+
+
+23 #C C picks a shoe
+
+
+24 #C C moves the clothes
+
+
+25 #C C holds the clothes
+
+
+26 #C C picks a cloth
+
+
+27 #C C holds the cloth
+
+
+28 #C C holds a cloth
+
+
+29 #C C wipes the hands
+
+
+30 #C C folds the cloth
+
+
+31 #C C puts the cloth on the rack
+
+
+32 #C C hangs the cloth
+
+
+33 #C C holds the cloth
+
+
+34 #C C folds the cloth
+
+
+35 #C C holds the cloth
+
+
+36 #C C touches the cloth
+
+
+37 #C C removes his hand from the cloth
+
+
+38 #C C holds the cloth
+
+
+39 #C C puts the cloth on the sink 
+
+
+40 #C C folds the cloth
+
+
+41 #C C folds the cloth
+
+
+42 #C C looks at the cloth
+
+
+43 #C C removes the dustbin
+
+
+44 #C C removes a bag of potatoes
+
+
+45 #C C puts the clothe on the counter
+
+
+46 #C C opens the washing machine
+
+
+47 #C C picks cloths
+
+
+48 #C C looks around the room
+
+
+49 #C C picks the rag
+
+
+50 #C C puts clothes in the laundry machine
+
+
+51 #C C walks around the room
+
+
+52 #C C walks around the house
+
+
+53 #C C holds the sweater
+
+
+54 #C C walks around the room
+
+
+55 #C C walks to the dinning table
+
+
+56 #C C puts the camera on the head
+
+
+57 #C C hangs the cloth on the rack
+
+
+58 #C C takes the cloth
+
+
+59 #C C hangs the cloth
+
+
+60 #C C dries the cloth
+
+
+61 #C C hangs the cloth on the rack
+
+
+62 #C C holds the cloth
+
+
+63 #C C lifts up the cloth
+
+
+64 #C C turns the cloth around
+
+
+65 #C C hangs the cloth
+
+
+66 #C C hangs a cloth
+
+
+67 #C C hangs the cloth on the cloth line
+
+
+68 #C C puts the cloth on the rack
+
+
+69 #C C folds the towel
+
+
+70 #C C hangs the sweater
+
+
+71 #C C hangs the cloth
+
+
+72 #C C hangs the cloth
+
+
+73 #C C hangs a cloth
+
+
+74 #C C drops a cloth on a rack
+
+
+75 #C C picks the cloth
+
+
+76 #C C picks clothe from the cloth line
+
+
+77 #C C hangs the cloth
+
+
+78 #C C picks a cloth
+
+
+79 #C C walks around the house
+
+
+80 #C C picks a paper roll
+
+
+81 #C C puts the knife on the kitchen cabinet
+
+
+82 #C C walks around the house
+
+
+83 #C C walks around the room
+
+
+84 #C C picks a cloth from the washing machine
+
+
+85 #C C moves cloths
+
+
+86 #C C puts the cloth in the washing machine
+
+
+87 #C C picks up the clothes
+
+
+88 #C C puts the clothes on the machine
+
+
+89 #C C picks cloth from the laundry machine
+
+
+90 #C C takes a cloth from the washing machine
+
+
+91 #C C picks up the clothes
+
+
+92 #C C picks a socks
+
+
+93 #C C picks a clothes
+
+
+94 #C C picks the shoes
+
+
+95 #C C picks the clothes
+
+
+96 #C C opens the laundry machine
+
+
+97 #C C puts the washing detergent on the washing machine 
+
+
+98 #C C puts the dustbin down
+
+
+99 #C C picks a cloth 
+
+
+100 #C C puts the cloth in the washing machine
+
+
+101 #C C picks the clothes from the washing machine
+
+
+102 #C C picks up a shirt
+
+
+103 #C C walks around the room
+
+
+104 #C C walks around the room
+
+
+105 #C C moves the blender down
+
+
+106 #C C touches the cloths in the washing machine
+
+
+107 #C C picks cloth from the washing machine
+
+
+108 #C C puts the towel on the dishwasher
+
+
+109 #C C hangs the cloth.
+
+
+110 #C C holds the cloth
+
+
+111 #C C walks around
+
+
+112 #C C picks a cloth
+
+
+113 #C C picks the cloth 
+
+
+114 #C C walks around the house
+
+
+115 #C C walks around the house
+
+
+116 #C C looks around the clothes store 
+
+
+117 #C C hangs the cloth
+
+
+118 #C C hangs the clothes on the cloth rack
+
+
+119 #C C picks a cloth
+
+
+120 #C C picks a cloth from the rack
+
+
+121 #C C picks the cloth
+
+
+122 #C C hangs the cloth on the clothes rack
+
+
+123 #C C hangs the cloth
+
+
+124 #C C hangs the cloth
+
+
+125 #C C hangs the cloth
+
+
+126 #C C picks the cloth from the cloth rack
+
+
+127 #C C hangs the cloth on the clothes rack
+
+
+128 #C C hangs the cloth
+
+
+129 #C C hangs the cloth on the cloth line
+
+
+130 #C C picks a cloth
+
+
+131 #C C hangs the cloth on the cloth rack
+
+
+132 #C C hangs the cloth on the hanging line
+
+
+133 #C C hangs the cloth on the rack
+
+
+134 #C C hangs the cloth on the cloth rack
+
+
+135 #C C hangs the cloth
+
+
+136 #C C picks cloths from the rack
+
+
+137 #C C hangs the cloth on the cloth line
+
+
+138 #C C hangs the cloth
+
+
+139 #C C hangs the cloth
+
+
+140 #C C hangs the cloth on the cloth line
+
+
+141 #C C hangs the cloth
+
+
+142 #C C hangs the cloth on the rack
+
+
+143 #C C hangs the cloth on the rack
+
+
+144 #C C walks around the room
+
+
+145 #C C walks around the room
+
+
+146 #C C picks a cup
+
+
+147 #C C walks around the room
+
+
+148 #C C puts the broom on the rack
+
+
+149 #C C picks a cloth from the washing machine
+
+
+150 #C C drops the clothes
+
+
+151 #C C picks up a shoe
+
+
+152 #C C holds the socks
+
+
+153 #C C folds the cloth
+
+
+154 #C C folds the sweater
+
+
+155 #C C removes a cloth
+
+
+156 #C C walks around the house
+
+
+157 #C C walks around the house
+
+
+158 #C C walks around the room
+
+
+159 #C C moves the table
+
+
+160 #C C moves the stand
+
+
+161 #C C hangs cloth on the iron board
+
+
+162 #C C picks the sweater
+
+
+163 #C C removes the cloth
+
+
+164 #C C picks a paper bag
+
+
+165 #C C picks the gloves
+
+
+166 #C C walks around the house
+
+
+167 #C C walks around the room
+
+
+168 #C C picks the cloth
+
+
+169 #C C removes a cloth from the washing machine
+
+
+170 #C C picks a clothes from the laundry basket
+
+
+171 #C C picks a socks
+
+
+172 #C C holds a cloth
+
+
+173 #C C folds the cloth
+
+
+174 #C C picks the washing machine 
+
+
+175 #C C picks up a cloth
+
+
+176 #C C hangs cloth on the rack
+
+
+177 #C C holds the cloth
+
+
+178 #C C pushes the washing machine
+
+
+179 #C C hangs cloth on the rack
+
+
+180 #C C puts the cloth on the rack
+
+

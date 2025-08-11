@@ -1,0 +1,724 @@
+{
+  "messages": [
+    {
+      "content": "1 #C C adjusts the bolt on the bicycle hub with his hands.",
+      "time": 1
+    },
+    {
+      "content": "2 #C C  fixes the metal rod in the tube.",
+      "time": 2
+    },
+    {
+      "content": "3 #C C fits the screw into the alloy rod.",
+      "time": 3
+    },
+    {
+      "content": "4 #C C touches the metal tube.",
+      "time": 4
+    },
+    {
+      "content": "5 #C C holds the metal rod",
+      "time": 5
+    },
+    {
+      "content": "6 #C C removes the ring on the rim",
+      "time": 6
+    },
+    {
+      "content": "7 #C C adjusts the plastic on the ring.",
+      "time": 7
+    },
+    {
+      "content": "8 #C C fixes the wire on the metal tube.",
+      "time": 8
+    },
+    {
+      "content": "9 #C C checks the rim",
+      "time": 9
+    },
+    {
+      "content": "10 #C C fixes the ring to the wheel hub.",
+      "time": 10
+    },
+    {
+      "content": "11 #C C puts the bolt on the rim.",
+      "time": 11
+    },
+    {
+      "content": "12 #C C holds a clip",
+      "time": 12
+    },
+    {
+      "content": "13 #C C wipes the ring",
+      "time": 13
+    },
+    {
+      "content": "14 #C C removes the bandana on the rim",
+      "time": 14
+    },
+    {
+      "content": "15 #C C inserts the tube in the bottle.",
+      "time": 15
+    },
+    {
+      "content": "16 #C C adjusts the cylinder.",
+      "time": 16
+    },
+    {
+      "content": "17 #C C stares at the ring",
+      "time": 17
+    },
+    {
+      "content": "18 #C C holds the tube",
+      "time": 18
+    },
+    {
+      "content": "19 #C C holds the ring ring ",
+      "time": 19
+    },
+    {
+      "content": "20 #C C cleans the tube with the tissue paper.",
+      "time": 20
+    },
+    {
+      "content": "21 #C C puts the ring on the hands.",
+      "time": 21
+    },
+    {
+      "content": "22 #C C looks at the  bicycle hub ",
+      "time": 22
+    },
+    {
+      "content": "23 #C C picks the ring.",
+      "time": 23
+    },
+    {
+      "content": "24 #C C puts the probe on the table",
+      "time": 24
+    },
+    {
+      "content": "25 #C C picks a tissue paper",
+      "time": 25
+    },
+    {
+      "content": "26 #C C connects the electrical pipe to the socket",
+      "time": 26
+    },
+    {
+      "content": "27 #C C fixes the rim on the metal",
+      "time": 27
+    },
+    {
+      "content": "28 #C C wipes the table with the tissue.",
+      "time": 28
+    },
+    {
+      "content": "29 #C C sprays the bottle with the lubricant.",
+      "time": 29
+    },
+    {
+      "content": "30 #C C fixes the rim on the drum clamp ",
+      "time": 30
+    },
+    {
+      "content": "31 #C C  sprays the tooth paste",
+      "time": 31
+    },
+    {
+      "content": "32 #C C takes a paper towel ",
+      "time": 32
+    },
+    {
+      "content": "33 #C C holds the cable",
+      "time": 33
+    },
+    {
+      "content": "34 #C C  fixes the ring in the rim",
+      "time": 34
+    },
+    {
+      "content": "35 #C C removes the rim from the metal",
+      "time": 35
+    },
+    {
+      "content": "36 #C C holds the cycling handle with both hands.",
+      "time": 36
+    },
+    {
+      "content": "37 #C C picks a tissue paper",
+      "time": 37
+    },
+    {
+      "content": "38 #C C puts the screwdriver in the holder ",
+      "time": 38
+    },
+    {
+      "content": "39 #C C puts down the metal rod",
+      "time": 39
+    },
+    {
+      "content": "40 #C C touches the metal",
+      "time": 40
+    },
+    {
+      "content": "41 #C C fixes the paper",
+      "time": 41
+    },
+    {
+      "content": "42 #C C holds the metal tube",
+      "time": 42
+    },
+    {
+      "content": "43 #C C pulls the light off the scissors",
+      "time": 43
+    },
+    {
+      "content": "44 #C C holds the other metal rod with both hands",
+      "time": 44
+    },
+    {
+      "content": "45 #C C puts the metal on the table",
+      "time": 45
+    },
+    {
+      "content": "46 #C C touches the metal rod",
+      "time": 46
+    },
+    {
+      "content": "47 #C C removes the nut from the alloy rod ",
+      "time": 47
+    },
+    {
+      "content": "48 #C C  fixes the stick on the table.",
+      "time": 48
+    },
+    {
+      "content": "49 #C C fixes the ring to the tubing holder.",
+      "time": 49
+    },
+    {
+      "content": "50 #C C touches the metal",
+      "time": 50
+    },
+    {
+      "content": "51 #C C turns the wheel hub",
+      "time": 51
+    },
+    {
+      "content": "52 #C C removes the ring from the ring on the rim.",
+      "time": 52
+    },
+    {
+      "content": "53 #C C adjusts the ring on the metal rod",
+      "time": 53
+    },
+    {
+      "content": "54 #C C moves the metal rod on the hands",
+      "time": 54
+    },
+    {
+      "content": "55 #C C removes the ring from the fork with his left hand.",
+      "time": 55
+    },
+    {
+      "content": "56 #C C removes the ring from the bicycle hub with his left hand.",
+      "time": 56
+    },
+    {
+      "content": "57 #C C fixes the ring on the screw ",
+      "time": 57
+    },
+    {
+      "content": "58 #C C holds the ring",
+      "time": 58
+    },
+    {
+      "content": "59 #C C puts the ring ring on the hand",
+      "time": 59
+    },
+    {
+      "content": "60 #C C picks up the crampon from the table",
+      "time": 60
+    },
+    {
+      "content": "61 #C C sits down",
+      "time": 61
+    },
+    {
+      "content": "62 #C C picks a scriber",
+      "time": 62
+    },
+    {
+      "content": "63 #C C holds a ring with right hand",
+      "time": 63
+    },
+    {
+      "content": "64 #C C picks the metal ring from the table",
+      "time": 64
+    },
+    {
+      "content": "65 #C C removes the wipe from the tube",
+      "time": 65
+    },
+    {
+      "content": "66 #C C touches the machine",
+      "time": 66
+    },
+    {
+      "content": "67 #C C stares at the metal table",
+      "time": 67
+    },
+    {
+      "content": "68 #C C adjusts the camera",
+      "time": 68
+    },
+    {
+      "content": "69 #C C removes the ring from the hook.",
+      "time": 69
+    },
+    {
+      "content": "70 #C C cuts the ring with the pliers",
+      "time": 70
+    },
+    {
+      "content": "71 #C C touches the socket on the wheel hub with his right hand.",
+      "time": 71
+    },
+    {
+      "content": "72 #C C removes the ring from the screwdriver",
+      "time": 72
+    },
+    {
+      "content": "73 #C C cuts the plastic with the scissors.",
+      "time": 73
+    },
+    {
+      "content": "74 #C C looks at the metal.",
+      "time": 74
+    },
+    {
+      "content": "75 #C C puts a ring on the metal",
+      "time": 75
+    },
+    {
+      "content": "76 #C C removes the ring from the bearing",
+      "time": 76
+    },
+    {
+      "content": "77 #C C holds the cable",
+      "time": 77
+    },
+    {
+      "content": "78 #C C  puts the hand on the table",
+      "time": 78
+    },
+    {
+      "content": "79 #C C fixes the plastic on the screw driver",
+      "time": 79
+    },
+    {
+      "content": "80 #C C places the bolt in the other hand",
+      "time": 80
+    },
+    {
+      "content": "81 #C C removes a bolt from the ring with the metal.",
+      "time": 81
+    },
+    {
+      "content": "82 #C C holds a hand ",
+      "time": 82
+    },
+    {
+      "content": "83 #C C moves the container",
+      "time": 83
+    },
+    {
+      "content": "84 #C C removes the pair of scissors from the bicycle hub with his left hand.",
+      "time": 84
+    },
+    {
+      "content": "85 #C C cuts the paper",
+      "time": 85
+    },
+    {
+      "content": "86 #C C touches the metal ring",
+      "time": 86
+    },
+    {
+      "content": "87 #C C puts the clamp on the table",
+      "time": 87
+    },
+    {
+      "content": "88 #C C puts the metal on the table",
+      "time": 88
+    },
+    {
+      "content": "89 #C C picks the camera",
+      "time": 89
+    },
+    {
+      "content": "90 #C C turns the screwdriver with his right hand.",
+      "time": 90
+    },
+    {
+      "content": "91 #C C picks a rubber ",
+      "time": 91
+    },
+    {
+      "content": "92 #C C looks at the metal tube",
+      "time": 92
+    },
+    {
+      "content": "93 #C C fixes the screw driver",
+      "time": 93
+    },
+    {
+      "content": "94 #C C fixes the metal tube in the cylinder.",
+      "time": 94
+    },
+    {
+      "content": "95 #C C removes the screws",
+      "time": 95
+    },
+    {
+      "content": "96 #C C holds the plastic ring",
+      "time": 96
+    },
+    {
+      "content": "97 #c c drops the wheel",
+      "time": 97
+    },
+    {
+      "content": "98 #C C inserts the screwdriver in the screwdriver",
+      "time": 98
+    },
+    {
+      "content": "99 #C C inserts the screwdriver in the bolt.",
+      "time": 99
+    },
+    {
+      "content": "100 #C C removes a small ring from the paper with the screw driver.",
+      "time": 100
+    },
+    {
+      "content": "101 #C C picks the wrench",
+      "time": 101
+    },
+    {
+      "content": "102 #C C picks a tissue",
+      "time": 102
+    },
+    {
+      "content": "103 #C C opens the tin",
+      "time": 103
+    },
+    {
+      "content": "104 #C C opens the tube",
+      "time": 104
+    },
+    {
+      "content": "105 #C C puts the glue in the bottle",
+      "time": 105
+    },
+    {
+      "content": "106 #C C opens the tube",
+      "time": 106
+    },
+    {
+      "content": "107 #C C picks the piece of cloth.",
+      "time": 107
+    },
+    {
+      "content": "108 #C C picks the paper",
+      "time": 108
+    },
+    {
+      "content": "109 #C C holds the plastic paper",
+      "time": 109
+    },
+    {
+      "content": "110 #C C inserts the spare parts in the metal tube",
+      "time": 110
+    },
+    {
+      "content": "111 #C C adjusts the ring on the light.",
+      "time": 111
+    },
+    {
+      "content": "112 #C C holds a tube",
+      "time": 112
+    },
+    {
+      "content": "113 #C C puts the ring on the bicycle frame with his gloved right hand.",
+      "time": 113
+    },
+    {
+      "content": "114 #C C fixes the ring on the bicycle hub with the small rod. ",
+      "time": 114
+    },
+    {
+      "content": "115 #C C looks at the ring.",
+      "time": 115
+    },
+    {
+      "content": "116 #C C touches the ring",
+      "time": 116
+    },
+    {
+      "content": "117 #C C wipes the wheel bearing with his hand.",
+      "time": 117
+    },
+    {
+      "content": "118 #C C removes the ring from the nut.",
+      "time": 118
+    },
+    {
+      "content": "119 #C C looks at the wheel",
+      "time": 119
+    },
+    {
+      "content": "120 #C C fixes the gloved right hand to the ring",
+      "time": 120
+    },
+    {
+      "content": "121 #C C removes the ring on the ring ring.",
+      "time": 121
+    },
+    {
+      "content": "122 #C C puts the lid on the table",
+      "time": 122
+    },
+    {
+      "content": "123 #C C looks at the inside of the valve",
+      "time": 123
+    },
+    {
+      "content": "124 #C C puts the ring down",
+      "time": 124
+    },
+    {
+      "content": "125 #C C touches the silverware",
+      "time": 125
+    },
+    {
+      "content": "126 #C C wipes the hand.",
+      "time": 126
+    },
+    {
+      "content": "127 #C C removes the ring from the ring holder ",
+      "time": 127
+    },
+    {
+      "content": "128 #C C looks at the metal",
+      "time": 128
+    },
+    {
+      "content": "129 #C C  stares the tube",
+      "time": 129
+    },
+    {
+      "content": "130 #C C Looks at the metal",
+      "time": 130
+    },
+    {
+      "content": "131 #C C looks at the wheel holder.",
+      "time": 131
+    },
+    {
+      "content": "132 #C C moves the  rim ",
+      "time": 132
+    },
+    {
+      "content": "133 #C C holds the ring",
+      "time": 133
+    },
+    {
+      "content": "134 #C C   places the metal on the table.",
+      "time": 134
+    },
+    {
+      "content": "135 #C C puts the ring on the screw",
+      "time": 135
+    },
+    {
+      "content": "136 #C C adjusts the bolt on the metal tube.",
+      "time": 136
+    },
+    {
+      "content": "137 #C C holds the ring on the left hand",
+      "time": 137
+    },
+    {
+      "content": "138 #C C puts the ring on the metal",
+      "time": 138
+    },
+    {
+      "content": "139 #C C looks at the lubricant",
+      "time": 139
+    },
+    {
+      "content": "140 #C C holds the metal",
+      "time": 140
+    },
+    {
+      "content": "141 #C C removes the hook",
+      "time": 141
+    },
+    {
+      "content": "142 #C C tightens the rubber ring on the clamp with the tube tighten.",
+      "time": 142
+    },
+    {
+      "content": "143 #C C fixes the ring on the rod.",
+      "time": 143
+    },
+    {
+      "content": "144 #C C examines the ring with the wrenches",
+      "time": 144
+    },
+    {
+      "content": "145 #C C holds the rubber",
+      "time": 145
+    },
+    {
+      "content": "146 #C C fixes the ring in the hex socket",
+      "time": 146
+    },
+    {
+      "content": "147 #C C puts the ring in the hammer",
+      "time": 147
+    },
+    {
+      "content": "148 #C C places the ring on the tube",
+      "time": 148
+    },
+    {
+      "content": "149 #C C touches the metal.",
+      "time": 149
+    },
+    {
+      "content": "150 #C C removes the ring from the  ring holder ",
+      "time": 150
+    },
+    {
+      "content": "151 #C C removes the ring from the ring on the hand",
+      "time": 151
+    },
+    {
+      "content": "152 #C C makes a ring on the ring tube. ",
+      "time": 152
+    },
+    {
+      "content": "153 #C C holds the ring in the metal tube",
+      "time": 153
+    },
+    {
+      "content": "154 #C C fits the bolt in the metal tube.",
+      "time": 154
+    },
+    {
+      "content": "155 #C C picks a tissue",
+      "time": 155
+    },
+    {
+      "content": "156 #C C puts the toothpaste on the table",
+      "time": 156
+    },
+    {
+      "content": "157 #C C wipes the metal ring ",
+      "time": 157
+    },
+    {
+      "content": "158 #C C cures a metal on the paper",
+      "time": 158
+    },
+    {
+      "content": "159 #C C adjusts the metal ring in his hands.",
+      "time": 159
+    },
+    {
+      "content": "160 #C C removes the paper from the metal tube.",
+      "time": 160
+    },
+    {
+      "content": "161 #C C wipes the finger",
+      "time": 161
+    },
+    {
+      "content": "162 #C C wipes the metal",
+      "time": 162
+    },
+    {
+      "content": "163 #C C uses the gloved right hand to remove the ring from the bottle of the gloved left hand.",
+      "time": 163
+    },
+    {
+      "content": "164 #C C puts the toothbrush on the rod",
+      "time": 164
+    },
+    {
+      "content": "165 #C C wipes the metal",
+      "time": 165
+    },
+    {
+      "content": "166 #C C wipes the rod with a paper",
+      "time": 166
+    },
+    {
+      "content": "167 #C C cleans the the metal.",
+      "time": 167
+    },
+    {
+      "content": "168 #C C cleans the metal ",
+      "time": 168
+    },
+    {
+      "content": "169 #C C wipes the metal ",
+      "time": 169
+    },
+    {
+      "content": "170 #C C removes a ring on the brake pad with his right hand.",
+      "time": 170
+    },
+    {
+      "content": "171 #C C cleans the glue.",
+      "time": 171
+    },
+    {
+      "content": "172 #C C cleans the metal with a paper",
+      "time": 172
+    },
+    {
+      "content": "173 #C C wipes the rubber ring with the paper towel",
+      "time": 173
+    },
+    {
+      "content": "174 #C C picks a tissue paper",
+      "time": 174
+    },
+    {
+      "content": "175 #C C puts the paper down",
+      "time": 175
+    },
+    {
+      "content": "176 #C C cleans a metal in the toothpaste",
+      "time": 176
+    },
+    {
+      "content": "177 #C C removes the metal tube from the metal with a pliers",
+      "time": 177
+    },
+    {
+      "content": "178 #C C uses a nut on the metal ",
+      "time": 178
+    },
+    {
+      "content": "179 #C C joins the metal tube",
+      "time": 179
+    },
+    {
+      "content": "180 #C C puts a metal on the metal grinder",
+      "time": 180
+    }
+  ]
+}
