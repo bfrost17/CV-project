@@ -29,12 +29,13 @@ def makedir(path):
 
 def parse_args():
     parser = argparse.ArgumentParser("")
+    egoschema_dir = Path(__file__).resolve().parent / 'data' / 'egoschema'
 
     # data
     parser.add_argument("--dataset", default='egoschema', type=str)  # 'egoschema', 'nextqa', 'nextgqa', 'intentqa'
-    parser.add_argument("--data_path", default='data/egoschema/lavila_subset_add_time.json', type=str) 
-    parser.add_argument("--anno_path", default='data/egoschema/subset_anno.json', type=str)  
-    parser.add_argument("--duration_path", default='data/egoschema/duration.json', type=str) 
+    parser.add_argument("--data_path", default=str(egoschema_dir / 'lavila_subset_add_time.json'), type=str)
+    parser.add_argument("--anno_path", default=str(egoschema_dir / 'subset_anno.json'), type=str)
+    parser.add_argument("--duration_path", default=str(egoschema_dir / 'duration.json'), type=str)
     parser.add_argument("--fps", default=1.0, type=float) 
     parser.add_argument("--num_examples_to_run", default=-1, type=int)
     ## backup pred
@@ -50,7 +51,7 @@ def parse_args():
     parser.add_argument("--output_filename", required=True, type=str)  
 
     # prompting
-    parser.add_argument("--model", default="gpt-4-turbo", type=str)
+    parser.add_argument("--model", default="gpt-4.1-mini", type=str)
     #parser.add_argument("--api_key", default="", type=str)
     parser.add_argument("--temperature", default=0.0, type=float)
     parser.add_argument("--prompt_type", default="qa_standard", type=str)
@@ -77,7 +78,7 @@ def parse_args():
     parser.add_argument('--dense_caption', action='store_true', dest='dense_caption', default=True, help='Set this flag to True if you want to use Dense Caption')
     parser.add_argument('--feature_extractor', default='openai/clip-vit-base-patch32', help='Select the feature extractor model for video segmentation')
     parser.add_argument('--feature_extractor_device', choices=['cuda', 'cpu'], default='cuda', help='Select the device: cuda or cpu')
-    parser.add_argument('--image_captioner', choices=['blip2-opt', 'blip2-flan-t5', 'blip'], dest='captioner_base_model', default='blip2-flan-t5', help='blip2 requires 15G GPU memory, blip requires 6G GPU memory')
+    parser.add_argument('--image_captioner', choices=['blip'], dest='captioner_base_model', default='blip', help='Select the BLIP image captioning model')
     parser.add_argument('--image_captioner_device', choices=['cuda', 'cpu'], default='cuda', help='Select the device: cuda or cpu, gpu memory larger than 14G is recommended')
     parser.add_argument('--dense_captioner_device', choices=['cuda', 'cpu'], default='cuda', help='Select the device: cuda or cpu, < 6G GPU is not recommended>')
     parser.add_argument('--audio_translator', default='large')

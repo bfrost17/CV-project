@@ -3,6 +3,7 @@ from openai import OpenAI
 from transformers import AutoTokenizer
 import torch
 import transformers
+import time
 from prompts import identity
 import pdb
 from pprint import pprint
@@ -33,29 +34,13 @@ class GPT(Model):
         self.client = OpenAI(api_key=api_key)
 
     def get_response(self, **kwargs):
-        try:
-            res = self.client.chat.completions.create(**kwargs)
-            return res
-        except openai.APIConnectionError as e:
-            print('APIConnectionError')
-            time.sleep(30)
-            return self.get_response(**kwargs)
-        except openai.APIConnectionError as err:
-            print('APIConnectionError')
-            time.sleep(30)
-            return self.get_response(**kwargs)
-        except openai.RateLimitError as e:
-            print('RateLimitError')
-            time.sleep(10)
-            return self.get_response(**kwargs)
-        except openai.APITimeoutError as e:
-            print('APITimeoutError')
-            time.sleep(30)
-            return self.get_response(**kwargs)
-        except openai.BadRequestError as e:
-            print('BadRequestError')
-            kwargs['model'] = 'gpt-3.5-turbo-16k'
-            return self.get_response(**kwargs)
+        for attempt in range(3):
+            try:
+                return self.client.chat.completions.create(**kwargs)
+            except (openai.APIConnectionError, openai.APITimeoutError, openai.RateLimitError):
+                if attempt == 2:
+                    raise
+                time.sleep(2 ** attempt)
 
     def forward(self, head, prompts):
         messages = [

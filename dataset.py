@@ -3,6 +3,7 @@ from torch.utils.data import Dataset
 import pandas as pd
 import pdb
 from pprint import pprint
+from pathlib import Path
 
 
 class BaseDataset(Dataset):
@@ -63,7 +64,11 @@ class EgoSchemaDataset(BaseDataset):
             choices = [item['option 0'], item['option 1'], item['option 2'], item['option 3'], item['option 4']] 
             truth = item['truth'] if 'truth' in item else -1
             duration = int(self.durations[uid])
-            video_path = "/mnt/2030154A30152874/videos/videos/" + uid + ".mp4"
+            video_path = str(
+                Path(__file__).resolve().parent
+                / 'dataset'
+                / f'{uid}.mp4'
+            )
             data.append({
                 'uid': uid,
                 'video_path':video_path,

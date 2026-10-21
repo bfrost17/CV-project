@@ -9,32 +9,26 @@ Most of the existing methods for video understanding primarily focus on videos o
 ## Repository Structure
 ```
 .
-├── main.py                 # End-to-end pipeline entry (builds doc + answers QA)
-├── eval.py                 # Metrics for MCQ-style evaluation
-├── dataset.py              # EgoSchema-style dataset loader
-├── model.py                # LLM wrapper (OpenAI + fallbacks)
-├── prompts.py              # Prompt templates for doc building and reasoning
+├── main.py                 # EgoSchema retrieval, frame augmentation, and QA
+├── eval.py                 # EgoSchema evaluation and other benchmark utilities
+├── dataset.py              # EgoSchema dataset loader
+├── model.py                # OpenAI chat model wrapper
+├── prompts.py              # Agent and answer prompts
 ├── models/
-│   └── blip2_model.py      # Image captioning (LLaVA-Next / BLIP)
-├── utils/                  # Feature extraction, segmentation, etc.
-├── util.py                 # Arg parser, IO helpers
-├── data/egoschema/         # Example JSONs (durations, annos)
-└── requirements.txt        # Tested package versions
+│   ├── blip2_model.py      # BLIP frame captioning used by the pipeline
+│   └── clip_model.py       # CLIP image feature extraction helper
+├── util.py                 # Argument parsing and JSON helpers
+├── data/egoschema/         # Annotations, precomputed LaViLa captions, and metadata
+├── dataset/                # Downloaded <uid>.mp4 files (git-ignored)
+└── requirements.txt        # Pipeline dependencies; install CUDA PyTorch separately
 ```
 
 ---
 
 ## Installation
-> We recommend a **conda** environment with CUDA. The provided requirements were tested with **torch 1.9.0 + cu111** and **detectron2 0.6**.
+Install a CUDA-enabled PyTorch build appropriate for your GPU and Python version, then install the pipeline dependencies:
 
 ```bash
-conda create -n drvideo python=3.9 -y
-conda activate drvideo
-
-# PyTorch (adjust CUDA as needed)
-pip install --extra-index-url https://download.pytorch.org/whl   torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0
-
-# Core deps
 pip install -r requirements.txt
 ```
 
@@ -48,21 +42,19 @@ Place (or symlink) files under `data/egoschema/`:
 - `subset_anno.json` — question & options per `uid` (with optional `truth`)
 - `duration.json` — video duration (seconds) per `uid`
 
-Your videos are expected at:
+The current dataset loader expects videos at:
 ```
-/mnt/2030154A30152874/videos/videos/{uid}.mp4
+dataset/{uid}.mp4
 ```
-Change this path in `dataset.py` if your storage layout differs.
+The initial LaViLa captions are precomputed and loaded by the pipeline; video-to-document caption generation is not run at inference time.
 
 ---
 
 ## Quick Start
-Run the **end-to-end** pipeline (document building → answer prediction → evaluation). The arguments below appear in `main.py`, but some (e.g., `--image_caption`, `--dense_caption`, `--image_captioner_device`, `--feature_extractor`) may require additional implementation to be functional in your environment.
+Run the EgoSchema QA pipeline using the precomputed caption documents:
 
 ```bash
-python main.py   --dataset egoschema   --data_path data/egoschema/lavila_subset_add_time.json   --anno_path data/egoschema/subset_anno.json   --duration_path data/egoschema/duration.json   --fps 1.0   --num_examples_to_run -1     # Output
-  --output_base_path output/   --output_filename egoschema_run.json     # LLM & prompting
-  --model gpt-4-turbo   --temperature 0.0   --prompt_type qa_standard   --openai_api_key "$OPENAI_API_KEY"
+python main.py --num_examples_to_run -1 --output_base_path output --output_filename egoschema_run.json --start_from_scratch
 ```
 
 ---
@@ -94,9 +86,7 @@ python -c "from eval import eval_qa_egoschema; import json;  data=json.load(open
 ---
 
 ## Troubleshooting
-- **CUDA OOM**: switch to `--image_captioner blip` or set device to CPU.
-- **Detectron2 install**: use the wheel URL pinned in `requirements.txt`.
-- **SpaCy model**: if `en_core_web_sm` install fails, re-run the exact URL in `requirements.txt`.
+- **CUDA OOM**: set `--image_captioner_device cpu` to run BLIP on the CPU.
 - **OpenAI errors**: ensure the `--openai_api_key` is valid.
 
 ---
@@ -117,4 +107,4 @@ If you find this repo useful, please cite:
 ---
 
 ## License
-This code is released for research purposes. Please check each model's own license (OpenAI, LLaVA-Next, BLIP, etc.).
+This code is released for research purposes. Please check each model's own license (OpenAI, BLIP, CLIP, etc.).

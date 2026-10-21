@@ -18,9 +18,9 @@ from model import get_model
 from models.blip2_model import ImageCaptioner
 
 # LangChain imports
-from langchain.document_loaders import JSONLoader
+from langchain_community.document_loaders import JSONLoader
 from langchain_openai import OpenAIEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 
 # --- Constants ---
 ANSWER_MAPPING = {'A': 0, 'B': 1, 'C': 2, 'D': 3, 'E': 4}
@@ -56,7 +56,7 @@ def get_relevant_frames(json_file_path: Path, question: str, k: int = 20) -> Dic
     vectorstore = Chroma.from_documents(documents=docs, embedding=OpenAIEmbeddings())
     retriever = vectorstore.as_retriever(search_kwargs={"k": k})
     
-    relevant_docs = retriever.get_relevant_documents(question)
+    relevant_docs = retriever.invoke(question)
     
     frame_dict = {}
     for doc in relevant_docs:
@@ -77,8 +77,8 @@ def generate_captions(video_path: str, frames_to_caption: List[Dict], question: 
     captions = {}
     cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
-        logging.error(f"Could not open video file: {video_path}")
-        return {}
+        cap.release()
+        raise RuntimeError(f"Could not open video file: {video_path}")
         
     fps = cap.get(cv2.CAP_PROP_FPS)
 
@@ -117,7 +117,13 @@ def process_item(item: Dict, models: Dict, prompters: Dict, image_captioner: Ima
     """
     ukey_name = 'quid' if 'quid' in item else 'uid'
     ukey = item[ukey_name]
-    json_file_path = Path('./data/egoschema/database/') / f"{ukey}.json"
+    json_file_path = (
+        Path(__file__).resolve().parent
+        / 'data'
+        / 'egoschema'
+        / 'database'
+        / f"{ukey}.json"
+    )
 
     # 1. Initial Retrieval
     raw_doc = load_json(json_file_path)
@@ -200,7 +206,13 @@ def main():
     """Main execution function."""
     args = parse_args()
     pprint(args)
-    os.environ["OPENAI_API_KEY"] = args.openai_api_key
+    api_key = args.openai_api_key.strip() or os.environ.get("OPENAI_API_KEY", "").strip()
+    if not api_key:
+        raise ValueError(
+            "OpenAI API key is required. Set OPENAI_API_KEY or pass --openai_api_key."
+        )
+    args.openai_api_key = api_key
+    os.environ["OPENAI_API_KEY"] = api_key
 
     # --- Setup ---
     output_dir = Path(args.output_base_path)
