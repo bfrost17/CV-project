@@ -56,6 +56,12 @@ def parse_args():
     parser.add_argument("--temperature", default=0.0, type=float)
     parser.add_argument("--prompt_type", default="qa_standard", type=str)
     parser.add_argument("--task", default="qa", type=str)  # sum, qa, gqa
+    parser.add_argument("--retrieval_mode", choices=["text_only", "multimodal"], default="text_only",
+                        help="Select text-only or multimodal initial frame retrieval.")
+    parser.add_argument("--retrieval_visual_weight", default=0.5, type=float,
+                        help="Visual score weight used for fused multimodal retrieval.")
+    parser.add_argument("--retrieval_top_k", default=20, type=int,
+                        help="Number of frames selected during initial retrieval.")
     ## sum
     parser.add_argument("--num_words_in_sum", default=50, type=int)  
 

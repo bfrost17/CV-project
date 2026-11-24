@@ -20,3 +20,6 @@ dataset/
 # IDE settings
 .vscode/
 .idea/
+
+#CLIP cache
+/data/egoschema/database-pkl/*.npz

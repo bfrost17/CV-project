@@ -4,6 +4,7 @@ import ast
 import json
 import logging
 import copy
+import numpy as np
 from pathlib import Path
 from tqdm import tqdm
 from pprint import pprint
@@ -16,6 +17,7 @@ from dataset import get_dataset
 from prompts import PromptFactory
 from model import get_model
 from models.blip2_model import ImageCaptioner
+from models.clip_model import FeatureExtractor
 
 # LangChain imports
 from langchain_community.document_loaders import JSONLoader
@@ -48,16 +50,115 @@ def safe_llm_output_parse(output_str: str) -> Any:
         return None
 
 
-def get_relevant_frames(json_file_path: Path, question: str, k: int = 20) -> Dict[str, str]:
-    """Retrieves the most relevant frame captions from a JSON database using a vector store."""
+def get_relevant_frames(
+    json_file_path: Path,
+    question: str,
+    k: int = 20,
+    retrieval_mode: str = "text_only",
+    visual_ranker: FeatureExtractor = None,
+    visual_weight: float = 0.5,
+    video_path: str = None,
+    video_id: str = None,
+) -> Dict[str, str]:
+    """Retrieves the most relevant frame captions from a JSON database."""
     loader = JSONLoader(file_path=str(json_file_path), jq_schema='.messages[].content')
     docs = loader.load()
-    
-    vectorstore = Chroma.from_documents(documents=docs, embedding=OpenAIEmbeddings())
-    retriever = vectorstore.as_retriever(search_kwargs={"k": k})
-    
-    relevant_docs = retriever.invoke(question)
-    
+    embedding = OpenAIEmbeddings()
+
+    if retrieval_mode == "text_only":
+        vectorstore = Chroma.from_documents(documents=docs, embedding=embedding)
+        retriever = vectorstore.as_retriever(search_kwargs={"k": k})
+        relevant_docs = retriever.invoke(question)
+    else:
+        if visual_ranker is None or video_path is None or video_id is None:
+            raise ValueError("Multimodal retrieval requires a visual ranker and video identity.")
+
+        frame_text_scores = {}
+        frame_contents = {}
+
+        for doc in docs:
+            try:
+                frame_index, frame_content = doc.page_content.split(" ", 1)
+                frame_contents.setdefault(frame_index, frame_content)
+            except ValueError:
+                logging.warning(f"Could not split document content into frame_index and content: {doc.page_content}")
+
+        text_embeddings = np.asarray(
+            embedding.embed_documents([doc.page_content for doc in docs]),
+            dtype=np.float32,
+        )
+        question_embedding = np.asarray(
+            embedding.embed_query(question),
+            dtype=np.float32,
+        )
+
+        text_embeddings /= np.maximum(
+            np.linalg.norm(text_embeddings, axis=1, keepdims=True),
+            1e-12,
+        )
+        question_embedding /= max(np.linalg.norm(question_embedding), 1e-12)
+        text_scores = text_embeddings @ question_embedding
+
+        for doc, score in zip(docs, text_scores):
+            try:
+                frame_index, _ = doc.page_content.split(" ", 1)
+                frame_text_scores[frame_index] = max(
+                    frame_text_scores.get(frame_index, -1.0),
+                    float(score),
+                )
+            except ValueError:
+                continue
+
+        visual_ranker(video_path, video_id)
+        visual_scores = visual_ranker.rank_frames(question)
+
+        def normalize(scores):
+            values = np.asarray(list(scores.values()), dtype=np.float32)
+            if len(values) == 0 or np.ptp(values) < 1e-12:
+                return {key: 0.5 for key in scores}
+            minimum = values.min()
+            maximum = values.max()
+            return {
+                key: (float(value) - minimum) / (maximum - minimum)
+                for key, value in scores.items()
+            }
+
+        candidate_indexes = set(frame_text_scores).intersection(set(visual_scores))
+        if not candidate_indexes:
+            candidate_indexes = set(frame_text_scores)
+
+        normalized_text = normalize({
+            key: frame_text_scores[key]
+            for key in candidate_indexes
+        })
+        normalized_visual = normalize({
+            key: visual_scores[key]
+            for key in candidate_indexes
+            if key in visual_scores
+        })
+
+        text_weight = 1.0 - visual_weight
+        fused_scores = {
+            key: text_weight * normalized_text[key] + visual_weight * normalized_visual[key]
+            for key in candidate_indexes
+            if key in normalized_visual
+        }
+
+        relevant_frame_indexes = sorted(
+            fused_scores,
+            key=fused_scores.get,
+            reverse=True,
+        )[:k]
+
+        relevant_docs = []
+        for frame_index in relevant_frame_indexes:
+            if frame_index in frame_contents:
+                relevant_docs.append(type(
+                    "RetrievedDocument",
+                    (),
+                    {"page_content": f"{frame_index} {frame_contents[frame_index]}"},
+                )())
+
     frame_dict = {}
     for doc in relevant_docs:
         try:
@@ -111,7 +212,14 @@ def generate_captions(video_path: str, frames_to_caption: List[Dict], question: 
     return captions
 
 
-def process_item(item: Dict, models: Dict, prompters: Dict, image_captioner: ImageCaptioner, args: Any) -> Dict:
+def process_item(
+    item: Dict,
+    models: Dict,
+    prompters: Dict,
+    image_captioner: ImageCaptioner,
+    args: Any,
+    visual_ranker: FeatureExtractor = None,
+) -> Dict:
     """
     Processes a single data item (video question) through the entire pipeline.
     """
@@ -129,7 +237,16 @@ def process_item(item: Dict, models: Dict, prompters: Dict, image_captioner: Ima
     raw_doc = load_json(json_file_path)
     all_captions = {str(doc["time"]): doc["content"].split(" ", 1)[1] for doc in raw_doc["messages"]}
     
-    relevant_frames_dict = get_relevant_frames(json_file_path, item['question'], k=20)
+    relevant_frames_dict = get_relevant_frames(
+        json_file_path,
+        item['question'],
+        k=args.retrieval_top_k,
+        retrieval_mode=args.retrieval_mode,
+        visual_ranker=visual_ranker,
+        visual_weight=args.retrieval_visual_weight,
+        video_path=item['video_path'],
+        video_id=ukey,
+    )
     key_frame_indices = sorted([int(k) for k in relevant_frames_dict.keys()])
     
     # 2. Augment initial captions with question-specific context
@@ -193,6 +310,10 @@ def process_item(item: Dict, models: Dict, prompters: Dict, image_captioner: Ima
     result.update({
         'rag_prompt_template': prompters['judge'].get_template_str(),
         'reasoning_prompt_template': prompters['reasoning'].get_template_str(),
+        'retrieval_mode': args.retrieval_mode,
+        'retrieval_visual_weight': args.retrieval_visual_weight,
+        'retrieval_top_k': args.retrieval_top_k,
+        'retrieved_frame_indices': key_frame_indices,
         'response': pred_reasoning.get('final_answer', 'ERROR') if pred_reasoning else 'ERROR',
         'pred': choice_to_int(pred_reasoning.get('final_answer', '')) if pred_reasoning else -1
     })
@@ -222,6 +343,9 @@ def main():
     # Initialize models and prompters ONCE
     logging.info("Initializing models and prompters...")
     image_captioner = ImageCaptioner(model_name=args.captioner_base_model, device=args.image_captioner_device)
+    visual_ranker = None
+    if args.retrieval_mode == "multimodal":
+        visual_ranker = FeatureExtractor(args)
     
     prompters = {
         'judge': PromptFactory().get('judge'),
@@ -257,7 +381,14 @@ def main():
         ukey = item[ukey_name]
 
         try:
-            result = process_item(item, models, prompters, image_captioner, args)
+            result = process_item(
+                item,
+                models,
+                prompters,
+                image_captioner,
+                args,
+                visual_ranker,
+            )
             processed[ukey] = result
             
             if result['pred'] == result['truth']:
