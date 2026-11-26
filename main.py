@@ -50,6 +50,64 @@ def safe_llm_output_parse(output_str: str) -> Any:
         return None
 
 
+def select_frames_for_augmentation(
+    frame_captions: Dict[str, str],
+    question: str,
+    prompt_template: Any,
+    model: Any,
+    threshold: float,
+) -> tuple[List[str], Dict[str, float], Dict[str, int], bool]:
+    """Select retrieved frames whose existing captions are not sufficient."""
+    captions_text = "\n".join(
+        f"Frame {frame_id}: {caption}"
+        for frame_id, caption in frame_captions.items()
+    )
+    prompt = prompt_template.fill(
+        question_context=question,
+        frame_captions=captions_text,
+    )
+    output, info = model.forward(prompt_template.head, prompt)
+    parsed_scores = safe_llm_output_parse(output)
+
+    if not isinstance(parsed_scores, dict):
+        logging.warning(
+            "Could not parse caption sufficiency scores; augmenting all retrieved frames."
+        )
+        return list(frame_captions), {}, _token_usage(info), False
+
+    scores = {}
+    frames_to_augment = []
+    response_valid = True
+    for frame_id in frame_captions:
+        score = parsed_scores.get(frame_id)
+        if (
+            isinstance(score, (int, float))
+            and not isinstance(score, bool)
+            and 0 <= score <= 1
+        ):
+            scores[frame_id] = float(score)
+            if score < threshold:
+                frames_to_augment.append(frame_id)
+        else:
+            logging.warning(
+                "Missing or invalid sufficiency score for frame %s; augmenting it.",
+                frame_id,
+            )
+            frames_to_augment.append(frame_id)
+            response_valid = False
+
+    return frames_to_augment, scores, _token_usage(info), response_valid
+
+
+def _token_usage(info: Dict[str, Any]) -> Dict[str, int]:
+    """Keep only token counts from model response metadata."""
+    return {
+        key: int(info[key])
+        for key in ("prompt_tokens", "completion_tokens", "total_tokens")
+        if isinstance(info.get(key), (int, float))
+    }
+
+
 def get_relevant_frames(
     json_file_path: Path,
     question: str,
@@ -250,14 +308,34 @@ def process_item(
     key_frame_indices = sorted([int(k) for k in relevant_frames_dict.keys()])
     
     # 2. Augment initial captions with question-specific context
-    frames_for_initial_captioning = [{'frame': str(idx), 'type': 'B'} for idx in key_frame_indices]
+    sufficiency_scores = {}
+    sufficiency_usage = {}
+    sufficiency_response_valid = None
+    if args.augmentation_mode == "confidence_guided":
+        frames_to_augment, sufficiency_scores, sufficiency_usage, sufficiency_response_valid = (
+            select_frames_for_augmentation(
+                relevant_frames_dict,
+                item['question'],
+                prompters['caption_sufficiency'],
+                models['judge'],
+                args.caption_sufficiency_threshold,
+            )
+        )
+    else:
+        frames_to_augment = [str(idx) for idx in key_frame_indices]
+
+    frames_for_initial_captioning = [
+        {'frame': frame_id, 'type': 'B'}
+        for frame_id in frames_to_augment
+    ]
     initial_new_captions = generate_captions(item['video_path'], frames_for_initial_captioning, item['question'], image_captioner)
     for frame_idx, caption in initial_new_captions.items():
         all_captions[frame_idx] += f" [Question-specific context: {caption}]"
 
     # 3. Iterative Feedback Loop
     max_turns = 2
-    type_A_frames, type_B_frames = [], key_frame_indices.copy()
+    type_A_frames = []
+    type_B_frames = [int(frame_id) for frame_id in initial_new_captions]
     gpt_feedback_history = ""
     
     for turn in range(max_turns):
@@ -297,7 +375,13 @@ def process_item(
         gpt_feedback_history += f"In round {turn + 1}, we added the following information:\n{new_info_str}\n"
 
         for f_info in frames_to_add:
-            if f_info['type'] == 'A': type_A_frames.append(int(f_info['frame']))
+            frame_id = str(f_info.get('frame'))
+            if frame_id not in new_captions:
+                continue
+            if f_info.get('type') == 'A':
+                type_A_frames.append(int(frame_id))
+            elif f_info.get('type') == 'B':
+                type_B_frames.append(int(frame_id))
 
     # 4. Final Reasoning and Prediction
     final_context_str = "\n".join([f"frame {k}: {v}" for k, v in sorted(all_captions.items())])
@@ -314,6 +398,20 @@ def process_item(
         'retrieval_visual_weight': args.retrieval_visual_weight,
         'retrieval_top_k': args.retrieval_top_k,
         'retrieved_frame_indices': key_frame_indices,
+        'augmentation_mode': args.augmentation_mode,
+        'caption_sufficiency_threshold': args.caption_sufficiency_threshold,
+        'initial_blip_frame_indices': sorted(
+            int(frame_id) for frame_id in initial_new_captions
+        ),
+        'initial_blip_frame_count': len(initial_new_captions),
+        'initially_skipped_frame_indices': sorted(
+            frame_idx
+            for frame_idx in key_frame_indices
+            if str(frame_idx) not in frames_to_augment
+        ),
+        'caption_sufficiency_scores': sufficiency_scores,
+        'caption_sufficiency_response_valid': sufficiency_response_valid,
+        'caption_sufficiency_usage': sufficiency_usage,
         'response': pred_reasoning.get('final_answer', 'ERROR') if pred_reasoning else 'ERROR',
         'pred': choice_to_int(pred_reasoning.get('final_answer', '')) if pred_reasoning else -1
     })
@@ -326,6 +424,11 @@ def process_item(
 def main():
     """Main execution function."""
     args = parse_args()
+    if (
+        args.augmentation_mode == "confidence_guided"
+        and not 0 <= args.caption_sufficiency_threshold <= 1
+    ):
+        raise ValueError("caption_sufficiency_threshold must be between 0 and 1.")
     pprint(args)
     api_key = args.openai_api_key.strip() or os.environ.get("OPENAI_API_KEY", "").strip()
     if not api_key:
@@ -347,10 +450,12 @@ def main():
     if args.retrieval_mode == "multimodal":
         visual_ranker = FeatureExtractor(args)
     
+    prompt_factory = PromptFactory()
     prompters = {
-        'judge': PromptFactory().get('judge'),
-        'find': PromptFactory().get('find'),
-        'reasoning': PromptFactory().get('llm_reasoning')
+        'judge': prompt_factory.get('judge'),
+        'find': prompt_factory.get('find'),
+        'reasoning': prompt_factory.get('llm_reasoning'),
+        'caption_sufficiency': prompt_factory.get('caption_sufficiency'),
     }
     
     models = {

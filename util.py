@@ -62,6 +62,10 @@ def parse_args():
                         help="Visual score weight used for fused multimodal retrieval.")
     parser.add_argument("--retrieval_top_k", default=20, type=int,
                         help="Number of frames selected during initial retrieval.")
+    parser.add_argument("--augmentation_mode", choices=["all", "confidence_guided"], default="all",
+                        help="Augment all retrieved frames or only frames with insufficient captions.")
+    parser.add_argument("--caption_sufficiency_threshold", default=0.8, type=float,
+                        help="Skip BLIP when a retrieved caption's sufficiency score meets this threshold.")
     ## sum
     parser.add_argument("--num_words_in_sum", default=50, type=int)  
 
