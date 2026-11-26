@@ -245,6 +245,26 @@ class PromptFactory(object):
             post_process_fn = identity
         )
 
+        prompt_templates['caption_sufficiency'] = PromptTemplate(
+            head = "You evaluate whether video-frame captions provide enough evidence to answer a question.",
+            template = [
+                Template("""For each frame caption below, assess whether the caption alone provides enough
+visual evidence to answer the question. Do not infer details that are absent from the caption.
+
+Question:
+${question_context}
+
+Frame captions:
+${frame_captions}
+
+Return only a Python dictionary mapping each exact frame ID (as a string) to a numeric
+sufficiency confidence from 0.0 to 1.0. Use a high score only when the caption itself
+contains enough relevant evidence. Example: {'12': 0.95, '34': 0.2}
+""")
+            ],
+            post_process_fn = identity
+        )
+
         prompt_templates['qa_standard'] = PromptTemplate(
             head = "You are a helpful expert in first person view video analysis.",
             template = [
